@@ -1,1 +1,1 @@
-# nba-ethics
+# nba-similarity
