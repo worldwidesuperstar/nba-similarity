@@ -1,21 +1,258 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400002,125,1642276,Kel'el Ware,1610612748,Miami Heat,1,3,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-56,266,1,1,20241112,DET,MIA
+Shot Chart Detail,0022400002,467,1642276,Kel'el Ware,1610612748,Miami Heat,3,1,41,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,20,1,1,20241112,DET,MIA
+Shot Chart Detail,0022400036,461,1642276,Kel'el Ware,1610612748,Miami Heat,4,11,41,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,20,1,1,20241126,MIA,MIL
+Shot Chart Detail,0022400147,735,1642276,Kel'el Ware,1610612748,Miami Heat,4,0,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,6,95,1,1,20241102,WAS,MIA
+Shot Chart Detail,0022400178,200,1642276,Kel'el Ware,1610612748,Miami Heat,2,7,31,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20241106,PHX,MIA
+Shot Chart Detail,0022400178,445,1642276,Kel'el Ware,1610612748,Miami Heat,3,1,59,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-28,105,1,1,20241106,PHX,MIA
+Shot Chart Detail,0022400178,494,1642276,Kel'el Ware,1610612748,Miami Heat,4,11,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-202,155,1,1,20241106,PHX,MIA
+Shot Chart Detail,0022400206,82,1642276,Kel'el Ware,1610612748,Miami Heat,1,5,30,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,10,1,1,20241110,MIN,MIA
+Shot Chart Detail,0022400206,250,1642276,Kel'el Ware,1610612748,Miami Heat,2,6,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-213,37,1,1,20241110,MIN,MIA
+Shot Chart Detail,0022400286,91,1642276,Kel'el Ware,1610612748,Miami Heat,1,4,1,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,1,20241127,CHA,MIA
+Shot Chart Detail,0022400377,87,1642276,Kel'el Ware,1610612748,Miami Heat,1,5,14,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,29,1,1,20241221,ORL,MIA
+Shot Chart Detail,0022400377,133,1642276,Kel'el Ware,1610612748,Miami Heat,1,2,21,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,-1,1,1,20241221,ORL,MIA
+Shot Chart Detail,0022400377,259,1642276,Kel'el Ware,1610612748,Miami Heat,2,5,17,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241221,ORL,MIA
+Shot Chart Detail,0022400377,501,1642276,Kel'el Ware,1610612748,Miami Heat,3,0,57,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,27,1,1,20241221,ORL,MIA
+Shot Chart Detail,0022400396,128,1642276,Kel'el Ware,1610612748,Miami Heat,1,1,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-1,1,1,20241223,MIA,BKN
+Shot Chart Detail,0022400396,505,1642276,Kel'el Ware,1610612748,Miami Heat,3,0,18,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-28,21,1,1,20241223,MIA,BKN
+Shot Chart Detail,0022400396,518,1642276,Kel'el Ware,1610612748,Miami Heat,4,11,40,Made Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,18,1,1,20241223,MIA,BKN
+Shot Chart Detail,0022400396,528,1642276,Kel'el Ware,1610612748,Miami Heat,4,10,10,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,17,1,1,20241223,MIA,BKN
+Shot Chart Detail,0022400411,245,1642276,Kel'el Ware,1610612748,Miami Heat,2,4,9,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-12,37,1,1,20241226,ORL,MIA
+Shot Chart Detail,0022400427,146,1642276,Kel'el Ware,1610612748,Miami Heat,1,1,50,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-13,78,1,1,20241228,ATL,MIA
+Shot Chart Detail,0022400427,433,1642276,Kel'el Ware,1610612748,Miami Heat,3,3,1,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,18,1,1,20241228,ATL,MIA
+Shot Chart Detail,0022400439,459,1642276,Kel'el Ware,1610612748,Miami Heat,3,1,53,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,6,1,1,20241229,HOU,MIA
+Shot Chart Detail,0022400439,463,1642276,Kel'el Ware,1610612748,Miami Heat,3,1,32,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,28,1,1,20241229,HOU,MIA
+Shot Chart Detail,0022400439,502,1642276,Kel'el Ware,1610612748,Miami Heat,4,11,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,20,1,1,20241229,HOU,MIA
+Shot Chart Detail,0022400457,133,1642276,Kel'el Ware,1610612748,Miami Heat,1,1,19,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250101,MIA,NOP
+Shot Chart Detail,0022400457,136,1642276,Kel'el Ware,1610612748,Miami Heat,1,0,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,39,253,1,1,20250101,MIA,NOP
+Shot Chart Detail,0022400457,162,1642276,Kel'el Ware,1610612748,Miami Heat,2,11,15,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,6,1,1,20250101,MIA,NOP
+Shot Chart Detail,0022400457,419,1642276,Kel'el Ware,1610612748,Miami Heat,3,2,24,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,1,1,1,20250101,MIA,NOP
+Shot Chart Detail,0022400463,96,1642276,Kel'el Ware,1610612748,Miami Heat,1,3,58,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-18,43,1,1,20250102,MIA,IND
+Shot Chart Detail,0022400463,267,1642276,Kel'el Ware,1610612748,Miami Heat,2,1,46,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-28,38,1,1,20250102,MIA,IND
+Shot Chart Detail,0022400463,425,1642276,Kel'el Ware,1610612748,Miami Heat,3,1,8,Made Shot,Alley Oop Layup shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,19,1,1,20250102,MIA,IND
+Shot Chart Detail,0022400463,458,1642276,Kel'el Ware,1610612748,Miami Heat,4,11,9,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,35,1,1,20250102,MIA,IND
+Shot Chart Detail,0022400463,494,1642276,Kel'el Ware,1610612748,Miami Heat,4,9,5,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,188,174,1,1,20250102,MIA,IND
+Shot Chart Detail,0022400463,513,1642276,Kel'el Ware,1610612748,Miami Heat,4,7,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-10,1,1,20250102,MIA,IND
+Shot Chart Detail,0022400463,547,1642276,Kel'el Ware,1610612748,Miami Heat,4,5,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,93,248,1,1,20250102,MIA,IND
+Shot Chart Detail,0022400463,556,1642276,Kel'el Ware,1610612748,Miami Heat,4,4,9,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,13,1,1,20250102,MIA,IND
+Shot Chart Detail,0022400463,598,1642276,Kel'el Ware,1610612748,Miami Heat,4,0,56,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,26,1,1,20250102,MIA,IND
+Shot Chart Detail,0022400481,455,1642276,Kel'el Ware,1610612748,Miami Heat,3,3,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,31,253,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400481,551,1642276,Kel'el Ware,1610612748,Miami Heat,4,8,24,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5,63,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400481,591,1642276,Kel'el Ware,1610612748,Miami Heat,4,6,30,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-2,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400481,599,1642276,Kel'el Ware,1610612748,Miami Heat,4,5,50,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400481,637,1642276,Kel'el Ware,1610612748,Miami Heat,4,2,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,2,246,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400501,469,1642276,Kel'el Ware,1610612748,Miami Heat,3,1,39,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,15,1,1,20250106,SAC,MIA
+Shot Chart Detail,0022400501,528,1642276,Kel'el Ware,1610612748,Miami Heat,4,9,51,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,29,1,1,20250106,SAC,MIA
+Shot Chart Detail,0022400508,149,1642276,Kel'el Ware,1610612748,Miami Heat,1,1,57,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,13,58,1,1,20250107,GSW,MIA
+Shot Chart Detail,0022400508,457,1642276,Kel'el Ware,1610612748,Miami Heat,3,2,47,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,23,1,1,20250107,GSW,MIA
+Shot Chart Detail,0022400523,112,1642276,Kel'el Ware,1610612748,Miami Heat,1,2,55,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,34,1,1,20250109,UTA,MIA
+Shot Chart Detail,0022400523,301,1642276,Kel'el Ware,1610612748,Miami Heat,2,2,52,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-9,29,1,1,20250109,UTA,MIA
+Shot Chart Detail,0022400523,455,1642276,Kel'el Ware,1610612748,Miami Heat,3,1,24,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,10,1,1,20250109,UTA,MIA
+Shot Chart Detail,0022400523,509,1642276,Kel'el Ware,1610612748,Miami Heat,4,9,46,Made Shot,Tip Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,44,1,1,20250109,UTA,MIA
+Shot Chart Detail,0022400536,505,1642276,Kel'el Ware,1610612748,Miami Heat,4,11,40,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20250111,POR,MIA
+Shot Chart Detail,0022400536,657,1642276,Kel'el Ware,1610612748,Miami Heat,4,1,21,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,1,78,1,1,20250111,POR,MIA
+Shot Chart Detail,0022400536,672,1642276,Kel'el Ware,1610612748,Miami Heat,4,0,28,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-1,1,1,20250111,POR,MIA
+Shot Chart Detail,0022400553,182,1642276,Kel'el Ware,1610612748,Miami Heat,2,8,20,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,5,1,1,20250113,LAC,MIA
+Shot Chart Detail,0022400553,416,1642276,Kel'el Ware,1610612748,Miami Heat,3,0,50,Made Shot,Alley Oop Layup shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,44,1,1,20250113,LAC,MIA
+Shot Chart Detail,0022400553,528,1642276,Kel'el Ware,1610612748,Miami Heat,4,5,12,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,13,1,1,20250113,LAC,MIA
+Shot Chart Detail,0022400553,542,1642276,Kel'el Ware,1610612748,Miami Heat,4,3,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,75,243,1,1,20250113,LAC,MIA
+Shot Chart Detail,0022400553,561,1642276,Kel'el Ware,1610612748,Miami Heat,4,2,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,58,253,1,1,20250113,LAC,MIA
+Shot Chart Detail,0022400553,566,1642276,Kel'el Ware,1610612748,Miami Heat,4,1,36,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-15,101,1,1,20250113,LAC,MIA
+Shot Chart Detail,0022400553,584,1642276,Kel'el Ware,1610612748,Miami Heat,4,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-38,264,1,1,20250113,LAC,MIA
+Shot Chart Detail,0022400570,150,1642276,Kel'el Ware,1610612748,Miami Heat,1,0,7,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,8,1,1,20250115,LAL,MIA
+Shot Chart Detail,0022400570,199,1642276,Kel'el Ware,1610612748,Miami Heat,2,8,16,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-42,33,1,1,20250115,LAL,MIA
+Shot Chart Detail,0022400570,212,1642276,Kel'el Ware,1610612748,Miami Heat,2,7,16,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-83,27,1,1,20250115,LAL,MIA
+Shot Chart Detail,0022400570,227,1642276,Kel'el Ware,1610612748,Miami Heat,2,6,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,33,1,1,20250115,LAL,MIA
+Shot Chart Detail,0022400579,148,1642276,Kel'el Ware,1610612748,Miami Heat,2,11,19,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,17,1,1,20250117,MIA,DEN
+Shot Chart Detail,0022400579,460,1642276,Kel'el Ware,1610612748,Miami Heat,4,11,0,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-25,89,1,1,20250117,MIA,DEN
+Shot Chart Detail,0022400579,488,1642276,Kel'el Ware,1610612748,Miami Heat,4,8,50,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,2,1,1,20250117,MIA,DEN
+Shot Chart Detail,0022400579,591,1642276,Kel'el Ware,1610612748,Miami Heat,4,0,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,39,248,1,1,20250117,MIA,DEN
+Shot Chart Detail,0022400592,107,1642276,Kel'el Ware,1610612748,Miami Heat,1,2,34,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,21,1,1,20250119,MIA,SAS
+Shot Chart Detail,0022400592,193,1642276,Kel'el Ware,1610612748,Miami Heat,2,8,45,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,18,1,1,20250119,MIA,SAS
+Shot Chart Detail,0022400592,246,1642276,Kel'el Ware,1610612748,Miami Heat,2,4,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-81,236,1,1,20250119,MIA,SAS
+Shot Chart Detail,0022400592,252,1642276,Kel'el Ware,1610612748,Miami Heat,2,3,45,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250119,MIA,SAS
+Shot Chart Detail,0022400592,329,1642276,Kel'el Ware,1610612748,Miami Heat,3,9,9,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,-7,1,1,20250119,MIA,SAS
+Shot Chart Detail,0022400592,358,1642276,Kel'el Ware,1610612748,Miami Heat,3,6,43,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,16,1,1,20250119,MIA,SAS
+Shot Chart Detail,0022400592,487,1642276,Kel'el Ware,1610612748,Miami Heat,4,9,49,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,13,1,1,20250119,MIA,SAS
+Shot Chart Detail,0022400592,529,1642276,Kel'el Ware,1610612748,Miami Heat,4,5,19,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,14,1,1,20250119,MIA,SAS
+Shot Chart Detail,0022400592,536,1642276,Kel'el Ware,1610612748,Miami Heat,4,4,40,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,6,1,1,20250119,MIA,SAS
+Shot Chart Detail,0022400592,548,1642276,Kel'el Ware,1610612748,Miami Heat,4,3,31,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250119,MIA,SAS
+Shot Chart Detail,0022400607,25,1642276,Kel'el Ware,1610612748,Miami Heat,1,10,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,107,18,1,1,20250121,MIA,POR
+Shot Chart Detail,0022400607,89,1642276,Kel'el Ware,1610612748,Miami Heat,1,4,2,Made Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,31,63,1,1,20250121,MIA,POR
+Shot Chart Detail,0022400607,224,1642276,Kel'el Ware,1610612748,Miami Heat,2,5,59,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250121,MIA,POR
+Shot Chart Detail,0022400607,250,1642276,Kel'el Ware,1610612748,Miami Heat,2,2,16,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,15,1,1,20250121,MIA,POR
+Shot Chart Detail,0022400607,397,1642276,Kel'el Ware,1610612748,Miami Heat,3,3,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,13,255,1,1,20250121,MIA,POR
+Shot Chart Detail,0022400607,421,1642276,Kel'el Ware,1610612748,Miami Heat,3,0,51,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,24,1,1,20250121,MIA,POR
+Shot Chart Detail,0022400607,441,1642276,Kel'el Ware,1610612748,Miami Heat,4,11,38,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250121,MIA,POR
+Shot Chart Detail,0022400607,450,1642276,Kel'el Ware,1610612748,Miami Heat,4,10,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,80,241,1,1,20250121,MIA,POR
+Shot Chart Detail,0022400624,56,1642276,Kel'el Ware,1610612748,Miami Heat,1,8,6,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,12,28,1,1,20250123,MIL,MIA
+Shot Chart Detail,0022400624,80,1642276,Kel'el Ware,1610612748,Miami Heat,1,6,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-188,194,1,1,20250123,MIL,MIA
+Shot Chart Detail,0022400624,181,1642276,Kel'el Ware,1610612748,Miami Heat,2,10,39,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-3,1,1,20250123,MIL,MIA
+Shot Chart Detail,0022400624,220,1642276,Kel'el Ware,1610612748,Miami Heat,2,7,49,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,18,1,1,20250123,MIL,MIA
+Shot Chart Detail,0022400624,306,1642276,Kel'el Ware,1610612748,Miami Heat,2,2,25,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,12,1,1,20250123,MIL,MIA
+Shot Chart Detail,0022400624,398,1642276,Kel'el Ware,1610612748,Miami Heat,3,8,25,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20250123,MIL,MIA
+Shot Chart Detail,0022400624,417,1642276,Kel'el Ware,1610612748,Miami Heat,3,6,37,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,17,1,1,20250123,MIL,MIA
+Shot Chart Detail,0022400624,443,1642276,Kel'el Ware,1610612748,Miami Heat,3,5,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,188,208,1,1,20250123,MIL,MIA
+Shot Chart Detail,0022400624,575,1642276,Kel'el Ware,1610612748,Miami Heat,4,6,36,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-6,1,1,20250123,MIL,MIA
+Shot Chart Detail,0022400636,201,1642276,Kel'el Ware,1610612748,Miami Heat,2,8,37,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,4,1,1,20250125,BKN,MIA
+Shot Chart Detail,0022400636,387,1642276,Kel'el Ware,1610612748,Miami Heat,3,7,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250125,BKN,MIA
+Shot Chart Detail,0022400636,598,1642276,Kel'el Ware,1610612748,Miami Heat,4,5,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,214,120,1,1,20250125,BKN,MIA
+Shot Chart Detail,0022400652,14,1642276,Kel'el Ware,1610612748,Miami Heat,1,10,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20250127,MIA,ORL
+Shot Chart Detail,0022400652,341,1642276,Kel'el Ware,1610612748,Miami Heat,3,11,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,99,258,1,1,20250127,MIA,ORL
+Shot Chart Detail,0022400652,362,1642276,Kel'el Ware,1610612748,Miami Heat,3,8,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,108,228,1,1,20250127,MIA,ORL
+Shot Chart Detail,0022400652,407,1642276,Kel'el Ware,1610612748,Miami Heat,3,4,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,27,1,1,20250127,MIA,ORL
+Shot Chart Detail,0022400652,511,1642276,Kel'el Ware,1610612748,Miami Heat,4,8,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,23,259,1,1,20250127,MIA,ORL
+Shot Chart Detail,0022400652,585,1642276,Kel'el Ware,1610612748,Miami Heat,4,2,59,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,16,1,1,20250127,MIA,ORL
+Shot Chart Detail,0022400652,612,1642276,Kel'el Ware,1610612748,Miami Heat,4,0,33,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-4,1,1,20250127,MIA,ORL
+Shot Chart Detail,0022400667,201,1642276,Kel'el Ware,1610612748,Miami Heat,2,8,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,127,212,1,1,20250129,MIA,CLE
+Shot Chart Detail,0022400667,555,1642276,Kel'el Ware,1610612748,Miami Heat,4,3,21,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-98,-8,1,1,20250129,MIA,CLE
+Shot Chart Detail,0022400693,49,1642276,Kel'el Ware,1610612748,Miami Heat,1,7,39,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,5,1,1,20250201,SAS,MIA
+Shot Chart Detail,0022400693,576,1642276,Kel'el Ware,1610612748,Miami Heat,4,6,15,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,5,1,1,20250201,SAS,MIA
+Shot Chart Detail,0022400693,640,1642276,Kel'el Ware,1610612748,Miami Heat,4,1,9,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250201,SAS,MIA
+Shot Chart Detail,0022400714,23,1642276,Kel'el Ware,1610612748,Miami Heat,1,10,23,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,30,1,1,20250204,CHI,MIA
+Shot Chart Detail,0022400714,33,1642276,Kel'el Ware,1610612748,Miami Heat,1,9,18,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,-1,1,1,20250204,CHI,MIA
+Shot Chart Detail,0022400714,67,1642276,Kel'el Ware,1610612748,Miami Heat,1,6,40,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,-2,1,1,20250204,CHI,MIA
+Shot Chart Detail,0022400714,139,1642276,Kel'el Ware,1610612748,Miami Heat,1,1,53,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,10,1,1,20250204,CHI,MIA
+Shot Chart Detail,0022400714,143,1642276,Kel'el Ware,1610612748,Miami Heat,1,1,5,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,45,103,1,1,20250204,CHI,MIA
+Shot Chart Detail,0022400714,147,1642276,Kel'el Ware,1610612748,Miami Heat,1,0,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-162,197,1,1,20250204,CHI,MIA
+Shot Chart Detail,0022400714,294,1642276,Kel'el Ware,1610612748,Miami Heat,2,1,39,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,24,1,1,20250204,CHI,MIA
+Shot Chart Detail,0022400714,493,1642276,Kel'el Ware,1610612748,Miami Heat,4,9,43,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,13,1,1,20250204,CHI,MIA
+Shot Chart Detail,0022400737,26,1642276,Kel'el Ware,1610612748,Miami Heat,1,9,51,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,8,1,1,20250207,BKN,MIA
+Shot Chart Detail,0022400737,172,1642276,Kel'el Ware,1610612748,Miami Heat,2,11,20,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,13,1,1,20250207,BKN,MIA
+Shot Chart Detail,0022400737,179,1642276,Kel'el Ware,1610612748,Miami Heat,2,10,53,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-24,62,1,1,20250207,BKN,MIA
+Shot Chart Detail,0022400737,384,1642276,Kel'el Ware,1610612748,Miami Heat,3,7,59,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,-1,1,1,20250207,BKN,MIA
+Shot Chart Detail,0022400759,79,1642276,Kel'el Ware,1610612748,Miami Heat,1,6,11,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250210,MIA,BOS
+Shot Chart Detail,0022400759,338,1642276,Kel'el Ware,1610612748,Miami Heat,3,7,52,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,6,1,1,20250210,MIA,BOS
+Shot Chart Detail,0022400759,477,1642276,Kel'el Ware,1610612748,Miami Heat,4,7,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,11,1,1,20250210,MIA,BOS
+Shot Chart Detail,0022400759,497,1642276,Kel'el Ware,1610612748,Miami Heat,4,4,4,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250210,MIA,BOS
+Shot Chart Detail,0022400778,215,1642276,Kel'el Ware,1610612748,Miami Heat,2,8,50,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,5,1,1,20250212,OKC,MIA
+Shot Chart Detail,0022400778,382,1642276,Kel'el Ware,1610612748,Miami Heat,3,9,2,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,9,1,1,20250212,OKC,MIA
+Shot Chart Detail,0022400786,26,1642276,Kel'el Ware,1610612748,Miami Heat,1,9,51,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-58,20,1,1,20250213,DAL,MIA
+Shot Chart Detail,0022400786,139,1642276,Kel'el Ware,1610612748,Miami Heat,1,1,21,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-4,1,1,20250213,DAL,MIA
+Shot Chart Detail,0022400786,142,1642276,Kel'el Ware,1610612748,Miami Heat,1,0,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,9,1,1,20250213,DAL,MIA
+Shot Chart Detail,0022400786,191,1642276,Kel'el Ware,1610612748,Miami Heat,2,9,31,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,8,1,1,20250213,DAL,MIA
+Shot Chart Detail,0022400786,205,1642276,Kel'el Ware,1610612748,Miami Heat,2,8,42,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,17,1,1,20250213,DAL,MIA
+Shot Chart Detail,0022400786,241,1642276,Kel'el Ware,1610612748,Miami Heat,2,6,11,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20250213,DAL,MIA
+Shot Chart Detail,0022400786,254,1642276,Kel'el Ware,1610612748,Miami Heat,2,5,11,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250213,DAL,MIA
+Shot Chart Detail,0022400786,542,1642276,Kel'el Ware,1610612748,Miami Heat,4,7,48,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250213,DAL,MIA
+Shot Chart Detail,0022400800,240,1642276,Kel'el Ware,1610612748,Miami Heat,2,5,35,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-7,1,1,20250221,TOR,MIA
+Shot Chart Detail,0022400800,336,1642276,Kel'el Ware,1610612748,Miami Heat,3,9,20,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,1,20250221,TOR,MIA
+Shot Chart Detail,0022400817,15,1642276,Kel'el Ware,1610612748,Miami Heat,1,10,58,Made Shot,Running Alley Oop Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,16,1,1,20250223,MIL,MIA
+Shot Chart Detail,0022400817,99,1642276,Kel'el Ware,1610612748,Miami Heat,1,4,12,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,11,1,1,20250223,MIL,MIA
+Shot Chart Detail,0022400817,368,1642276,Kel'el Ware,1610612748,Miami Heat,3,10,9,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,19,1,1,20250223,MIL,MIA
+Shot Chart Detail,0022400817,407,1642276,Kel'el Ware,1610612748,Miami Heat,3,6,46,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,30,1,1,20250223,MIL,MIA
+Shot Chart Detail,0022400817,421,1642276,Kel'el Ware,1610612748,Miami Heat,3,5,45,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-56,35,1,1,20250223,MIL,MIA
+Shot Chart Detail,0022400817,470,1642276,Kel'el Ware,1610612748,Miami Heat,3,2,15,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,1,1,1,20250223,MIL,MIA
+Shot Chart Detail,0022400825,113,1642276,Kel'el Ware,1610612748,Miami Heat,1,3,35,Made Shot,Putback Layup Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,98,14,1,1,20250224,ATL,MIA
+Shot Chart Detail,0022400825,289,1642276,Kel'el Ware,1610612748,Miami Heat,2,1,3,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,20,95,1,1,20250224,ATL,MIA
+Shot Chart Detail,0022400825,386,1642276,Kel'el Ware,1610612748,Miami Heat,3,5,6,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,78,69,1,1,20250224,ATL,MIA
+Shot Chart Detail,0022400825,419,1642276,Kel'el Ware,1610612748,Miami Heat,3,2,51,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,7,1,1,20250224,ATL,MIA
+Shot Chart Detail,0022400841,68,1642276,Kel'el Ware,1610612748,Miami Heat,1,6,13,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,3,1,1,20250226,MIA,ATL
+Shot Chart Detail,0022400841,79,1642276,Kel'el Ware,1610612748,Miami Heat,1,4,51,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-1,1,1,20250226,MIA,ATL
+Shot Chart Detail,0022400841,329,1642276,Kel'el Ware,1610612748,Miami Heat,3,10,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,61,247,1,1,20250226,MIA,ATL
+Shot Chart Detail,0022400841,351,1642276,Kel'el Ware,1610612748,Miami Heat,3,9,9,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-28,22,1,1,20250226,MIA,ATL
+Shot Chart Detail,0022400841,468,1642276,Kel'el Ware,1610612748,Miami Heat,3,0,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,257,1,1,20250226,MIA,ATL
+Shot Chart Detail,0022400854,84,1642276,Kel'el Ware,1610612748,Miami Heat,1,5,2,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,17,1,1,20250228,MIA,IND
+Shot Chart Detail,0022400854,221,1642276,Kel'el Ware,1610612748,Miami Heat,2,5,35,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,2,1,1,20250228,MIA,IND
+Shot Chart Detail,0022400869,60,1642276,Kel'el Ware,1610612748,Miami Heat,1,5,2,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,5,1,1,20250302,MIA,NYK
+Shot Chart Detail,0022400869,64,1642276,Kel'el Ware,1610612748,Miami Heat,1,4,31,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,1,20250302,MIA,NYK
+Shot Chart Detail,0022400869,90,1642276,Kel'el Ware,1610612748,Miami Heat,1,2,55,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250302,MIA,NYK
+Shot Chart Detail,0022400869,98,1642276,Kel'el Ware,1610612748,Miami Heat,1,2,9,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,5,1,1,20250302,MIA,NYK
+Shot Chart Detail,0022400869,249,1642276,Kel'el Ware,1610612748,Miami Heat,2,2,18,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20250302,MIA,NYK
+Shot Chart Detail,0022400869,325,1642276,Kel'el Ware,1610612748,Miami Heat,3,8,40,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20250302,MIA,NYK
+Shot Chart Detail,0022400916,7,1642276,Kel'el Ware,1610612748,Miami Heat,1,11,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20250308,MIA,CHI
+Shot Chart Detail,0022400916,15,1642276,Kel'el Ware,1610612748,Miami Heat,1,11,4,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250308,MIA,CHI
+Shot Chart Detail,0022400916,311,1642276,Kel'el Ware,1610612748,Miami Heat,2,1,44,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,21,123,1,1,20250308,MIA,CHI
+Shot Chart Detail,0022400931,65,1642276,Kel'el Ware,1610612748,Miami Heat,1,5,52,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20250310,MIA,CHA
+Shot Chart Detail,0022400948,250,1642276,Kel'el Ware,1610612748,Miami Heat,2,3,35,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-99,89,1,1,20250312,MIA,LAC
+Shot Chart Detail,0022400948,424,1642276,Kel'el Ware,1610612748,Miami Heat,3,1,47,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,5,1,1,20250312,MIA,LAC
+Shot Chart Detail,0022400958,124,1642276,Kel'el Ware,1610612748,Miami Heat,1,1,20,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,5,1,1,20250314,MIA,BOS
+Shot Chart Detail,0022400958,203,1642276,Kel'el Ware,1610612748,Miami Heat,2,6,28,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,35,1,1,20250314,MIA,BOS
+Shot Chart Detail,0022400958,413,1642276,Kel'el Ware,1610612748,Miami Heat,3,1,51,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,13,1,1,20250314,MIA,BOS
+Shot Chart Detail,0022400971,20,1642276,Kel'el Ware,1610612748,Miami Heat,1,10,23,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250315,MEM,MIA
+Shot Chart Detail,0022400971,32,1642276,Kel'el Ware,1610612748,Miami Heat,1,9,4,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20250315,MEM,MIA
+Shot Chart Detail,0022400971,42,1642276,Kel'el Ware,1610612748,Miami Heat,1,8,7,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20250315,MEM,MIA
+Shot Chart Detail,0022400971,179,1642276,Kel'el Ware,1610612748,Miami Heat,2,10,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,59,251,1,1,20250315,MEM,MIA
+Shot Chart Detail,0022400971,500,1642276,Kel'el Ware,1610612748,Miami Heat,4,9,27,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,71,41,1,1,20250315,MEM,MIA
+Shot Chart Detail,0022400971,572,1642276,Kel'el Ware,1610612748,Miami Heat,4,3,47,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20250315,MEM,MIA
+Shot Chart Detail,0022400971,580,1642276,Kel'el Ware,1610612748,Miami Heat,4,3,18,Made Shot,Running Alley Oop Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20250315,MEM,MIA
+Shot Chart Detail,0022400971,587,1642276,Kel'el Ware,1610612748,Miami Heat,4,2,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,112,232,1,1,20250315,MEM,MIA
+Shot Chart Detail,0022400984,95,1642276,Kel'el Ware,1610612748,Miami Heat,1,2,19,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,20,1,1,20250317,NYK,MIA
+Shot Chart Detail,0022400984,134,1642276,Kel'el Ware,1610612748,Miami Heat,1,0,29,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250317,NYK,MIA
+Shot Chart Detail,0022400984,157,1642276,Kel'el Ware,1610612748,Miami Heat,2,11,0,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,8,1,1,20250317,NYK,MIA
+Shot Chart Detail,0022400984,601,1642276,Kel'el Ware,1610612748,Miami Heat,4,0,52,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-3,1,1,20250317,NYK,MIA
+Shot Chart Detail,0022400984,605,1642276,Kel'el Ware,1610612748,Miami Heat,4,0,33,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20250317,NYK,MIA
+Shot Chart Detail,0022401000,33,1642276,Kel'el Ware,1610612748,Miami Heat,1,8,45,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-65,94,1,1,20250319,MIA,DET
+Shot Chart Detail,0022401000,55,1642276,Kel'el Ware,1610612748,Miami Heat,1,7,16,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,10,75,1,1,20250319,MIA,DET
+Shot Chart Detail,0022401000,254,1642276,Kel'el Ware,1610612748,Miami Heat,2,6,37,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250319,MIA,DET
+Shot Chart Detail,0022401000,264,1642276,Kel'el Ware,1610612748,Miami Heat,2,5,37,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,20,1,1,20250319,MIA,DET
+Shot Chart Detail,0022401000,321,1642276,Kel'el Ware,1610612748,Miami Heat,2,1,0,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-4,1,1,20250319,MIA,DET
+Shot Chart Detail,0022401000,357,1642276,Kel'el Ware,1610612748,Miami Heat,3,11,10,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20250319,MIA,DET
+Shot Chart Detail,0022401000,434,1642276,Kel'el Ware,1610612748,Miami Heat,3,4,15,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250319,MIA,DET
+Shot Chart Detail,0022401015,13,1642276,Kel'el Ware,1610612748,Miami Heat,1,11,14,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,5,1,1,20250321,MIA,HOU
+Shot Chart Detail,0022401015,108,1642276,Kel'el Ware,1610612748,Miami Heat,1,3,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-194,159,1,1,20250321,MIA,HOU
+Shot Chart Detail,0022401015,236,1642276,Kel'el Ware,1610612748,Miami Heat,2,6,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,-4,1,1,20250321,MIA,HOU
+Shot Chart Detail,0022401015,332,1642276,Kel'el Ware,1610612748,Miami Heat,3,10,26,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250321,MIA,HOU
+Shot Chart Detail,0022401015,367,1642276,Kel'el Ware,1610612748,Miami Heat,3,7,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,11,267,1,1,20250321,MIA,HOU
+Shot Chart Detail,0022401015,434,1642276,Kel'el Ware,1610612748,Miami Heat,3,2,26,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250321,MIA,HOU
+Shot Chart Detail,0022401015,565,1642276,Kel'el Ware,1610612748,Miami Heat,4,4,44,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,66,27,1,1,20250321,MIA,HOU
+Shot Chart Detail,0022401032,90,1642276,Kel'el Ware,1610612748,Miami Heat,1,3,23,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,5,1,1,20250323,MIA,CHA
+Shot Chart Detail,0022401032,253,1642276,Kel'el Ware,1610612748,Miami Heat,2,2,54,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20250323,MIA,CHA
+Shot Chart Detail,0022401032,345,1642276,Kel'el Ware,1610612748,Miami Heat,3,8,3,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,67,1,1,20250323,MIA,CHA
+Shot Chart Detail,0022401032,351,1642276,Kel'el Ware,1610612748,Miami Heat,3,7,39,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250323,MIA,CHA
+Shot Chart Detail,0022401032,382,1642276,Kel'el Ware,1610612748,Miami Heat,3,5,25,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,1,20250323,MIA,CHA
+Shot Chart Detail,0022401032,430,1642276,Kel'el Ware,1610612748,Miami Heat,3,2,9,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,0,105,1,1,20250323,MIA,CHA
+Shot Chart Detail,0022401047,26,1642276,Kel'el Ware,1610612748,Miami Heat,1,10,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20250325,MIA,GSW
+Shot Chart Detail,0022401047,198,1642276,Kel'el Ware,1610612748,Miami Heat,2,7,42,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,22,1,1,20250325,MIA,GSW
+Shot Chart Detail,0022401047,220,1642276,Kel'el Ware,1610612748,Miami Heat,2,6,3,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-93,17,1,1,20250325,MIA,GSW
+Shot Chart Detail,0022401047,228,1642276,Kel'el Ware,1610612748,Miami Heat,2,5,20,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-69,41,1,1,20250325,MIA,GSW
+Shot Chart Detail,0022401047,393,1642276,Kel'el Ware,1610612748,Miami Heat,3,7,19,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,4,1,1,20250325,MIA,GSW
+Shot Chart Detail,0022401047,407,1642276,Kel'el Ware,1610612748,Miami Heat,3,5,54,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-4,1,1,20250325,MIA,GSW
+Shot Chart Detail,0022401047,415,1642276,Kel'el Ware,1610612748,Miami Heat,3,4,50,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,10,1,1,20250325,MIA,GSW
+Shot Chart Detail,0022401062,101,1642276,Kel'el Ware,1610612748,Miami Heat,1,4,12,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20250327,MIA,ATL
+Shot Chart Detail,0022401062,365,1642276,Kel'el Ware,1610612748,Miami Heat,3,8,14,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250327,MIA,ATL
+Shot Chart Detail,0022401062,391,1642276,Kel'el Ware,1610612748,Miami Heat,3,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,20,1,1,20250327,MIA,ATL
+Shot Chart Detail,0022401076,20,1642276,Kel'el Ware,1610612748,Miami Heat,1,10,39,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250329,PHI,MIA
+Shot Chart Detail,0022401076,195,1642276,Kel'el Ware,1610612748,Miami Heat,2,9,3,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250329,PHI,MIA
+Shot Chart Detail,0022401076,223,1642276,Kel'el Ware,1610612748,Miami Heat,2,8,3,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250329,PHI,MIA
+Shot Chart Detail,0022401076,225,1642276,Kel'el Ware,1610612748,Miami Heat,2,7,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-16,272,1,1,20250329,PHI,MIA
+Shot Chart Detail,0022401076,315,1642276,Kel'el Ware,1610612748,Miami Heat,2,0,51,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,0,1,1,20250329,PHI,MIA
+Shot Chart Detail,0022401076,574,1642276,Kel'el Ware,1610612748,Miami Heat,4,2,43,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20250329,PHI,MIA
+Shot Chart Detail,0022401092,56,1642276,Kel'el Ware,1610612748,Miami Heat,1,7,46,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-78,22,1,1,20250331,WAS,MIA
+Shot Chart Detail,0022401092,65,1642276,Kel'el Ware,1610612748,Miami Heat,1,7,27,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20250331,WAS,MIA
+Shot Chart Detail,0022401092,646,1642276,Kel'el Ware,1610612748,Miami Heat,4,2,52,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,11,1,1,20250331,WAS,MIA
+Shot Chart Detail,0022401106,340,1642276,Kel'el Ware,1610612748,Miami Heat,3,9,13,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,12,1,1,20250402,BOS,MIA
+Shot Chart Detail,0022401106,503,1642276,Kel'el Ware,1610612748,Miami Heat,4,7,13,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20250402,BOS,MIA
+Shot Chart Detail,0022401114,33,1642276,Kel'el Ware,1610612748,Miami Heat,1,9,22,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-29,85,1,1,20250403,MIA,MEM
+Shot Chart Detail,0022401114,75,1642276,Kel'el Ware,1610612748,Miami Heat,1,6,30,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,12,1,1,20250403,MIA,MEM
+Shot Chart Detail,0022401114,391,1642276,Kel'el Ware,1610612748,Miami Heat,3,9,18,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,21,1,1,20250403,MIA,MEM
+Shot Chart Detail,0022401114,447,1642276,Kel'el Ware,1610612748,Miami Heat,3,6,14,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,3,1,1,20250403,MIA,MEM
+Shot Chart Detail,0022401114,456,1642276,Kel'el Ware,1610612748,Miami Heat,3,5,23,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-39,250,1,1,20250403,MIA,MEM
+Shot Chart Detail,0022401131,258,1642276,Kel'el Ware,1610612748,Miami Heat,2,4,14,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,26,1,1,20250405,MIA,MIL
+Shot Chart Detail,0022401131,291,1642276,Kel'el Ware,1610612748,Miami Heat,2,2,5,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,89,48,1,1,20250405,MIA,MIL
+Shot Chart Detail,0022401131,334,1642276,Kel'el Ware,1610612748,Miami Heat,3,10,11,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,53,1,1,20250405,MIA,MIL
+Shot Chart Detail,0022401145,35,1642276,Kel'el Ware,1610612748,Miami Heat,1,8,32,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,51,104,1,1,20250407,MIA,PHI
+Shot Chart Detail,0022401145,49,1642276,Kel'el Ware,1610612748,Miami Heat,1,7,29,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250407,MIA,PHI
+Shot Chart Detail,0022401145,73,1642276,Kel'el Ware,1610612748,Miami Heat,1,5,30,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,0,1,1,20250407,MIA,PHI
+Shot Chart Detail,0022401145,310,1642276,Kel'el Ware,1610612748,Miami Heat,2,0,34,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,96,151,1,1,20250407,MIA,PHI
+Shot Chart Detail,0022401145,383,1642276,Kel'el Ware,1610612748,Miami Heat,3,5,45,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,4,134,1,1,20250407,MIA,PHI
+Shot Chart Detail,0022401145,418,1642276,Kel'el Ware,1610612748,Miami Heat,3,3,36,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,4,1,1,20250407,MIA,PHI
+Shot Chart Detail,0022401145,515,1642276,Kel'el Ware,1610612748,Miami Heat,4,8,12,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,7,1,1,20250407,MIA,PHI
+Shot Chart Detail,0022401145,569,1642276,Kel'el Ware,1610612748,Miami Heat,4,3,38,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250407,MIA,PHI
+Shot Chart Detail,0022401160,20,1642276,Kel'el Ware,1610612748,Miami Heat,1,10,49,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,24,1,1,20250409,CHI,MIA
+Shot Chart Detail,0022401160,31,1642276,Kel'el Ware,1610612748,Miami Heat,1,9,45,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,19,1,1,20250409,CHI,MIA
+Shot Chart Detail,0022401160,104,1642276,Kel'el Ware,1610612748,Miami Heat,1,3,48,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-8,92,1,1,20250409,CHI,MIA
+Shot Chart Detail,0022401160,321,1642276,Kel'el Ware,1610612748,Miami Heat,3,11,30,Made Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,65,10,1,1,20250409,CHI,MIA
+Shot Chart Detail,0022401160,440,1642276,Kel'el Ware,1610612748,Miami Heat,3,1,6,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,28,1,1,20250409,CHI,MIA
+Shot Chart Detail,0022401160,516,1642276,Kel'el Ware,1610612748,Miami Heat,4,8,35,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-43,88,1,1,20250409,CHI,MIA
+Shot Chart Detail,0022401177,76,1642276,Kel'el Ware,1610612748,Miami Heat,1,5,33,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,30,1,1,20250411,NOP,MIA
+Shot Chart Detail,0022401177,178,1642276,Kel'el Ware,1610612748,Miami Heat,1,0,3,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-6,40,1,1,20250411,NOP,MIA
+Shot Chart Detail,0022401177,222,1642276,Kel'el Ware,1610612748,Miami Heat,2,8,41,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,5,1,1,20250411,NOP,MIA
+Shot Chart Detail,0022401177,410,1642276,Kel'el Ware,1610612748,Miami Heat,3,5,28,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,15,1,1,20250411,NOP,MIA
+Shot Chart Detail,0022401177,449,1642276,Kel'el Ware,1610612748,Miami Heat,3,2,13,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,18,1,1,20250411,NOP,MIA
+Shot Chart Detail,0022401190,16,1642276,Kel'el Ware,1610612748,Miami Heat,1,11,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-85,241,1,1,20250413,MIA,WAS
+Shot Chart Detail,0022401190,20,1642276,Kel'el Ware,1610612748,Miami Heat,1,10,34,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20250413,MIA,WAS
+Shot Chart Detail,0022401190,39,1642276,Kel'el Ware,1610612748,Miami Heat,1,8,43,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-1,1,1,20250413,MIA,WAS
+Shot Chart Detail,0022401190,59,1642276,Kel'el Ware,1610612748,Miami Heat,1,6,40,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-1,1,1,20250413,MIA,WAS
+Shot Chart Detail,0022401190,380,1642276,Kel'el Ware,1610612748,Miami Heat,3,4,17,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,11,1,1,20250413,MIA,WAS
+Shot Chart Detail,0022401190,405,1642276,Kel'el Ware,1610612748,Miami Heat,3,1,44,Made Shot,Running Alley Oop Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,16,1,1,20250413,MIA,WAS

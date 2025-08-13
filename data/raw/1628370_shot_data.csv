@@ -1,21 +1,413 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400049,46,1628370,Malik Monk,1610612758,Sacramento Kings,1,8,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,31,1,1,20241129,POR,SAC
+Shot Chart Detail,0022400049,99,1628370,Malik Monk,1610612758,Sacramento Kings,1,3,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,4,1,1,20241129,POR,SAC
+Shot Chart Detail,0022400049,428,1628370,Malik Monk,1610612758,Sacramento Kings,3,5,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,208,148,1,1,20241129,POR,SAC
+Shot Chart Detail,0022400049,457,1628370,Malik Monk,1610612758,Sacramento Kings,3,3,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,6,1,1,20241129,POR,SAC
+Shot Chart Detail,0022400049,476,1628370,Malik Monk,1610612758,Sacramento Kings,3,2,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,97,235,1,1,20241129,POR,SAC
+Shot Chart Detail,0022400049,562,1628370,Malik Monk,1610612758,Sacramento Kings,4,7,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,18,1,1,20241129,POR,SAC
+Shot Chart Detail,0022400049,571,1628370,Malik Monk,1610612758,Sacramento Kings,4,7,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-145,228,1,1,20241129,POR,SAC
+Shot Chart Detail,0022400049,602,1628370,Malik Monk,1610612758,Sacramento Kings,4,4,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,179,186,1,1,20241129,POR,SAC
+Shot Chart Detail,0022400049,634,1628370,Malik Monk,1610612758,Sacramento Kings,4,0,25,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,15,1,1,20241129,POR,SAC
+Shot Chart Detail,0022400049,640,1628370,Malik Monk,1610612758,Sacramento Kings,4,0,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-132,242,1,1,20241129,POR,SAC
+Shot Chart Detail,0022400059,59,1628370,Malik Monk,1610612758,Sacramento Kings,1,6,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,22,1,1,20241203,SAC,HOU
+Shot Chart Detail,0022400059,97,1628370,Malik Monk,1610612758,Sacramento Kings,1,4,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,118,227,1,1,20241203,SAC,HOU
+Shot Chart Detail,0022400059,349,1628370,Malik Monk,1610612758,Sacramento Kings,3,10,6,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,0,250,1,1,20241203,SAC,HOU
+Shot Chart Detail,0022400059,502,1628370,Malik Monk,1610612758,Sacramento Kings,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,131,243,1,1,20241203,SAC,HOU
+Shot Chart Detail,0022400059,602,1628370,Malik Monk,1610612758,Sacramento Kings,4,5,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-86,226,1,1,20241203,SAC,HOU
+Shot Chart Detail,0022400076,96,1628370,Malik Monk,1610612758,Sacramento Kings,1,4,40,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,7,81,1,1,20241024,SAC,MIN
+Shot Chart Detail,0022400076,99,1628370,Malik Monk,1610612758,Sacramento Kings,1,4,11,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-15,126,1,1,20241024,SAC,MIN
+Shot Chart Detail,0022400076,135,1628370,Malik Monk,1610612758,Sacramento Kings,1,1,45,Made Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,5,1,1,20241024,SAC,MIN
+Shot Chart Detail,0022400076,151,1628370,Malik Monk,1610612758,Sacramento Kings,1,0,39,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,0,251,1,1,20241024,SAC,MIN
+Shot Chart Detail,0022400076,436,1628370,Malik Monk,1610612758,Sacramento Kings,3,4,16,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,9,1,1,20241024,SAC,MIN
+Shot Chart Detail,0022400076,641,1628370,Malik Monk,1610612758,Sacramento Kings,4,0,53,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,26,1,1,20241024,SAC,MIN
+Shot Chart Detail,0022400096,155,1628370,Malik Monk,1610612758,Sacramento Kings,1,0,21,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,37,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400096,271,1628370,Malik Monk,1610612758,Sacramento Kings,2,4,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-246,33,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400096,289,1628370,Malik Monk,1610612758,Sacramento Kings,2,3,20,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,15,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400096,637,1628370,Malik Monk,1610612758,Sacramento Kings,4,5,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,16,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400096,648,1628370,Malik Monk,1610612758,Sacramento Kings,4,3,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,15,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400096,677,1628370,Malik Monk,1610612758,Sacramento Kings,4,0,55,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,25,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400112,489,1628370,Malik Monk,1610612758,Sacramento Kings,3,2,7,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,104,236,1,1,20241028,SAC,POR
+Shot Chart Detail,0022400112,503,1628370,Malik Monk,1610612758,Sacramento Kings,3,0,59,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,195,154,1,1,20241028,SAC,POR
+Shot Chart Detail,0022400112,554,1628370,Malik Monk,1610612758,Sacramento Kings,4,10,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,140,227,1,1,20241028,SAC,POR
+Shot Chart Detail,0022400115,236,1628370,Malik Monk,1610612758,Sacramento Kings,2,5,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,41,1,1,20241029,UTA,SAC
+Shot Chart Detail,0022400115,558,1628370,Malik Monk,1610612758,Sacramento Kings,4,6,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-120,235,1,1,20241029,UTA,SAC
+Shot Chart Detail,0022400135,105,1628370,Malik Monk,1610612758,Sacramento Kings,1,4,12,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,13,1,1,20241101,ATL,SAC
+Shot Chart Detail,0022400135,226,1628370,Malik Monk,1610612758,Sacramento Kings,2,8,47,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,11,104,1,1,20241101,ATL,SAC
+Shot Chart Detail,0022400135,485,1628370,Malik Monk,1610612758,Sacramento Kings,3,1,50,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,9,59,1,1,20241101,ATL,SAC
+Shot Chart Detail,0022400143,97,1628370,Malik Monk,1610612758,Sacramento Kings,1,3,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,137,218,1,1,20241102,TOR,SAC
+Shot Chart Detail,0022400143,150,1628370,Malik Monk,1610612758,Sacramento Kings,1,0,46,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,0,1,1,20241102,TOR,SAC
+Shot Chart Detail,0022400143,167,1628370,Malik Monk,1610612758,Sacramento Kings,2,11,46,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,159,187,1,1,20241102,TOR,SAC
+Shot Chart Detail,0022400143,204,1628370,Malik Monk,1610612758,Sacramento Kings,2,9,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,14,1,1,20241102,TOR,SAC
+Shot Chart Detail,0022400143,207,1628370,Malik Monk,1610612758,Sacramento Kings,2,8,53,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,8,1,1,20241102,TOR,SAC
+Shot Chart Detail,0022400143,289,1628370,Malik Monk,1610612758,Sacramento Kings,2,3,34,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-6,1,1,20241102,TOR,SAC
+Shot Chart Detail,0022400143,436,1628370,Malik Monk,1610612758,Sacramento Kings,3,5,18,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,15,1,1,20241102,TOR,SAC
+Shot Chart Detail,0022400143,527,1628370,Malik Monk,1610612758,Sacramento Kings,4,11,17,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-60,122,1,1,20241102,TOR,SAC
+Shot Chart Detail,0022400143,600,1628370,Malik Monk,1610612758,Sacramento Kings,4,7,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-116,112,1,1,20241102,TOR,SAC
+Shot Chart Detail,0022400159,129,1628370,Malik Monk,1610612758,Sacramento Kings,1,2,26,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,36,1,1,20241104,MIA,SAC
+Shot Chart Detail,0022400159,458,1628370,Malik Monk,1610612758,Sacramento Kings,3,2,29,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-29,83,1,1,20241104,MIA,SAC
+Shot Chart Detail,0022400159,478,1628370,Malik Monk,1610612758,Sacramento Kings,3,1,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,38,93,1,1,20241104,MIA,SAC
+Shot Chart Detail,0022400159,527,1628370,Malik Monk,1610612758,Sacramento Kings,4,10,32,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,44,32,1,1,20241104,MIA,SAC
+Shot Chart Detail,0022400159,605,1628370,Malik Monk,1610612758,Sacramento Kings,4,5,54,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-1,78,1,1,20241104,MIA,SAC
+Shot Chart Detail,0022400159,681,1628370,Malik Monk,1610612758,Sacramento Kings,4,0,32,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,32,1,1,20241104,MIA,SAC
+Shot Chart Detail,0022400180,425,1628370,Malik Monk,1610612758,Sacramento Kings,3,4,59,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,35,1,1,20241106,SAC,TOR
+Shot Chart Detail,0022400180,494,1628370,Malik Monk,1610612758,Sacramento Kings,3,0,30,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,6,79,1,1,20241106,SAC,TOR
+Shot Chart Detail,0022400180,538,1628370,Malik Monk,1610612758,Sacramento Kings,4,10,18,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-67,242,1,1,20241106,SAC,TOR
+Shot Chart Detail,0022400180,546,1628370,Malik Monk,1610612758,Sacramento Kings,4,9,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,8,1,1,20241106,SAC,TOR
+Shot Chart Detail,0022400196,98,1628370,Malik Monk,1610612758,Sacramento Kings,1,2,58,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,21,1,1,20241108,SAC,LAC
+Shot Chart Detail,0022400196,133,1628370,Malik Monk,1610612758,Sacramento Kings,1,0,33,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-7,55,1,1,20241108,SAC,LAC
+Shot Chart Detail,0022400196,427,1628370,Malik Monk,1610612758,Sacramento Kings,3,2,31,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-12,34,1,1,20241108,SAC,LAC
+Shot Chart Detail,0022400196,437,1628370,Malik Monk,1610612758,Sacramento Kings,3,1,55,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,29,115,1,1,20241108,SAC,LAC
+Shot Chart Detail,0022400196,455,1628370,Malik Monk,1610612758,Sacramento Kings,3,0,41,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,29,55,1,1,20241108,SAC,LAC
+Shot Chart Detail,0022400196,484,1628370,Malik Monk,1610612758,Sacramento Kings,4,10,42,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,24,1,1,20241108,SAC,LAC
+Shot Chart Detail,0022400209,94,1628370,Malik Monk,1610612758,Sacramento Kings,1,3,16,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-58,161,1,1,20241110,PHX,SAC
+Shot Chart Detail,0022400285,121,1628370,Malik Monk,1610612758,Sacramento Kings,1,2,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-58,280,1,1,20241125,SAC,OKC
+Shot Chart Detail,0022400285,205,1628370,Malik Monk,1610612758,Sacramento Kings,2,7,54,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,196,174,1,1,20241125,SAC,OKC
+Shot Chart Detail,0022400285,495,1628370,Malik Monk,1610612758,Sacramento Kings,4,11,24,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-17,103,1,1,20241125,SAC,OKC
+Shot Chart Detail,0022400285,520,1628370,Malik Monk,1610612758,Sacramento Kings,4,9,48,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,47,1,1,20241125,SAC,OKC
+Shot Chart Detail,0022400294,136,1628370,Malik Monk,1610612758,Sacramento Kings,1,2,6,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,16,1,1,20241127,MIN,SAC
+Shot Chart Detail,0022400294,142,1628370,Malik Monk,1610612758,Sacramento Kings,1,1,38,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,51,251,1,1,20241127,MIN,SAC
+Shot Chart Detail,0022400294,145,1628370,Malik Monk,1610612758,Sacramento Kings,1,1,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,15,1,1,20241127,MIN,SAC
+Shot Chart Detail,0022400294,244,1628370,Malik Monk,1610612758,Sacramento Kings,2,7,28,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,17,1,1,20241127,MIN,SAC
+Shot Chart Detail,0022400294,257,1628370,Malik Monk,1610612758,Sacramento Kings,2,6,55,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-29,88,1,1,20241127,MIN,SAC
+Shot Chart Detail,0022400294,284,1628370,Malik Monk,1610612758,Sacramento Kings,2,5,35,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,62,83,1,1,20241127,MIN,SAC
+Shot Chart Detail,0022400294,420,1628370,Malik Monk,1610612758,Sacramento Kings,3,7,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,16,1,1,20241127,MIN,SAC
+Shot Chart Detail,0022400294,638,1628370,Malik Monk,1610612758,Sacramento Kings,4,4,24,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,93,226,1,1,20241127,MIN,SAC
+Shot Chart Detail,0022400294,642,1628370,Malik Monk,1610612758,Sacramento Kings,4,3,42,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,175,180,1,1,20241127,MIN,SAC
+Shot Chart Detail,0022400294,657,1628370,Malik Monk,1610612758,Sacramento Kings,4,2,36,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,93,103,1,1,20241127,MIN,SAC
+Shot Chart Detail,0022400294,663,1628370,Malik Monk,1610612758,Sacramento Kings,4,1,26,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,1,20241127,MIN,SAC
+Shot Chart Detail,0022400313,21,1628370,Malik Monk,1610612758,Sacramento Kings,1,10,1,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-36,263,1,1,20241201,SAC,SAS
+Shot Chart Detail,0022400313,58,1628370,Malik Monk,1610612758,Sacramento Kings,1,6,16,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-30,1,1,20241201,SAC,SAS
+Shot Chart Detail,0022400313,255,1628370,Malik Monk,1610612758,Sacramento Kings,2,6,26,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,6,125,1,1,20241201,SAC,SAS
+Shot Chart Detail,0022400313,390,1628370,Malik Monk,1610612758,Sacramento Kings,3,11,1,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,-5,1,1,20241201,SAC,SAS
+Shot Chart Detail,0022400313,422,1628370,Malik Monk,1610612758,Sacramento Kings,3,7,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,164,184,1,1,20241201,SAC,SAS
+Shot Chart Detail,0022400313,436,1628370,Malik Monk,1610612758,Sacramento Kings,3,6,5,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20241201,SAC,SAS
+Shot Chart Detail,0022400313,689,1628370,Malik Monk,1610612758,Sacramento Kings,4,0,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,48,246,1,1,20241201,SAC,SAS
+Shot Chart Detail,0022400329,55,1628370,Malik Monk,1610612758,Sacramento Kings,1,7,18,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,188,1,1,20241205,MEM,SAC
+Shot Chart Detail,0022400329,200,1628370,Malik Monk,1610612758,Sacramento Kings,2,9,6,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,174,1,1,20241205,MEM,SAC
+Shot Chart Detail,0022400329,260,1628370,Malik Monk,1610612758,Sacramento Kings,2,5,11,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-78,242,1,1,20241205,MEM,SAC
+Shot Chart Detail,0022400329,344,1628370,Malik Monk,1610612758,Sacramento Kings,3,11,13,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,0,1,1,20241205,MEM,SAC
+Shot Chart Detail,0022400329,642,1628370,Malik Monk,1610612758,Sacramento Kings,4,6,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,158,52,1,1,20241205,MEM,SAC
+Shot Chart Detail,0022400329,684,1628370,Malik Monk,1610612758,Sacramento Kings,4,3,50,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,34,1,1,20241205,MEM,SAC
+Shot Chart Detail,0022400329,706,1628370,Malik Monk,1610612758,Sacramento Kings,4,2,13,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,9,1,1,20241205,MEM,SAC
+Shot Chart Detail,0022400337,39,1628370,Malik Monk,1610612758,Sacramento Kings,1,8,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-55,250,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400337,232,1628370,Malik Monk,1610612758,Sacramento Kings,2,7,57,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,14,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400337,242,1628370,Malik Monk,1610612758,Sacramento Kings,2,7,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-178,194,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400337,354,1628370,Malik Monk,1610612758,Sacramento Kings,3,10,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,17,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400337,429,1628370,Malik Monk,1610612758,Sacramento Kings,3,5,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-32,197,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400337,467,1628370,Malik Monk,1610612758,Sacramento Kings,3,3,5,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,57,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400337,634,1628370,Malik Monk,1610612758,Sacramento Kings,4,4,12,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-62,250,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400357,33,1628370,Malik Monk,1610612758,Sacramento Kings,1,9,15,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-50,118,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400357,103,1628370,Malik Monk,1610612758,Sacramento Kings,1,3,53,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-91,158,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400357,219,1628370,Malik Monk,1610612758,Sacramento Kings,2,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,193,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400357,238,1628370,Malik Monk,1610612758,Sacramento Kings,2,6,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,206,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400357,309,1628370,Malik Monk,1610612758,Sacramento Kings,2,0,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,15,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400357,371,1628370,Malik Monk,1610612758,Sacramento Kings,3,8,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,8,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400357,403,1628370,Malik Monk,1610612758,Sacramento Kings,3,6,22,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,2,75,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400372,261,1628370,Malik Monk,1610612758,Sacramento Kings,2,7,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,12,31,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400372,283,1628370,Malik Monk,1610612758,Sacramento Kings,2,6,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,129,216,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400372,288,1628370,Malik Monk,1610612758,Sacramento Kings,2,5,33,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-26,272,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400372,301,1628370,Malik Monk,1610612758,Sacramento Kings,2,5,10,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,43,93,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400372,304,1628370,Malik Monk,1610612758,Sacramento Kings,2,4,42,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-47,9,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400372,394,1628370,Malik Monk,1610612758,Sacramento Kings,3,10,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-230,144,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400372,422,1628370,Malik Monk,1610612758,Sacramento Kings,3,7,42,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,49,201,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400376,231,1628370,Malik Monk,1610612758,Sacramento Kings,2,8,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,26,1,1,20241221,SAC,LAL
+Shot Chart Detail,0022400376,301,1628370,Malik Monk,1610612758,Sacramento Kings,2,3,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,8,1,1,20241221,SAC,LAL
+Shot Chart Detail,0022400376,391,1628370,Malik Monk,1610612758,Sacramento Kings,3,7,28,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,37,127,1,1,20241221,SAC,LAL
+Shot Chart Detail,0022400389,95,1628370,Malik Monk,1610612758,Sacramento Kings,1,3,52,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,4,143,1,1,20241222,SAC,IND
+Shot Chart Detail,0022400389,257,1628370,Malik Monk,1610612758,Sacramento Kings,2,3,14,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,42,1,1,20241222,SAC,IND
+Shot Chart Detail,0022400389,282,1628370,Malik Monk,1610612758,Sacramento Kings,2,0,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,51,272,1,1,20241222,SAC,IND
+Shot Chart Detail,0022400389,290,1628370,Malik Monk,1610612758,Sacramento Kings,2,0,1,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-37,80,1,1,20241222,SAC,IND
+Shot Chart Detail,0022400389,411,1628370,Malik Monk,1610612758,Sacramento Kings,3,4,40,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-105,252,1,1,20241222,SAC,IND
+Shot Chart Detail,0022400389,431,1628370,Malik Monk,1610612758,Sacramento Kings,3,3,25,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,29,1,1,20241222,SAC,IND
+Shot Chart Detail,0022400418,26,1628370,Malik Monk,1610612758,Sacramento Kings,1,10,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-53,237,1,1,20241226,SAC,DET
+Shot Chart Detail,0022400418,147,1628370,Malik Monk,1610612758,Sacramento Kings,1,1,30,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-185,164,1,1,20241226,SAC,DET
+Shot Chart Detail,0022400418,283,1628370,Malik Monk,1610612758,Sacramento Kings,2,4,17,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,16,1,1,20241226,SAC,DET
+Shot Chart Detail,0022400418,329,1628370,Malik Monk,1610612758,Sacramento Kings,2,0,0,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-9,250,1,1,20241226,SAC,DET
+Shot Chart Detail,0022400418,607,1628370,Malik Monk,1610612758,Sacramento Kings,4,5,2,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,25,1,1,20241226,SAC,DET
+Shot Chart Detail,0022400435,23,1628370,Malik Monk,1610612758,Sacramento Kings,1,9,38,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,50,138,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400435,29,1628370,Malik Monk,1610612758,Sacramento Kings,1,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-85,281,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400435,48,1628370,Malik Monk,1610612758,Sacramento Kings,1,7,15,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-72,269,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400435,263,1628370,Malik Monk,1610612758,Sacramento Kings,2,4,23,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,15,57,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400435,442,1628370,Malik Monk,1610612758,Sacramento Kings,3,4,42,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,69,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400435,604,1628370,Malik Monk,1610612758,Sacramento Kings,4,4,58,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-47,31,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400435,609,1628370,Malik Monk,1610612758,Sacramento Kings,4,4,22,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,98,242,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400448,290,1628370,Malik Monk,1610612758,Sacramento Kings,2,5,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,180,172,1,1,20241230,SAC,DAL
+Shot Chart Detail,0022400448,344,1628370,Malik Monk,1610612758,Sacramento Kings,2,2,21,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20241230,SAC,DAL
+Shot Chart Detail,0022400448,478,1628370,Malik Monk,1610612758,Sacramento Kings,3,5,55,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-211,64,1,1,20241230,SAC,DAL
+Shot Chart Detail,0022400448,637,1628370,Malik Monk,1610612758,Sacramento Kings,4,6,20,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-13,176,1,1,20241230,SAC,DAL
+Shot Chart Detail,0022400462,48,1628370,Malik Monk,1610612758,Sacramento Kings,1,7,21,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,9,1,1,20250101,SAC,PHI
+Shot Chart Detail,0022400462,87,1628370,Malik Monk,1610612758,Sacramento Kings,1,4,32,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,3,1,1,20250101,SAC,PHI
+Shot Chart Detail,0022400462,243,1628370,Malik Monk,1610612758,Sacramento Kings,2,7,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,1,1,1,20250101,SAC,PHI
+Shot Chart Detail,0022400462,355,1628370,Malik Monk,1610612758,Sacramento Kings,3,9,12,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,8,1,1,20250101,SAC,PHI
+Shot Chart Detail,0022400462,630,1628370,Malik Monk,1610612758,Sacramento Kings,4,0,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,18,1,1,20250101,SAC,PHI
+Shot Chart Detail,0022400476,25,1628370,Malik Monk,1610612758,Sacramento Kings,1,10,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,20,1,1,20250103,SAC,MEM
+Shot Chart Detail,0022400476,32,1628370,Malik Monk,1610612758,Sacramento Kings,1,10,6,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,107,94,1,1,20250103,SAC,MEM
+Shot Chart Detail,0022400476,97,1628370,Malik Monk,1610612758,Sacramento Kings,1,5,24,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-45,283,1,1,20250103,SAC,MEM
+Shot Chart Detail,0022400476,266,1628370,Malik Monk,1610612758,Sacramento Kings,2,6,3,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-58,17,1,1,20250103,SAC,MEM
+Shot Chart Detail,0022400476,291,1628370,Malik Monk,1610612758,Sacramento Kings,2,4,18,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-9,29,1,1,20250103,SAC,MEM
+Shot Chart Detail,0022400476,347,1628370,Malik Monk,1610612758,Sacramento Kings,2,0,19,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,34,1,1,20250103,SAC,MEM
+Shot Chart Detail,0022400476,462,1628370,Malik Monk,1610612758,Sacramento Kings,3,6,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-159,187,1,1,20250103,SAC,MEM
+Shot Chart Detail,0022400476,637,1628370,Malik Monk,1610612758,Sacramento Kings,4,7,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-2,1,1,20250103,SAC,MEM
+Shot Chart Detail,0022400476,669,1628370,Malik Monk,1610612758,Sacramento Kings,4,5,20,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,86,242,1,1,20250103,SAC,MEM
+Shot Chart Detail,0022400476,673,1628370,Malik Monk,1610612758,Sacramento Kings,4,4,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,19,1,1,20250103,SAC,MEM
+Shot Chart Detail,0022400476,682,1628370,Malik Monk,1610612758,Sacramento Kings,4,4,21,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,120,240,1,1,20250103,SAC,MEM
+Shot Chart Detail,0022400492,9,1628370,Malik Monk,1610612758,Sacramento Kings,1,11,30,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,29,1,1,20250105,GSW,SAC
+Shot Chart Detail,0022400492,51,1628370,Malik Monk,1610612758,Sacramento Kings,1,6,20,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,13,1,1,20250105,GSW,SAC
+Shot Chart Detail,0022400492,63,1628370,Malik Monk,1610612758,Sacramento Kings,1,5,32,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,223,92,1,1,20250105,GSW,SAC
+Shot Chart Detail,0022400492,209,1628370,Malik Monk,1610612758,Sacramento Kings,2,7,56,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,180,184,1,1,20250105,GSW,SAC
+Shot Chart Detail,0022400492,243,1628370,Malik Monk,1610612758,Sacramento Kings,2,5,35,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,216,1,1,20250105,GSW,SAC
+Shot Chart Detail,0022400492,326,1628370,Malik Monk,1610612758,Sacramento Kings,2,0,32,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-170,204,1,1,20250105,GSW,SAC
+Shot Chart Detail,0022400492,374,1628370,Malik Monk,1610612758,Sacramento Kings,3,9,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-94,256,1,1,20250105,GSW,SAC
+Shot Chart Detail,0022400492,378,1628370,Malik Monk,1610612758,Sacramento Kings,3,9,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,25,1,1,20250105,GSW,SAC
+Shot Chart Detail,0022400492,491,1628370,Malik Monk,1610612758,Sacramento Kings,3,1,39,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,22,1,1,20250105,GSW,SAC
+Shot Chart Detail,0022400501,55,1628370,Malik Monk,1610612758,Sacramento Kings,1,8,7,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,75,51,1,1,20250106,SAC,MIA
+Shot Chart Detail,0022400501,249,1628370,Malik Monk,1610612758,Sacramento Kings,2,6,33,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,32,95,1,1,20250106,SAC,MIA
+Shot Chart Detail,0022400501,271,1628370,Malik Monk,1610612758,Sacramento Kings,2,5,5,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-37,15,1,1,20250106,SAC,MIA
+Shot Chart Detail,0022400501,306,1628370,Malik Monk,1610612758,Sacramento Kings,2,2,5,Made Shot,Driving Bank Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,23,1,1,20250106,SAC,MIA
+Shot Chart Detail,0022400501,317,1628370,Malik Monk,1610612758,Sacramento Kings,2,1,23,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-10,1,1,20250106,SAC,MIA
+Shot Chart Detail,0022400501,345,1628370,Malik Monk,1610612758,Sacramento Kings,3,11,44,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,25,1,1,20250106,SAC,MIA
+Shot Chart Detail,0022400501,690,1628370,Malik Monk,1610612758,Sacramento Kings,5,1,12,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,21,1,1,20250106,SAC,MIA
+Shot Chart Detail,0022400501,744,1628370,Malik Monk,1610612758,Sacramento Kings,6,4,21,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-85,10,1,1,20250106,SAC,MIA
+Shot Chart Detail,0022400528,11,1628370,Malik Monk,1610612758,Sacramento Kings,1,11,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,38,1,1,20250110,BOS,SAC
+Shot Chart Detail,0022400528,71,1628370,Malik Monk,1610612758,Sacramento Kings,1,6,1,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,8,1,1,20250110,BOS,SAC
+Shot Chart Detail,0022400528,108,1628370,Malik Monk,1610612758,Sacramento Kings,1,3,27,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,65,239,1,1,20250110,BOS,SAC
+Shot Chart Detail,0022400528,251,1628370,Malik Monk,1610612758,Sacramento Kings,2,6,19,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,67,110,1,1,20250110,BOS,SAC
+Shot Chart Detail,0022400528,272,1628370,Malik Monk,1610612758,Sacramento Kings,2,4,55,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,3,1,1,20250110,BOS,SAC
+Shot Chart Detail,0022400528,293,1628370,Malik Monk,1610612758,Sacramento Kings,2,3,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,20,1,1,20250110,BOS,SAC
+Shot Chart Detail,0022400528,352,1628370,Malik Monk,1610612758,Sacramento Kings,3,10,35,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,183,190,1,1,20250110,BOS,SAC
+Shot Chart Detail,0022400528,576,1628370,Malik Monk,1610612758,Sacramento Kings,4,7,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,27,1,1,20250110,BOS,SAC
+Shot Chart Detail,0022400528,609,1628370,Malik Monk,1610612758,Sacramento Kings,4,3,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,16,1,1,20250110,BOS,SAC
+Shot Chart Detail,0022400541,62,1628370,Malik Monk,1610612758,Sacramento Kings,1,6,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20250112,CHI,SAC
+Shot Chart Detail,0022400541,102,1628370,Malik Monk,1610612758,Sacramento Kings,1,3,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,10,1,1,20250112,CHI,SAC
+Shot Chart Detail,0022400541,109,1628370,Malik Monk,1610612758,Sacramento Kings,1,2,59,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-4,1,1,20250112,CHI,SAC
+Shot Chart Detail,0022400541,263,1628370,Malik Monk,1610612758,Sacramento Kings,2,5,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20250112,CHI,SAC
+Shot Chart Detail,0022400541,287,1628370,Malik Monk,1610612758,Sacramento Kings,2,3,40,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,15,1,1,20250112,CHI,SAC
+Shot Chart Detail,0022400541,370,1628370,Malik Monk,1610612758,Sacramento Kings,3,9,4,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,13,1,1,20250112,CHI,SAC
+Shot Chart Detail,0022400541,403,1628370,Malik Monk,1610612758,Sacramento Kings,3,6,58,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-132,209,1,1,20250112,CHI,SAC
+Shot Chart Detail,0022400576,21,1628370,Malik Monk,1610612758,Sacramento Kings,1,10,31,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-17,75,1,1,20250116,SAC,HOU
+Shot Chart Detail,0022400576,49,1628370,Malik Monk,1610612758,Sacramento Kings,1,6,51,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,25,1,1,20250116,SAC,HOU
+Shot Chart Detail,0022400576,97,1628370,Malik Monk,1610612758,Sacramento Kings,1,3,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,32,1,1,20250116,SAC,HOU
+Shot Chart Detail,0022400576,264,1628370,Malik Monk,1610612758,Sacramento Kings,2,2,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,54,149,1,1,20250116,SAC,HOU
+Shot Chart Detail,0022400576,292,1628370,Malik Monk,1610612758,Sacramento Kings,2,0,2,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,15,-80,138,1,1,20250116,SAC,HOU
+Shot Chart Detail,0022400576,382,1628370,Malik Monk,1610612758,Sacramento Kings,3,6,8,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,15,1,1,20250116,SAC,HOU
+Shot Chart Detail,0022400576,528,1628370,Malik Monk,1610612758,Sacramento Kings,4,7,55,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,18,109,1,1,20250116,SAC,HOU
+Shot Chart Detail,0022400576,550,1628370,Malik Monk,1610612758,Sacramento Kings,4,6,43,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,21,1,1,20250116,SAC,HOU
+Shot Chart Detail,0022400576,564,1628370,Malik Monk,1610612758,Sacramento Kings,4,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,62,271,1,1,20250116,SAC,HOU
+Shot Chart Detail,0022400576,601,1628370,Malik Monk,1610612758,Sacramento Kings,4,2,5,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,31,63,1,1,20250116,SAC,HOU
+Shot Chart Detail,0022400598,47,1628370,Malik Monk,1610612758,Sacramento Kings,1,7,44,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,4,1,1,20250119,SAC,WAS
+Shot Chart Detail,0022400598,77,1628370,Malik Monk,1610612758,Sacramento Kings,1,6,3,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,113,243,1,1,20250119,SAC,WAS
+Shot Chart Detail,0022400598,249,1628370,Malik Monk,1610612758,Sacramento Kings,2,6,55,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-23,34,1,1,20250119,SAC,WAS
+Shot Chart Detail,0022400598,290,1628370,Malik Monk,1610612758,Sacramento Kings,2,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-150,213,1,1,20250119,SAC,WAS
+Shot Chart Detail,0022400598,304,1628370,Malik Monk,1610612758,Sacramento Kings,2,3,31,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,29,1,1,20250119,SAC,WAS
+Shot Chart Detail,0022400598,358,1628370,Malik Monk,1610612758,Sacramento Kings,3,11,12,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,71,102,1,1,20250119,SAC,WAS
+Shot Chart Detail,0022400598,393,1628370,Malik Monk,1610612758,Sacramento Kings,3,8,8,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,64,1,1,20250119,SAC,WAS
+Shot Chart Detail,0022400598,642,1628370,Malik Monk,1610612758,Sacramento Kings,4,3,23,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,21,1,1,20250119,SAC,WAS
+Shot Chart Detail,0022400619,223,1628370,Malik Monk,1610612758,Sacramento Kings,2,7,12,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-89,121,1,1,20250122,SAC,GSW
+Shot Chart Detail,0022400619,318,1628370,Malik Monk,1610612758,Sacramento Kings,2,0,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-124,233,1,1,20250122,SAC,GSW
+Shot Chart Detail,0022400619,358,1628370,Malik Monk,1610612758,Sacramento Kings,3,11,24,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,20,1,1,20250122,SAC,GSW
+Shot Chart Detail,0022400619,395,1628370,Malik Monk,1610612758,Sacramento Kings,3,8,35,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,14,1,1,20250122,SAC,GSW
+Shot Chart Detail,0022400619,575,1628370,Malik Monk,1610612758,Sacramento Kings,4,8,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-227,98,1,1,20250122,SAC,GSW
+Shot Chart Detail,0022400619,616,1628370,Malik Monk,1610612758,Sacramento Kings,4,4,55,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,21,1,1,20250122,SAC,GSW
+Shot Chart Detail,0022400619,686,1628370,Malik Monk,1610612758,Sacramento Kings,4,0,25,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-69,14,1,1,20250122,SAC,GSW
+Shot Chart Detail,0022400626,45,1628370,Malik Monk,1610612758,Sacramento Kings,1,8,3,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,10,126,1,1,20250123,DEN,SAC
+Shot Chart Detail,0022400626,288,1628370,Malik Monk,1610612758,Sacramento Kings,2,5,16,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,1,1,1,20250123,DEN,SAC
+Shot Chart Detail,0022400626,629,1628370,Malik Monk,1610612758,Sacramento Kings,4,5,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,22,1,1,20250123,DEN,SAC
+Shot Chart Detail,0022400626,643,1628370,Malik Monk,1610612758,Sacramento Kings,4,4,19,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,23,1,1,20250123,DEN,SAC
+Shot Chart Detail,0022400626,665,1628370,Malik Monk,1610612758,Sacramento Kings,4,2,45,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20250123,DEN,SAC
+Shot Chart Detail,0022400641,25,1628370,Malik Monk,1610612758,Sacramento Kings,1,10,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,4,1,1,20250125,NYK,SAC
+Shot Chart Detail,0022400641,89,1628370,Malik Monk,1610612758,Sacramento Kings,1,5,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,91,78,1,1,20250125,NYK,SAC
+Shot Chart Detail,0022400641,258,1628370,Malik Monk,1610612758,Sacramento Kings,2,7,15,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,76,57,1,1,20250125,NYK,SAC
+Shot Chart Detail,0022400641,261,1628370,Malik Monk,1610612758,Sacramento Kings,2,6,53,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,105,155,1,1,20250125,NYK,SAC
+Shot Chart Detail,0022400641,285,1628370,Malik Monk,1610612758,Sacramento Kings,2,5,7,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,27,36,1,1,20250125,NYK,SAC
+Shot Chart Detail,0022400641,291,1628370,Malik Monk,1610612758,Sacramento Kings,2,4,44,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,158,201,1,1,20250125,NYK,SAC
+Shot Chart Detail,0022400641,296,1628370,Malik Monk,1610612758,Sacramento Kings,2,3,53,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-7,72,1,1,20250125,NYK,SAC
+Shot Chart Detail,0022400641,326,1628370,Malik Monk,1610612758,Sacramento Kings,2,2,4,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-81,176,1,1,20250125,NYK,SAC
+Shot Chart Detail,0022400641,336,1628370,Malik Monk,1610612758,Sacramento Kings,2,1,13,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,148,204,1,1,20250125,NYK,SAC
+Shot Chart Detail,0022400641,403,1628370,Malik Monk,1610612758,Sacramento Kings,3,8,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,18,1,1,20250125,NYK,SAC
+Shot Chart Detail,0022400641,426,1628370,Malik Monk,1610612758,Sacramento Kings,3,7,5,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-18,259,1,1,20250125,NYK,SAC
+Shot Chart Detail,0022400641,563,1628370,Malik Monk,1610612758,Sacramento Kings,4,10,3,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-107,86,1,1,20250125,NYK,SAC
+Shot Chart Detail,0022400651,19,1628370,Malik Monk,1610612758,Sacramento Kings,1,10,33,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,-7,1,1,20250127,BKN,SAC
+Shot Chart Detail,0022400651,77,1628370,Malik Monk,1610612758,Sacramento Kings,1,5,42,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,0,1,1,20250127,BKN,SAC
+Shot Chart Detail,0022400651,402,1628370,Malik Monk,1610612758,Sacramento Kings,3,10,54,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,1,20250127,BKN,SAC
+Shot Chart Detail,0022400651,412,1628370,Malik Monk,1610612758,Sacramento Kings,3,9,53,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20250127,BKN,SAC
+Shot Chart Detail,0022400651,437,1628370,Malik Monk,1610612758,Sacramento Kings,3,7,54,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,8,1,1,20250127,BKN,SAC
+Shot Chart Detail,0022400651,588,1628370,Malik Monk,1610612758,Sacramento Kings,4,9,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,1,20250127,BKN,SAC
+Shot Chart Detail,0022400651,614,1628370,Malik Monk,1610612758,Sacramento Kings,4,8,3,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-58,75,1,1,20250127,BKN,SAC
+Shot Chart Detail,0022400651,677,1628370,Malik Monk,1610612758,Sacramento Kings,4,3,8,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,21,41,1,1,20250127,BKN,SAC
+Shot Chart Detail,0022400669,7,1628370,Malik Monk,1610612758,Sacramento Kings,1,11,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,83,268,1,1,20250129,PHI,SAC
+Shot Chart Detail,0022400669,21,1628370,Malik Monk,1610612758,Sacramento Kings,1,9,51,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-17,26,1,1,20250129,PHI,SAC
+Shot Chart Detail,0022400669,50,1628370,Malik Monk,1610612758,Sacramento Kings,1,7,24,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-25,44,1,1,20250129,PHI,SAC
+Shot Chart Detail,0022400669,58,1628370,Malik Monk,1610612758,Sacramento Kings,1,6,31,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,18,1,1,20250129,PHI,SAC
+Shot Chart Detail,0022400669,114,1628370,Malik Monk,1610612758,Sacramento Kings,1,3,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,150,247,1,1,20250129,PHI,SAC
+Shot Chart Detail,0022400669,279,1628370,Malik Monk,1610612758,Sacramento Kings,2,3,14,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20250129,PHI,SAC
+Shot Chart Detail,0022400669,287,1628370,Malik Monk,1610612758,Sacramento Kings,2,2,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,10,1,1,20250129,PHI,SAC
+Shot Chart Detail,0022400669,339,1628370,Malik Monk,1610612758,Sacramento Kings,3,10,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-131,225,1,1,20250129,PHI,SAC
+Shot Chart Detail,0022400691,20,1628370,Malik Monk,1610612758,Sacramento Kings,1,10,24,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,8,1,1,20250201,OKC,SAC
+Shot Chart Detail,0022400691,24,1628370,Malik Monk,1610612758,Sacramento Kings,1,10,3,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,5,1,1,20250201,OKC,SAC
+Shot Chart Detail,0022400691,36,1628370,Malik Monk,1610612758,Sacramento Kings,1,8,32,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-89,58,1,1,20250201,OKC,SAC
+Shot Chart Detail,0022400691,65,1628370,Malik Monk,1610612758,Sacramento Kings,1,6,56,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,11,1,1,20250201,OKC,SAC
+Shot Chart Detail,0022400691,73,1628370,Malik Monk,1610612758,Sacramento Kings,1,6,25,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,25,1,1,20250201,OKC,SAC
+Shot Chart Detail,0022400691,304,1628370,Malik Monk,1610612758,Sacramento Kings,2,2,55,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,13,1,1,20250201,OKC,SAC
+Shot Chart Detail,0022400691,368,1628370,Malik Monk,1610612758,Sacramento Kings,3,10,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,8,1,1,20250201,OKC,SAC
+Shot Chart Detail,0022400691,469,1628370,Malik Monk,1610612758,Sacramento Kings,3,3,6,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,188,166,1,1,20250201,OKC,SAC
+Shot Chart Detail,0022400691,480,1628370,Malik Monk,1610612758,Sacramento Kings,3,2,39,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,70,136,1,1,20250201,OKC,SAC
+Shot Chart Detail,0022400704,19,1628370,Malik Monk,1610612758,Sacramento Kings,1,10,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-142,206,1,1,20250203,MIN,SAC
+Shot Chart Detail,0022400704,175,1628370,Malik Monk,1610612758,Sacramento Kings,2,10,56,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,40,89,1,1,20250203,MIN,SAC
+Shot Chart Detail,0022400704,303,1628370,Malik Monk,1610612758,Sacramento Kings,2,2,11,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,18,85,1,1,20250203,MIN,SAC
+Shot Chart Detail,0022400704,319,1628370,Malik Monk,1610612758,Sacramento Kings,2,1,13,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,70,152,1,1,20250203,MIN,SAC
+Shot Chart Detail,0022400704,373,1628370,Malik Monk,1610612758,Sacramento Kings,3,8,59,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,26,250,1,1,20250203,MIN,SAC
+Shot Chart Detail,0022400704,383,1628370,Malik Monk,1610612758,Sacramento Kings,3,8,1,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-25,78,1,1,20250203,MIN,SAC
+Shot Chart Detail,0022400704,471,1628370,Malik Monk,1610612758,Sacramento Kings,3,1,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,6,185,1,1,20250203,MIN,SAC
+Shot Chart Detail,0022400704,526,1628370,Malik Monk,1610612758,Sacramento Kings,4,9,25,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,129,152,1,1,20250203,MIN,SAC
+Shot Chart Detail,0022400704,587,1628370,Malik Monk,1610612758,Sacramento Kings,4,4,46,Made Shot,Step Back Bank Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-119,180,1,1,20250203,MIN,SAC
+Shot Chart Detail,0022400704,629,1628370,Malik Monk,1610612758,Sacramento Kings,4,1,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,1,20250203,MIN,SAC
+Shot Chart Detail,0022400727,43,1628370,Malik Monk,1610612758,Sacramento Kings,1,7,18,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,2,84,1,1,20250205,SAC,ORL
+Shot Chart Detail,0022400727,96,1628370,Malik Monk,1610612758,Sacramento Kings,1,2,37,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-51,71,1,1,20250205,SAC,ORL
+Shot Chart Detail,0022400727,238,1628370,Malik Monk,1610612758,Sacramento Kings,2,5,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,6,1,1,20250205,SAC,ORL
+Shot Chart Detail,0022400727,250,1628370,Malik Monk,1610612758,Sacramento Kings,2,4,14,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,-13,1,1,20250205,SAC,ORL
+Shot Chart Detail,0022400732,9,1628370,Malik Monk,1610612758,Sacramento Kings,1,11,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-189,174,1,1,20250206,POR,SAC
+Shot Chart Detail,0022400732,40,1628370,Malik Monk,1610612758,Sacramento Kings,1,8,23,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,45,1,1,20250206,POR,SAC
+Shot Chart Detail,0022400732,246,1628370,Malik Monk,1610612758,Sacramento Kings,2,6,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,31,55,1,1,20250206,POR,SAC
+Shot Chart Detail,0022400732,267,1628370,Malik Monk,1610612758,Sacramento Kings,2,4,42,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-31,31,1,1,20250206,POR,SAC
+Shot Chart Detail,0022400732,386,1628370,Malik Monk,1610612758,Sacramento Kings,3,7,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,16,1,1,20250206,POR,SAC
+Shot Chart Detail,0022400732,414,1628370,Malik Monk,1610612758,Sacramento Kings,3,5,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,100,162,1,1,20250206,POR,SAC
+Shot Chart Detail,0022400732,539,1628370,Malik Monk,1610612758,Sacramento Kings,4,8,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,13,1,1,20250206,POR,SAC
+Shot Chart Detail,0022400732,579,1628370,Malik Monk,1610612758,Sacramento Kings,4,4,53,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,2,1,1,20250206,POR,SAC
+Shot Chart Detail,0022400750,351,1628370,Malik Monk,1610612758,Sacramento Kings,3,11,5,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,3,1,1,20250208,SAC,NOP
+Shot Chart Detail,0022400750,488,1628370,Malik Monk,1610612758,Sacramento Kings,3,2,56,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-5,1,1,20250208,SAC,NOP
+Shot Chart Detail,0022400750,503,1628370,Malik Monk,1610612758,Sacramento Kings,3,1,55,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,43,106,1,1,20250208,SAC,NOP
+Shot Chart Detail,0022400750,528,1628370,Malik Monk,1610612758,Sacramento Kings,3,0,10,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,200,1,1,20250208,SAC,NOP
+Shot Chart Detail,0022400750,539,1628370,Malik Monk,1610612758,Sacramento Kings,4,11,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,8,1,1,20250208,SAC,NOP
+Shot Chart Detail,0022400762,66,1628370,Malik Monk,1610612758,Sacramento Kings,1,6,42,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,31,47,1,1,20250210,DAL,SAC
+Shot Chart Detail,0022400762,184,1628370,Malik Monk,1610612758,Sacramento Kings,2,8,52,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,48,1,1,20250210,DAL,SAC
+Shot Chart Detail,0022400762,328,1628370,Malik Monk,1610612758,Sacramento Kings,3,10,6,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,10,1,1,20250210,DAL,SAC
+Shot Chart Detail,0022400762,645,1628370,Malik Monk,1610612758,Sacramento Kings,4,1,51,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,5,33,1,1,20250210,DAL,SAC
+Shot Chart Detail,0022400762,701,1628370,Malik Monk,1610612758,Sacramento Kings,5,4,18,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,2,1,1,20250210,DAL,SAC
+Shot Chart Detail,0022400762,724,1628370,Malik Monk,1610612758,Sacramento Kings,5,1,56,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250210,DAL,SAC
+Shot Chart Detail,0022400762,738,1628370,Malik Monk,1610612758,Sacramento Kings,5,0,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,11,1,1,20250210,DAL,SAC
+Shot Chart Detail,0022400777,11,1628370,Malik Monk,1610612758,Sacramento Kings,1,11,22,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,76,94,1,1,20250212,NOP,SAC
+Shot Chart Detail,0022400777,42,1628370,Malik Monk,1610612758,Sacramento Kings,1,8,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-45,266,1,1,20250212,NOP,SAC
+Shot Chart Detail,0022400777,321,1628370,Malik Monk,1610612758,Sacramento Kings,2,0,58,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-2,1,1,20250212,NOP,SAC
+Shot Chart Detail,0022400777,324,1628370,Malik Monk,1610612758,Sacramento Kings,2,0,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,19,1,1,20250212,NOP,SAC
+Shot Chart Detail,0022400777,410,1628370,Malik Monk,1610612758,Sacramento Kings,3,5,37,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-174,185,1,1,20250212,NOP,SAC
+Shot Chart Detail,0022400777,432,1628370,Malik Monk,1610612758,Sacramento Kings,3,4,15,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-113,237,1,1,20250212,NOP,SAC
+Shot Chart Detail,0022400785,14,1628370,Malik Monk,1610612758,Sacramento Kings,1,10,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,147,205,1,1,20250213,NOP,SAC
+Shot Chart Detail,0022400785,17,1628370,Malik Monk,1610612758,Sacramento Kings,1,10,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,194,220,1,1,20250213,NOP,SAC
+Shot Chart Detail,0022400785,88,1628370,Malik Monk,1610612758,Sacramento Kings,1,4,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,4,1,1,20250213,NOP,SAC
+Shot Chart Detail,0022400785,406,1628370,Malik Monk,1610612758,Sacramento Kings,3,4,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,16,1,1,20250213,NOP,SAC
+Shot Chart Detail,0022400785,433,1628370,Malik Monk,1610612758,Sacramento Kings,3,3,36,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,124,239,1,1,20250213,NOP,SAC
+Shot Chart Detail,0022400785,437,1628370,Malik Monk,1610612758,Sacramento Kings,3,3,8,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,1,20250213,NOP,SAC
+Shot Chart Detail,0022400785,590,1628370,Malik Monk,1610612758,Sacramento Kings,4,5,4,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,8,1,1,20250213,NOP,SAC
+Shot Chart Detail,0022400785,716,1628370,Malik Monk,1610612758,Sacramento Kings,5,3,42,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,10,1,1,20250213,NOP,SAC
+Shot Chart Detail,0022400805,63,1628370,Malik Monk,1610612758,Sacramento Kings,1,7,4,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-45,27,1,1,20250221,SAC,GSW
+Shot Chart Detail,0022400805,239,1628370,Malik Monk,1610612758,Sacramento Kings,2,7,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,114,105,1,1,20250221,SAC,GSW
+Shot Chart Detail,0022400805,262,1628370,Malik Monk,1610612758,Sacramento Kings,2,6,17,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-37,44,1,1,20250221,SAC,GSW
+Shot Chart Detail,0022400805,387,1628370,Malik Monk,1610612758,Sacramento Kings,3,8,5,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,124,225,1,1,20250221,SAC,GSW
+Shot Chart Detail,0022400805,578,1628370,Malik Monk,1610612758,Sacramento Kings,4,7,8,Made Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-11,71,1,1,20250221,SAC,GSW
+Shot Chart Detail,0022400805,592,1628370,Malik Monk,1610612758,Sacramento Kings,4,5,49,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-14,44,1,1,20250221,SAC,GSW
+Shot Chart Detail,0022400828,17,1628370,Malik Monk,1610612758,Sacramento Kings,1,10,43,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-32,117,1,1,20250224,SAC,CHA
+Shot Chart Detail,0022400828,32,1628370,Malik Monk,1610612758,Sacramento Kings,1,8,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-58,251,1,1,20250224,SAC,CHA
+Shot Chart Detail,0022400828,140,1628370,Malik Monk,1610612758,Sacramento Kings,1,0,43,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,202,198,1,1,20250224,SAC,CHA
+Shot Chart Detail,0022400828,481,1628370,Malik Monk,1610612758,Sacramento Kings,3,1,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,17,1,1,20250224,SAC,CHA
+Shot Chart Detail,0022400828,501,1628370,Malik Monk,1610612758,Sacramento Kings,4,11,28,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,26,159,1,1,20250224,SAC,CHA
+Shot Chart Detail,0022400843,21,1628370,Malik Monk,1610612758,Sacramento Kings,1,10,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,118,99,1,1,20250226,UTA,SAC
+Shot Chart Detail,0022400843,204,1628370,Malik Monk,1610612758,Sacramento Kings,2,8,31,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-141,204,1,1,20250226,UTA,SAC
+Shot Chart Detail,0022400843,332,1628370,Malik Monk,1610612758,Sacramento Kings,3,10,52,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,15,1,1,20250226,UTA,SAC
+Shot Chart Detail,0022400843,429,1628370,Malik Monk,1610612758,Sacramento Kings,3,3,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-62,142,1,1,20250226,UTA,SAC
+Shot Chart Detail,0022400843,603,1628370,Malik Monk,1610612758,Sacramento Kings,4,0,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-110,113,1,1,20250226,UTA,SAC
+Shot Chart Detail,0022400862,31,1628370,Malik Monk,1610612758,Sacramento Kings,1,9,40,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-1,116,1,1,20250301,HOU,SAC
+Shot Chart Detail,0022400862,35,1628370,Malik Monk,1610612758,Sacramento Kings,1,9,15,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,31,71,1,1,20250301,HOU,SAC
+Shot Chart Detail,0022400862,264,1628370,Malik Monk,1610612758,Sacramento Kings,2,4,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-55,42,1,1,20250301,HOU,SAC
+Shot Chart Detail,0022400862,329,1628370,Malik Monk,1610612758,Sacramento Kings,3,11,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-109,249,1,1,20250301,HOU,SAC
+Shot Chart Detail,0022400862,379,1628370,Malik Monk,1610612758,Sacramento Kings,3,6,6,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-45,38,1,1,20250301,HOU,SAC
+Shot Chart Detail,0022400862,533,1628370,Malik Monk,1610612758,Sacramento Kings,4,7,26,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,21,1,1,20250301,HOU,SAC
+Shot Chart Detail,0022400862,583,1628370,Malik Monk,1610612758,Sacramento Kings,4,3,48,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,53,88,1,1,20250301,HOU,SAC
+Shot Chart Detail,0022400880,26,1628370,Malik Monk,1610612758,Sacramento Kings,1,9,29,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,162,206,1,1,20250303,DAL,SAC
+Shot Chart Detail,0022400880,349,1628370,Malik Monk,1610612758,Sacramento Kings,3,8,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-230,118,1,1,20250303,DAL,SAC
+Shot Chart Detail,0022400880,377,1628370,Malik Monk,1610612758,Sacramento Kings,3,7,16,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-18,45,1,1,20250303,DAL,SAC
+Shot Chart Detail,0022400880,420,1628370,Malik Monk,1610612758,Sacramento Kings,3,3,59,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,32,80,1,1,20250303,DAL,SAC
+Shot Chart Detail,0022400880,485,1628370,Malik Monk,1610612758,Sacramento Kings,4,11,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-22,264,1,1,20250303,DAL,SAC
+Shot Chart Detail,0022400939,193,1628370,Malik Monk,1610612758,Sacramento Kings,2,9,53,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,44,55,1,1,20250310,SAC,NYK
+Shot Chart Detail,0022400939,215,1628370,Malik Monk,1610612758,Sacramento Kings,2,8,8,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,32,40,1,1,20250310,SAC,NYK
+Shot Chart Detail,0022400939,223,1628370,Malik Monk,1610612758,Sacramento Kings,2,7,47,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,35,48,1,1,20250310,SAC,NYK
+Shot Chart Detail,0022400939,323,1628370,Malik Monk,1610612758,Sacramento Kings,2,0,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,205,207,1,1,20250310,SAC,NYK
+Shot Chart Detail,0022400939,428,1628370,Malik Monk,1610612758,Sacramento Kings,3,5,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-175,214,1,1,20250310,SAC,NYK
+Shot Chart Detail,0022400939,433,1628370,Malik Monk,1610612758,Sacramento Kings,3,5,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,173,1,1,20250310,SAC,NYK
+Shot Chart Detail,0022400939,488,1628370,Malik Monk,1610612758,Sacramento Kings,3,1,16,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,55,29,1,1,20250310,SAC,NYK
+Shot Chart Detail,0022400957,121,1628370,Malik Monk,1610612758,Sacramento Kings,1,3,5,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-28,11,1,1,20250313,GSW,SAC
+Shot Chart Detail,0022400957,326,1628370,Malik Monk,1610612758,Sacramento Kings,2,0,40,Made Shot,Running Reverse Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,14,1,1,20250313,GSW,SAC
+Shot Chart Detail,0022400957,519,1628370,Malik Monk,1610612758,Sacramento Kings,4,10,1,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-25,39,1,1,20250313,GSW,SAC
+Shot Chart Detail,0022400967,235,1628370,Malik Monk,1610612758,Sacramento Kings,2,6,26,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,49,132,1,1,20250314,PHX,SAC
+Shot Chart Detail,0022400967,244,1628370,Malik Monk,1610612758,Sacramento Kings,2,5,51,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-10,83,1,1,20250314,PHX,SAC
+Shot Chart Detail,0022400967,261,1628370,Malik Monk,1610612758,Sacramento Kings,2,4,14,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,43,62,1,1,20250314,PHX,SAC
+Shot Chart Detail,0022400967,275,1628370,Malik Monk,1610612758,Sacramento Kings,2,2,49,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,43,101,1,1,20250314,PHX,SAC
+Shot Chart Detail,0022400967,289,1628370,Malik Monk,1610612758,Sacramento Kings,2,2,3,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-66,86,1,1,20250314,PHX,SAC
+Shot Chart Detail,0022400967,336,1628370,Malik Monk,1610612758,Sacramento Kings,3,10,22,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,106,108,1,1,20250314,PHX,SAC
+Shot Chart Detail,0022400967,524,1628370,Malik Monk,1610612758,Sacramento Kings,4,8,56,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,13,55,1,1,20250314,PHX,SAC
+Shot Chart Detail,0022400967,579,1628370,Malik Monk,1610612758,Sacramento Kings,4,3,5,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-5,92,1,1,20250314,PHX,SAC
+Shot Chart Detail,0022400992,29,1628370,Malik Monk,1610612758,Sacramento Kings,1,9,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,99,236,1,1,20250317,SAC,MEM
+Shot Chart Detail,0022400992,42,1628370,Malik Monk,1610612758,Sacramento Kings,1,8,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-35,62,1,1,20250317,SAC,MEM
+Shot Chart Detail,0022400992,216,1628370,Malik Monk,1610612758,Sacramento Kings,2,9,51,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,46,1,1,20250317,SAC,MEM
+Shot Chart Detail,0022400992,258,1628370,Malik Monk,1610612758,Sacramento Kings,2,7,9,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-19,25,1,1,20250317,SAC,MEM
+Shot Chart Detail,0022400992,276,1628370,Malik Monk,1610612758,Sacramento Kings,2,5,2,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,-1,1,1,20250317,SAC,MEM
+Shot Chart Detail,0022400992,290,1628370,Malik Monk,1610612758,Sacramento Kings,2,4,45,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,27,45,1,1,20250317,SAC,MEM
+Shot Chart Detail,0022400992,435,1628370,Malik Monk,1610612758,Sacramento Kings,3,6,16,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,218,133,1,1,20250317,SAC,MEM
+Shot Chart Detail,0022400992,571,1628370,Malik Monk,1610612758,Sacramento Kings,4,11,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,136,123,1,1,20250317,SAC,MEM
+Shot Chart Detail,0022400992,613,1628370,Malik Monk,1610612758,Sacramento Kings,4,8,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-66,260,1,1,20250317,SAC,MEM
+Shot Chart Detail,0022400992,698,1628370,Malik Monk,1610612758,Sacramento Kings,4,2,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-133,222,1,1,20250317,SAC,MEM
+Shot Chart Detail,0022401009,16,1628370,Malik Monk,1610612758,Sacramento Kings,1,10,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-10,289,1,1,20250319,SAC,CLE
+Shot Chart Detail,0022401009,152,1628370,Malik Monk,1610612758,Sacramento Kings,1,0,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,5,283,1,1,20250319,SAC,CLE
+Shot Chart Detail,0022401009,164,1628370,Malik Monk,1610612758,Sacramento Kings,2,11,4,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,161,218,1,1,20250319,SAC,CLE
+Shot Chart Detail,0022401009,181,1628370,Malik Monk,1610612758,Sacramento Kings,2,9,22,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,1,285,1,1,20250319,SAC,CLE
+Shot Chart Detail,0022401009,288,1628370,Malik Monk,1610612758,Sacramento Kings,2,1,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,26,1,1,20250319,SAC,CLE
+Shot Chart Detail,0022401009,495,1628370,Malik Monk,1610612758,Sacramento Kings,4,10,11,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,24,1,1,20250319,SAC,CLE
+Shot Chart Detail,0022401009,505,1628370,Malik Monk,1610612758,Sacramento Kings,4,9,21,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-16,147,1,1,20250319,SAC,CLE
+Shot Chart Detail,0022401009,616,1628370,Malik Monk,1610612758,Sacramento Kings,4,0,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,56,153,1,1,20250319,SAC,CLE
+Shot Chart Detail,0022401013,11,1628370,Malik Monk,1610612758,Sacramento Kings,1,11,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-85,253,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,29,1628370,Malik Monk,1610612758,Sacramento Kings,1,8,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,18,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,34,1628370,Malik Monk,1610612758,Sacramento Kings,1,8,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,88,247,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,38,1628370,Malik Monk,1610612758,Sacramento Kings,1,8,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,99,246,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,85,1628370,Malik Monk,1610612758,Sacramento Kings,1,5,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-131,233,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,279,1628370,Malik Monk,1610612758,Sacramento Kings,2,3,51,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,13,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,485,1628370,Malik Monk,1610612758,Sacramento Kings,3,1,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,11,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,494,1628370,Malik Monk,1610612758,Sacramento Kings,3,0,32,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,47,98,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,498,1628370,Malik Monk,1610612758,Sacramento Kings,3,0,4,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,508,1628370,Malik Monk,1610612758,Sacramento Kings,4,11,46,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-7,134,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,517,1628370,Malik Monk,1610612758,Sacramento Kings,4,10,43,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,1,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,618,1628370,Malik Monk,1610612758,Sacramento Kings,4,3,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,-10,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401066,93,1628370,Malik Monk,1610612758,Sacramento Kings,1,3,55,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-21,37,1,1,20250327,SAC,POR
+Shot Chart Detail,0022401066,173,1628370,Malik Monk,1610612758,Sacramento Kings,2,9,59,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-4,264,1,1,20250327,SAC,POR
+Shot Chart Detail,0022401066,214,1628370,Malik Monk,1610612758,Sacramento Kings,2,6,33,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,16,1,1,20250327,SAC,POR
+Shot Chart Detail,0022401066,217,1628370,Malik Monk,1610612758,Sacramento Kings,2,6,9,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-62,59,1,1,20250327,SAC,POR
+Shot Chart Detail,0022401066,383,1628370,Malik Monk,1610612758,Sacramento Kings,3,6,9,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,42,1,1,20250327,SAC,POR
+Shot Chart Detail,0022401066,450,1628370,Malik Monk,1610612758,Sacramento Kings,3,1,44,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,124,251,1,1,20250327,SAC,POR
+Shot Chart Detail,0022401074,301,1628370,Malik Monk,1610612758,Sacramento Kings,2,2,30,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,11,1,1,20250329,ORL,SAC
+Shot Chart Detail,0022401074,384,1628370,Malik Monk,1610612758,Sacramento Kings,3,7,58,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,16,36,1,1,20250329,ORL,SAC
+Shot Chart Detail,0022401074,437,1628370,Malik Monk,1610612758,Sacramento Kings,3,4,9,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-86,183,1,1,20250329,ORL,SAC
+Shot Chart Detail,0022401074,459,1628370,Malik Monk,1610612758,Sacramento Kings,3,2,57,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,163,221,1,1,20250329,ORL,SAC
+Shot Chart Detail,0022401090,485,1628370,Malik Monk,1610612758,Sacramento Kings,4,9,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,22,1,1,20250331,IND,SAC
+Shot Chart Detail,0022401090,614,1628370,Malik Monk,1610612758,Sacramento Kings,4,0,17,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,16,270,1,1,20250331,IND,SAC
+Shot Chart Detail,0022401105,117,1628370,Malik Monk,1610612758,Sacramento Kings,1,2,23,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,1,20250402,WAS,SAC
+Shot Chart Detail,0022401105,235,1628370,Malik Monk,1610612758,Sacramento Kings,2,6,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,186,220,1,1,20250402,WAS,SAC
+Shot Chart Detail,0022401105,309,1628370,Malik Monk,1610612758,Sacramento Kings,2,0,5,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,17,1,1,20250402,WAS,SAC
+Shot Chart Detail,0022401105,480,1628370,Malik Monk,1610612758,Sacramento Kings,4,10,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-159,242,1,1,20250402,WAS,SAC
+Shot Chart Detail,0022401118,184,1628370,Malik Monk,1610612758,Sacramento Kings,2,10,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,138,225,1,1,20250404,CHA,SAC
+Shot Chart Detail,0022401118,228,1628370,Malik Monk,1610612758,Sacramento Kings,2,7,52,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-40,100,1,1,20250404,CHA,SAC
+Shot Chart Detail,0022401118,246,1628370,Malik Monk,1610612758,Sacramento Kings,2,6,25,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,31,90,1,1,20250404,CHA,SAC
+Shot Chart Detail,0022401118,285,1628370,Malik Monk,1610612758,Sacramento Kings,2,4,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,108,240,1,1,20250404,CHA,SAC
+Shot Chart Detail,0022401118,294,1628370,Malik Monk,1610612758,Sacramento Kings,2,3,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-105,241,1,1,20250404,CHA,SAC
+Shot Chart Detail,0022401118,308,1628370,Malik Monk,1610612758,Sacramento Kings,2,2,41,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,23,79,1,1,20250404,CHA,SAC
+Shot Chart Detail,0022401118,455,1628370,Malik Monk,1610612758,Sacramento Kings,3,3,42,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-6,86,1,1,20250404,CHA,SAC
+Shot Chart Detail,0022401138,226,1628370,Malik Monk,1610612758,Sacramento Kings,2,8,39,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,10,1,1,20250406,CLE,SAC
+Shot Chart Detail,0022401144,84,1628370,Malik Monk,1610612758,Sacramento Kings,1,4,18,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,23,83,1,1,20250407,DET,SAC
+Shot Chart Detail,0022401207,41,1628370,Malik Monk,1610612758,Sacramento Kings,1,8,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-4,260,1,1,20241212,NOP,SAC
+Shot Chart Detail,0022401207,292,1628370,Malik Monk,1610612758,Sacramento Kings,2,4,16,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,64,120,1,1,20241212,NOP,SAC
+Shot Chart Detail,0022401225,78,1628370,Malik Monk,1610612758,Sacramento Kings,1,5,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-145,211,1,1,20241216,SAC,DEN
+Shot Chart Detail,0022401225,281,1628370,Malik Monk,1610612758,Sacramento Kings,2,6,51,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-7,30,1,1,20241216,SAC,DEN
+Shot Chart Detail,0022401225,338,1628370,Malik Monk,1610612758,Sacramento Kings,2,4,38,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,13,1,1,20241216,SAC,DEN
+Shot Chart Detail,0022401225,426,1628370,Malik Monk,1610612758,Sacramento Kings,3,10,34,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,167,43,1,1,20241216,SAC,DEN
+Shot Chart Detail,0022401225,443,1628370,Malik Monk,1610612758,Sacramento Kings,3,9,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-75,253,1,1,20241216,SAC,DEN
+Shot Chart Detail,0022401225,447,1628370,Malik Monk,1610612758,Sacramento Kings,3,8,54,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,43,1,1,20241216,SAC,DEN
+Shot Chart Detail,0022401225,454,1628370,Malik Monk,1610612758,Sacramento Kings,3,8,5,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-6,272,1,1,20241216,SAC,DEN
+Shot Chart Detail,0022401225,461,1628370,Malik Monk,1610612758,Sacramento Kings,3,7,10,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,32,111,1,1,20241216,SAC,DEN
+Shot Chart Detail,0022401225,499,1628370,Malik Monk,1610612758,Sacramento Kings,3,4,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,5,1,1,20241216,SAC,DEN

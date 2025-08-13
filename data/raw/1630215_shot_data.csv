@@ -1,21 +1,204 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400035,707,1630215,Jared Butler,1610612764,Washington Wizards,4,0,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,127,100,1,1,20241126,WAS,CHI
+Shot Chart Detail,0022400051,532,1630215,Jared Butler,1610612764,Washington Wizards,3,0,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,1,20241203,CLE,WAS
+Shot Chart Detail,0022400051,586,1630215,Jared Butler,1610612764,Washington Wizards,4,8,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,123,155,1,1,20241203,CLE,WAS
+Shot Chart Detail,0022400051,644,1630215,Jared Butler,1610612764,Washington Wizards,4,5,28,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-69,79,1,1,20241203,CLE,WAS
+Shot Chart Detail,0022400051,650,1630215,Jared Butler,1610612764,Washington Wizards,4,4,21,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,22,1,1,20241203,CLE,WAS
+Shot Chart Detail,0022400051,670,1630215,Jared Butler,1610612764,Washington Wizards,4,2,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,34,1,1,20241203,CLE,WAS
+Shot Chart Detail,0022400073,633,1630215,Jared Butler,1610612764,Washington Wizards,4,3,41,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,24,1,1,20241024,WAS,BOS
+Shot Chart Detail,0022400073,665,1630215,Jared Butler,1610612764,Washington Wizards,4,2,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,6,1,1,20241024,WAS,BOS
+Shot Chart Detail,0022400090,233,1630215,Jared Butler,1610612764,Washington Wizards,2,7,56,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,5,1,1,20241026,WAS,CLE
+Shot Chart Detail,0022400090,680,1630215,Jared Butler,1610612764,Washington Wizards,4,4,10,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-20,57,1,1,20241026,WAS,CLE
+Shot Chart Detail,0022400090,731,1630215,Jared Butler,1610612764,Washington Wizards,4,1,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-26,277,1,1,20241026,WAS,CLE
+Shot Chart Detail,0022400121,164,1630215,Jared Butler,1610612764,Washington Wizards,1,2,15,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-55,17,1,1,20241030,WAS,ATL
+Shot Chart Detail,0022400147,150,1630215,Jared Butler,1610612764,Washington Wizards,1,0,41,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,13,1,1,20241102,WAS,MIA
+Shot Chart Detail,0022400147,155,1630215,Jared Butler,1610612764,Washington Wizards,1,0,24,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,62,1,1,20241102,WAS,MIA
+Shot Chart Detail,0022400155,280,1630215,Jared Butler,1610612764,Washington Wizards,2,3,34,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-10,1,1,20241104,WAS,GSW
+Shot Chart Detail,0022400155,484,1630215,Jared Butler,1610612764,Washington Wizards,3,2,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,11,1,1,20241104,WAS,GSW
+Shot Chart Detail,0022400155,486,1630215,Jared Butler,1610612764,Washington Wizards,3,2,16,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-108,91,1,1,20241104,WAS,GSW
+Shot Chart Detail,0022400191,563,1630215,Jared Butler,1610612764,Washington Wizards,3,0,9,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,44,98,1,1,20241108,MEM,WAS
+Shot Chart Detail,0022400191,640,1630215,Jared Butler,1610612764,Washington Wizards,4,7,48,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,8,1,1,20241108,MEM,WAS
+Shot Chart Detail,0022400213,469,1630215,Jared Butler,1610612764,Washington Wizards,3,0,31,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,8,1,1,20241111,HOU,WAS
+Shot Chart Detail,0022400237,633,1630215,Jared Butler,1610612764,Washington Wizards,4,2,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,11,1,1,20241117,WAS,DET
+Shot Chart Detail,0022400246,540,1630215,Jared Butler,1610612764,Washington Wizards,4,5,9,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,8,1,1,20241118,NYK,WAS
+Shot Chart Detail,0022400246,600,1630215,Jared Butler,1610612764,Washington Wizards,4,0,20,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-10,84,1,1,20241118,NYK,WAS
+Shot Chart Detail,0022400291,649,1630215,Jared Butler,1610612764,Washington Wizards,4,2,14,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,18,1,1,20241127,WAS,LAC
+Shot Chart Detail,0022400291,659,1630215,Jared Butler,1610612764,Washington Wizards,4,1,37,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,2,1,1,20241127,WAS,LAC
+Shot Chart Detail,0022400326,507,1630215,Jared Butler,1610612764,Washington Wizards,3,0,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,6,1,1,20241205,WAS,DAL
+Shot Chart Detail,0022400326,676,1630215,Jared Butler,1610612764,Washington Wizards,4,2,48,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-60,143,1,1,20241205,WAS,DAL
+Shot Chart Detail,0022400341,100,1630215,Jared Butler,1610612764,Washington Wizards,1,4,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-115,238,1,1,20241207,WAS,DEN
+Shot Chart Detail,0022400341,104,1630215,Jared Butler,1610612764,Washington Wizards,1,3,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,8,1,1,20241207,WAS,DEN
+Shot Chart Detail,0022400341,468,1630215,Jared Butler,1610612764,Washington Wizards,3,3,44,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,6,1,1,20241207,WAS,DEN
+Shot Chart Detail,0022400341,531,1630215,Jared Butler,1610612764,Washington Wizards,3,0,0,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,1,1,1,20241207,WAS,DEN
+Shot Chart Detail,0022400341,551,1630215,Jared Butler,1610612764,Washington Wizards,4,11,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,165,218,1,1,20241207,WAS,DEN
+Shot Chart Detail,0022400353,162,1630215,Jared Butler,1610612764,Washington Wizards,1,0,21,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,11,1,1,20241208,WAS,MEM
+Shot Chart Detail,0022400353,190,1630215,Jared Butler,1610612764,Washington Wizards,2,11,15,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,-2,1,1,20241208,WAS,MEM
+Shot Chart Detail,0022400353,533,1630215,Jared Butler,1610612764,Washington Wizards,3,3,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-207,176,1,1,20241208,WAS,MEM
+Shot Chart Detail,0022400353,537,1630215,Jared Butler,1610612764,Washington Wizards,3,3,0,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,97,41,1,1,20241208,WAS,MEM
+Shot Chart Detail,0022400353,650,1630215,Jared Butler,1610612764,Washington Wizards,4,7,51,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,25,1,1,20241208,WAS,MEM
+Shot Chart Detail,0022400353,738,1630215,Jared Butler,1610612764,Washington Wizards,4,2,34,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,10,1,1,20241208,WAS,MEM
+Shot Chart Detail,0022400400,716,1630215,Jared Butler,1610612764,Washington Wizards,4,1,54,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,-12,1,1,20241223,OKC,WAS
+Shot Chart Detail,0022400400,724,1630215,Jared Butler,1610612764,Washington Wizards,4,1,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,38,9,1,1,20241223,OKC,WAS
+Shot Chart Detail,0022400443,498,1630215,Jared Butler,1610612764,Washington Wizards,3,0,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20241230,WAS,NYK
+Shot Chart Detail,0022400489,158,1630215,Jared Butler,1610612764,Washington Wizards,2,11,21,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-70,136,1,1,20250105,WAS,NOP
+Shot Chart Detail,0022400489,188,1630215,Jared Butler,1610612764,Washington Wizards,2,9,36,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,22,34,1,1,20250105,WAS,NOP
+Shot Chart Detail,0022400489,215,1630215,Jared Butler,1610612764,Washington Wizards,2,7,28,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-11,53,1,1,20250105,WAS,NOP
+Shot Chart Detail,0022400489,260,1630215,Jared Butler,1610612764,Washington Wizards,2,5,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,9,1,1,20250105,WAS,NOP
+Shot Chart Detail,0022400489,493,1630215,Jared Butler,1610612764,Washington Wizards,4,10,46,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-58,128,1,1,20250105,WAS,NOP
+Shot Chart Detail,0022400489,619,1630215,Jared Butler,1610612764,Washington Wizards,4,2,14,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,97,268,1,1,20250105,WAS,NOP
+Shot Chart Detail,0022400503,541,1630215,Jared Butler,1610612764,Washington Wizards,4,10,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,11,1,1,20250107,WAS,HOU
+Shot Chart Detail,0022400503,550,1630215,Jared Butler,1610612764,Washington Wizards,4,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,230,90,1,1,20250107,WAS,HOU
+Shot Chart Detail,0022400503,559,1630215,Jared Butler,1610612764,Washington Wizards,4,8,7,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,36,45,1,1,20250107,WAS,HOU
+Shot Chart Detail,0022400503,606,1630215,Jared Butler,1610612764,Washington Wizards,4,4,42,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-9,41,1,1,20250107,WAS,HOU
+Shot Chart Detail,0022400503,620,1630215,Jared Butler,1610612764,Washington Wizards,4,4,4,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,127,233,1,1,20250107,WAS,HOU
+Shot Chart Detail,0022400512,130,1630215,Jared Butler,1610612764,Washington Wizards,1,2,14,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-188,196,1,1,20250108,PHI,WAS
+Shot Chart Detail,0022400512,139,1630215,Jared Butler,1610612764,Washington Wizards,1,1,15,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-6,70,1,1,20250108,PHI,WAS
+Shot Chart Detail,0022400512,163,1630215,Jared Butler,1610612764,Washington Wizards,1,0,32,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,6,1,1,20250108,PHI,WAS
+Shot Chart Detail,0022400512,195,1630215,Jared Butler,1610612764,Washington Wizards,2,10,26,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,17,1,1,20250108,PHI,WAS
+Shot Chart Detail,0022400512,222,1630215,Jared Butler,1610612764,Washington Wizards,2,8,27,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,16,1,1,20250108,PHI,WAS
+Shot Chart Detail,0022400512,226,1630215,Jared Butler,1610612764,Washington Wizards,2,7,50,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,18,1,1,20250108,PHI,WAS
+Shot Chart Detail,0022400512,231,1630215,Jared Butler,1610612764,Washington Wizards,2,7,4,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-49,76,1,1,20250108,PHI,WAS
+Shot Chart Detail,0022400512,472,1630215,Jared Butler,1610612764,Washington Wizards,3,0,27,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250108,PHI,WAS
+Shot Chart Detail,0022400512,511,1630215,Jared Butler,1610612764,Washington Wizards,4,10,2,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250108,PHI,WAS
+Shot Chart Detail,0022400512,527,1630215,Jared Butler,1610612764,Washington Wizards,4,8,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,50,264,1,1,20250108,PHI,WAS
+Shot Chart Detail,0022400512,537,1630215,Jared Butler,1610612764,Washington Wizards,4,7,25,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,29,1,1,20250108,PHI,WAS
+Shot Chart Detail,0022400530,168,1630215,Jared Butler,1610612764,Washington Wizards,2,11,32,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-21,73,1,1,20250110,CHI,WAS
+Shot Chart Detail,0022400530,182,1630215,Jared Butler,1610612764,Washington Wizards,2,10,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,1,1,1,20250110,CHI,WAS
+Shot Chart Detail,0022400530,192,1630215,Jared Butler,1610612764,Washington Wizards,2,9,45,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-136,223,1,1,20250110,CHI,WAS
+Shot Chart Detail,0022400530,222,1630215,Jared Butler,1610612764,Washington Wizards,2,7,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,7,1,1,20250110,CHI,WAS
+Shot Chart Detail,0022400530,490,1630215,Jared Butler,1610612764,Washington Wizards,3,0,32,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,4,77,1,1,20250110,CHI,WAS
+Shot Chart Detail,0022400530,524,1630215,Jared Butler,1610612764,Washington Wizards,4,9,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-2,1,1,20250110,CHI,WAS
+Shot Chart Detail,0022400530,564,1630215,Jared Butler,1610612764,Washington Wizards,4,7,1,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250110,CHI,WAS
+Shot Chart Detail,0022400530,618,1630215,Jared Butler,1610612764,Washington Wizards,4,3,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,1,20250110,CHI,WAS
+Shot Chart Detail,0022400545,678,1630215,Jared Butler,1610612764,Washington Wizards,4,4,15,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,43,1,1,20250112,WAS,OKC
+Shot Chart Detail,0022400545,709,1630215,Jared Butler,1610612764,Washington Wizards,4,2,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,11,1,1,20250112,WAS,OKC
+Shot Chart Detail,0022400548,149,1630215,Jared Butler,1610612764,Washington Wizards,1,0,2,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-181,204,1,1,20250113,WAS,MIN
+Shot Chart Detail,0022400548,162,1630215,Jared Butler,1610612764,Washington Wizards,2,11,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-7,1,1,20250113,WAS,MIN
+Shot Chart Detail,0022400573,651,1630215,Jared Butler,1610612764,Washington Wizards,4,2,15,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-14,1,1,20250116,WAS,PHX
+Shot Chart Detail,0022400573,710,1630215,Jared Butler,1610612764,Washington Wizards,4,0,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,4,1,1,20250116,WAS,PHX
+Shot Chart Detail,0022400674,200,1630215,Jared Butler,1610612764,Washington Wizards,2,11,39,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,87,27,1,1,20250130,WAS,LAL
+Shot Chart Detail,0022400674,685,1630215,Jared Butler,1610612764,Washington Wizards,4,2,30,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-38,151,1,1,20250130,WAS,LAL
+Shot Chart Detail,0022400754,168,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,11,9,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,10,1,1,20250209,MIL,PHI
+Shot Chart Detail,0022400754,673,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,0,28,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,37,253,1,1,20250209,MIL,PHI
+Shot Chart Detail,0022400754,678,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,0,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,4,1,1,20250209,MIL,PHI
+Shot Chart Detail,0022400764,160,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,11,32,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,12,71,1,1,20250211,PHI,TOR
+Shot Chart Detail,0022400764,197,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,7,55,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,5,1,1,20250211,PHI,TOR
+Shot Chart Detail,0022400764,237,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,6,5,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,17,1,1,20250211,PHI,TOR
+Shot Chart Detail,0022400764,523,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,11,20,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,195,1,1,20250211,PHI,TOR
+Shot Chart Detail,0022400764,551,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,8,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,9,1,1,20250211,PHI,TOR
+Shot Chart Detail,0022400764,567,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,7,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20250211,PHI,TOR
+Shot Chart Detail,0022400772,199,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,9,34,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,22,1,1,20250212,BKN,PHI
+Shot Chart Detail,0022400772,509,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,10,28,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,64,106,1,1,20250212,BKN,PHI
+Shot Chart Detail,0022400823,529,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,1,26,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,34,1,1,20250224,PHI,CHI
+Shot Chart Detail,0022400823,632,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,7,33,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-11,1,1,20250224,PHI,CHI
+Shot Chart Detail,0022400823,714,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,1,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,15,252,1,1,20250224,PHI,CHI
+Shot Chart Detail,0022400887,235,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,7,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,12,1,1,20250304,MIN,PHI
+Shot Chart Detail,0022400887,266,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,5,28,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,38,110,1,1,20250304,MIN,PHI
+Shot Chart Detail,0022400887,582,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,4,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,15,1,1,20250304,MIN,PHI
+Shot Chart Detail,0022400887,638,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,0,43,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-71,61,1,1,20250304,MIN,PHI
+Shot Chart Detail,0022400900,555,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,6,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,44,274,1,1,20250306,BOS,PHI
+Shot Chart Detail,0022400900,646,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,0,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,8,1,1,20250306,BOS,PHI
+Shot Chart Detail,0022400924,129,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,2,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,10,1,1,20250309,PHI,UTA
+Shot Chart Detail,0022400924,168,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,0,1,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20250309,PHI,UTA
+Shot Chart Detail,0022400924,182,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,11,16,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,1,20250309,PHI,UTA
+Shot Chart Detail,0022400924,483,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,3,21,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,31,252,1,1,20250309,PHI,UTA
+Shot Chart Detail,0022400924,487,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,2,59,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-173,179,1,1,20250309,PHI,UTA
+Shot Chart Detail,0022400928,20,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,10,18,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,37,254,1,1,20250310,ATL,PHI
+Shot Chart Detail,0022400928,173,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,11,19,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-32,62,1,1,20250310,ATL,PHI
+Shot Chart Detail,0022400928,223,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,7,34,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-230,72,1,1,20250310,ATL,PHI
+Shot Chart Detail,0022400928,504,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,11,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-202,167,1,1,20250310,ATL,PHI
+Shot Chart Detail,0022400947,12,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,10,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,8,1,1,20250312,TOR,PHI
+Shot Chart Detail,0022400947,330,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,2,29,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-211,161,1,1,20250312,TOR,PHI
+Shot Chart Detail,0022400947,341,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,2,3,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,50,57,1,1,20250312,TOR,PHI
+Shot Chart Detail,0022400959,28,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,8,33,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-5,84,1,1,20250314,PHI,IND
+Shot Chart Detail,0022400959,46,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,6,20,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-169,230,1,1,20250314,PHI,IND
+Shot Chart Detail,0022400959,135,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,11,10,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,9,53,1,1,20250314,PHI,IND
+Shot Chart Detail,0022400959,282,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,1,44,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,219,128,1,1,20250314,PHI,IND
+Shot Chart Detail,0022400959,483,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,0,43,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-13,77,1,1,20250314,PHI,IND
+Shot Chart Detail,0022400959,579,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,5,43,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,143,216,1,1,20250314,PHI,IND
+Shot Chart Detail,0022400976,227,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,6,41,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,17,1,1,20250316,DAL,PHI
+Shot Chart Detail,0022400976,399,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,7,21,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,12,1,1,20250316,DAL,PHI
+Shot Chart Detail,0022400985,342,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,0,9,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,60,157,1,1,20250317,HOU,PHI
+Shot Chart Detail,0022400985,357,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,11,43,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-68,43,1,1,20250317,HOU,PHI
+Shot Chart Detail,0022400985,361,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,11,2,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-82,75,1,1,20250317,HOU,PHI
+Shot Chart Detail,0022400985,530,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,9,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,194,1,1,20250317,HOU,PHI
+Shot Chart Detail,0022400985,543,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,8,44,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-20,123,1,1,20250317,HOU,PHI
+Shot Chart Detail,0022400985,558,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,7,25,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,38,54,1,1,20250317,HOU,PHI
+Shot Chart Detail,0022400985,594,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,5,23,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,16,1,1,20250317,HOU,PHI
+Shot Chart Detail,0022401002,166,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,11,32,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,59,1,1,20250319,OKC,PHI
+Shot Chart Detail,0022401002,549,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,7,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,116,248,1,1,20250319,OKC,PHI
+Shot Chart Detail,0022401002,581,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,5,37,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,44,130,1,1,20250319,OKC,PHI
+Shot Chart Detail,0022401018,49,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,7,42,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,36,1,1,20250321,SAS,PHI
+Shot Chart Detail,0022401018,53,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,7,1,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-92,47,1,1,20250321,SAS,PHI
+Shot Chart Detail,0022401031,129,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,1,26,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,1,20250323,ATL,PHI
+Shot Chart Detail,0022401031,169,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,10,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,97,124,1,1,20250323,ATL,PHI
+Shot Chart Detail,0022401031,460,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,2,42,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,27,1,1,20250323,ATL,PHI
+Shot Chart Detail,0022401041,19,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,10,29,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-11,1,1,20250324,NOP,PHI
+Shot Chart Detail,0022401041,188,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,11,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-1,1,1,20250324,NOP,PHI
+Shot Chart Detail,0022401041,268,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,4,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-23,94,1,1,20250324,NOP,PHI
+Shot Chart Detail,0022401041,271,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,3,55,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-172,174,1,1,20250324,NOP,PHI
+Shot Chart Detail,0022401041,380,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,9,22,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-108,241,1,1,20250324,NOP,PHI
+Shot Chart Detail,0022401041,584,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,5,53,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-31,59,1,1,20250324,NOP,PHI
+Shot Chart Detail,0022401041,626,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,3,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,4,1,1,20250324,NOP,PHI
+Shot Chart Detail,0022401041,654,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,1,19,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-49,147,1,1,20250324,NOP,PHI
+Shot Chart Detail,0022401053,65,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,6,52,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-124,215,1,1,20250326,PHI,WAS
+Shot Chart Detail,0022401053,181,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,10,25,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,-1,1,1,20250326,PHI,WAS
+Shot Chart Detail,0022401053,410,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,2,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,49,258,1,1,20250326,PHI,WAS
+Shot Chart Detail,0022401053,444,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,0,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,61,256,1,1,20250326,PHI,WAS
+Shot Chart Detail,0022401053,588,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,1,12,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-82,263,1,1,20250326,PHI,WAS
+Shot Chart Detail,0022401076,16,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,11,6,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,29,1,1,20250329,PHI,MIA
+Shot Chart Detail,0022401076,21,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,10,28,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-145,198,1,1,20250329,PHI,MIA
+Shot Chart Detail,0022401076,281,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,3,5,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,69,1,1,20250329,PHI,MIA
+Shot Chart Detail,0022401076,351,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,10,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-89,120,1,1,20250329,PHI,MIA
+Shot Chart Detail,0022401076,400,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,5,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,29,1,1,20250329,PHI,MIA
+Shot Chart Detail,0022401076,411,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,5,6,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-16,126,1,1,20250329,PHI,MIA
+Shot Chart Detail,0022401076,545,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,5,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-235,59,1,1,20250329,PHI,MIA
+Shot Chart Detail,0022401087,14,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,11,28,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,12,1,1,20250330,PHI,TOR
+Shot Chart Detail,0022401087,284,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,4,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,63,1,1,20250330,PHI,TOR
+Shot Chart Detail,0022401087,377,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,9,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-143,231,1,1,20250330,PHI,TOR
+Shot Chart Detail,0022401087,381,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,8,26,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-91,32,1,1,20250330,PHI,TOR
+Shot Chart Detail,0022401087,569,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,7,10,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,14,1,1,20250330,PHI,TOR
+Shot Chart Detail,0022401098,111,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,3,56,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,0,1,1,20250401,NYK,PHI
+Shot Chart Detail,0022401098,413,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,5,46,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,1,1,1,20250401,NYK,PHI
+Shot Chart Detail,0022401115,17,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,10,31,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-13,1,1,20250403,PHI,MIL
+Shot Chart Detail,0022401115,26,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,9,41,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-6,1,1,20250403,PHI,MIL
+Shot Chart Detail,0022401115,80,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,5,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,-12,1,1,20250403,PHI,MIL
+Shot Chart Detail,0022401115,262,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,3,17,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,1,20250403,PHI,MIL
+Shot Chart Detail,0022401115,294,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,1,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-18,1,1,20250403,PHI,MIL
+Shot Chart Detail,0022401130,31,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,9,2,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,90,1,1,20250405,PHI,MIN
+Shot Chart Detail,0022401130,228,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,6,28,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,2,1,1,20250405,PHI,MIN
+Shot Chart Detail,0022401130,274,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,2,32,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,34,1,1,20250405,PHI,MIN
+Shot Chart Detail,0022401130,281,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,2,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-62,280,1,1,20250405,PHI,MIN
+Shot Chart Detail,0022401130,376,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,7,53,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,13,1,1,20250405,PHI,MIN
+Shot Chart Detail,0022401130,381,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,7,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-34,135,1,1,20250405,PHI,MIN
+Shot Chart Detail,0022401130,389,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,6,44,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,-10,1,1,20250405,PHI,MIN
+Shot Chart Detail,0022401145,14,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,11,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,1,116,1,1,20250407,MIA,PHI
+Shot Chart Detail,0022401145,312,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,0,28,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,8,1,1,20250407,MIA,PHI
+Shot Chart Detail,0022401145,321,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,11,43,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,5,85,1,1,20250407,MIA,PHI
+Shot Chart Detail,0022401157,112,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,3,56,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,74,269,1,1,20250409,WAS,PHI
+Shot Chart Detail,0022401157,282,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,4,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,4,268,1,1,20250409,WAS,PHI
+Shot Chart Detail,0022401157,314,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,2,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-5,197,1,1,20250409,WAS,PHI
+Shot Chart Detail,0022401157,319,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,1,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-33,268,1,1,20250409,WAS,PHI
+Shot Chart Detail,0022401157,442,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,5,13,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,20,1,1,20250409,WAS,PHI
+Shot Chart Detail,0022401173,71,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,7,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,148,218,1,1,20250411,PHI,ATL
+Shot Chart Detail,0022401173,75,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,6,48,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,4,1,1,20250411,PHI,ATL
+Shot Chart Detail,0022401173,142,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,2,31,Made Shot,Step Back Bank Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-105,241,1,1,20250411,PHI,ATL
+Shot Chart Detail,0022401173,247,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,6,31,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,75,1,1,20250411,PHI,ATL
+Shot Chart Detail,0022401173,264,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,4,16,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-5,84,1,1,20250411,PHI,ATL
+Shot Chart Detail,0022401173,458,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,4,4,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-127,18,1,1,20250411,PHI,ATL
+Shot Chart Detail,0022401173,470,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,3,40,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,36,1,1,20250411,PHI,ATL
+Shot Chart Detail,0022401173,653,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,3,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,45,265,1,1,20250411,PHI,ATL
+Shot Chart Detail,0022401173,668,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,1,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,18,1,1,20250411,PHI,ATL
+Shot Chart Detail,0022401191,62,1630215,Jared Butler,1610612755,Philadelphia 76ers,1,7,32,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-2,83,1,1,20250413,PHI,CHI
+Shot Chart Detail,0022401191,267,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,5,13,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,5,1,1,20250413,PHI,CHI
+Shot Chart Detail,0022401191,270,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,4,50,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-118,120,1,1,20250413,PHI,CHI
+Shot Chart Detail,0022401191,308,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,1,50,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,18,1,1,20250413,PHI,CHI
+Shot Chart Detail,0022401191,331,1630215,Jared Butler,1610612755,Philadelphia 76ers,2,0,2,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,37,1,1,20250413,PHI,CHI
+Shot Chart Detail,0022401191,355,1630215,Jared Butler,1610612755,Philadelphia 76ers,3,11,35,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,10,1,1,20250413,PHI,CHI
+Shot Chart Detail,0022401191,677,1630215,Jared Butler,1610612755,Philadelphia 76ers,4,0,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,202,157,1,1,20250413,PHI,CHI
+Shot Chart Detail,0022401208,359,1630215,Jared Butler,1610612764,Washington Wizards,2,0,35,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-232,103,1,1,20241213,CLE,WAS
+Shot Chart Detail,0022401208,497,1630215,Jared Butler,1610612764,Washington Wizards,3,3,2,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,11,1,1,20241213,CLE,WAS
+Shot Chart Detail,0022401208,577,1630215,Jared Butler,1610612764,Washington Wizards,4,9,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,11,1,1,20241213,CLE,WAS
+Shot Chart Detail,0022401217,266,1630215,Jared Butler,1610612764,Washington Wizards,2,4,21,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,62,1,1,20241215,WAS,BOS
+Shot Chart Detail,0022401217,576,1630215,Jared Butler,1610612764,Washington Wizards,4,9,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-143,224,1,1,20241215,WAS,BOS
+Shot Chart Detail,0022401217,585,1630215,Jared Butler,1610612764,Washington Wizards,4,8,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,10,1,1,20241215,WAS,BOS

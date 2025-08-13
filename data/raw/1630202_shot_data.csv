@@ -1,21 +1,410 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400001,194,1630202,Payton Pritchard,1610612738,Boston Celtics,2,11,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,176,189,1,1,20241112,BOS,ATL
+Shot Chart Detail,0022400001,472,1630202,Payton Pritchard,1610612738,Boston Celtics,3,2,12,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,28,288,1,1,20241112,BOS,ATL
+Shot Chart Detail,0022400021,141,1630202,Payton Pritchard,1610612738,Boston Celtics,1,1,22,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,20,98,1,1,20241119,BOS,CLE
+Shot Chart Detail,0022400021,176,1630202,Payton Pritchard,1610612738,Boston Celtics,2,10,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,192,1,1,20241119,BOS,CLE
+Shot Chart Detail,0022400021,200,1630202,Payton Pritchard,1610612738,Boston Celtics,2,7,59,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,32,1,1,20241119,BOS,CLE
+Shot Chart Detail,0022400021,204,1630202,Payton Pritchard,1610612738,Boston Celtics,2,7,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-181,168,1,1,20241119,BOS,CLE
+Shot Chart Detail,0022400021,523,1630202,Payton Pritchard,1610612738,Boston Celtics,4,5,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,147,223,1,1,20241119,BOS,CLE
+Shot Chart Detail,0022400028,120,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-150,220,1,1,20241122,WAS,BOS
+Shot Chart Detail,0022400028,131,1630202,Payton Pritchard,1610612738,Boston Celtics,1,1,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-7,1,1,20241122,WAS,BOS
+Shot Chart Detail,0022400028,564,1630202,Payton Pritchard,1610612738,Boston Celtics,4,9,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,156,88,1,1,20241122,WAS,BOS
+Shot Chart Detail,0022400047,126,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-154,247,1,1,20241129,CHI,BOS
+Shot Chart Detail,0022400047,376,1630202,Payton Pritchard,1610612738,Boston Celtics,3,7,10,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,180,199,1,1,20241129,CHI,BOS
+Shot Chart Detail,0022400047,424,1630202,Payton Pritchard,1610612738,Boston Celtics,3,4,1,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,159,169,1,1,20241129,CHI,BOS
+Shot Chart Detail,0022400047,497,1630202,Payton Pritchard,1610612738,Boston Celtics,4,10,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-161,213,1,1,20241129,CHI,BOS
+Shot Chart Detail,0022400047,501,1630202,Payton Pritchard,1610612738,Boston Celtics,4,9,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,158,250,1,1,20241129,CHI,BOS
+Shot Chart Detail,0022400047,506,1630202,Payton Pritchard,1610612738,Boston Celtics,4,9,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,10,1,1,20241129,CHI,BOS
+Shot Chart Detail,0022400047,518,1630202,Payton Pritchard,1610612738,Boston Celtics,4,7,47,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,105,231,1,1,20241129,CHI,BOS
+Shot Chart Detail,0022400047,532,1630202,Payton Pritchard,1610612738,Boston Celtics,4,6,41,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,61,284,1,1,20241129,CHI,BOS
+Shot Chart Detail,0022400047,538,1630202,Payton Pritchard,1610612738,Boston Celtics,4,5,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20241129,CHI,BOS
+Shot Chart Detail,0022400047,541,1630202,Payton Pritchard,1610612738,Boston Celtics,4,5,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,27,292,1,1,20241129,CHI,BOS
+Shot Chart Detail,0022400061,139,1630202,Payton Pritchard,1610612738,Boston Celtics,1,0,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,51,1,1,20241022,BOS,NYK
+Shot Chart Detail,0022400073,105,1630202,Payton Pritchard,1610612738,Boston Celtics,1,3,54,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-124,222,1,1,20241024,WAS,BOS
+Shot Chart Detail,0022400073,212,1630202,Payton Pritchard,1610612738,Boston Celtics,2,8,47,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-116,234,1,1,20241024,WAS,BOS
+Shot Chart Detail,0022400073,428,1630202,Payton Pritchard,1610612738,Boston Celtics,3,5,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-227,180,1,1,20241024,WAS,BOS
+Shot Chart Detail,0022400073,454,1630202,Payton Pritchard,1610612738,Boston Celtics,3,3,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-181,222,1,1,20241024,WAS,BOS
+Shot Chart Detail,0022400073,489,1630202,Payton Pritchard,1610612738,Boston Celtics,3,1,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,49,1,1,20241024,WAS,BOS
+Shot Chart Detail,0022400089,135,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-7,1,1,20241026,DET,BOS
+Shot Chart Detail,0022400089,149,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-100,245,1,1,20241026,DET,BOS
+Shot Chart Detail,0022400089,199,1630202,Payton Pritchard,1610612738,Boston Celtics,2,10,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-121,245,1,1,20241026,DET,BOS
+Shot Chart Detail,0022400089,202,1630202,Payton Pritchard,1610612738,Boston Celtics,2,10,13,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-53,260,1,1,20241026,DET,BOS
+Shot Chart Detail,0022400089,512,1630202,Payton Pritchard,1610612738,Boston Celtics,4,11,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,22,1,1,20241026,DET,BOS
+Shot Chart Detail,0022400104,115,1630202,Payton Pritchard,1610612738,Boston Celtics,1,4,42,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,74,1,1,20241028,BOS,MIL
+Shot Chart Detail,0022400104,126,1630202,Payton Pritchard,1610612738,Boston Celtics,1,3,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,6,1,1,20241028,BOS,MIL
+Shot Chart Detail,0022400104,147,1630202,Payton Pritchard,1610612738,Boston Celtics,1,1,53,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-140,222,1,1,20241028,BOS,MIL
+Shot Chart Detail,0022400104,199,1630202,Payton Pritchard,1610612738,Boston Celtics,2,10,9,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,138,235,1,1,20241028,BOS,MIL
+Shot Chart Detail,0022400104,214,1630202,Payton Pritchard,1610612738,Boston Celtics,2,9,20,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,10,1,1,20241028,BOS,MIL
+Shot Chart Detail,0022400104,222,1630202,Payton Pritchard,1610612738,Boston Celtics,2,8,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,34,-59,340,1,1,20241028,BOS,MIL
+Shot Chart Detail,0022400104,235,1630202,Payton Pritchard,1610612738,Boston Celtics,2,7,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,127,218,1,1,20241028,BOS,MIL
+Shot Chart Detail,0022400104,494,1630202,Payton Pritchard,1610612738,Boston Celtics,3,0,1,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,175,193,1,1,20241028,BOS,MIL
+Shot Chart Detail,0022400104,509,1630202,Payton Pritchard,1610612738,Boston Celtics,4,10,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,35,1,1,20241028,BOS,MIL
+Shot Chart Detail,0022400104,565,1630202,Payton Pritchard,1610612738,Boston Celtics,4,7,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,14,1,1,20241028,BOS,MIL
+Shot Chart Detail,0022400119,209,1630202,Payton Pritchard,1610612738,Boston Celtics,2,9,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,123,257,1,1,20241030,IND,BOS
+Shot Chart Detail,0022400119,223,1630202,Payton Pritchard,1610612738,Boston Celtics,2,8,20,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,173,221,1,1,20241030,IND,BOS
+Shot Chart Detail,0022400119,460,1630202,Payton Pritchard,1610612738,Boston Celtics,3,4,40,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-170,196,1,1,20241030,IND,BOS
+Shot Chart Detail,0022400119,561,1630202,Payton Pritchard,1610612738,Boston Celtics,4,11,16,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,221,50,1,1,20241030,IND,BOS
+Shot Chart Detail,0022400119,634,1630202,Payton Pritchard,1610612738,Boston Celtics,4,6,5,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,6,1,1,20241030,IND,BOS
+Shot Chart Detail,0022400132,448,1630202,Payton Pritchard,1610612738,Boston Celtics,3,1,28,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-34,116,1,1,20241101,CHA,BOS
+Shot Chart Detail,0022400141,104,1630202,Payton Pritchard,1610612738,Boston Celtics,1,4,42,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,121,222,1,1,20241102,CHA,BOS
+Shot Chart Detail,0022400141,161,1630202,Payton Pritchard,1610612738,Boston Celtics,1,1,3,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-1,88,1,1,20241102,CHA,BOS
+Shot Chart Detail,0022400141,240,1630202,Payton Pritchard,1610612738,Boston Celtics,2,7,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,152,1,1,20241102,CHA,BOS
+Shot Chart Detail,0022400141,266,1630202,Payton Pritchard,1610612738,Boston Celtics,2,5,41,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,134,224,1,1,20241102,CHA,BOS
+Shot Chart Detail,0022400141,270,1630202,Payton Pritchard,1610612738,Boston Celtics,2,5,21,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,126,239,1,1,20241102,CHA,BOS
+Shot Chart Detail,0022400141,283,1630202,Payton Pritchard,1610612738,Boston Celtics,2,4,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,159,1,1,20241102,CHA,BOS
+Shot Chart Detail,0022400141,458,1630202,Payton Pritchard,1610612738,Boston Celtics,3,3,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,10,1,1,20241102,CHA,BOS
+Shot Chart Detail,0022400141,580,1630202,Payton Pritchard,1610612738,Boston Celtics,4,5,23,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-129,281,1,1,20241102,CHA,BOS
+Shot Chart Detail,0022400157,88,1630202,Payton Pritchard,1610612738,Boston Celtics,1,4,28,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,14,1,1,20241104,ATL,BOS
+Shot Chart Detail,0022400157,92,1630202,Payton Pritchard,1610612738,Boston Celtics,1,4,4,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,112,232,1,1,20241104,ATL,BOS
+Shot Chart Detail,0022400157,161,1630202,Payton Pritchard,1610612738,Boston Celtics,2,11,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,121,227,1,1,20241104,ATL,BOS
+Shot Chart Detail,0022400157,206,1630202,Payton Pritchard,1610612738,Boston Celtics,2,8,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,13,257,1,1,20241104,ATL,BOS
+Shot Chart Detail,0022400157,460,1630202,Payton Pritchard,1610612738,Boston Celtics,3,2,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,18,1,1,20241104,ATL,BOS
+Shot Chart Detail,0022400157,555,1630202,Payton Pritchard,1610612738,Boston Celtics,4,7,2,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,0,1,1,20241104,ATL,BOS
+Shot Chart Detail,0022400157,558,1630202,Payton Pritchard,1610612738,Boston Celtics,4,6,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,8,1,1,20241104,ATL,BOS
+Shot Chart Detail,0022400172,179,1630202,Payton Pritchard,1610612738,Boston Celtics,2,11,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,17,1,1,20241106,BOS,GSW
+Shot Chart Detail,0022400172,203,1630202,Payton Pritchard,1610612738,Boston Celtics,2,8,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,24,1,1,20241106,BOS,GSW
+Shot Chart Detail,0022400172,222,1630202,Payton Pritchard,1610612738,Boston Celtics,2,6,20,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,40,115,1,1,20241106,BOS,GSW
+Shot Chart Detail,0022400172,420,1630202,Payton Pritchard,1610612738,Boston Celtics,3,3,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,230,104,1,1,20241106,BOS,GSW
+Shot Chart Detail,0022400172,453,1630202,Payton Pritchard,1610612738,Boston Celtics,3,0,7,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-179,201,1,1,20241106,BOS,GSW
+Shot Chart Detail,0022400187,121,1630202,Payton Pritchard,1610612738,Boston Celtics,1,3,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,140,223,1,1,20241108,BOS,BKN
+Shot Chart Detail,0022400187,166,1630202,Payton Pritchard,1610612738,Boston Celtics,2,11,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,161,231,1,1,20241108,BOS,BKN
+Shot Chart Detail,0022400187,278,1630202,Payton Pritchard,1610612738,Boston Celtics,2,2,48,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-49,290,1,1,20241108,BOS,BKN
+Shot Chart Detail,0022400187,288,1630202,Payton Pritchard,1610612738,Boston Celtics,2,1,55,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,26,1,1,20241108,BOS,BKN
+Shot Chart Detail,0022400187,299,1630202,Payton Pritchard,1610612738,Boston Celtics,2,1,0,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,15,1,1,20241108,BOS,BKN
+Shot Chart Detail,0022400187,633,1630202,Payton Pritchard,1610612738,Boston Celtics,5,3,26,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,16,100,1,1,20241108,BOS,BKN
+Shot Chart Detail,0022400202,90,1630202,Payton Pritchard,1610612738,Boston Celtics,1,4,29,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,109,137,1,1,20241110,MIL,BOS
+Shot Chart Detail,0022400202,117,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,134,220,1,1,20241110,MIL,BOS
+Shot Chart Detail,0022400202,200,1630202,Payton Pritchard,1610612738,Boston Celtics,2,9,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-39,248,1,1,20241110,MIL,BOS
+Shot Chart Detail,0022400202,211,1630202,Payton Pritchard,1610612738,Boston Celtics,2,7,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-40,269,1,1,20241110,MIL,BOS
+Shot Chart Detail,0022400202,214,1630202,Payton Pritchard,1610612738,Boston Celtics,2,7,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-124,243,1,1,20241110,MIL,BOS
+Shot Chart Detail,0022400202,244,1630202,Payton Pritchard,1610612738,Boston Celtics,2,5,40,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-20,1,1,20241110,MIL,BOS
+Shot Chart Detail,0022400218,100,1630202,Payton Pritchard,1610612738,Boston Celtics,1,3,29,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-211,147,1,1,20241113,BKN,BOS
+Shot Chart Detail,0022400218,244,1630202,Payton Pritchard,1610612738,Boston Celtics,2,5,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,180,194,1,1,20241113,BKN,BOS
+Shot Chart Detail,0022400218,256,1630202,Payton Pritchard,1610612738,Boston Celtics,2,5,0,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241113,BKN,BOS
+Shot Chart Detail,0022400218,302,1630202,Payton Pritchard,1610612738,Boston Celtics,2,2,20,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,-13,1,1,20241113,BKN,BOS
+Shot Chart Detail,0022400218,309,1630202,Payton Pritchard,1610612738,Boston Celtics,2,1,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-222,132,1,1,20241113,BKN,BOS
+Shot Chart Detail,0022400218,514,1630202,Payton Pritchard,1610612738,Boston Celtics,4,8,42,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,129,109,1,1,20241113,BKN,BOS
+Shot Chart Detail,0022400218,522,1630202,Payton Pritchard,1610612738,Boston Celtics,4,7,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-200,231,1,1,20241113,BKN,BOS
+Shot Chart Detail,0022400218,589,1630202,Payton Pritchard,1610612738,Boston Celtics,4,3,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,5,1,1,20241113,BKN,BOS
+Shot Chart Detail,0022400230,398,1630202,Payton Pritchard,1610612738,Boston Celtics,3,5,19,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,115,257,1,1,20241116,BOS,TOR
+Shot Chart Detail,0022400230,403,1630202,Payton Pritchard,1610612738,Boston Celtics,3,4,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,127,256,1,1,20241116,BOS,TOR
+Shot Chart Detail,0022400271,121,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,16,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,72,131,1,1,20241124,BOS,MIN
+Shot Chart Detail,0022400271,139,1630202,Payton Pritchard,1610612738,Boston Celtics,1,0,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-116,227,1,1,20241124,BOS,MIN
+Shot Chart Detail,0022400271,440,1630202,Payton Pritchard,1610612738,Boston Celtics,3,1,28,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,27,1,1,20241124,BOS,MIN
+Shot Chart Detail,0022400281,106,1630202,Payton Pritchard,1610612738,Boston Celtics,1,3,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,32,1,1,20241125,BOS,LAC
+Shot Chart Detail,0022400281,153,1630202,Payton Pritchard,1610612738,Boston Celtics,2,11,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,35,1,1,20241125,BOS,LAC
+Shot Chart Detail,0022400281,160,1630202,Payton Pritchard,1610612738,Boston Celtics,2,10,53,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,48,1,1,20241125,BOS,LAC
+Shot Chart Detail,0022400281,193,1630202,Payton Pritchard,1610612738,Boston Celtics,2,7,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-196,173,1,1,20241125,BOS,LAC
+Shot Chart Detail,0022400281,400,1630202,Payton Pritchard,1610612738,Boston Celtics,3,3,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,131,254,1,1,20241125,BOS,LAC
+Shot Chart Detail,0022400281,407,1630202,Payton Pritchard,1610612738,Boston Celtics,3,3,15,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,31,-28,316,1,1,20241125,BOS,LAC
+Shot Chart Detail,0022400281,518,1630202,Payton Pritchard,1610612738,Boston Celtics,4,7,10,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,13,1,1,20241125,BOS,LAC
+Shot Chart Detail,0022400307,93,1630202,Payton Pritchard,1610612738,Boston Celtics,1,4,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,31,1,1,20241201,CLE,BOS
+Shot Chart Detail,0022400307,99,1630202,Payton Pritchard,1610612738,Boston Celtics,1,3,42,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,227,94,1,1,20241201,CLE,BOS
+Shot Chart Detail,0022400307,499,1630202,Payton Pritchard,1610612738,Boston Celtics,4,9,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,5,1,1,20241201,CLE,BOS
+Shot Chart Detail,0022400307,504,1630202,Payton Pritchard,1610612738,Boston Celtics,4,9,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,12,1,1,20241201,CLE,BOS
+Shot Chart Detail,0022400307,515,1630202,Payton Pritchard,1610612738,Boston Celtics,4,8,9,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,32,-124,301,1,1,20241201,CLE,BOS
+Shot Chart Detail,0022400307,600,1630202,Payton Pritchard,1610612738,Boston Celtics,4,1,52,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,39,1,1,20241201,CLE,BOS
+Shot Chart Detail,0022400307,637,1630202,Payton Pritchard,1610612738,Boston Celtics,4,0,17,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,33,-175,281,1,1,20241201,CLE,BOS
+Shot Chart Detail,0022400316,136,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,31,-163,272,1,1,20241202,BOS,MIA
+Shot Chart Detail,0022400316,139,1630202,Payton Pritchard,1610612738,Boston Celtics,1,1,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,32,1,1,20241202,BOS,MIA
+Shot Chart Detail,0022400316,174,1630202,Payton Pritchard,1610612738,Boston Celtics,2,11,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-1,1,1,20241202,BOS,MIA
+Shot Chart Detail,0022400316,195,1630202,Payton Pritchard,1610612738,Boston Celtics,2,9,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-165,243,1,1,20241202,BOS,MIA
+Shot Chart Detail,0022400316,227,1630202,Payton Pritchard,1610612738,Boston Celtics,2,7,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,16,1,1,20241202,BOS,MIA
+Shot Chart Detail,0022400316,256,1630202,Payton Pritchard,1610612738,Boston Celtics,2,6,23,Made Shot,Fadeaway Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,33,1,1,20241202,BOS,MIA
+Shot Chart Detail,0022400316,495,1630202,Payton Pritchard,1610612738,Boston Celtics,3,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,1,1,1,20241202,BOS,MIA
+Shot Chart Detail,0022400316,533,1630202,Payton Pritchard,1610612738,Boston Celtics,4,9,8,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,14,1,1,20241202,BOS,MIA
+Shot Chart Detail,0022400316,584,1630202,Payton Pritchard,1610612738,Boston Celtics,4,4,34,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-39,132,1,1,20241202,BOS,MIA
+Shot Chart Detail,0022400316,597,1630202,Payton Pritchard,1610612738,Boston Celtics,4,2,49,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,40,72,1,1,20241202,BOS,MIA
+Shot Chart Detail,0022400319,126,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-135,227,1,1,20241204,BOS,DET
+Shot Chart Detail,0022400319,149,1630202,Payton Pritchard,1610612738,Boston Celtics,1,1,1,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,5,229,1,1,20241204,BOS,DET
+Shot Chart Detail,0022400319,309,1630202,Payton Pritchard,1610612738,Boston Celtics,2,1,14,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,20,1,1,20241204,BOS,DET
+Shot Chart Detail,0022400319,520,1630202,Payton Pritchard,1610612738,Boston Celtics,4,11,47,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,16,1,1,20241204,BOS,DET
+Shot Chart Detail,0022400319,533,1630202,Payton Pritchard,1610612738,Boston Celtics,4,10,32,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-147,216,1,1,20241204,BOS,DET
+Shot Chart Detail,0022400319,648,1630202,Payton Pritchard,1610612738,Boston Celtics,4,3,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-225,129,1,1,20241204,BOS,DET
+Shot Chart Detail,0022400319,689,1630202,Payton Pritchard,1610612738,Boston Celtics,4,0,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-102,255,1,1,20241204,BOS,DET
+Shot Chart Detail,0022400345,99,1630202,Payton Pritchard,1610612738,Boston Celtics,1,5,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,103,224,1,1,20241207,BOS,MEM
+Shot Chart Detail,0022400345,151,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,13,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-185,164,1,1,20241207,BOS,MEM
+Shot Chart Detail,0022400345,173,1630202,Payton Pritchard,1610612738,Boston Celtics,1,0,31,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,63,1,1,20241207,BOS,MEM
+Shot Chart Detail,0022400345,507,1630202,Payton Pritchard,1610612738,Boston Celtics,3,1,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-147,228,1,1,20241207,BOS,MEM
+Shot Chart Detail,0022400345,556,1630202,Payton Pritchard,1610612738,Boston Celtics,4,11,29,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,11,92,1,1,20241207,BOS,MEM
+Shot Chart Detail,0022400345,566,1630202,Payton Pritchard,1610612738,Boston Celtics,4,10,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-104,283,1,1,20241207,BOS,MEM
+Shot Chart Detail,0022400345,576,1630202,Payton Pritchard,1610612738,Boston Celtics,4,10,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,170,222,1,1,20241207,BOS,MEM
+Shot Chart Detail,0022400363,96,1630202,Payton Pritchard,1610612738,Boston Celtics,1,4,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-88,262,1,1,20241219,BOS,CHI
+Shot Chart Detail,0022400363,136,1630202,Payton Pritchard,1610612738,Boston Celtics,1,0,54,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,14,1,1,20241219,BOS,CHI
+Shot Chart Detail,0022400363,167,1630202,Payton Pritchard,1610612738,Boston Celtics,2,10,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-159,192,1,1,20241219,BOS,CHI
+Shot Chart Detail,0022400363,464,1630202,Payton Pritchard,1610612738,Boston Celtics,3,0,39,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-114,265,1,1,20241219,BOS,CHI
+Shot Chart Detail,0022400363,633,1630202,Payton Pritchard,1610612738,Boston Celtics,4,0,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-72,267,1,1,20241219,BOS,CHI
+Shot Chart Detail,0022400381,151,1630202,Payton Pritchard,1610612738,Boston Celtics,1,1,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,92,285,1,1,20241221,CHI,BOS
+Shot Chart Detail,0022400381,245,1630202,Payton Pritchard,1610612738,Boston Celtics,2,6,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-192,164,1,1,20241221,CHI,BOS
+Shot Chart Detail,0022400393,120,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,58,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-31,137,1,1,20241223,ORL,BOS
+Shot Chart Detail,0022400393,151,1630202,Payton Pritchard,1610612738,Boston Celtics,1,0,55,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,12,1,1,20241223,ORL,BOS
+Shot Chart Detail,0022400393,522,1630202,Payton Pritchard,1610612738,Boston Celtics,3,1,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,126,246,1,1,20241223,ORL,BOS
+Shot Chart Detail,0022400407,306,1630202,Payton Pritchard,1610612738,Boston Celtics,2,0,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,32,1,1,20241225,BOS,PHI
+Shot Chart Detail,0022400420,97,1630202,Payton Pritchard,1610612738,Boston Celtics,1,3,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,57,1,1,20241227,BOS,IND
+Shot Chart Detail,0022400420,197,1630202,Payton Pritchard,1610612738,Boston Celtics,2,8,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,26,1,1,20241227,BOS,IND
+Shot Chart Detail,0022400420,286,1630202,Payton Pritchard,1610612738,Boston Celtics,2,3,1,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,17,1,1,20241227,BOS,IND
+Shot Chart Detail,0022400420,308,1630202,Payton Pritchard,1610612738,Boston Celtics,2,0,23,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-2,1,1,20241227,BOS,IND
+Shot Chart Detail,0022400420,476,1630202,Payton Pritchard,1610612738,Boston Celtics,3,1,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,154,218,1,1,20241227,BOS,IND
+Shot Chart Detail,0022400420,572,1630202,Payton Pritchard,1610612738,Boston Celtics,4,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,189,206,1,1,20241227,BOS,IND
+Shot Chart Detail,0022400420,609,1630202,Payton Pritchard,1610612738,Boston Celtics,4,5,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,27,1,1,20241227,BOS,IND
+Shot Chart Detail,0022400437,110,1630202,Payton Pritchard,1610612738,Boston Celtics,1,3,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,178,184,1,1,20241229,BOS,IND
+Shot Chart Detail,0022400437,137,1630202,Payton Pritchard,1610612738,Boston Celtics,1,1,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,145,229,1,1,20241229,BOS,IND
+Shot Chart Detail,0022400437,200,1630202,Payton Pritchard,1610612738,Boston Celtics,2,7,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-13,66,1,1,20241229,BOS,IND
+Shot Chart Detail,0022400437,249,1630202,Payton Pritchard,1610612738,Boston Celtics,2,5,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-170,184,1,1,20241229,BOS,IND
+Shot Chart Detail,0022400437,252,1630202,Payton Pritchard,1610612738,Boston Celtics,2,5,2,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-7,1,1,20241229,BOS,IND
+Shot Chart Detail,0022400437,256,1630202,Payton Pritchard,1610612738,Boston Celtics,2,4,23,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-87,58,1,1,20241229,BOS,IND
+Shot Chart Detail,0022400437,295,1630202,Payton Pritchard,1610612738,Boston Celtics,2,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,190,172,1,1,20241229,BOS,IND
+Shot Chart Detail,0022400449,98,1630202,Payton Pritchard,1610612738,Boston Celtics,1,3,46,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,157,210,1,1,20241231,BOS,TOR
+Shot Chart Detail,0022400449,144,1630202,Payton Pritchard,1610612738,Boston Celtics,1,0,44,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,185,1,1,20241231,BOS,TOR
+Shot Chart Detail,0022400449,169,1630202,Payton Pritchard,1610612738,Boston Celtics,2,11,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,141,218,1,1,20241231,BOS,TOR
+Shot Chart Detail,0022400449,235,1630202,Payton Pritchard,1610612738,Boston Celtics,2,5,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,32,154,285,1,1,20241231,BOS,TOR
+Shot Chart Detail,0022400449,409,1630202,Payton Pritchard,1610612738,Boston Celtics,3,5,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-191,163,1,1,20241231,BOS,TOR
+Shot Chart Detail,0022400449,481,1630202,Payton Pritchard,1610612738,Boston Celtics,3,0,32,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,0,1,1,20241231,BOS,TOR
+Shot Chart Detail,0022400449,514,1630202,Payton Pritchard,1610612738,Boston Celtics,4,10,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,6,1,1,20241231,BOS,TOR
+Shot Chart Detail,0022400464,73,1630202,Payton Pritchard,1610612738,Boston Celtics,1,5,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,43,251,1,1,20250102,MIN,BOS
+Shot Chart Detail,0022400464,208,1630202,Payton Pritchard,1610612738,Boston Celtics,2,7,31,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-40,96,1,1,20250102,MIN,BOS
+Shot Chart Detail,0022400464,222,1630202,Payton Pritchard,1610612738,Boston Celtics,2,5,48,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,6,254,1,1,20250102,MIN,BOS
+Shot Chart Detail,0022400471,77,1630202,Payton Pritchard,1610612738,Boston Celtics,1,4,16,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,10,1,1,20250103,HOU,BOS
+Shot Chart Detail,0022400471,98,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,56,1,1,20250103,HOU,BOS
+Shot Chart Detail,0022400471,120,1630202,Payton Pritchard,1610612738,Boston Celtics,1,1,19,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-2,267,1,1,20250103,HOU,BOS
+Shot Chart Detail,0022400471,130,1630202,Payton Pritchard,1610612738,Boston Celtics,1,0,29,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,65,10,1,1,20250103,HOU,BOS
+Shot Chart Detail,0022400471,174,1630202,Payton Pritchard,1610612738,Boston Celtics,2,9,4,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,11,1,1,20250103,HOU,BOS
+Shot Chart Detail,0022400471,205,1630202,Payton Pritchard,1610612738,Boston Celtics,2,6,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,8,1,1,20250103,HOU,BOS
+Shot Chart Detail,0022400471,496,1630202,Payton Pritchard,1610612738,Boston Celtics,4,8,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,58,1,1,20250103,HOU,BOS
+Shot Chart Detail,0022400471,535,1630202,Payton Pritchard,1610612738,Boston Celtics,4,4,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,32,283,1,1,20250103,HOU,BOS
+Shot Chart Detail,0022400507,109,1630202,Payton Pritchard,1610612738,Boston Celtics,1,3,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-80,245,1,1,20250107,DEN,BOS
+Shot Chart Detail,0022400528,158,1630202,Payton Pritchard,1610612738,Boston Celtics,1,0,10,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,184,195,1,1,20250110,BOS,SAC
+Shot Chart Detail,0022400528,173,1630202,Payton Pritchard,1610612738,Boston Celtics,2,11,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,12,1,1,20250110,BOS,SAC
+Shot Chart Detail,0022400528,186,1630202,Payton Pritchard,1610612738,Boston Celtics,2,10,16,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-85,22,1,1,20250110,BOS,SAC
+Shot Chart Detail,0022400528,280,1630202,Payton Pritchard,1610612738,Boston Celtics,2,3,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,21,1,1,20250110,BOS,SAC
+Shot Chart Detail,0022400542,103,1630202,Payton Pritchard,1610612738,Boston Celtics,1,3,53,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,24,1,1,20250112,BOS,NOP
+Shot Chart Detail,0022400542,170,1630202,Payton Pritchard,1610612738,Boston Celtics,2,11,33,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,45,1,1,20250112,BOS,NOP
+Shot Chart Detail,0022400542,229,1630202,Payton Pritchard,1610612738,Boston Celtics,2,6,27,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,192,201,1,1,20250112,BOS,NOP
+Shot Chart Detail,0022400542,520,1630202,Payton Pritchard,1610612738,Boston Celtics,4,11,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,192,185,1,1,20250112,BOS,NOP
+Shot Chart Detail,0022400562,141,1630202,Payton Pritchard,1610612738,Boston Celtics,1,1,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-175,183,1,1,20250115,TOR,BOS
+Shot Chart Detail,0022400562,193,1630202,Payton Pritchard,1610612738,Boston Celtics,2,9,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,10,1,1,20250115,TOR,BOS
+Shot Chart Detail,0022400562,299,1630202,Payton Pritchard,1610612738,Boston Celtics,2,2,16,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,109,234,1,1,20250115,TOR,BOS
+Shot Chart Detail,0022400562,330,1630202,Payton Pritchard,1610612738,Boston Celtics,2,0,1,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,3,1,1,20250115,TOR,BOS
+Shot Chart Detail,0022400562,419,1630202,Payton Pritchard,1610612738,Boston Celtics,3,5,1,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-31,259,1,1,20250115,TOR,BOS
+Shot Chart Detail,0022400562,431,1630202,Payton Pritchard,1610612738,Boston Celtics,3,3,43,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20250115,TOR,BOS
+Shot Chart Detail,0022400562,577,1630202,Payton Pritchard,1610612738,Boston Celtics,4,5,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,-9,1,1,20250115,TOR,BOS
+Shot Chart Detail,0022400577,155,1630202,Payton Pritchard,1610612738,Boston Celtics,2,11,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,16,1,1,20250117,BOS,ORL
+Shot Chart Detail,0022400577,599,1630202,Payton Pritchard,1610612738,Boston Celtics,4,2,35,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-94,188,1,1,20250117,BOS,ORL
+Shot Chart Detail,0022400587,101,1630202,Payton Pritchard,1610612738,Boston Celtics,1,5,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,31,180,1,1,20250118,BOS,ATL
+Shot Chart Detail,0022400587,465,1630202,Payton Pritchard,1610612738,Boston Celtics,3,0,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,30,181,251,1,1,20250118,BOS,ATL
+Shot Chart Detail,0022400587,505,1630202,Payton Pritchard,1610612738,Boston Celtics,4,10,56,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,86,252,1,1,20250118,BOS,ATL
+Shot Chart Detail,0022400587,513,1630202,Payton Pritchard,1610612738,Boston Celtics,4,10,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20250118,BOS,ATL
+Shot Chart Detail,0022400587,528,1630202,Payton Pritchard,1610612738,Boston Celtics,4,8,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,14,1,1,20250118,BOS,ATL
+Shot Chart Detail,0022400587,585,1630202,Payton Pritchard,1610612738,Boston Celtics,4,5,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-146,198,1,1,20250118,BOS,ATL
+Shot Chart Detail,0022400587,593,1630202,Payton Pritchard,1610612738,Boston Celtics,4,4,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,33,148,297,1,1,20250118,BOS,ATL
+Shot Chart Detail,0022400604,243,1630202,Payton Pritchard,1610612738,Boston Celtics,2,6,38,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20250120,GSW,BOS
+Shot Chart Detail,0022400604,247,1630202,Payton Pritchard,1610612738,Boston Celtics,2,6,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,9,1,1,20250120,GSW,BOS
+Shot Chart Detail,0022400604,454,1630202,Payton Pritchard,1610612738,Boston Celtics,3,3,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-165,204,1,1,20250120,GSW,BOS
+Shot Chart Detail,0022400604,467,1630202,Payton Pritchard,1610612738,Boston Celtics,3,2,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,13,1,1,20250120,GSW,BOS
+Shot Chart Detail,0022400604,512,1630202,Payton Pritchard,1610612738,Boston Celtics,4,11,11,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,71,1,1,20250120,GSW,BOS
+Shot Chart Detail,0022400620,68,1630202,Payton Pritchard,1610612738,Boston Celtics,1,5,45,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,77,51,1,1,20250122,LAC,BOS
+Shot Chart Detail,0022400620,88,1630202,Payton Pritchard,1610612738,Boston Celtics,1,3,46,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,36,1,1,20250122,LAC,BOS
+Shot Chart Detail,0022400620,159,1630202,Payton Pritchard,1610612738,Boston Celtics,2,10,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,172,198,1,1,20250122,LAC,BOS
+Shot Chart Detail,0022400620,489,1630202,Payton Pritchard,1610612738,Boston Celtics,4,10,25,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,26,1,1,20250122,LAC,BOS
+Shot Chart Detail,0022400629,165,1630202,Payton Pritchard,1610612738,Boston Celtics,2,11,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,78,257,1,1,20250123,LAL,BOS
+Shot Chart Detail,0022400629,627,1630202,Payton Pritchard,1610612738,Boston Celtics,4,0,30,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-1,1,1,20250123,LAL,BOS
+Shot Chart Detail,0022400635,198,1630202,Payton Pritchard,1610612738,Boston Celtics,2,10,34,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-13,1,1,20250125,DAL,BOS
+Shot Chart Detail,0022400635,485,1630202,Payton Pritchard,1610612738,Boston Celtics,3,3,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,208,139,1,1,20250125,DAL,BOS
+Shot Chart Detail,0022400650,135,1630202,Payton Pritchard,1610612738,Boston Celtics,1,1,4,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,200,197,1,1,20250127,BOS,HOU
+Shot Chart Detail,0022400650,155,1630202,Payton Pritchard,1610612738,Boston Celtics,2,11,46,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,34,287,1,1,20250127,BOS,HOU
+Shot Chart Detail,0022400650,471,1630202,Payton Pritchard,1610612738,Boston Celtics,3,1,46,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,11,1,1,20250127,BOS,HOU
+Shot Chart Detail,0022400650,519,1630202,Payton Pritchard,1610612738,Boston Celtics,4,11,6,Made Shot,Fadeaway Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,23,1,1,20250127,BOS,HOU
+Shot Chart Detail,0022400650,542,1630202,Payton Pritchard,1610612738,Boston Celtics,4,9,11,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,94,262,1,1,20250127,BOS,HOU
+Shot Chart Detail,0022400666,253,1630202,Payton Pritchard,1610612738,Boston Celtics,2,4,44,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,27,1,1,20250129,BOS,CHI
+Shot Chart Detail,0022400666,473,1630202,Payton Pritchard,1610612738,Boston Celtics,3,0,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,35,-218,278,1,1,20250129,BOS,CHI
+Shot Chart Detail,0022400666,545,1630202,Payton Pritchard,1610612738,Boston Celtics,4,8,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,5,1,1,20250129,BOS,CHI
+Shot Chart Detail,0022400666,666,1630202,Payton Pritchard,1610612738,Boston Celtics,4,0,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,152,231,1,1,20250129,BOS,CHI
+Shot Chart Detail,0022400683,459,1630202,Payton Pritchard,1610612738,Boston Celtics,3,1,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-112,263,1,1,20250131,NOP,BOS
+Shot Chart Detail,0022400710,130,1630202,Payton Pritchard,1610612738,Boston Celtics,1,3,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-216,135,1,1,20250204,CLE,BOS
+Shot Chart Detail,0022400710,297,1630202,Payton Pritchard,1610612738,Boston Celtics,2,4,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-6,1,1,20250204,CLE,BOS
+Shot Chart Detail,0022400710,448,1630202,Payton Pritchard,1610612738,Boston Celtics,3,5,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-207,225,1,1,20250204,CLE,BOS
+Shot Chart Detail,0022400728,203,1630202,Payton Pritchard,1610612738,Boston Celtics,2,7,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,71,1,1,20250206,BOS,DAL
+Shot Chart Detail,0022400728,451,1630202,Payton Pritchard,1610612738,Boston Celtics,3,1,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,31,1,1,20250206,BOS,DAL
+Shot Chart Detail,0022400728,483,1630202,Payton Pritchard,1610612738,Boston Celtics,4,10,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,2,1,1,20250206,BOS,DAL
+Shot Chart Detail,0022400728,511,1630202,Payton Pritchard,1610612738,Boston Celtics,4,8,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,32,176,278,1,1,20250206,BOS,DAL
+Shot Chart Detail,0022400728,525,1630202,Payton Pritchard,1610612738,Boston Celtics,4,7,33,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-37,15,1,1,20250206,BOS,DAL
+Shot Chart Detail,0022400728,546,1630202,Payton Pritchard,1610612738,Boston Celtics,4,5,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,8,1,1,20250206,BOS,DAL
+Shot Chart Detail,0022400728,585,1630202,Payton Pritchard,1610612738,Boston Celtics,4,1,8,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,16,1,1,20250206,BOS,DAL
+Shot Chart Detail,0022400728,596,1630202,Payton Pritchard,1610612738,Boston Celtics,4,0,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,17,1,1,20250206,BOS,DAL
+Shot Chart Detail,0022400728,606,1630202,Payton Pritchard,1610612738,Boston Celtics,4,0,0,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20250206,BOS,DAL
+Shot Chart Detail,0022400748,175,1630202,Payton Pritchard,1610612738,Boston Celtics,2,11,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,243,9,1,1,20250208,NYK,BOS
+Shot Chart Detail,0022400748,190,1630202,Payton Pritchard,1610612738,Boston Celtics,2,9,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,37,264,1,1,20250208,NYK,BOS
+Shot Chart Detail,0022400748,194,1630202,Payton Pritchard,1610612738,Boston Celtics,2,9,7,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,12,79,1,1,20250208,NYK,BOS
+Shot Chart Detail,0022400748,198,1630202,Payton Pritchard,1610612738,Boston Celtics,2,8,38,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-26,253,1,1,20250208,NYK,BOS
+Shot Chart Detail,0022400748,247,1630202,Payton Pritchard,1610612738,Boston Celtics,2,3,50,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,5,1,1,20250208,NYK,BOS
+Shot Chart Detail,0022400748,511,1630202,Payton Pritchard,1610612738,Boston Celtics,4,7,34,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,93,113,1,1,20250208,NYK,BOS
+Shot Chart Detail,0022400748,514,1630202,Payton Pritchard,1610612738,Boston Celtics,4,6,59,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-165,209,1,1,20250208,NYK,BOS
+Shot Chart Detail,0022400748,527,1630202,Payton Pritchard,1610612738,Boston Celtics,4,5,30,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-143,238,1,1,20250208,NYK,BOS
+Shot Chart Detail,0022400748,560,1630202,Payton Pritchard,1610612738,Boston Celtics,4,3,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,206,136,1,1,20250208,NYK,BOS
+Shot Chart Detail,0022400759,136,1630202,Payton Pritchard,1610612738,Boston Celtics,1,1,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-185,197,1,1,20250210,MIA,BOS
+Shot Chart Detail,0022400759,144,1630202,Payton Pritchard,1610612738,Boston Celtics,1,0,11,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,10,1,1,20250210,MIA,BOS
+Shot Chart Detail,0022400769,432,1630202,Payton Pritchard,1610612738,Boston Celtics,3,4,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,12,1,1,20250212,BOS,SAS
+Shot Chart Detail,0022400769,476,1630202,Payton Pritchard,1610612738,Boston Celtics,3,0,33,Made Shot,Jump Bank Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-18,1,1,20250212,BOS,SAS
+Shot Chart Detail,0022400769,510,1630202,Payton Pritchard,1610612738,Boston Celtics,4,10,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,12,1,1,20250212,BOS,SAS
+Shot Chart Detail,0022400769,521,1630202,Payton Pritchard,1610612738,Boston Celtics,4,9,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,32,258,1,1,20250212,BOS,SAS
+Shot Chart Detail,0022400789,115,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,142,222,1,1,20250220,PHI,BOS
+Shot Chart Detail,0022400789,123,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,189,1,1,20250220,PHI,BOS
+Shot Chart Detail,0022400789,169,1630202,Payton Pritchard,1610612738,Boston Celtics,2,11,21,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-109,278,1,1,20250220,PHI,BOS
+Shot Chart Detail,0022400789,175,1630202,Payton Pritchard,1610612738,Boston Celtics,2,10,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,237,1,1,20250220,PHI,BOS
+Shot Chart Detail,0022400789,196,1630202,Payton Pritchard,1610612738,Boston Celtics,2,8,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,197,186,1,1,20250220,PHI,BOS
+Shot Chart Detail,0022400789,435,1630202,Payton Pritchard,1610612738,Boston Celtics,3,3,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,1,1,1,20250220,PHI,BOS
+Shot Chart Detail,0022400789,456,1630202,Payton Pritchard,1610612738,Boston Celtics,3,2,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,4,1,1,20250220,PHI,BOS
+Shot Chart Detail,0022400789,559,1630202,Payton Pritchard,1610612738,Boston Celtics,4,5,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-152,209,1,1,20250220,PHI,BOS
+Shot Chart Detail,0022400789,605,1630202,Payton Pritchard,1610612738,Boston Celtics,4,2,46,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,93,250,1,1,20250220,PHI,BOS
+Shot Chart Detail,0022400789,609,1630202,Payton Pritchard,1610612738,Boston Celtics,4,2,17,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-94,239,1,1,20250220,PHI,BOS
+Shot Chart Detail,0022400811,412,1630202,Payton Pritchard,1610612738,Boston Celtics,3,1,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,214,159,1,1,20250223,BOS,NYK
+Shot Chart Detail,0022400829,102,1630202,Payton Pritchard,1610612738,Boston Celtics,1,4,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-197,161,1,1,20250225,TOR,BOS
+Shot Chart Detail,0022400829,127,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,11,1,1,20250225,TOR,BOS
+Shot Chart Detail,0022400829,146,1630202,Payton Pritchard,1610612738,Boston Celtics,1,1,40,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,216,111,1,1,20250225,TOR,BOS
+Shot Chart Detail,0022400829,290,1630202,Payton Pritchard,1610612738,Boston Celtics,2,3,48,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,3,1,1,20250225,TOR,BOS
+Shot Chart Detail,0022400829,381,1630202,Payton Pritchard,1610612738,Boston Celtics,3,6,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,20,1,1,20250225,TOR,BOS
+Shot Chart Detail,0022400829,412,1630202,Payton Pritchard,1610612738,Boston Celtics,3,4,48,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,8,1,1,20250225,TOR,BOS
+Shot Chart Detail,0022400829,475,1630202,Payton Pritchard,1610612738,Boston Celtics,3,0,1,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4,252,1,1,20250225,TOR,BOS
+Shot Chart Detail,0022400829,607,1630202,Payton Pritchard,1610612738,Boston Celtics,4,0,20,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,12,1,1,20250225,TOR,BOS
+Shot Chart Detail,0022400836,113,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,54,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,31,168,262,1,1,20250226,DET,BOS
+Shot Chart Detail,0022400836,227,1630202,Payton Pritchard,1610612738,Boston Celtics,2,5,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-27,282,1,1,20250226,DET,BOS
+Shot Chart Detail,0022400836,270,1630202,Payton Pritchard,1610612738,Boston Celtics,2,2,46,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,188,203,1,1,20250226,DET,BOS
+Shot Chart Detail,0022400836,287,1630202,Payton Pritchard,1610612738,Boston Celtics,2,1,33,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,199,184,1,1,20250226,DET,BOS
+Shot Chart Detail,0022400836,415,1630202,Payton Pritchard,1610612738,Boston Celtics,3,2,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-38,-1,1,1,20250226,DET,BOS
+Shot Chart Detail,0022400836,527,1630202,Payton Pritchard,1610612738,Boston Celtics,4,7,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,74,262,1,1,20250226,DET,BOS
+Shot Chart Detail,0022400852,169,1630202,Payton Pritchard,1610612738,Boston Celtics,2,11,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,225,99,1,1,20250228,BOS,CLE
+Shot Chart Detail,0022400852,438,1630202,Payton Pritchard,1610612738,Boston Celtics,3,2,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,156,210,1,1,20250228,BOS,CLE
+Shot Chart Detail,0022400866,95,1630202,Payton Pritchard,1610612738,Boston Celtics,1,4,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,23,1,1,20250302,BOS,DEN
+Shot Chart Detail,0022400866,141,1630202,Payton Pritchard,1610612738,Boston Celtics,1,1,10,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,-9,1,1,20250302,BOS,DEN
+Shot Chart Detail,0022400866,204,1630202,Payton Pritchard,1610612738,Boston Celtics,2,8,35,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,163,218,1,1,20250302,BOS,DEN
+Shot Chart Detail,0022400866,509,1630202,Payton Pritchard,1610612738,Boston Celtics,4,7,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,2,1,1,20250302,BOS,DEN
+Shot Chart Detail,0022400891,78,1630202,Payton Pritchard,1610612738,Boston Celtics,1,5,56,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,114,276,1,1,20250305,BOS,POR
+Shot Chart Detail,0022400891,81,1630202,Payton Pritchard,1610612738,Boston Celtics,1,5,30,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-134,227,1,1,20250305,BOS,POR
+Shot Chart Detail,0022400891,133,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,30,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,224,109,1,1,20250305,BOS,POR
+Shot Chart Detail,0022400891,159,1630202,Payton Pritchard,1610612738,Boston Celtics,1,0,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,166,1,1,20250305,BOS,POR
+Shot Chart Detail,0022400891,294,1630202,Payton Pritchard,1610612738,Boston Celtics,2,2,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,157,194,1,1,20250305,BOS,POR
+Shot Chart Detail,0022400891,305,1630202,Payton Pritchard,1610612738,Boston Celtics,2,1,41,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,11,1,1,20250305,BOS,POR
+Shot Chart Detail,0022400891,345,1630202,Payton Pritchard,1610612738,Boston Celtics,3,10,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-97,274,1,1,20250305,BOS,POR
+Shot Chart Detail,0022400891,389,1630202,Payton Pritchard,1610612738,Boston Celtics,3,6,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,118,221,1,1,20250305,BOS,POR
+Shot Chart Detail,0022400891,397,1630202,Payton Pritchard,1610612738,Boston Celtics,3,5,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,92,242,1,1,20250305,BOS,POR
+Shot Chart Detail,0022400891,435,1630202,Payton Pritchard,1610612738,Boston Celtics,3,2,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,15,1,1,20250305,BOS,POR
+Shot Chart Detail,0022400891,446,1630202,Payton Pritchard,1610612738,Boston Celtics,3,1,54,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-138,226,1,1,20250305,BOS,POR
+Shot Chart Detail,0022400891,449,1630202,Payton Pritchard,1610612738,Boston Celtics,3,1,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,130,222,1,1,20250305,BOS,POR
+Shot Chart Detail,0022400891,513,1630202,Payton Pritchard,1610612738,Boston Celtics,4,8,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,8,1,1,20250305,BOS,POR
+Shot Chart Detail,0022400891,553,1630202,Payton Pritchard,1610612738,Boston Celtics,4,4,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,17,1,1,20250305,BOS,POR
+Shot Chart Detail,0022400900,128,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-157,263,1,1,20250306,BOS,PHI
+Shot Chart Detail,0022400900,275,1630202,Payton Pritchard,1610612738,Boston Celtics,2,4,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,110,241,1,1,20250306,BOS,PHI
+Shot Chart Detail,0022400900,292,1630202,Payton Pritchard,1610612738,Boston Celtics,2,2,56,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,66,15,1,1,20250306,BOS,PHI
+Shot Chart Detail,0022400900,306,1630202,Payton Pritchard,1610612738,Boston Celtics,2,1,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,112,228,1,1,20250306,BOS,PHI
+Shot Chart Detail,0022400900,506,1630202,Payton Pritchard,1610612738,Boston Celtics,4,11,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,8,1,1,20250306,BOS,PHI
+Shot Chart Detail,0022400900,588,1630202,Payton Pritchard,1610612738,Boston Celtics,4,4,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-150,213,1,1,20250306,BOS,PHI
+Shot Chart Detail,0022400918,293,1630202,Payton Pritchard,1610612738,Boston Celtics,2,2,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,18,1,1,20250308,BOS,LAL
+Shot Chart Detail,0022400929,87,1630202,Payton Pritchard,1610612738,Boston Celtics,1,4,6,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,136,240,1,1,20250310,BOS,UTA
+Shot Chart Detail,0022400929,512,1630202,Payton Pritchard,1610612738,Boston Celtics,4,9,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,92,242,1,1,20250310,BOS,UTA
+Shot Chart Detail,0022400929,516,1630202,Payton Pritchard,1610612738,Boston Celtics,4,8,24,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,21,1,1,20250310,BOS,UTA
+Shot Chart Detail,0022400946,125,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,13,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,102,230,1,1,20250312,BOS,OKC
+Shot Chart Detail,0022400946,181,1630202,Payton Pritchard,1610612738,Boston Celtics,2,10,56,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,13,1,1,20250312,BOS,OKC
+Shot Chart Detail,0022400946,664,1630202,Payton Pritchard,1610612738,Boston Celtics,4,0,8,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-64,275,1,1,20250312,BOS,OKC
+Shot Chart Detail,0022400958,86,1630202,Payton Pritchard,1610612738,Boston Celtics,1,4,20,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,197,153,1,1,20250314,MIA,BOS
+Shot Chart Detail,0022400958,89,1630202,Payton Pritchard,1610612738,Boston Celtics,1,3,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,2,1,1,20250314,MIA,BOS
+Shot Chart Detail,0022400958,159,1630202,Payton Pritchard,1610612738,Boston Celtics,2,9,55,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,128,1,1,20250314,MIA,BOS
+Shot Chart Detail,0022400958,404,1630202,Payton Pritchard,1610612738,Boston Celtics,3,2,32,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-174,179,1,1,20250314,MIA,BOS
+Shot Chart Detail,0022400968,106,1630202,Payton Pritchard,1610612738,Boston Celtics,1,3,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-143,214,1,1,20250315,BKN,BOS
+Shot Chart Detail,0022400968,110,1630202,Payton Pritchard,1610612738,Boston Celtics,1,2,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,14,1,1,20250315,BKN,BOS
+Shot Chart Detail,0022400968,181,1630202,Payton Pritchard,1610612738,Boston Celtics,2,9,28,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,4,277,1,1,20250315,BKN,BOS
+Shot Chart Detail,0022400968,220,1630202,Payton Pritchard,1610612738,Boston Celtics,2,6,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,148,201,1,1,20250315,BKN,BOS
+Shot Chart Detail,0022400968,411,1630202,Payton Pritchard,1610612738,Boston Celtics,3,3,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,6,1,1,20250315,BKN,BOS
+Shot Chart Detail,0022400968,542,1630202,Payton Pritchard,1610612738,Boston Celtics,4,5,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,1,1,1,20250315,BKN,BOS
+Shot Chart Detail,0022400968,590,1630202,Payton Pritchard,1610612738,Boston Celtics,4,2,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-153,247,1,1,20250315,BKN,BOS
+Shot Chart Detail,0022400994,159,1630202,Payton Pritchard,1610612738,Boston Celtics,2,9,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-184,174,1,1,20250318,BOS,BKN
+Shot Chart Detail,0022400994,366,1630202,Payton Pritchard,1610612738,Boston Celtics,3,4,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-196,197,1,1,20250318,BOS,BKN
+Shot Chart Detail,0022400994,534,1630202,Payton Pritchard,1610612738,Boston Celtics,4,4,56,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,136,201,1,1,20250318,BOS,BKN
+Shot Chart Detail,0022401020,221,1630202,Payton Pritchard,1610612738,Boston Celtics,2,6,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-8,1,1,20250321,UTA,BOS
+Shot Chart Detail,0022401020,473,1630202,Payton Pritchard,1610612738,Boston Celtics,3,0,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,174,227,1,1,20250321,UTA,BOS
+Shot Chart Detail,0022401020,496,1630202,Payton Pritchard,1610612738,Boston Celtics,4,11,18,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,26,1,1,20250321,UTA,BOS
+Shot Chart Detail,0022401020,539,1630202,Payton Pritchard,1610612738,Boston Celtics,4,8,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,191,196,1,1,20250321,UTA,BOS
+Shot Chart Detail,0022401020,543,1630202,Payton Pritchard,1610612738,Boston Celtics,4,7,48,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,84,1,1,20250321,UTA,BOS
+Shot Chart Detail,0022401020,549,1630202,Payton Pritchard,1610612738,Boston Celtics,4,7,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,28,280,1,1,20250321,UTA,BOS
+Shot Chart Detail,0022401034,9,1630202,Payton Pritchard,1610612738,Boston Celtics,1,11,27,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-180,183,1,1,20250323,POR,BOS
+Shot Chart Detail,0022401034,24,1630202,Payton Pritchard,1610612738,Boston Celtics,1,9,40,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,13,1,1,20250323,POR,BOS
+Shot Chart Detail,0022401034,397,1630202,Payton Pritchard,1610612738,Boston Celtics,3,2,44,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,224,86,1,1,20250323,POR,BOS
+Shot Chart Detail,0022401034,405,1630202,Payton Pritchard,1610612738,Boston Celtics,3,1,46,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-71,246,1,1,20250323,POR,BOS
+Shot Chart Detail,0022401034,408,1630202,Payton Pritchard,1610612738,Boston Celtics,3,1,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,197,162,1,1,20250323,POR,BOS
+Shot Chart Detail,0022401034,447,1630202,Payton Pritchard,1610612738,Boston Celtics,4,11,0,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,28,1,1,20250323,POR,BOS
+Shot Chart Detail,0022401044,82,1630202,Payton Pritchard,1610612738,Boston Celtics,1,6,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-181,215,1,1,20250324,SAC,BOS
+Shot Chart Detail,0022401044,154,1630202,Payton Pritchard,1610612738,Boston Celtics,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,197,170,1,1,20250324,SAC,BOS
+Shot Chart Detail,0022401044,214,1630202,Payton Pritchard,1610612738,Boston Celtics,2,7,26,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-21,41,1,1,20250324,SAC,BOS
+Shot Chart Detail,0022401044,243,1630202,Payton Pritchard,1610612738,Boston Celtics,2,5,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,170,207,1,1,20250324,SAC,BOS
+Shot Chart Detail,0022401044,289,1630202,Payton Pritchard,1610612738,Boston Celtics,2,1,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,25,1,1,20250324,SAC,BOS
+Shot Chart Detail,0022401044,444,1630202,Payton Pritchard,1610612738,Boston Celtics,3,0,14,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,203,211,1,1,20250324,SAC,BOS
+Shot Chart Detail,0022401044,528,1630202,Payton Pritchard,1610612738,Boston Celtics,4,6,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-154,243,1,1,20250324,SAC,BOS
+Shot Chart Detail,0022401044,598,1630202,Payton Pritchard,1610612738,Boston Celtics,4,1,28,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,34,1,1,20250324,SAC,BOS
+Shot Chart Detail,0022401058,142,1630202,Payton Pritchard,1610612738,Boston Celtics,1,0,55,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,159,224,1,1,20250326,PHX,BOS
+Shot Chart Detail,0022401058,144,1630202,Payton Pritchard,1610612738,Boston Celtics,1,0,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,14,1,1,20250326,PHX,BOS
+Shot Chart Detail,0022401058,569,1630202,Payton Pritchard,1610612738,Boston Celtics,4,7,1,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-29,90,1,1,20250326,PHX,BOS
+Shot Chart Detail,0022401093,156,1630202,Payton Pritchard,1610612738,Boston Celtics,1,0,22,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-37,12,1,1,20250331,MEM,BOS
+Shot Chart Detail,0022401093,549,1630202,Payton Pritchard,1610612738,Boston Celtics,4,7,21,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,4,1,1,20250331,MEM,BOS
+Shot Chart Detail,0022401106,123,1630202,Payton Pritchard,1610612738,Boston Celtics,1,1,10,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,151,216,1,1,20250402,BOS,MIA
+Shot Chart Detail,0022401106,159,1630202,Payton Pritchard,1610612738,Boston Celtics,2,10,52,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,16,1,1,20250402,BOS,MIA
+Shot Chart Detail,0022401106,231,1630202,Payton Pritchard,1610612738,Boston Celtics,2,4,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-8,1,1,20250402,BOS,MIA
+Shot Chart Detail,0022401106,484,1630202,Payton Pritchard,1610612738,Boston Celtics,4,9,23,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-39,1,1,1,20250402,BOS,MIA
+Shot Chart Detail,0022401120,130,1630202,Payton Pritchard,1610612738,Boston Celtics,1,0,59,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-181,119,1,1,20250404,BOS,PHX
+Shot Chart Detail,0022401120,157,1630202,Payton Pritchard,1610612738,Boston Celtics,2,10,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-202,177,1,1,20250404,BOS,PHX
+Shot Chart Detail,0022401120,186,1630202,Payton Pritchard,1610612738,Boston Celtics,2,8,19,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,177,1,1,20250404,BOS,PHX
+Shot Chart Detail,0022401120,407,1630202,Payton Pritchard,1610612738,Boston Celtics,3,2,49,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,36,1,1,20250404,BOS,PHX
+Shot Chart Detail,0022401137,129,1630202,Payton Pritchard,1610612738,Boston Celtics,1,1,32,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,13,1,1,20250406,BOS,WAS
+Shot Chart Detail,0022401137,263,1630202,Payton Pritchard,1610612738,Boston Celtics,2,2,1,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,39,1,1,20250406,BOS,WAS
+Shot Chart Detail,0022401137,425,1630202,Payton Pritchard,1610612738,Boston Celtics,3,0,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,209,1,1,20250406,BOS,WAS
+Shot Chart Detail,0022401137,469,1630202,Payton Pritchard,1610612738,Boston Celtics,4,10,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-154,197,1,1,20250406,BOS,WAS
+Shot Chart Detail,0022401137,477,1630202,Payton Pritchard,1610612738,Boston Celtics,4,9,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,24,1,1,20250406,BOS,WAS
+Shot Chart Detail,0022401137,497,1630202,Payton Pritchard,1610612738,Boston Celtics,4,7,36,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-7,1,1,20250406,BOS,WAS
+Shot Chart Detail,0022401137,549,1630202,Payton Pritchard,1610612738,Boston Celtics,4,3,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-173,195,1,1,20250406,BOS,WAS
+Shot Chart Detail,0022401137,572,1630202,Payton Pritchard,1610612738,Boston Celtics,4,0,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,1,1,1,20250406,BOS,WAS
+Shot Chart Detail,0022401151,186,1630202,Payton Pritchard,1610612738,Boston Celtics,2,9,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20250408,NYK,BOS
+Shot Chart Detail,0022401151,499,1630202,Payton Pritchard,1610612738,Boston Celtics,4,9,59,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,7,1,1,20250408,NYK,BOS
+Shot Chart Detail,0022401151,543,1630202,Payton Pritchard,1610612738,Boston Celtics,4,6,25,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,37,1,1,20250408,NYK,BOS
+Shot Chart Detail,0022401156,17,1630202,Payton Pritchard,1610612738,Boston Celtics,1,10,40,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-40,90,1,1,20250409,ORL,BOS
+Shot Chart Detail,0022401156,37,1630202,Payton Pritchard,1610612738,Boston Celtics,1,7,45,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,16,1,1,20250409,ORL,BOS
+Shot Chart Detail,0022401156,162,1630202,Payton Pritchard,1610612738,Boston Celtics,2,11,45,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,20,1,1,20250409,ORL,BOS
+Shot Chart Detail,0022401156,265,1630202,Payton Pritchard,1610612738,Boston Celtics,2,2,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,25,1,1,20250409,ORL,BOS
+Shot Chart Detail,0022401156,292,1630202,Payton Pritchard,1610612738,Boston Celtics,2,0,7,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,11,1,1,20250409,ORL,BOS
+Shot Chart Detail,0022401156,395,1630202,Payton Pritchard,1610612738,Boston Celtics,3,2,31,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-20,142,1,1,20250409,ORL,BOS
+Shot Chart Detail,0022401156,415,1630202,Payton Pritchard,1610612738,Boston Celtics,3,0,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,9,1,1,20250409,ORL,BOS
+Shot Chart Detail,0022401174,146,1630202,Payton Pritchard,1610612738,Boston Celtics,1,0,1,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,12,173,1,1,20250411,BOS,CHA
+Shot Chart Detail,0022401174,163,1630202,Payton Pritchard,1610612738,Boston Celtics,2,11,18,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,148,240,1,1,20250411,BOS,CHA
+Shot Chart Detail,0022401174,250,1630202,Payton Pritchard,1610612738,Boston Celtics,2,4,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,225,56,1,1,20250411,BOS,CHA
+Shot Chart Detail,0022401174,267,1630202,Payton Pritchard,1610612738,Boston Celtics,2,2,32,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,8,98,1,1,20250411,BOS,CHA
+Shot Chart Detail,0022401174,469,1630202,Payton Pritchard,1610612738,Boston Celtics,4,11,11,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,77,251,1,1,20250411,BOS,CHA
+Shot Chart Detail,0022401174,498,1630202,Payton Pritchard,1610612738,Boston Celtics,4,8,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-82,152,1,1,20250411,BOS,CHA
+Shot Chart Detail,0022401174,519,1630202,Payton Pritchard,1610612738,Boston Celtics,4,7,27,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,194,183,1,1,20250411,BOS,CHA
+Shot Chart Detail,0022401174,544,1630202,Payton Pritchard,1610612738,Boston Celtics,4,5,16,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,135,39,1,1,20250411,BOS,CHA
+Shot Chart Detail,0022401174,576,1630202,Payton Pritchard,1610612738,Boston Celtics,4,3,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,15,1,1,20250411,BOS,CHA
+Shot Chart Detail,0022401187,11,1630202,Payton Pritchard,1610612738,Boston Celtics,1,11,23,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,59,50,1,1,20250413,BOS,CHA
+Shot Chart Detail,0022401187,15,1630202,Payton Pritchard,1610612738,Boston Celtics,1,10,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,148,235,1,1,20250413,BOS,CHA
+Shot Chart Detail,0022401187,53,1630202,Payton Pritchard,1610612738,Boston Celtics,1,7,26,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,60,50,1,1,20250413,BOS,CHA
+Shot Chart Detail,0022401187,74,1630202,Payton Pritchard,1610612738,Boston Celtics,1,5,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,39,177,1,1,20250413,BOS,CHA
+Shot Chart Detail,0022401187,181,1630202,Payton Pritchard,1610612738,Boston Celtics,2,10,4,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,34,1,1,20250413,BOS,CHA
+Shot Chart Detail,0022401187,203,1630202,Payton Pritchard,1610612738,Boston Celtics,2,8,6,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,5,1,1,20250413,BOS,CHA
+Shot Chart Detail,0022401187,230,1630202,Payton Pritchard,1610612738,Boston Celtics,2,5,45,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-152,210,1,1,20250413,BOS,CHA
+Shot Chart Detail,0022401187,263,1630202,Payton Pritchard,1610612738,Boston Celtics,2,4,9,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,1,20250413,BOS,CHA
+Shot Chart Detail,0022401187,360,1630202,Payton Pritchard,1610612738,Boston Celtics,3,8,22,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,5,1,1,20250413,BOS,CHA
+Shot Chart Detail,0022401187,406,1630202,Payton Pritchard,1610612738,Boston Celtics,3,5,52,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,13,1,1,20250413,BOS,CHA
+Shot Chart Detail,0022401187,518,1630202,Payton Pritchard,1610612738,Boston Celtics,4,10,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-230,96,1,1,20250413,BOS,CHA
+Shot Chart Detail,0022401187,523,1630202,Payton Pritchard,1610612738,Boston Celtics,4,10,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,13,1,1,20250413,BOS,CHA
+Shot Chart Detail,0022401187,542,1630202,Payton Pritchard,1610612738,Boston Celtics,4,8,5,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,202,172,1,1,20250413,BOS,CHA
+Shot Chart Detail,0022401187,554,1630202,Payton Pritchard,1610612738,Boston Celtics,4,6,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,17,1,1,20250413,BOS,CHA
+Shot Chart Detail,0022401205,91,1630202,Payton Pritchard,1610612738,Boston Celtics,1,5,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-130,226,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,189,1630202,Payton Pritchard,1610612738,Boston Celtics,2,11,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-180,180,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,200,1630202,Payton Pritchard,1610612738,Boston Celtics,2,9,44,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,129,242,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,296,1630202,Payton Pritchard,1610612738,Boston Celtics,2,1,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,109,238,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,304,1630202,Payton Pritchard,1610612738,Boston Celtics,2,0,59,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,439,1630202,Payton Pritchard,1610612738,Boston Celtics,3,2,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-134,213,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,505,1630202,Payton Pritchard,1610612738,Boston Celtics,4,9,32,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,13,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,539,1630202,Payton Pritchard,1610612738,Boston Celtics,4,6,33,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,176,213,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,561,1630202,Payton Pritchard,1610612738,Boston Celtics,4,5,26,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,105,248,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,572,1630202,Payton Pritchard,1610612738,Boston Celtics,4,3,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,22,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401217,215,1630202,Payton Pritchard,1610612738,Boston Celtics,2,7,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,185,235,1,1,20241215,WAS,BOS
+Shot Chart Detail,0022401217,232,1630202,Payton Pritchard,1610612738,Boston Celtics,2,6,21,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-201,168,1,1,20241215,WAS,BOS
+Shot Chart Detail,0022401217,481,1630202,Payton Pritchard,1610612738,Boston Celtics,3,3,9,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-191,243,1,1,20241215,WAS,BOS
+Shot Chart Detail,0022401217,484,1630202,Payton Pritchard,1610612738,Boston Celtics,3,2,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,31,-208,241,1,1,20241215,WAS,BOS
+Shot Chart Detail,0022401217,594,1630202,Payton Pritchard,1610612738,Boston Celtics,4,7,17,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-3,1,1,20241215,WAS,BOS

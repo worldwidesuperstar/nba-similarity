@@ -1,21 +1,205 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400011,516,1642347,Jamal Shead,1610612761,Toronto Raptors,3,1,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-21,74,1,1,20241115,TOR,DET
+Shot Chart Detail,0022400011,542,1642347,Jamal Shead,1610612761,Toronto Raptors,4,11,22,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,109,-5,1,1,20241115,TOR,DET
+Shot Chart Detail,0022400054,208,1642347,Jamal Shead,1610612761,Toronto Raptors,2,8,39,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-119,230,1,1,20241203,TOR,IND
+Shot Chart Detail,0022400054,222,1642347,Jamal Shead,1610612761,Toronto Raptors,2,7,50,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-115,234,1,1,20241203,TOR,IND
+Shot Chart Detail,0022400067,161,1642347,Jamal Shead,1610612761,Toronto Raptors,1,0,57,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,45,1,1,20241023,TOR,CLE
+Shot Chart Detail,0022400067,336,1642347,Jamal Shead,1610612761,Toronto Raptors,2,1,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-93,237,1,1,20241023,TOR,CLE
+Shot Chart Detail,0022400067,459,1642347,Jamal Shead,1610612761,Toronto Raptors,3,5,21,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,8,1,1,20241023,TOR,CLE
+Shot Chart Detail,0022400078,211,1642347,Jamal Shead,1610612761,Toronto Raptors,2,11,43,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-45,88,1,1,20241025,TOR,PHI
+Shot Chart Detail,0022400078,398,1642347,Jamal Shead,1610612761,Toronto Raptors,2,1,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-80,267,1,1,20241025,TOR,PHI
+Shot Chart Detail,0022400078,545,1642347,Jamal Shead,1610612761,Toronto Raptors,3,5,42,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,51,89,1,1,20241025,TOR,PHI
+Shot Chart Detail,0022400078,800,1642347,Jamal Shead,1610612761,Toronto Raptors,4,2,52,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,36,1,1,20241025,TOR,PHI
+Shot Chart Detail,0022400093,459,1642347,Jamal Shead,1610612761,Toronto Raptors,3,2,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-37,256,1,1,20241026,MIN,TOR
+Shot Chart Detail,0022400093,486,1642347,Jamal Shead,1610612761,Toronto Raptors,3,0,27,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,18,1,1,20241026,MIN,TOR
+Shot Chart Detail,0022400107,112,1642347,Jamal Shead,1610612761,Toronto Raptors,1,2,30,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-23,120,1,1,20241028,TOR,DEN
+Shot Chart Detail,0022400107,178,1642347,Jamal Shead,1610612761,Toronto Raptors,2,10,35,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-10,1,1,20241028,TOR,DEN
+Shot Chart Detail,0022400107,182,1642347,Jamal Shead,1610612761,Toronto Raptors,2,10,13,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,1,1,1,20241028,TOR,DEN
+Shot Chart Detail,0022400107,262,1642347,Jamal Shead,1610612761,Toronto Raptors,2,5,16,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-11,122,1,1,20241028,TOR,DEN
+Shot Chart Detail,0022400117,260,1642347,Jamal Shead,1610612761,Toronto Raptors,2,6,44,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,185,204,1,1,20241030,CHA,TOR
+Shot Chart Detail,0022400117,309,1642347,Jamal Shead,1610612761,Toronto Raptors,2,2,46,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-9,92,1,1,20241030,CHA,TOR
+Shot Chart Detail,0022400137,114,1642347,Jamal Shead,1610612761,Toronto Raptors,1,4,42,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,36,1,1,20241101,TOR,LAL
+Shot Chart Detail,0022400137,137,1642347,Jamal Shead,1610612761,Toronto Raptors,1,2,38,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20241101,TOR,LAL
+Shot Chart Detail,0022400166,203,1642347,Jamal Shead,1610612761,Toronto Raptors,1,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,10,1,1,20241104,DEN,TOR
+Shot Chart Detail,0022400166,535,1642347,Jamal Shead,1610612761,Toronto Raptors,3,1,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-143,235,1,1,20241104,DEN,TOR
+Shot Chart Detail,0022400166,652,1642347,Jamal Shead,1610612761,Toronto Raptors,4,6,14,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,45,1,1,20241104,DEN,TOR
+Shot Chart Detail,0022400180,135,1642347,Jamal Shead,1610612761,Toronto Raptors,1,1,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,3,1,1,20241106,SAC,TOR
+Shot Chart Detail,0022400180,479,1642347,Jamal Shead,1610612761,Toronto Raptors,3,1,19,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,15,84,1,1,20241106,SAC,TOR
+Shot Chart Detail,0022400211,217,1642347,Jamal Shead,1610612761,Toronto Raptors,2,8,7,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,17,136,1,1,20241110,LAL,TOR
+Shot Chart Detail,0022400230,133,1642347,Jamal Shead,1610612761,Toronto Raptors,1,1,0,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,150,53,1,1,20241116,BOS,TOR
+Shot Chart Detail,0022400230,141,1642347,Jamal Shead,1610612761,Toronto Raptors,1,0,33,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,80,117,1,1,20241116,BOS,TOR
+Shot Chart Detail,0022400230,439,1642347,Jamal Shead,1610612761,Toronto Raptors,3,2,25,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,35,1,1,20241116,BOS,TOR
+Shot Chart Detail,0022400247,91,1642347,Jamal Shead,1610612761,Toronto Raptors,1,4,49,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-43,91,1,1,20241118,TOR,IND
+Shot Chart Detail,0022400247,464,1642347,Jamal Shead,1610612761,Toronto Raptors,3,3,20,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,56,1,1,20241118,TOR,IND
+Shot Chart Detail,0022400275,514,1642347,Jamal Shead,1610612761,Toronto Raptors,3,1,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,11,1,1,20241124,CLE,TOR
+Shot Chart Detail,0022400275,523,1642347,Jamal Shead,1610612761,Toronto Raptors,3,0,57,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,224,127,1,1,20241124,CLE,TOR
+Shot Chart Detail,0022400278,179,1642347,Jamal Shead,1610612761,Toronto Raptors,2,11,8,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-81,138,1,1,20241125,DET,TOR
+Shot Chart Detail,0022400278,514,1642347,Jamal Shead,1610612761,Toronto Raptors,3,1,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,110,250,1,1,20241125,DET,TOR
+Shot Chart Detail,0022400278,538,1642347,Jamal Shead,1610612761,Toronto Raptors,3,0,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,102,243,1,1,20241125,DET,TOR
+Shot Chart Detail,0022400295,548,1642347,Jamal Shead,1610612761,Toronto Raptors,4,10,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-86,230,1,1,20241127,NOP,TOR
+Shot Chart Detail,0022400295,588,1642347,Jamal Shead,1610612761,Toronto Raptors,4,7,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,1,1,1,20241127,NOP,TOR
+Shot Chart Detail,0022400295,626,1642347,Jamal Shead,1610612761,Toronto Raptors,4,5,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-11,1,1,20241127,NOP,TOR
+Shot Chart Detail,0022400309,205,1642347,Jamal Shead,1610612761,Toronto Raptors,2,8,37,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,96,43,1,1,20241201,TOR,MIA
+Shot Chart Detail,0022400364,541,1642347,Jamal Shead,1610612761,Toronto Raptors,4,10,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-221,120,1,1,20241219,TOR,BKN
+Shot Chart Detail,0022400364,614,1642347,Jamal Shead,1610612761,Toronto Raptors,4,5,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,9,1,1,20241219,TOR,BKN
+Shot Chart Detail,0022400388,182,1642347,Jamal Shead,1610612761,Toronto Raptors,2,11,46,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,5,1,1,20241222,TOR,HOU
+Shot Chart Detail,0022400388,263,1642347,Jamal Shead,1610612761,Toronto Raptors,2,5,56,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20241222,TOR,HOU
+Shot Chart Detail,0022400388,276,1642347,Jamal Shead,1610612761,Toronto Raptors,2,4,58,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,38,1,1,20241222,TOR,HOU
+Shot Chart Detail,0022400388,421,1642347,Jamal Shead,1610612761,Toronto Raptors,3,7,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-147,223,1,1,20241222,TOR,HOU
+Shot Chart Detail,0022400388,475,1642347,Jamal Shead,1610612761,Toronto Raptors,3,3,39,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,11,1,1,20241222,TOR,HOU
+Shot Chart Detail,0022400438,274,1642347,Jamal Shead,1610612761,Toronto Raptors,2,5,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-163,202,1,1,20241229,TOR,ATL
+Shot Chart Detail,0022400438,723,1642347,Jamal Shead,1610612761,Toronto Raptors,4,4,25,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,26,1,1,20241229,TOR,ATL
+Shot Chart Detail,0022400449,261,1642347,Jamal Shead,1610612761,Toronto Raptors,2,4,24,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-183,179,1,1,20241231,BOS,TOR
+Shot Chart Detail,0022400449,626,1642347,Jamal Shead,1610612761,Toronto Raptors,4,1,16,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,58,100,1,1,20241231,BOS,TOR
+Shot Chart Detail,0022400459,81,1642347,Jamal Shead,1610612761,Toronto Raptors,1,4,35,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,10,1,1,20250101,TOR,BKN
+Shot Chart Detail,0022400459,271,1642347,Jamal Shead,1610612761,Toronto Raptors,2,4,33,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-22,113,1,1,20250101,TOR,BKN
+Shot Chart Detail,0022400459,451,1642347,Jamal Shead,1610612761,Toronto Raptors,3,2,10,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,26,1,1,20250101,TOR,BKN
+Shot Chart Detail,0022400470,367,1642347,Jamal Shead,1610612761,Toronto Raptors,3,5,57,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,29,99,1,1,20250103,TOR,ORL
+Shot Chart Detail,0022400497,427,1642347,Jamal Shead,1610612761,Toronto Raptors,3,4,1,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,55,84,1,1,20250106,TOR,MIL
+Shot Chart Detail,0022400511,616,1642347,Jamal Shead,1610612761,Toronto Raptors,4,3,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,82,247,1,1,20250108,NYK,TOR
+Shot Chart Detail,0022400517,101,1642347,Jamal Shead,1610612761,Toronto Raptors,1,4,7,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,257,1,1,20250109,CLE,TOR
+Shot Chart Detail,0022400517,257,1642347,Jamal Shead,1610612761,Toronto Raptors,2,5,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-233,90,1,1,20250109,CLE,TOR
+Shot Chart Detail,0022400517,396,1642347,Jamal Shead,1610612761,Toronto Raptors,3,7,23,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,8,1,1,20250109,CLE,TOR
+Shot Chart Detail,0022400517,400,1642347,Jamal Shead,1610612761,Toronto Raptors,3,7,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,9,1,1,20250109,CLE,TOR
+Shot Chart Detail,0022400517,432,1642347,Jamal Shead,1610612761,Toronto Raptors,3,5,2,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,49,67,1,1,20250109,CLE,TOR
+Shot Chart Detail,0022400517,465,1642347,Jamal Shead,1610612761,Toronto Raptors,3,2,15,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,99,10,1,1,20250109,CLE,TOR
+Shot Chart Detail,0022400534,455,1642347,Jamal Shead,1610612761,Toronto Raptors,3,4,13,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,50,147,1,1,20250111,DET,TOR
+Shot Chart Detail,0022400534,471,1642347,Jamal Shead,1610612761,Toronto Raptors,3,3,14,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,6,1,1,20250111,DET,TOR
+Shot Chart Detail,0022400534,478,1642347,Jamal Shead,1610612761,Toronto Raptors,3,2,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,19,1,1,20250111,DET,TOR
+Shot Chart Detail,0022400550,128,1642347,Jamal Shead,1610612761,Toronto Raptors,1,1,57,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,178,173,1,1,20250113,TOR,GSW
+Shot Chart Detail,0022400550,132,1642347,Jamal Shead,1610612761,Toronto Raptors,1,1,36,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,119,1,1,20250113,TOR,GSW
+Shot Chart Detail,0022400550,220,1642347,Jamal Shead,1610612761,Toronto Raptors,2,8,7,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,203,147,1,1,20250113,TOR,GSW
+Shot Chart Detail,0022400562,78,1642347,Jamal Shead,1610612761,Toronto Raptors,1,5,42,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,50,42,1,1,20250115,TOR,BOS
+Shot Chart Detail,0022400562,108,1642347,Jamal Shead,1610612761,Toronto Raptors,1,4,19,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-13,1,1,20250115,TOR,BOS
+Shot Chart Detail,0022400562,556,1642347,Jamal Shead,1610612761,Toronto Raptors,4,7,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,153,218,1,1,20250115,TOR,BOS
+Shot Chart Detail,0022400580,157,1642347,Jamal Shead,1610612761,Toronto Raptors,1,1,50,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,25,1,1,20250117,MIL,TOR
+Shot Chart Detail,0022400608,427,1642347,Jamal Shead,1610612761,Toronto Raptors,3,3,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-78,245,1,1,20250121,TOR,ORL
+Shot Chart Detail,0022400608,459,1642347,Jamal Shead,1610612761,Toronto Raptors,3,2,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,5,1,1,20250121,TOR,ORL
+Shot Chart Detail,0022400623,137,1642347,Jamal Shead,1610612761,Toronto Raptors,1,2,24,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20250123,ATL,TOR
+Shot Chart Detail,0022400639,328,1642347,Jamal Shead,1610612761,Toronto Raptors,2,1,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,13,1,1,20250125,ATL,TOR
+Shot Chart Detail,0022400654,117,1642347,Jamal Shead,1610612761,Toronto Raptors,1,3,51,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-40,98,1,1,20250127,TOR,NOP
+Shot Chart Detail,0022400654,291,1642347,Jamal Shead,1610612761,Toronto Raptors,2,4,17,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,224,106,1,1,20250127,TOR,NOP
+Shot Chart Detail,0022400665,203,1642347,Jamal Shead,1610612761,Toronto Raptors,2,8,20,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,66,114,1,1,20250129,WAS,TOR
+Shot Chart Detail,0022400665,430,1642347,Jamal Shead,1610612761,Toronto Raptors,3,6,2,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-28,12,1,1,20250129,WAS,TOR
+Shot Chart Detail,0022400665,542,1642347,Jamal Shead,1610612761,Toronto Raptors,4,10,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,70,1,1,20250129,WAS,TOR
+Shot Chart Detail,0022400713,63,1642347,Jamal Shead,1610612761,Toronto Raptors,1,6,36,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-47,88,1,1,20250204,TOR,NYK
+Shot Chart Detail,0022400713,232,1642347,Jamal Shead,1610612761,Toronto Raptors,2,7,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,7,1,1,20250204,TOR,NYK
+Shot Chart Detail,0022400713,247,1642347,Jamal Shead,1610612761,Toronto Raptors,2,5,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20250204,TOR,NYK
+Shot Chart Detail,0022400713,261,1642347,Jamal Shead,1610612761,Toronto Raptors,2,5,12,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20250204,TOR,NYK
+Shot Chart Detail,0022400713,414,1642347,Jamal Shead,1610612761,Toronto Raptors,3,5,9,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,67,1,1,20250204,TOR,NYK
+Shot Chart Detail,0022400713,572,1642347,Jamal Shead,1610612761,Toronto Raptors,4,6,57,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,4,1,1,20250204,TOR,NYK
+Shot Chart Detail,0022400713,609,1642347,Jamal Shead,1610612761,Toronto Raptors,4,3,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-8,1,1,20250204,TOR,NYK
+Shot Chart Detail,0022400722,17,1642347,Jamal Shead,1610612761,Toronto Raptors,1,10,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-152,201,1,1,20250205,TOR,MEM
+Shot Chart Detail,0022400722,161,1642347,Jamal Shead,1610612761,Toronto Raptors,2,11,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-1,1,1,20250205,TOR,MEM
+Shot Chart Detail,0022400722,323,1642347,Jamal Shead,1610612761,Toronto Raptors,2,1,15,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,10,1,1,20250205,TOR,MEM
+Shot Chart Detail,0022400722,573,1642347,Jamal Shead,1610612761,Toronto Raptors,4,9,35,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,4,1,1,20250205,TOR,MEM
+Shot Chart Detail,0022400722,711,1642347,Jamal Shead,1610612761,Toronto Raptors,4,2,31,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-65,5,1,1,20250205,TOR,MEM
+Shot Chart Detail,0022400739,465,1642347,Jamal Shead,1610612761,Toronto Raptors,3,3,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20250207,OKC,TOR
+Shot Chart Detail,0022400739,479,1642347,Jamal Shead,1610612761,Toronto Raptors,3,2,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,172,181,1,1,20250207,OKC,TOR
+Shot Chart Detail,0022400739,662,1642347,Jamal Shead,1610612761,Toronto Raptors,4,3,37,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,13,1,1,20250207,OKC,TOR
+Shot Chart Detail,0022400753,72,1642347,Jamal Shead,1610612761,Toronto Raptors,1,6,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,64,258,1,1,20250209,HOU,TOR
+Shot Chart Detail,0022400753,95,1642347,Jamal Shead,1610612761,Toronto Raptors,1,4,20,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,69,48,1,1,20250209,HOU,TOR
+Shot Chart Detail,0022400753,230,1642347,Jamal Shead,1610612761,Toronto Raptors,2,7,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,17,1,1,20250209,HOU,TOR
+Shot Chart Detail,0022400753,432,1642347,Jamal Shead,1610612761,Toronto Raptors,3,5,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-62,242,1,1,20250209,HOU,TOR
+Shot Chart Detail,0022400753,436,1642347,Jamal Shead,1610612761,Toronto Raptors,3,5,18,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-17,29,1,1,20250209,HOU,TOR
+Shot Chart Detail,0022400753,646,1642347,Jamal Shead,1610612761,Toronto Raptors,4,1,39,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,65,82,1,1,20250209,HOU,TOR
+Shot Chart Detail,0022400764,257,1642347,Jamal Shead,1610612761,Toronto Raptors,2,5,6,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,70,80,1,1,20250211,PHI,TOR
+Shot Chart Detail,0022400764,308,1642347,Jamal Shead,1610612761,Toronto Raptors,2,1,47,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,22,94,1,1,20250211,PHI,TOR
+Shot Chart Detail,0022400764,431,1642347,Jamal Shead,1610612761,Toronto Raptors,3,5,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,12,1,1,20250211,PHI,TOR
+Shot Chart Detail,0022400774,467,1642347,Jamal Shead,1610612761,Toronto Raptors,3,2,32,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,34,55,1,1,20250212,TOR,CLE
+Shot Chart Detail,0022400800,121,1642347,Jamal Shead,1610612761,Toronto Raptors,1,2,39,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-32,76,1,1,20250221,TOR,MIA
+Shot Chart Detail,0022400800,145,1642347,Jamal Shead,1610612761,Toronto Raptors,1,0,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-18,259,1,1,20250221,TOR,MIA
+Shot Chart Detail,0022400800,241,1642347,Jamal Shead,1610612761,Toronto Raptors,2,5,22,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-21,88,1,1,20250221,TOR,MIA
+Shot Chart Detail,0022400816,136,1642347,Jamal Shead,1610612761,Toronto Raptors,1,0,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-217,135,1,1,20250223,TOR,PHX
+Shot Chart Detail,0022400816,423,1642347,Jamal Shead,1610612761,Toronto Raptors,3,4,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,197,159,1,1,20250223,TOR,PHX
+Shot Chart Detail,0022400829,449,1642347,Jamal Shead,1610612761,Toronto Raptors,3,1,46,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,47,68,1,1,20250225,TOR,BOS
+Shot Chart Detail,0022400829,552,1642347,Jamal Shead,1610612761,Toronto Raptors,4,5,51,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,14,1,1,20250225,TOR,BOS
+Shot Chart Detail,0022400829,566,1642347,Jamal Shead,1610612761,Toronto Raptors,4,4,18,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,17,1,1,20250225,TOR,BOS
+Shot Chart Detail,0022400855,92,1642347,Jamal Shead,1610612761,Toronto Raptors,1,5,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-138,221,1,1,20250228,CHI,TOR
+Shot Chart Detail,0022400855,444,1642347,Jamal Shead,1610612761,Toronto Raptors,3,3,47,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,14,1,1,20250228,CHI,TOR
+Shot Chart Detail,0022400870,98,1642347,Jamal Shead,1610612761,Toronto Raptors,1,4,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,124,236,1,1,20250302,ORL,TOR
+Shot Chart Detail,0022400870,110,1642347,Jamal Shead,1610612761,Toronto Raptors,1,3,55,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,11,1,1,20250302,ORL,TOR
+Shot Chart Detail,0022400870,125,1642347,Jamal Shead,1610612761,Toronto Raptors,1,2,56,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-67,47,1,1,20250302,ORL,TOR
+Shot Chart Detail,0022400870,457,1642347,Jamal Shead,1610612761,Toronto Raptors,3,5,3,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,34,65,1,1,20250302,ORL,TOR
+Shot Chart Detail,0022400883,271,1642347,Jamal Shead,1610612761,Toronto Raptors,2,5,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,15,1,1,20250304,ORL,TOR
+Shot Chart Detail,0022400883,483,1642347,Jamal Shead,1610612761,Toronto Raptors,3,4,34,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,20,1,1,20250304,ORL,TOR
+Shot Chart Detail,0022400883,514,1642347,Jamal Shead,1610612761,Toronto Raptors,3,3,6,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,26,258,1,1,20250304,ORL,TOR
+Shot Chart Detail,0022400905,519,1642347,Jamal Shead,1610612761,Toronto Raptors,3,5,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,2,1,1,20250307,TOR,UTA
+Shot Chart Detail,0022400905,683,1642347,Jamal Shead,1610612761,Toronto Raptors,4,6,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,26,1,1,20250307,TOR,UTA
+Shot Chart Detail,0022400905,735,1642347,Jamal Shead,1610612761,Toronto Raptors,4,2,14,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,10,1,1,20250307,TOR,UTA
+Shot Chart Detail,0022400915,48,1642347,Jamal Shead,1610612761,Toronto Raptors,1,8,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,7,1,1,20250308,TOR,WAS
+Shot Chart Detail,0022400915,219,1642347,Jamal Shead,1610612761,Toronto Raptors,2,11,29,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,15,1,1,20250308,TOR,WAS
+Shot Chart Detail,0022400915,236,1642347,Jamal Shead,1610612761,Toronto Raptors,2,10,10,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,11,1,1,20250308,TOR,WAS
+Shot Chart Detail,0022400915,327,1642347,Jamal Shead,1610612761,Toronto Raptors,2,5,33,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,65,1,1,20250308,TOR,WAS
+Shot Chart Detail,0022400915,741,1642347,Jamal Shead,1610612761,Toronto Raptors,4,0,29,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-1,1,1,20250308,TOR,WAS
+Shot Chart Detail,0022400932,524,1642347,Jamal Shead,1610612761,Toronto Raptors,3,2,34,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,16,1,1,20250310,TOR,WAS
+Shot Chart Detail,0022400932,527,1642347,Jamal Shead,1610612761,Toronto Raptors,3,2,6,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,1,20250310,TOR,WAS
+Shot Chart Detail,0022400932,586,1642347,Jamal Shead,1610612761,Toronto Raptors,4,10,28,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,1,20250310,TOR,WAS
+Shot Chart Detail,0022400932,658,1642347,Jamal Shead,1610612761,Toronto Raptors,4,6,44,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,8,1,1,20250310,TOR,WAS
+Shot Chart Detail,0022400947,11,1642347,Jamal Shead,1610612761,Toronto Raptors,1,11,21,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,93,52,1,1,20250312,TOR,PHI
+Shot Chart Detail,0022400947,290,1642347,Jamal Shead,1610612761,Toronto Raptors,2,5,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-4,1,1,20250312,TOR,PHI
+Shot Chart Detail,0022400966,240,1642347,Jamal Shead,1610612761,Toronto Raptors,2,8,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,168,231,1,1,20250314,UTA,TOR
+Shot Chart Detail,0022400966,497,1642347,Jamal Shead,1610612761,Toronto Raptors,3,3,4,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,37,1,1,20250314,UTA,TOR
+Shot Chart Detail,0022400966,672,1642347,Jamal Shead,1610612761,Toronto Raptors,4,4,27,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-150,224,1,1,20250314,UTA,TOR
+Shot Chart Detail,0022400966,699,1642347,Jamal Shead,1610612761,Toronto Raptors,4,1,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-228,84,1,1,20250314,UTA,TOR
+Shot Chart Detail,0022400980,185,1642347,Jamal Shead,1610612761,Toronto Raptors,2,10,54,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,185,204,1,1,20250316,POR,TOR
+Shot Chart Detail,0022400980,349,1642347,Jamal Shead,1610612761,Toronto Raptors,2,0,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-4,280,1,1,20250316,POR,TOR
+Shot Chart Detail,0022400980,445,1642347,Jamal Shead,1610612761,Toronto Raptors,3,5,58,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-98,250,1,1,20250316,POR,TOR
+Shot Chart Detail,0022400991,624,1642347,Jamal Shead,1610612761,Toronto Raptors,4,1,5,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,53,74,1,1,20250317,PHX,TOR
+Shot Chart Detail,0022401005,104,1642347,Jamal Shead,1610612761,Toronto Raptors,1,4,41,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-159,209,1,1,20250320,GSW,TOR
+Shot Chart Detail,0022401005,472,1642347,Jamal Shead,1610612761,Toronto Raptors,3,4,55,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,24,1,1,20250320,GSW,TOR
+Shot Chart Detail,0022401005,499,1642347,Jamal Shead,1610612761,Toronto Raptors,3,3,17,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-9,30,1,1,20250320,GSW,TOR
+Shot Chart Detail,0022401005,727,1642347,Jamal Shead,1610612761,Toronto Raptors,4,0,4,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-38,261,1,1,20250320,GSW,TOR
+Shot Chart Detail,0022401033,19,1642347,Jamal Shead,1610612761,Toronto Raptors,1,10,33,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,5,1,1,20250323,TOR,SAS
+Shot Chart Detail,0022401033,71,1642347,Jamal Shead,1610612761,Toronto Raptors,1,6,55,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,126,209,1,1,20250323,TOR,SAS
+Shot Chart Detail,0022401033,190,1642347,Jamal Shead,1610612761,Toronto Raptors,2,11,37,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,11,100,1,1,20250323,TOR,SAS
+Shot Chart Detail,0022401033,204,1642347,Jamal Shead,1610612761,Toronto Raptors,2,10,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,83,37,1,1,20250323,TOR,SAS
+Shot Chart Detail,0022401033,210,1642347,Jamal Shead,1610612761,Toronto Raptors,2,9,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,37,239,1,1,20250323,TOR,SAS
+Shot Chart Detail,0022401033,229,1642347,Jamal Shead,1610612761,Toronto Raptors,2,8,7,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,10,1,1,20250323,TOR,SAS
+Shot Chart Detail,0022401033,573,1642347,Jamal Shead,1610612761,Toronto Raptors,4,9,7,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,-1,1,1,20250323,TOR,SAS
+Shot Chart Detail,0022401039,110,1642347,Jamal Shead,1610612761,Toronto Raptors,1,4,39,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-42,143,1,1,20250324,WAS,TOR
+Shot Chart Detail,0022401039,119,1642347,Jamal Shead,1610612761,Toronto Raptors,1,3,58,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,9,123,1,1,20250324,WAS,TOR
+Shot Chart Detail,0022401039,159,1642347,Jamal Shead,1610612761,Toronto Raptors,1,0,49,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-12,136,1,1,20250324,WAS,TOR
+Shot Chart Detail,0022401039,268,1642347,Jamal Shead,1610612761,Toronto Raptors,2,6,40,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,13,1,1,20250324,WAS,TOR
+Shot Chart Detail,0022401039,526,1642347,Jamal Shead,1610612761,Toronto Raptors,3,2,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-222,121,1,1,20250324,WAS,TOR
+Shot Chart Detail,0022401054,17,1642347,Jamal Shead,1610612761,Toronto Raptors,1,10,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,183,164,1,1,20250326,BKN,TOR
+Shot Chart Detail,0022401054,275,1642347,Jamal Shead,1610612761,Toronto Raptors,2,5,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-140,206,1,1,20250326,BKN,TOR
+Shot Chart Detail,0022401069,123,1642347,Jamal Shead,1610612761,Toronto Raptors,1,3,8,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-39,41,1,1,20250328,TOR,CHA
+Shot Chart Detail,0022401069,131,1642347,Jamal Shead,1610612761,Toronto Raptors,1,2,21,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-34,41,1,1,20250328,TOR,CHA
+Shot Chart Detail,0022401069,259,1642347,Jamal Shead,1610612761,Toronto Raptors,2,6,20,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20250328,TOR,CHA
+Shot Chart Detail,0022401069,519,1642347,Jamal Shead,1610612761,Toronto Raptors,3,0,3,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,32,1,1,20250328,TOR,CHA
+Shot Chart Detail,0022401069,629,1642347,Jamal Shead,1610612761,Toronto Raptors,4,5,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,1,20250328,TOR,CHA
+Shot Chart Detail,0022401069,641,1642347,Jamal Shead,1610612761,Toronto Raptors,4,3,57,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-33,95,1,1,20250328,TOR,CHA
+Shot Chart Detail,0022401069,667,1642347,Jamal Shead,1610612761,Toronto Raptors,4,2,13,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,119,242,1,1,20250328,TOR,CHA
+Shot Chart Detail,0022401087,248,1642347,Jamal Shead,1610612761,Toronto Raptors,2,6,5,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,43,64,1,1,20250330,PHI,TOR
+Shot Chart Detail,0022401087,578,1642347,Jamal Shead,1610612761,Toronto Raptors,4,6,50,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,49,284,1,1,20250330,PHI,TOR
+Shot Chart Detail,0022401087,584,1642347,Jamal Shead,1610612761,Toronto Raptors,4,6,14,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,110,59,1,1,20250330,PHI,TOR
+Shot Chart Detail,0022401087,589,1642347,Jamal Shead,1610612761,Toronto Raptors,4,5,43,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250330,PHI,TOR
+Shot Chart Detail,0022401099,243,1642347,Jamal Shead,1610612761,Toronto Raptors,2,5,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,-10,1,1,20250401,CHI,TOR
+Shot Chart Detail,0022401099,584,1642347,Jamal Shead,1610612761,Toronto Raptors,4,5,4,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,13,1,1,20250401,CHI,TOR
+Shot Chart Detail,0022401099,591,1642347,Jamal Shead,1610612761,Toronto Raptors,4,4,23,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,60,1,1,20250401,CHI,TOR
+Shot Chart Detail,0022401116,41,1642347,Jamal Shead,1610612761,Toronto Raptors,1,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,103,224,1,1,20250403,TOR,POR
+Shot Chart Detail,0022401116,363,1642347,Jamal Shead,1610612761,Toronto Raptors,3,10,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-126,226,1,1,20250403,TOR,POR
+Shot Chart Detail,0022401116,376,1642347,Jamal Shead,1610612761,Toronto Raptors,3,9,40,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,13,1,1,20250403,TOR,POR
+Shot Chart Detail,0022401116,517,1642347,Jamal Shead,1610612761,Toronto Raptors,4,11,36,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,15,109,1,1,20250403,TOR,POR
+Shot Chart Detail,0022401121,166,1642347,Jamal Shead,1610612761,Toronto Raptors,1,0,39,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,70,75,1,1,20250404,TOR,DET
+Shot Chart Detail,0022401121,420,1642347,Jamal Shead,1610612761,Toronto Raptors,3,7,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,218,1,1,20250404,TOR,DET
+Shot Chart Detail,0022401121,603,1642347,Jamal Shead,1610612761,Toronto Raptors,4,6,21,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,61,37,1,1,20250404,TOR,DET
+Shot Chart Detail,0022401121,643,1642347,Jamal Shead,1610612761,Toronto Raptors,4,3,24,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,51,111,1,1,20250404,TOR,DET
+Shot Chart Detail,0022401121,665,1642347,Jamal Shead,1610612761,Toronto Raptors,4,1,56,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,4,1,1,20250404,TOR,DET
+Shot Chart Detail,0022401134,312,1642347,Jamal Shead,1610612761,Toronto Raptors,2,3,58,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,21,1,1,20250406,BKN,TOR
+Shot Chart Detail,0022401134,344,1642347,Jamal Shead,1610612761,Toronto Raptors,2,1,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-165,211,1,1,20250406,BKN,TOR
+Shot Chart Detail,0022401134,548,1642347,Jamal Shead,1610612761,Toronto Raptors,3,1,4,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,59,48,1,1,20250406,BKN,TOR
+Shot Chart Detail,0022401178,71,1642347,Jamal Shead,1610612761,Toronto Raptors,1,5,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,27,1,1,20250411,DAL,TOR
+Shot Chart Detail,0022401178,569,1642347,Jamal Shead,1610612761,Toronto Raptors,4,7,42,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,35,1,1,20250411,DAL,TOR
+Shot Chart Detail,0022401178,644,1642347,Jamal Shead,1610612761,Toronto Raptors,4,2,29,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,164,187,1,1,20250411,DAL,TOR
+Shot Chart Detail,0022401197,42,1642347,Jamal Shead,1610612761,Toronto Raptors,1,8,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,8,1,1,20250413,SAS,TOR
+Shot Chart Detail,0022401197,181,1642347,Jamal Shead,1610612761,Toronto Raptors,2,11,22,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,16,1,1,20250413,SAS,TOR
+Shot Chart Detail,0022401197,209,1642347,Jamal Shead,1610612761,Toronto Raptors,2,9,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-20,263,1,1,20250413,SAS,TOR
+Shot Chart Detail,0022401197,412,1642347,Jamal Shead,1610612761,Toronto Raptors,3,4,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-153,220,1,1,20250413,SAS,TOR
+Shot Chart Detail,0022401206,190,1642347,Jamal Shead,1610612761,Toronto Raptors,2,10,36,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,5,1,1,20241212,MIA,TOR
+Shot Chart Detail,0022401206,212,1642347,Jamal Shead,1610612761,Toronto Raptors,2,8,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,206,1,1,20241212,MIA,TOR
+Shot Chart Detail,0022401223,600,1642347,Jamal Shead,1610612761,Toronto Raptors,4,10,43,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-58,112,1,1,20241216,TOR,CHI
+Shot Chart Detail,0022401223,624,1642347,Jamal Shead,1610612761,Toronto Raptors,4,8,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-217,137,1,1,20241216,TOR,CHI
+Shot Chart Detail,0022401223,743,1642347,Jamal Shead,1610612761,Toronto Raptors,4,0,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,2,1,1,20241216,TOR,CHI
+Shot Chart Detail,0022401223,751,1642347,Jamal Shead,1610612761,Toronto Raptors,4,0,0,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,21,291,1,1,20241216,TOR,CHI

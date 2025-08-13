@@ -1,21 +1,205 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400026,178,1630548,Johnny Juzang,1610612762,Utah Jazz,2,11,32,Made Shot,Driving Bank Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20241119,LAL,UTA
+Shot Chart Detail,0022400026,219,1630548,Johnny Juzang,1610612762,Utah Jazz,2,8,27,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,70,129,1,1,20241119,LAL,UTA
+Shot Chart Detail,0022400026,512,1630548,Johnny Juzang,1610612762,Utah Jazz,4,10,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,27,1,1,20241119,LAL,UTA
+Shot Chart Detail,0022400038,185,1630548,Johnny Juzang,1610612762,Utah Jazz,2,11,8,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-55,246,1,1,20241126,UTA,SAS
+Shot Chart Detail,0022400055,98,1630548,Johnny Juzang,1610612762,Utah Jazz,1,3,58,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,108,168,1,1,20241203,OKC,UTA
+Shot Chart Detail,0022400055,184,1630548,Johnny Juzang,1610612762,Utah Jazz,2,9,53,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,36,1,1,20241203,OKC,UTA
+Shot Chart Detail,0022400055,482,1630548,Johnny Juzang,1610612762,Utah Jazz,4,11,43,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-157,200,1,1,20241203,OKC,UTA
+Shot Chart Detail,0022400055,492,1630548,Johnny Juzang,1610612762,Utah Jazz,4,10,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,165,1,1,20241203,OKC,UTA
+Shot Chart Detail,0022400055,522,1630548,Johnny Juzang,1610612762,Utah Jazz,4,8,24,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,22,1,1,20241203,OKC,UTA
+Shot Chart Detail,0022400148,83,1630548,Johnny Juzang,1610612762,Utah Jazz,1,5,46,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,11,43,1,1,20241102,DEN,UTA
+Shot Chart Detail,0022400148,201,1630548,Johnny Juzang,1610612762,Utah Jazz,1,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,31,124,289,1,1,20241102,DEN,UTA
+Shot Chart Detail,0022400148,450,1630548,Johnny Juzang,1610612762,Utah Jazz,3,6,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-54,274,1,1,20241102,DEN,UTA
+Shot Chart Detail,0022400148,693,1630548,Johnny Juzang,1610612762,Utah Jazz,4,2,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,21,1,1,20241102,DEN,UTA
+Shot Chart Detail,0022400160,141,1630548,Johnny Juzang,1610612762,Utah Jazz,1,1,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,3,1,1,20241104,CHI,UTA
+Shot Chart Detail,0022400160,182,1630548,Johnny Juzang,1610612762,Utah Jazz,2,10,47,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,87,132,1,1,20241104,CHI,UTA
+Shot Chart Detail,0022400160,503,1630548,Johnny Juzang,1610612762,Utah Jazz,3,1,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-152,215,1,1,20241104,CHI,UTA
+Shot Chart Detail,0022400182,83,1630548,Johnny Juzang,1610612762,Utah Jazz,1,4,25,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-89,58,1,1,20241107,MIL,UTA
+Shot Chart Detail,0022400182,110,1630548,Johnny Juzang,1610612762,Utah Jazz,1,3,7,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,100,257,1,1,20241107,MIL,UTA
+Shot Chart Detail,0022400182,124,1630548,Johnny Juzang,1610612762,Utah Jazz,1,2,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,135,234,1,1,20241107,MIL,UTA
+Shot Chart Detail,0022400182,272,1630548,Johnny Juzang,1610612762,Utah Jazz,2,3,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,228,110,1,1,20241107,MIL,UTA
+Shot Chart Detail,0022400197,103,1630548,Johnny Juzang,1610612762,Utah Jazz,1,4,37,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,-2,1,1,20241109,SAS,UTA
+Shot Chart Detail,0022400197,118,1630548,Johnny Juzang,1610612762,Utah Jazz,1,3,10,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,2,83,1,1,20241109,SAS,UTA
+Shot Chart Detail,0022400197,460,1630548,Johnny Juzang,1610612762,Utah Jazz,3,4,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-21,252,1,1,20241109,SAS,UTA
+Shot Chart Detail,0022400262,86,1630548,Johnny Juzang,1610612762,Utah Jazz,1,5,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,207,1,1,20241121,SAS,UTA
+Shot Chart Detail,0022400262,120,1630548,Johnny Juzang,1610612762,Utah Jazz,1,3,34,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,108,248,1,1,20241121,SAS,UTA
+Shot Chart Detail,0022400264,225,1630548,Johnny Juzang,1610612762,Utah Jazz,2,8,0,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4,256,1,1,20241123,UTA,NYK
+Shot Chart Detail,0022400264,265,1630548,Johnny Juzang,1610612762,Utah Jazz,2,5,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-180,246,1,1,20241123,UTA,NYK
+Shot Chart Detail,0022400264,573,1630548,Johnny Juzang,1610612762,Utah Jazz,4,6,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,26,1,1,20241123,UTA,NYK
+Shot Chart Detail,0022400264,593,1630548,Johnny Juzang,1610612762,Utah Jazz,4,4,14,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,114,229,1,1,20241123,UTA,NYK
+Shot Chart Detail,0022400304,199,1630548,Johnny Juzang,1610612762,Utah Jazz,2,9,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,-6,1,1,20241130,UTA,DAL
+Shot Chart Detail,0022400311,120,1630548,Johnny Juzang,1610612762,Utah Jazz,1,3,22,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,53,1,1,20241201,UTA,LAL
+Shot Chart Detail,0022400311,152,1630548,Johnny Juzang,1610612762,Utah Jazz,1,0,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-199,164,1,1,20241201,UTA,LAL
+Shot Chart Detail,0022400311,199,1630548,Johnny Juzang,1610612762,Utah Jazz,2,10,2,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,206,1,1,20241201,UTA,LAL
+Shot Chart Detail,0022400311,482,1630548,Johnny Juzang,1610612762,Utah Jazz,3,1,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-121,137,1,1,20241201,UTA,LAL
+Shot Chart Detail,0022400339,124,1630548,Johnny Juzang,1610612762,Utah Jazz,1,3,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-229,112,1,1,20241206,POR,UTA
+Shot Chart Detail,0022400339,143,1630548,Johnny Juzang,1610612762,Utah Jazz,1,1,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,195,1,1,20241206,POR,UTA
+Shot Chart Detail,0022400339,162,1630548,Johnny Juzang,1610612762,Utah Jazz,2,11,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-167,207,1,1,20241206,POR,UTA
+Shot Chart Detail,0022400339,473,1630548,Johnny Juzang,1610612762,Utah Jazz,3,1,25,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-2,1,1,20241206,POR,UTA
+Shot Chart Detail,0022400339,572,1630548,Johnny Juzang,1610612762,Utah Jazz,4,8,7,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,37,1,1,20241206,POR,UTA
+Shot Chart Detail,0022400339,590,1630548,Johnny Juzang,1610612762,Utah Jazz,4,6,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-217,124,1,1,20241206,POR,UTA
+Shot Chart Detail,0022400339,617,1630548,Johnny Juzang,1610612762,Utah Jazz,4,3,19,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-7,1,1,20241206,POR,UTA
+Shot Chart Detail,0022400339,641,1630548,Johnny Juzang,1610612762,Utah Jazz,4,1,41,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,9,1,1,20241206,POR,UTA
+Shot Chart Detail,0022400357,591,1630548,Johnny Juzang,1610612762,Utah Jazz,4,4,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,18,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400357,600,1630548,Johnny Juzang,1610612762,Utah Jazz,4,3,41,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-48,123,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400360,195,1630548,Johnny Juzang,1610612762,Utah Jazz,2,10,18,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,28,102,1,1,20241219,DET,UTA
+Shot Chart Detail,0022400360,613,1630548,Johnny Juzang,1610612762,Utah Jazz,4,6,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,145,221,1,1,20241219,DET,UTA
+Shot Chart Detail,0022400379,281,1630548,Johnny Juzang,1610612762,Utah Jazz,2,2,36,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,207,1,1,20241221,BKN,UTA
+Shot Chart Detail,0022400392,603,1630548,Johnny Juzang,1610612762,Utah Jazz,4,5,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,16,1,1,20241223,CLE,UTA
+Shot Chart Detail,0022400417,181,1630548,Johnny Juzang,1610612762,Utah Jazz,2,10,28,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-8,1,1,20241226,POR,UTA
+Shot Chart Detail,0022400417,551,1630548,Johnny Juzang,1610612762,Utah Jazz,4,7,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,196,150,1,1,20241226,POR,UTA
+Shot Chart Detail,0022400417,559,1630548,Johnny Juzang,1610612762,Utah Jazz,4,6,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,80,1,1,20241226,POR,UTA
+Shot Chart Detail,0022400417,595,1630548,Johnny Juzang,1610612762,Utah Jazz,4,4,42,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-157,199,1,1,20241226,POR,UTA
+Shot Chart Detail,0022400433,129,1630548,Johnny Juzang,1610612762,Utah Jazz,1,1,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-234,92,1,1,20241228,UTA,PHI
+Shot Chart Detail,0022400433,147,1630548,Johnny Juzang,1610612762,Utah Jazz,1,0,29,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-232,96,1,1,20241228,UTA,PHI
+Shot Chart Detail,0022400445,33,1630548,Johnny Juzang,1610612762,Utah Jazz,1,9,30,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,9,62,1,1,20241230,UTA,DEN
+Shot Chart Detail,0022400445,36,1630548,Johnny Juzang,1610612762,Utah Jazz,1,8,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-118,226,1,1,20241230,UTA,DEN
+Shot Chart Detail,0022400445,68,1630548,Johnny Juzang,1610612762,Utah Jazz,1,5,18,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-196,209,1,1,20241230,UTA,DEN
+Shot Chart Detail,0022400445,190,1630548,Johnny Juzang,1610612762,Utah Jazz,2,8,20,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,43,1,1,20241230,UTA,DEN
+Shot Chart Detail,0022400445,362,1630548,Johnny Juzang,1610612762,Utah Jazz,3,7,38,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,44,30,1,1,20241230,UTA,DEN
+Shot Chart Detail,0022400458,314,1630548,Johnny Juzang,1610612762,Utah Jazz,3,11,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,-34,1,1,20250101,NYK,UTA
+Shot Chart Detail,0022400458,337,1630548,Johnny Juzang,1610612762,Utah Jazz,3,10,10,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,5,1,1,20250101,NYK,UTA
+Shot Chart Detail,0022400458,573,1630548,Johnny Juzang,1610612762,Utah Jazz,4,6,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,183,183,1,1,20250101,NYK,UTA
+Shot Chart Detail,0022400481,208,1630548,Johnny Juzang,1610612762,Utah Jazz,2,9,18,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-124,177,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400481,226,1630548,Johnny Juzang,1610612762,Utah Jazz,2,8,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,211,138,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400481,437,1630548,Johnny Juzang,1610612762,Utah Jazz,3,4,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-5,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400490,32,1630548,Johnny Juzang,1610612762,Utah Jazz,1,9,0,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,222,75,1,1,20250105,ORL,UTA
+Shot Chart Detail,0022400490,392,1630548,Johnny Juzang,1610612762,Utah Jazz,3,4,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-170,200,1,1,20250105,ORL,UTA
+Shot Chart Detail,0022400490,613,1630548,Johnny Juzang,1610612762,Utah Jazz,4,2,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,27,1,1,20250105,ORL,UTA
+Shot Chart Detail,0022400506,57,1630548,Johnny Juzang,1610612762,Utah Jazz,1,7,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,194,185,1,1,20250107,UTA,ATL
+Shot Chart Detail,0022400506,191,1630548,Johnny Juzang,1610612762,Utah Jazz,2,10,19,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-2,94,1,1,20250107,UTA,ATL
+Shot Chart Detail,0022400506,382,1630548,Johnny Juzang,1610612762,Utah Jazz,3,10,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,0,1,1,20250107,UTA,ATL
+Shot Chart Detail,0022400506,561,1630548,Johnny Juzang,1610612762,Utah Jazz,4,11,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,233,103,1,1,20250107,UTA,ATL
+Shot Chart Detail,0022400523,376,1630548,Johnny Juzang,1610612762,Utah Jazz,3,8,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-224,98,1,1,20250109,UTA,MIA
+Shot Chart Detail,0022400523,513,1630548,Johnny Juzang,1610612762,Utah Jazz,4,8,47,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-18,142,1,1,20250109,UTA,MIA
+Shot Chart Detail,0022400627,513,1630548,Johnny Juzang,1610612762,Utah Jazz,4,10,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,207,140,1,1,20250319,UTA,WAS
+Shot Chart Detail,0022400627,533,1630548,Johnny Juzang,1610612762,Utah Jazz,4,9,7,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-45,113,1,1,20250319,UTA,WAS
+Shot Chart Detail,0022400627,590,1630548,Johnny Juzang,1610612762,Utah Jazz,4,3,5,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,33,53,1,1,20250319,UTA,WAS
+Shot Chart Detail,0022400627,605,1630548,Johnny Juzang,1610612762,Utah Jazz,4,1,48,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,24,1,1,20250319,UTA,WAS
+Shot Chart Detail,0022400725,550,1630548,Johnny Juzang,1610612762,Utah Jazz,4,11,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,2,253,1,1,20250205,UTA,GSW
+Shot Chart Detail,0022400740,188,1630548,Johnny Juzang,1610612762,Utah Jazz,2,10,11,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,34,1,1,20250207,PHX,UTA
+Shot Chart Detail,0022400740,622,1630548,Johnny Juzang,1610612762,Utah Jazz,4,5,15,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,30,1,1,20250207,PHX,UTA
+Shot Chart Detail,0022400740,626,1630548,Johnny Juzang,1610612762,Utah Jazz,4,4,46,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,13,1,1,20250207,PHX,UTA
+Shot Chart Detail,0022400751,168,1630548,Johnny Juzang,1610612762,Utah Jazz,2,11,4,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250208,LAC,UTA
+Shot Chart Detail,0022400751,193,1630548,Johnny Juzang,1610612762,Utah Jazz,2,9,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,5,1,1,20250208,LAC,UTA
+Shot Chart Detail,0022400751,196,1630548,Johnny Juzang,1610612762,Utah Jazz,2,8,42,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,207,148,1,1,20250208,LAC,UTA
+Shot Chart Detail,0022400751,371,1630548,Johnny Juzang,1610612762,Utah Jazz,3,9,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-151,204,1,1,20250208,LAC,UTA
+Shot Chart Detail,0022400751,375,1630548,Johnny Juzang,1610612762,Utah Jazz,3,8,59,Made Shot,Reverse Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-7,40,1,1,20250208,LAC,UTA
+Shot Chart Detail,0022400751,551,1630548,Johnny Juzang,1610612762,Utah Jazz,4,8,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,19,1,1,20250208,LAC,UTA
+Shot Chart Detail,0022400751,658,1630548,Johnny Juzang,1610612762,Utah Jazz,4,0,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,26,1,1,20250208,LAC,UTA
+Shot Chart Detail,0022400768,255,1630548,Johnny Juzang,1610612762,Utah Jazz,2,4,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,16,1,1,20250210,LAL,UTA
+Shot Chart Detail,0022400768,534,1630548,Johnny Juzang,1610612762,Utah Jazz,4,9,32,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-69,259,1,1,20250210,LAL,UTA
+Shot Chart Detail,0022400768,567,1630548,Johnny Juzang,1610612762,Utah Jazz,4,7,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,34,1,1,20250210,LAL,UTA
+Shot Chart Detail,0022400768,611,1630548,Johnny Juzang,1610612762,Utah Jazz,4,4,23,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,42,62,1,1,20250210,LAL,UTA
+Shot Chart Detail,0022400781,711,1630548,Johnny Juzang,1610612762,Utah Jazz,4,0,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,6,1,1,20250212,UTA,LAL
+Shot Chart Detail,0022400809,505,1630548,Johnny Juzang,1610612762,Utah Jazz,3,2,24,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-32,68,1,1,20250222,UTA,HOU
+Shot Chart Detail,0022400809,552,1630548,Johnny Juzang,1610612762,Utah Jazz,4,9,42,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250222,UTA,HOU
+Shot Chart Detail,0022400809,601,1630548,Johnny Juzang,1610612762,Utah Jazz,4,7,9,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,16,1,1,20250222,UTA,HOU
+Shot Chart Detail,0022400827,23,1630548,Johnny Juzang,1610612762,Utah Jazz,1,10,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-206,173,1,1,20250224,UTA,POR
+Shot Chart Detail,0022400827,40,1630548,Johnny Juzang,1610612762,Utah Jazz,1,8,57,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,57,1,1,20250224,UTA,POR
+Shot Chart Detail,0022400843,203,1630548,Johnny Juzang,1610612762,Utah Jazz,2,8,40,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,32,1,1,20250226,UTA,SAC
+Shot Chart Detail,0022400843,231,1630548,Johnny Juzang,1610612762,Utah Jazz,2,7,1,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,34,1,1,20250226,UTA,SAC
+Shot Chart Detail,0022400843,551,1630548,Johnny Juzang,1610612762,Utah Jazz,4,5,34,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-20,1,1,20250226,UTA,SAC
+Shot Chart Detail,0022400858,362,1630548,Johnny Juzang,1610612762,Utah Jazz,3,8,33,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-44,160,1,1,20250228,UTA,MIN
+Shot Chart Detail,0022400872,57,1630548,Johnny Juzang,1610612762,Utah Jazz,1,7,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,21,1,1,20250302,UTA,NOP
+Shot Chart Detail,0022400872,340,1630548,Johnny Juzang,1610612762,Utah Jazz,3,9,10,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,18,1,1,20250302,UTA,NOP
+Shot Chart Detail,0022400872,369,1630548,Johnny Juzang,1610612762,Utah Jazz,3,6,46,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,37,1,1,20250302,UTA,NOP
+Shot Chart Detail,0022400881,7,1630548,Johnny Juzang,1610612762,Utah Jazz,1,11,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-24,1,1,20250303,UTA,DET
+Shot Chart Detail,0022400881,266,1630548,Johnny Juzang,1610612762,Utah Jazz,2,6,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-244,-3,1,1,20250303,UTA,DET
+Shot Chart Detail,0022400894,47,1630548,Johnny Juzang,1610612762,Utah Jazz,1,8,25,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,26,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,119,1630548,Johnny Juzang,1610612762,Utah Jazz,1,4,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-105,107,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,131,1630548,Johnny Juzang,1610612762,Utah Jazz,1,3,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-9,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,174,1630548,Johnny Juzang,1610612762,Utah Jazz,1,0,1,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,33,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,351,1630548,Johnny Juzang,1610612762,Utah Jazz,3,11,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,37,292,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,399,1630548,Johnny Juzang,1610612762,Utah Jazz,3,7,37,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,29,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,531,1630548,Johnny Juzang,1610612762,Utah Jazz,4,11,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-26,264,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,644,1630548,Johnny Juzang,1610612762,Utah Jazz,4,4,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,14,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,664,1630548,Johnny Juzang,1610612762,Utah Jazz,4,2,52,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,115,247,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,708,1630548,Johnny Juzang,1610612762,Utah Jazz,4,0,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-110,271,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400905,166,1630548,Johnny Juzang,1610612762,Utah Jazz,1,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,11,1,1,20250307,TOR,UTA
+Shot Chart Detail,0022400905,522,1630548,Johnny Juzang,1610612762,Utah Jazz,3,4,39,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,19,1,1,20250307,TOR,UTA
+Shot Chart Detail,0022400924,42,1630548,Johnny Juzang,1610612762,Utah Jazz,1,8,2,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-129,230,1,1,20250309,PHI,UTA
+Shot Chart Detail,0022400924,54,1630548,Johnny Juzang,1610612762,Utah Jazz,1,7,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-12,1,1,20250309,PHI,UTA
+Shot Chart Detail,0022400924,260,1630548,Johnny Juzang,1610612762,Utah Jazz,2,5,47,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-7,113,1,1,20250309,PHI,UTA
+Shot Chart Detail,0022400924,292,1630548,Johnny Juzang,1610612762,Utah Jazz,2,3,54,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,87,101,1,1,20250309,PHI,UTA
+Shot Chart Detail,0022400924,301,1630548,Johnny Juzang,1610612762,Utah Jazz,2,2,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-190,174,1,1,20250309,PHI,UTA
+Shot Chart Detail,0022400929,33,1630548,Johnny Juzang,1610612762,Utah Jazz,1,9,32,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,25,62,1,1,20250310,BOS,UTA
+Shot Chart Detail,0022400929,281,1630548,Johnny Juzang,1610612762,Utah Jazz,2,2,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-77,154,1,1,20250310,BOS,UTA
+Shot Chart Detail,0022400966,207,1630548,Johnny Juzang,1610612762,Utah Jazz,2,10,20,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,5,1,1,20250314,UTA,TOR
+Shot Chart Detail,0022400966,242,1630548,Johnny Juzang,1610612762,Utah Jazz,2,8,18,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,11,1,1,20250314,UTA,TOR
+Shot Chart Detail,0022400966,696,1630548,Johnny Juzang,1610612762,Utah Jazz,4,2,33,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-214,84,1,1,20250314,UTA,TOR
+Shot Chart Detail,0022400966,702,1630548,Johnny Juzang,1610612762,Utah Jazz,4,1,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-134,222,1,1,20250314,UTA,TOR
+Shot Chart Detail,0022400966,713,1630548,Johnny Juzang,1610612762,Utah Jazz,4,1,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-55,253,1,1,20250314,UTA,TOR
+Shot Chart Detail,0022400981,147,1630548,Johnny Juzang,1610612762,Utah Jazz,1,0,8,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-11,1,1,20250316,MIN,UTA
+Shot Chart Detail,0022400981,176,1630548,Johnny Juzang,1610612762,Utah Jazz,2,10,35,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20250316,MIN,UTA
+Shot Chart Detail,0022400981,386,1630548,Johnny Juzang,1610612762,Utah Jazz,3,8,29,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-18,58,1,1,20250316,MIN,UTA
+Shot Chart Detail,0022400981,586,1630548,Johnny Juzang,1610612762,Utah Jazz,4,6,17,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,18,1,1,20250316,MIN,UTA
+Shot Chart Detail,0022400981,595,1630548,Johnny Juzang,1610612762,Utah Jazz,4,5,36,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-107,151,1,1,20250316,MIN,UTA
+Shot Chart Detail,0022400989,124,1630548,Johnny Juzang,1610612762,Utah Jazz,1,3,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,9,1,1,20250317,UTA,CHI
+Shot Chart Detail,0022400989,149,1630548,Johnny Juzang,1610612762,Utah Jazz,1,1,58,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,31,110,1,1,20250317,UTA,CHI
+Shot Chart Detail,0022400989,156,1630548,Johnny Juzang,1610612762,Utah Jazz,1,1,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,37,1,1,20250317,UTA,CHI
+Shot Chart Detail,0022401004,201,1630548,Johnny Juzang,1610612762,Utah Jazz,2,8,58,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,114,173,1,1,20250213,UTA,LAC
+Shot Chart Detail,0022401004,231,1630548,Johnny Juzang,1610612762,Utah Jazz,2,6,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,150,205,1,1,20250213,UTA,LAC
+Shot Chart Detail,0022401004,269,1630548,Johnny Juzang,1610612762,Utah Jazz,2,5,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,16,1,1,20250213,UTA,LAC
+Shot Chart Detail,0022401020,165,1630548,Johnny Juzang,1610612762,Utah Jazz,2,11,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,115,227,1,1,20250321,UTA,BOS
+Shot Chart Detail,0022401020,187,1630548,Johnny Juzang,1610612762,Utah Jazz,2,9,5,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,20,1,1,20250321,UTA,BOS
+Shot Chart Detail,0022401020,458,1630548,Johnny Juzang,1610612762,Utah Jazz,3,2,5,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,14,1,1,20250321,UTA,BOS
+Shot Chart Detail,0022401020,489,1630548,Johnny Juzang,1610612762,Utah Jazz,4,11,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,233,131,1,1,20250321,UTA,BOS
+Shot Chart Detail,0022401030,158,1630548,Johnny Juzang,1610612762,Utah Jazz,1,0,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-10,1,1,20250323,UTA,CLE
+Shot Chart Detail,0022401030,510,1630548,Johnny Juzang,1610612762,Utah Jazz,3,2,56,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,27,1,1,20250323,UTA,CLE
+Shot Chart Detail,0022401030,576,1630548,Johnny Juzang,1610612762,Utah Jazz,4,10,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-178,188,1,1,20250323,UTA,CLE
+Shot Chart Detail,0022401030,580,1630548,Johnny Juzang,1610612762,Utah Jazz,4,10,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,38,1,1,20250323,UTA,CLE
+Shot Chart Detail,0022401050,124,1630548,Johnny Juzang,1610612762,Utah Jazz,1,2,25,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-78,59,1,1,20250325,UTA,MEM
+Shot Chart Detail,0022401050,180,1630548,Johnny Juzang,1610612762,Utah Jazz,2,10,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,15,1,1,20250325,UTA,MEM
+Shot Chart Detail,0022401050,227,1630548,Johnny Juzang,1610612762,Utah Jazz,2,6,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,43,1,1,20250325,UTA,MEM
+Shot Chart Detail,0022401050,231,1630548,Johnny Juzang,1610612762,Utah Jazz,2,6,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-32,1,1,20250325,UTA,MEM
+Shot Chart Detail,0022401050,524,1630548,Johnny Juzang,1610612762,Utah Jazz,4,11,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,26,1,1,20250325,UTA,MEM
+Shot Chart Detail,0022401065,114,1630548,Johnny Juzang,1610612762,Utah Jazz,1,3,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,162,143,1,1,20250327,UTA,HOU
+Shot Chart Detail,0022401065,117,1630548,Johnny Juzang,1610612762,Utah Jazz,1,3,31,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,1,1,1,20250327,UTA,HOU
+Shot Chart Detail,0022401065,472,1630548,Johnny Juzang,1610612762,Utah Jazz,3,0,15,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,31,66,1,1,20250327,UTA,HOU
+Shot Chart Detail,0022401065,553,1630548,Johnny Juzang,1610612762,Utah Jazz,4,7,2,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,18,1,1,20250327,UTA,HOU
+Shot Chart Detail,0022401065,576,1630548,Johnny Juzang,1610612762,Utah Jazz,4,5,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,36,1,1,20250327,UTA,HOU
+Shot Chart Detail,0022401073,221,1630548,Johnny Juzang,1610612762,Utah Jazz,2,8,23,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250328,DEN,UTA
+Shot Chart Detail,0022401073,240,1630548,Johnny Juzang,1610612762,Utah Jazz,2,7,17,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,25,1,1,20250328,DEN,UTA
+Shot Chart Detail,0022401073,345,1630548,Johnny Juzang,1610612762,Utah Jazz,2,0,28,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20250328,DEN,UTA
+Shot Chart Detail,0022401073,491,1630548,Johnny Juzang,1610612762,Utah Jazz,3,1,3,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-31,67,1,1,20250328,DEN,UTA
+Shot Chart Detail,0022401089,218,1630548,Johnny Juzang,1610612762,Utah Jazz,2,6,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-64,256,1,1,20250331,CHA,UTA
+Shot Chart Detail,0022401089,327,1630548,Johnny Juzang,1610612762,Utah Jazz,3,11,1,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,50,92,1,1,20250331,CHA,UTA
+Shot Chart Detail,0022401089,361,1630548,Johnny Juzang,1610612762,Utah Jazz,3,7,48,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,55,87,1,1,20250331,CHA,UTA
+Shot Chart Detail,0022401089,370,1630548,Johnny Juzang,1610612762,Utah Jazz,3,6,46,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,6,1,1,20250331,CHA,UTA
+Shot Chart Detail,0022401089,407,1630548,Johnny Juzang,1610612762,Utah Jazz,3,4,31,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-232,89,1,1,20250331,CHA,UTA
+Shot Chart Detail,0022401107,105,1630548,Johnny Juzang,1610612762,Utah Jazz,1,4,12,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,18,1,1,20250402,HOU,UTA
+Shot Chart Detail,0022401107,159,1630548,Johnny Juzang,1610612762,Utah Jazz,1,1,2,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-15,1,1,20250402,HOU,UTA
+Shot Chart Detail,0022401119,12,1630548,Johnny Juzang,1610612762,Utah Jazz,1,11,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-204,193,1,1,20250404,IND,UTA
+Shot Chart Detail,0022401119,66,1630548,Johnny Juzang,1610612762,Utah Jazz,1,6,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,13,1,1,20250404,IND,UTA
+Shot Chart Detail,0022401119,72,1630548,Johnny Juzang,1610612762,Utah Jazz,1,5,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,230,114,1,1,20250404,IND,UTA
+Shot Chart Detail,0022401119,84,1630548,Johnny Juzang,1610612762,Utah Jazz,1,4,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,97,246,1,1,20250404,IND,UTA
+Shot Chart Detail,0022401119,279,1630548,Johnny Juzang,1610612762,Utah Jazz,2,4,19,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,-1,1,1,20250404,IND,UTA
+Shot Chart Detail,0022401119,571,1630548,Johnny Juzang,1610612762,Utah Jazz,4,9,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-100,282,1,1,20250404,IND,UTA
+Shot Chart Detail,0022401136,334,1630548,Johnny Juzang,1610612762,Utah Jazz,3,11,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,6,1,1,20250406,ATL,UTA
+Shot Chart Detail,0022401136,348,1630548,Johnny Juzang,1610612762,Utah Jazz,3,10,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-235,57,1,1,20250406,ATL,UTA
+Shot Chart Detail,0022401136,392,1630548,Johnny Juzang,1610612762,Utah Jazz,3,7,2,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,21,1,1,20250406,ATL,UTA
+Shot Chart Detail,0022401136,619,1630548,Johnny Juzang,1610612762,Utah Jazz,4,3,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,1,1,1,20250406,ATL,UTA
+Shot Chart Detail,0022401136,634,1630548,Johnny Juzang,1610612762,Utah Jazz,4,2,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-121,214,1,1,20250406,ATL,UTA
+Shot Chart Detail,0022401162,39,1630548,Johnny Juzang,1610612762,Utah Jazz,1,8,37,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,199,201,1,1,20250409,UTA,POR
+Shot Chart Detail,0022401162,315,1630548,Johnny Juzang,1610612762,Utah Jazz,2,2,24,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,150,236,1,1,20250409,UTA,POR
+Shot Chart Detail,0022401162,396,1630548,Johnny Juzang,1610612762,Utah Jazz,3,8,26,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,13,1,1,20250409,UTA,POR
+Shot Chart Detail,0022401162,457,1630548,Johnny Juzang,1610612762,Utah Jazz,3,3,43,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,6,1,1,20250409,UTA,POR
+Shot Chart Detail,0022401181,41,1630548,Johnny Juzang,1610612762,Utah Jazz,1,9,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,43,1,1,20250411,UTA,OKC
+Shot Chart Detail,0022401181,45,1630548,Johnny Juzang,1610612762,Utah Jazz,1,8,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,2,1,1,20250411,UTA,OKC
+Shot Chart Detail,0022401181,132,1630548,Johnny Juzang,1610612762,Utah Jazz,1,2,2,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,8,1,1,20250411,UTA,OKC
+Shot Chart Detail,0022401181,307,1630548,Johnny Juzang,1610612762,Utah Jazz,2,0,48,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,44,1,1,20250411,UTA,OKC
+Shot Chart Detail,0022401181,359,1630548,Johnny Juzang,1610612762,Utah Jazz,3,8,57,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,35,1,1,20250411,UTA,OKC
+Shot Chart Detail,0022401181,445,1630548,Johnny Juzang,1610612762,Utah Jazz,3,3,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,10,1,1,20250411,UTA,OKC
+Shot Chart Detail,0022401195,15,1630548,Johnny Juzang,1610612762,Utah Jazz,1,10,36,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,1,20250413,MIN,UTA
+Shot Chart Detail,0022401195,82,1630548,Johnny Juzang,1610612762,Utah Jazz,1,5,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-17,1,1,20250413,MIN,UTA
+Shot Chart Detail,0022401195,291,1630548,Johnny Juzang,1610612762,Utah Jazz,2,0,56,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-58,37,1,1,20250413,MIN,UTA
+Shot Chart Detail,0022401195,341,1630548,Johnny Juzang,1610612762,Utah Jazz,3,9,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,11,256,1,1,20250413,MIN,UTA
+Shot Chart Detail,0022401195,368,1630548,Johnny Juzang,1610612762,Utah Jazz,3,7,46,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,72,113,1,1,20250413,MIN,UTA
+Shot Chart Detail,0022401195,507,1630548,Johnny Juzang,1610612762,Utah Jazz,4,8,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,221,107,1,1,20250413,MIN,UTA
+Shot Chart Detail,0022401214,192,1630548,Johnny Juzang,1610612762,Utah Jazz,2,9,1,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-12,1,1,20241213,UTA,PHX
+Shot Chart Detail,0022401226,102,1630548,Johnny Juzang,1610612762,Utah Jazz,1,4,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,23,1,1,20241216,LAC,UTA
+Shot Chart Detail,0022401226,136,1630548,Johnny Juzang,1610612762,Utah Jazz,1,2,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,221,4,1,1,20241216,LAC,UTA
+Shot Chart Detail,0022401226,550,1630548,Johnny Juzang,1610612762,Utah Jazz,4,8,53,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,27,1,1,20241216,LAC,UTA
+Shot Chart Detail,0022401226,628,1630548,Johnny Juzang,1610612762,Utah Jazz,4,2,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-213,127,1,1,20241216,LAC,UTA

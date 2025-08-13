@@ -1,21 +1,233 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400018,22,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,9,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,7,1,1,20241115,OKC,PHX
+Shot Chart Detail,0022400018,241,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,7,43,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,8,1,1,20241115,OKC,PHX
+Shot Chart Detail,0022400025,38,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,8,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,141,1,1,20241119,SAS,OKC
+Shot Chart Detail,0022400025,47,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,8,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,24,1,1,20241119,SAS,OKC
+Shot Chart Detail,0022400025,51,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,7,54,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,13,1,1,20241119,SAS,OKC
+Shot Chart Detail,0022400025,582,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,5,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,17,1,1,20241119,SAS,OKC
+Shot Chart Detail,0022400025,628,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,3,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,165,1,1,20241119,SAS,OKC
+Shot Chart Detail,0022400048,386,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,5,16,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,21,1,1,20241129,LAL,OKC
+Shot Chart Detail,0022400055,26,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,10,22,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,8,1,1,20241203,OKC,UTA
+Shot Chart Detail,0022400055,89,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,4,16,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,28,1,1,20241203,OKC,UTA
+Shot Chart Detail,0022400055,99,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,3,45,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20241203,OKC,UTA
+Shot Chart Detail,0022400055,278,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,4,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,183,1,1,20241203,OKC,UTA
+Shot Chart Detail,0022400055,387,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,6,8,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-65,56,1,1,20241203,OKC,UTA
+Shot Chart Detail,0022400075,438,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,6,23,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,3,1,1,20241024,DEN,OKC
+Shot Chart Detail,0022400075,530,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,1,10,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,11,1,1,20241024,DEN,OKC
+Shot Chart Detail,0022400091,62,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,7,28,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-3,1,1,20241026,CHI,OKC
+Shot Chart Detail,0022400091,78,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,6,34,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,5,1,1,20241026,CHI,OKC
+Shot Chart Detail,0022400091,295,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,5,16,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241026,CHI,OKC
+Shot Chart Detail,0022400091,646,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,7,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20241026,CHI,OKC
+Shot Chart Detail,0022400100,570,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,0,55,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20241027,OKC,ATL
+Shot Chart Detail,0022400100,753,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,2,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-19,1,1,20241027,OKC,ATL
+Shot Chart Detail,0022400125,38,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,9,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,8,1,1,20241030,OKC,SAS
+Shot Chart Detail,0022400125,115,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,2,50,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-34,263,1,1,20241030,OKC,SAS
+Shot Chart Detail,0022400125,331,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,11,49,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,16,1,1,20241030,OKC,SAS
+Shot Chart Detail,0022400125,580,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,4,1,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,0,1,1,20241030,OKC,SAS
+Shot Chart Detail,0022400140,134,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,1,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,227,90,1,1,20241101,POR,OKC
+Shot Chart Detail,0022400140,190,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,10,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-219,158,1,1,20241101,POR,OKC
+Shot Chart Detail,0022400140,218,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,8,3,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-42,38,1,1,20241101,POR,OKC
+Shot Chart Detail,0022400140,491,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,1,18,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-6,1,1,20241101,POR,OKC
+Shot Chart Detail,0022400140,562,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,10,13,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,22,1,1,20241101,POR,OKC
+Shot Chart Detail,0022400150,82,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,5,11,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,47,1,1,20241102,LAC,OKC
+Shot Chart Detail,0022400150,137,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,1,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-103,66,1,1,20241102,LAC,OKC
+Shot Chart Detail,0022400150,431,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,5,13,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,242,28,1,1,20241102,LAC,OKC
+Shot Chart Detail,0022400163,51,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,7,7,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,1,1,1,20241104,OKC,ORL
+Shot Chart Detail,0022400163,344,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,10,37,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-15,53,1,1,20241104,OKC,ORL
+Shot Chart Detail,0022400177,119,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,3,34,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,44,63,1,1,20241106,DEN,OKC
+Shot Chart Detail,0022400177,584,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,11,20,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-5,1,1,20241106,DEN,OKC
+Shot Chart Detail,0022400192,330,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,10,37,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-39,115,1,1,20241108,OKC,HOU
+Shot Chart Detail,0022400192,371,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,7,18,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,8,1,1,20241108,OKC,HOU
+Shot Chart Detail,0022400207,142,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,1,32,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,12,1,1,20241110,OKC,GSW
+Shot Chart Detail,0022400207,179,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,11,18,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,143,57,1,1,20241110,OKC,GSW
+Shot Chart Detail,0022400207,482,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,2,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,132,153,1,1,20241110,OKC,GSW
+Shot Chart Detail,0022400207,537,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,10,27,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-38,9,1,1,20241110,OKC,GSW
+Shot Chart Detail,0022400207,609,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,6,23,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,180,185,1,1,20241110,OKC,GSW
+Shot Chart Detail,0022400207,615,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,5,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,151,1,1,20241110,OKC,GSW
+Shot Chart Detail,0022400221,242,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,6,35,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20241113,OKC,NOP
+Shot Chart Detail,0022400221,412,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,6,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,31,1,1,20241113,OKC,NOP
+Shot Chart Detail,0022400242,139,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,2,39,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,1,20241117,OKC,DAL
+Shot Chart Detail,0022400242,590,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,8,21,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,10,1,1,20241117,OKC,DAL
+Shot Chart Detail,0022400285,178,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,9,34,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,34,1,1,20241125,SAC,OKC
+Shot Chart Detail,0022400285,442,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,2,55,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-12,75,1,1,20241125,SAC,OKC
+Shot Chart Detail,0022400299,148,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,0,38,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,53,1,1,20241127,GSW,OKC
+Shot Chart Detail,0022400299,165,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,11,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,40,188,1,1,20241127,GSW,OKC
+Shot Chart Detail,0022400299,242,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,6,3,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,55,29,1,1,20241127,GSW,OKC
+Shot Chart Detail,0022400299,445,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,5,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,146,217,1,1,20241127,GSW,OKC
+Shot Chart Detail,0022400310,48,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,7,59,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,5,1,1,20241201,HOU,OKC
+Shot Chart Detail,0022400310,91,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,5,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-7,33,1,1,20241201,HOU,OKC
+Shot Chart Detail,0022400310,362,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,10,45,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,13,1,1,20241201,HOU,OKC
+Shot Chart Detail,0022400310,683,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,3,18,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,11,1,1,20241201,HOU,OKC
+Shot Chart Detail,0022400310,712,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,1,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,239,100,1,1,20241201,HOU,OKC
+Shot Chart Detail,0022400328,233,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,8,47,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,184,193,1,1,20241205,TOR,OKC
+Shot Chart Detail,0022400328,241,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,7,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,192,192,1,1,20241205,TOR,OKC
+Shot Chart Detail,0022400328,439,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,5,27,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-3,1,1,20241205,TOR,OKC
+Shot Chart Detail,0022400342,28,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,9,31,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,3,1,1,20241207,NOP,OKC
+Shot Chart Detail,0022400342,79,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,4,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-154,195,1,1,20241207,NOP,OKC
+Shot Chart Detail,0022400361,80,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,6,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-42,264,1,1,20241219,ORL,OKC
+Shot Chart Detail,0022400361,351,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,0,3,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,20,95,1,1,20241219,ORL,OKC
+Shot Chart Detail,0022400375,332,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,9,37,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,20,1,1,20241220,MIA,OKC
+Shot Chart Detail,0022400400,131,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,2,45,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,0,1,1,20241223,OKC,WAS
+Shot Chart Detail,0022400400,255,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,6,7,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20241223,OKC,WAS
+Shot Chart Detail,0022400400,281,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,4,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,134,229,1,1,20241223,OKC,WAS
+Shot Chart Detail,0022400400,335,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,1,46,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-18,45,1,1,20241223,OKC,WAS
+Shot Chart Detail,0022400410,350,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,10,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,5,1,1,20241226,IND,OKC
+Shot Chart Detail,0022400440,69,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,6,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-110,231,1,1,20241229,OKC,MEM
+Shot Chart Detail,0022400440,433,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,8,55,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,26,1,1,20241229,OKC,MEM
+Shot Chart Detail,0022400452,320,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,10,45,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,5,1,1,20241231,OKC,MIN
+Shot Chart Detail,0022400466,126,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,1,32,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,21,81,1,1,20250102,OKC,LAC
+Shot Chart Detail,0022400466,440,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,2,6,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,8,1,1,20250102,OKC,LAC
+Shot Chart Detail,0022400466,483,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,11,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,56,117,1,1,20250102,OKC,LAC
+Shot Chart Detail,0022400466,535,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,7,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,32,1,1,20250102,OKC,LAC
+Shot Chart Detail,0022400473,310,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,11,35,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-13,1,1,20250103,OKC,NYK
+Shot Chart Detail,0022400487,29,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,9,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-222,115,1,1,20250105,OKC,BOS
+Shot Chart Detail,0022400487,87,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,5,11,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,5,40,1,1,20250105,OKC,BOS
+Shot Chart Detail,0022400487,250,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,6,12,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,5,1,1,20250105,OKC,BOS
+Shot Chart Detail,0022400487,410,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,5,25,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,32,1,1,20250105,OKC,BOS
+Shot Chart Detail,0022400487,529,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,9,9,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,11,1,1,20250105,OKC,BOS
+Shot Chart Detail,0022400487,535,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,8,10,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,1,20250105,OKC,BOS
+Shot Chart Detail,0022400509,97,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,5,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,20,1,1,20250108,CLE,OKC
+Shot Chart Detail,0022400509,224,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,8,5,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,20,1,1,20250108,CLE,OKC
+Shot Chart Detail,0022400509,259,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,6,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,5,1,1,20250108,CLE,OKC
+Shot Chart Detail,0022400509,406,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,7,35,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,5,1,1,20250108,CLE,OKC
+Shot Chart Detail,0022400509,460,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,4,46,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,15,1,1,20250108,CLE,OKC
+Shot Chart Detail,0022400509,610,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,6,6,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,43,1,1,20250108,CLE,OKC
+Shot Chart Detail,0022400529,299,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,0,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,22,1,1,20250110,NYK,OKC
+Shot Chart Detail,0022400529,549,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,5,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20250110,NYK,OKC
+Shot Chart Detail,0022400545,24,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,10,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,168,197,1,1,20250112,WAS,OKC
+Shot Chart Detail,0022400545,40,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,9,16,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-32,106,1,1,20250112,WAS,OKC
+Shot Chart Detail,0022400545,190,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,11,4,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,34,1,1,20250112,WAS,OKC
+Shot Chart Detail,0022400545,482,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,208,183,1,1,20250112,WAS,OKC
+Shot Chart Detail,0022400545,628,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,7,37,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-28,30,1,1,20250112,WAS,OKC
+Shot Chart Detail,0022400545,643,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,6,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,47,153,1,1,20250112,WAS,OKC
+Shot Chart Detail,0022400555,26,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,9,45,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,4,1,1,20250114,PHI,OKC
+Shot Chart Detail,0022400555,338,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,11,35,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,4,1,1,20250114,PHI,OKC
+Shot Chart Detail,0022400555,373,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,7,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-143,227,1,1,20250114,PHI,OKC
+Shot Chart Detail,0022400555,500,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,11,34,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,26,1,1,20250114,PHI,OKC
+Shot Chart Detail,0022400555,512,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,10,13,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-44,91,1,1,20250114,PHI,OKC
+Shot Chart Detail,0022400555,558,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,6,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,22,1,1,20250114,PHI,OKC
+Shot Chart Detail,0022400555,600,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,4,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,202,143,1,1,20250114,PHI,OKC
+Shot Chart Detail,0022400574,289,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,1,48,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20250116,OKC,CLE
+Shot Chart Detail,0022400574,415,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,5,26,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-5,1,1,20250116,OKC,CLE
+Shot Chart Detail,0022400574,517,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,11,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,5,1,1,20250116,OKC,CLE
+Shot Chart Detail,0022400583,83,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,6,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,41,1,1,20250117,DAL,OKC
+Shot Chart Detail,0022400583,95,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,5,35,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-9,112,1,1,20250117,DAL,OKC
+Shot Chart Detail,0022400583,313,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,4,13,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,11,1,1,20250117,DAL,OKC
+Shot Chart Detail,0022400583,462,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,6,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,228,78,1,1,20250117,DAL,OKC
+Shot Chart Detail,0022400595,12,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,11,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,-7,1,1,20250119,OKC,BKN
+Shot Chart Detail,0022400595,184,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,10,20,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,71,92,1,1,20250119,OKC,BKN
+Shot Chart Detail,0022400595,193,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,9,43,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,3,1,1,20250119,OKC,BKN
+Shot Chart Detail,0022400595,212,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,7,54,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,9,1,1,20250119,OKC,BKN
+Shot Chart Detail,0022400618,84,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,6,0,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,6,1,1,20250122,OKC,UTA
+Shot Chart Detail,0022400618,117,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,3,31,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,10,1,1,20250122,OKC,UTA
+Shot Chart Detail,0022400618,121,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,2,50,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,28,1,1,20250122,OKC,UTA
+Shot Chart Detail,0022400618,144,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,1,51,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,7,1,1,20250122,OKC,UTA
+Shot Chart Detail,0022400618,307,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,2,35,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20250122,OKC,UTA
+Shot Chart Detail,0022400618,659,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,4,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-168,183,1,1,20250122,OKC,UTA
+Shot Chart Detail,0022400625,109,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,3,40,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,6,1,1,20250123,OKC,DAL
+Shot Chart Detail,0022400625,291,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,4,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-201,150,1,1,20250123,OKC,DAL
+Shot Chart Detail,0022400625,299,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,3,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,1,20250123,OKC,DAL
+Shot Chart Detail,0022400647,319,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,1,39,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,11,1,1,20250126,POR,OKC
+Shot Chart Detail,0022400647,565,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,7,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,197,1,1,20250126,POR,OKC
+Shot Chart Detail,0022400673,441,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,9,6,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,22,1,1,20250129,GSW,OKC
+Shot Chart Detail,0022400691,63,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,7,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-5,1,1,20250201,OKC,SAC
+Shot Chart Detail,0022400804,133,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,1,7,Made Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,53,1,1,20250221,UTA,OKC
+Shot Chart Detail,0022400804,490,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,0,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,158,1,1,20250221,UTA,OKC
+Shot Chart Detail,0022400804,523,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,11,21,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,16,1,1,20250221,UTA,OKC
+Shot Chart Detail,0022400804,583,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,6,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,170,215,1,1,20250221,UTA,OKC
+Shot Chart Detail,0022400820,145,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,0,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,197,194,1,1,20250223,MIN,OKC
+Shot Chart Detail,0022400820,486,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,0,4,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,1,20250223,MIN,OKC
+Shot Chart Detail,0022400826,23,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,10,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,5,1,1,20250224,OKC,MIN
+Shot Chart Detail,0022400826,59,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,6,39,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,5,1,1,20250224,OKC,MIN
+Shot Chart Detail,0022400826,285,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,2,2,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,76,83,1,1,20250224,OKC,MIN
+Shot Chart Detail,0022400826,289,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,1,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,-16,1,1,20250224,OKC,MIN
+Shot Chart Detail,0022400826,359,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,8,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-212,130,1,1,20250224,OKC,MIN
+Shot Chart Detail,0022400840,74,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,6,19,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-3,1,1,20250226,BKN,OKC
+Shot Chart Detail,0022400840,214,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,7,56,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-3,1,1,20250226,BKN,OKC
+Shot Chart Detail,0022400840,340,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,0,23,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-3,1,1,20250226,BKN,OKC
+Shot Chart Detail,0022400840,582,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,8,3,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,46,1,1,20250226,BKN,OKC
+Shot Chart Detail,0022400840,590,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,7,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,10,1,1,20250226,BKN,OKC
+Shot Chart Detail,0022400840,606,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,7,0,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,14,1,1,20250226,BKN,OKC
+Shot Chart Detail,0022400851,41,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,9,31,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,1,1,1,20250228,ATL,OKC
+Shot Chart Detail,0022400851,367,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,9,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,12,1,1,20250228,ATL,OKC
+Shot Chart Detail,0022400851,541,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,8,9,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,13,1,1,20250228,ATL,OKC
+Shot Chart Detail,0022400851,646,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,1,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,8,1,1,20250228,ATL,OKC
+Shot Chart Detail,0022400871,12,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,10,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,5,1,1,20250302,SAS,OKC
+Shot Chart Detail,0022400871,31,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,8,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,222,125,1,1,20250302,SAS,OKC
+Shot Chart Detail,0022400871,54,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,6,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,10,1,1,20250302,SAS,OKC
+Shot Chart Detail,0022400871,350,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,10,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,16,1,1,20250302,SAS,OKC
+Shot Chart Detail,0022400871,450,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,3,29,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,20,1,1,20250302,SAS,OKC
+Shot Chart Detail,0022400871,500,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,0,27,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-208,164,1,1,20250302,SAS,OKC
+Shot Chart Detail,0022400871,597,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,5,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,15,1,1,20250302,SAS,OKC
+Shot Chart Detail,0022400879,205,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,9,37,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,35,1,1,20250303,OKC,HOU
+Shot Chart Detail,0022400879,228,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,8,23,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,12,1,1,20250303,OKC,HOU
+Shot Chart Detail,0022400879,241,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,7,23,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-13,160,1,1,20250303,OKC,HOU
+Shot Chart Detail,0022400879,318,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,1,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,218,123,1,1,20250303,OKC,HOU
+Shot Chart Detail,0022400895,9,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,11,38,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,11,1,1,20250305,MEM,OKC
+Shot Chart Detail,0022400895,135,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,2,0,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,15,1,1,20250305,MEM,OKC
+Shot Chart Detail,0022400920,533,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,10,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-10,1,1,20250309,OKC,DEN
+Shot Chart Detail,0022400936,207,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,9,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-31,1,1,20250310,OKC,DEN
+Shot Chart Detail,0022400936,357,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,11,39,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,25,64,1,1,20250310,OKC,DEN
+Shot Chart Detail,0022400936,440,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,3,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-13,1,1,20250310,OKC,DEN
+Shot Chart Detail,0022400936,535,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,9,18,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,10,1,1,20250310,OKC,DEN
+Shot Chart Detail,0022400936,618,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,2,41,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,15,1,1,20250310,OKC,DEN
+Shot Chart Detail,0022400946,30,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,9,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,12,1,1,20250312,BOS,OKC
+Shot Chart Detail,0022400946,200,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,9,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,15,1,1,20250312,BOS,OKC
+Shot Chart Detail,0022400946,395,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,5,12,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-36,1,1,1,20250312,BOS,OKC
+Shot Chart Detail,0022400946,620,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,2,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-124,216,1,1,20250312,BOS,OKC
+Shot Chart Detail,0022400946,624,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,1,46,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,37,1,1,20250312,BOS,OKC
+Shot Chart Detail,0022400969,17,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,10,41,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-40,53,1,1,20250315,DET,OKC
+Shot Chart Detail,0022400969,26,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,9,33,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,16,1,1,20250315,DET,OKC
+Shot Chart Detail,0022400969,39,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,8,36,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,25,1,1,20250315,DET,OKC
+Shot Chart Detail,0022400969,47,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,7,37,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-18,83,1,1,20250315,DET,OKC
+Shot Chart Detail,0022400969,214,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,9,45,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,38,1,1,20250315,DET,OKC
+Shot Chart Detail,0022400969,223,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,9,2,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-15,54,1,1,20250315,DET,OKC
+Shot Chart Detail,0022400969,394,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,7,20,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,14,1,1,20250315,DET,OKC
+Shot Chart Detail,0022400969,439,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,4,29,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,16,1,1,20250315,DET,OKC
+Shot Chart Detail,0022400969,658,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,1,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,169,210,1,1,20250315,DET,OKC
+Shot Chart Detail,0022400982,37,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,7,51,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,76,57,1,1,20250316,MIL,OKC
+Shot Chart Detail,0022400982,76,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,4,46,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,20,1,1,20250316,MIL,OKC
+Shot Chart Detail,0022400982,346,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,10,8,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,21,1,1,20250316,MIL,OKC
+Shot Chart Detail,0022400982,661,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,1,15,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,13,1,1,20250316,MIL,OKC
+Shot Chart Detail,0022401017,22,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,10,31,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,15,1,1,20250321,OKC,CHA
+Shot Chart Detail,0022401017,188,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,10,36,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,8,1,1,20250321,OKC,CHA
+Shot Chart Detail,0022401017,368,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,6,52,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-58,4,1,1,20250321,OKC,CHA
+Shot Chart Detail,0022401017,484,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,11,11,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,253,1,1,20250321,OKC,CHA
+Shot Chart Detail,0022401017,496,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,10,3,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-4,104,1,1,20250321,OKC,CHA
+Shot Chart Detail,0022401036,43,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,8,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,147,220,1,1,20250323,LAC,OKC
+Shot Chart Detail,0022401036,247,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,5,48,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,11,1,1,20250323,LAC,OKC
+Shot Chart Detail,0022401036,358,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,10,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,7,1,1,20250323,LAC,OKC
+Shot Chart Detail,0022401064,199,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,10,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,165,1,1,20250327,OKC,MEM
+Shot Chart Detail,0022401064,222,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,8,47,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,1,20250327,OKC,MEM
+Shot Chart Detail,0022401064,307,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,3,1,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,13,1,1,20250327,OKC,MEM
+Shot Chart Detail,0022401064,632,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,4,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-180,171,1,1,20250327,OKC,MEM
+Shot Chart Detail,0022401079,278,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,4,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-224,139,1,1,20250329,OKC,IND
+Shot Chart Detail,0022401079,295,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,3,17,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,16,1,1,20250329,OKC,IND
+Shot Chart Detail,0022401079,336,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,0,29,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,17,1,1,20250329,OKC,IND
+Shot Chart Detail,0022401079,449,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,5,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-27,1,1,20250329,OKC,IND
+Shot Chart Detail,0022401079,590,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,6,0,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,5,1,1,20250329,OKC,IND
+Shot Chart Detail,0022401094,270,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,5,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,30,1,1,20250331,OKC,CHI
+Shot Chart Detail,0022401094,355,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,0,36,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,203,165,1,1,20250331,OKC,CHI
+Shot Chart Detail,0022401094,542,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,11,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-208,155,1,1,20250331,OKC,CHI
+Shot Chart Detail,0022401108,70,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,6,37,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-7,1,1,20250402,OKC,DET
+Shot Chart Detail,0022401108,84,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,5,54,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-8,1,1,20250402,OKC,DET
+Shot Chart Detail,0022401108,275,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,7,42,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-4,1,1,20250402,OKC,DET
+Shot Chart Detail,0022401108,329,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,3,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-15,1,1,20250402,OKC,DET
+Shot Chart Detail,0022401108,395,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,10,50,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,15,1,1,20250402,OKC,DET
+Shot Chart Detail,0022401108,602,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,9,3,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-43,31,1,1,20250402,OKC,DET
+Shot Chart Detail,0022401123,145,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,1,1,4,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,14,1,1,20250404,HOU,OKC
+Shot Chart Detail,0022401135,495,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,10,53,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,5,1,1,20250406,OKC,LAL
+Shot Chart Detail,0022401135,522,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,8,57,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,2,1,1,20250406,OKC,LAL
+Shot Chart Detail,0022401135,590,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,3,4,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,10,1,1,20250406,OKC,LAL
+Shot Chart Detail,0022401135,613,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,1,29,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,6,1,1,20250406,OKC,LAL
+Shot Chart Detail,0022401153,200,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,9,25,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-28,60,1,1,20250408,OKC,LAL
+Shot Chart Detail,0022401153,227,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,8,7,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,27,1,1,20250408,OKC,LAL
+Shot Chart Detail,0022401153,536,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,11,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-11,1,1,20250408,OKC,LAL
+Shot Chart Detail,0022401153,557,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,9,24,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-33,38,1,1,20250408,OKC,LAL
+Shot Chart Detail,0022401153,675,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,2,48,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,40,66,1,1,20250408,OKC,LAL
+Shot Chart Detail,0022401203,238,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,2,7,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-18,1,1,20241210,OKC,DAL
+Shot Chart Detail,0022401203,422,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,6,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-55,254,1,1,20241210,OKC,DAL
+Shot Chart Detail,0022401203,588,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,6,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,29,1,1,20241210,OKC,DAL
+Shot Chart Detail,0022401203,592,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,5,58,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,8,1,1,20241210,OKC,DAL
+Shot Chart Detail,0022401230,391,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,3,10,27,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20241214,OKC,HOU
+Shot Chart Detail,0022401230,703,1641717,Cason Wallace,1610612760,Oklahoma City Thunder,4,0,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,188,168,1,1,20241214,OKC,HOU

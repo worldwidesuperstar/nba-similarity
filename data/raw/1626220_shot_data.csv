@@ -1,21 +1,242 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400006,266,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,2,28,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,132,235,1,1,20241112,UTA,PHX
+Shot Chart Detail,0022400006,556,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,4,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,199,173,1,1,20241112,UTA,PHX
+Shot Chart Detail,0022400018,259,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,6,31,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1,49,1,1,20241115,OKC,PHX
+Shot Chart Detail,0022400018,299,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,3,24,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,10,1,1,20241115,OKC,PHX
+Shot Chart Detail,0022400018,414,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,7,13,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-178,193,1,1,20241115,OKC,PHX
+Shot Chart Detail,0022400018,438,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,5,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-168,223,1,1,20241115,OKC,PHX
+Shot Chart Detail,0022400039,446,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,2,30,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,208,148,1,1,20241126,PHX,LAL
+Shot Chart Detail,0022400039,459,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,1,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,43,1,1,20241126,PHX,LAL
+Shot Chart Detail,0022400039,548,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,214,157,1,1,20241126,PHX,LAL
+Shot Chart Detail,0022400057,92,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,3,30,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,11,1,1,20241203,PHX,SAS
+Shot Chart Detail,0022400057,389,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,6,18,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,53,1,1,20241203,PHX,SAS
+Shot Chart Detail,0022400057,601,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,5,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,48,1,1,20241203,PHX,SAS
+Shot Chart Detail,0022400057,605,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,4,32,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,27,1,1,20241203,PHX,SAS
+Shot Chart Detail,0022400071,234,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,5,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-154,235,1,1,20241023,LAC,PHX
+Shot Chart Detail,0022400071,411,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,6,30,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241023,LAC,PHX
+Shot Chart Detail,0022400085,156,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,0,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,96,282,1,1,20241025,LAL,PHX
+Shot Chart Detail,0022400085,622,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,2,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,36,1,1,20241025,LAL,PHX
+Shot Chart Detail,0022400095,138,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,2,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,137,216,1,1,20241026,PHX,DAL
+Shot Chart Detail,0022400095,534,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,0,3,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,37,1,1,20241026,PHX,DAL
+Shot Chart Detail,0022400111,93,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,5,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,17,1,1,20241028,PHX,LAL
+Shot Chart Detail,0022400111,310,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,2,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,232,129,1,1,20241028,PHX,LAL
+Shot Chart Detail,0022400111,538,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,10,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,173,206,1,1,20241028,PHX,LAL
+Shot Chart Detail,0022400111,664,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,1,25,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,99,109,1,1,20241028,PHX,LAL
+Shot Chart Detail,0022400131,130,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,2,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-7,285,1,1,20241031,LAC,PHX
+Shot Chart Detail,0022400131,172,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,11,29,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,1,20241031,LAC,PHX
+Shot Chart Detail,0022400131,445,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,3,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,57,1,1,20241031,LAC,PHX
+Shot Chart Detail,0022400131,452,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,3,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-157,211,1,1,20241031,LAC,PHX
+Shot Chart Detail,0022400131,505,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,9,32,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,16,1,1,20241031,LAC,PHX
+Shot Chart Detail,0022400131,618,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,2,42,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,1,1,1,20241031,LAC,PHX
+Shot Chart Detail,0022400131,649,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,0,44,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,18,1,1,20241031,LAC,PHX
+Shot Chart Detail,0022400149,470,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,2,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,52,1,1,20241102,PHX,POR
+Shot Chart Detail,0022400167,75,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,5,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-172,218,1,1,20241104,PHX,PHI
+Shot Chart Detail,0022400167,86,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,4,50,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-159,220,1,1,20241104,PHX,PHI
+Shot Chart Detail,0022400167,165,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,11,25,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241104,PHX,PHI
+Shot Chart Detail,0022400167,285,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,2,58,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,22,1,1,20241104,PHX,PHI
+Shot Chart Detail,0022400167,469,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,2,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,13,1,1,20241104,PHX,PHI
+Shot Chart Detail,0022400167,569,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,8,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,218,158,1,1,20241104,PHX,PHI
+Shot Chart Detail,0022400178,111,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,3,2,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,7,1,1,20241106,PHX,MIA
+Shot Chart Detail,0022400178,314,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,0,35,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-173,201,1,1,20241106,PHX,MIA
+Shot Chart Detail,0022400190,95,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,4,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-33,269,1,1,20241108,DAL,PHX
+Shot Chart Detail,0022400190,129,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,1,39,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,8,1,1,20241108,DAL,PHX
+Shot Chart Detail,0022400190,255,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,4,22,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,55,1,1,20241108,DAL,PHX
+Shot Chart Detail,0022400190,270,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,3,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,6,1,1,20241108,DAL,PHX
+Shot Chart Detail,0022400190,505,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,10,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,5,1,1,20241108,DAL,PHX
+Shot Chart Detail,0022400190,523,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,9,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,4,1,1,20241108,DAL,PHX
+Shot Chart Detail,0022400190,590,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,2,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,152,203,1,1,20241108,DAL,PHX
+Shot Chart Detail,0022400209,231,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,8,5,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-21,1,1,20241110,PHX,SAC
+Shot Chart Detail,0022400209,429,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,4,37,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,4,1,1,20241110,PHX,SAC
+Shot Chart Detail,0022400209,573,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,5,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-162,214,1,1,20241110,PHX,SAC
+Shot Chart Detail,0022400227,36,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,9,5,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,11,1,1,20241113,SAC,PHX
+Shot Chart Detail,0022400227,383,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,9,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,65,257,1,1,20241113,SAC,PHX
+Shot Chart Detail,0022400234,433,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,4,27,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,12,1,1,20241117,MIN,PHX
+Shot Chart Detail,0022400234,450,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,3,23,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,23,1,1,20241117,MIN,PHX
+Shot Chart Detail,0022400234,458,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,2,31,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-115,232,1,1,20241117,MIN,PHX
+Shot Chart Detail,0022400249,276,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,4,49,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-17,94,1,1,20241118,PHX,ORL
+Shot Chart Detail,0022400257,36,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,98,257,1,1,20241120,PHX,NYK
+Shot Chart Detail,0022400257,166,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,9,15,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,37,1,1,20241120,PHX,NYK
+Shot Chart Detail,0022400257,215,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,6,16,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,67,1,1,20241120,PHX,NYK
+Shot Chart Detail,0022400257,342,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,9,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,51,243,1,1,20241120,PHX,NYK
+Shot Chart Detail,0022400257,358,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,7,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-189,168,1,1,20241120,PHX,NYK
+Shot Chart Detail,0022400257,367,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,6,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-213,143,1,1,20241120,PHX,NYK
+Shot Chart Detail,0022400297,136,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,1,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,44,256,1,1,20241127,PHX,BKN
+Shot Chart Detail,0022400297,469,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,1,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,26,1,1,20241127,PHX,BKN
+Shot Chart Detail,0022400297,643,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,2,14,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,5,1,1,20241127,PHX,BKN
+Shot Chart Detail,0022400303,133,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,2,27,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-49,66,1,1,20241130,PHX,GSW
+Shot Chart Detail,0022400303,240,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,7,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,161,218,1,1,20241130,PHX,GSW
+Shot Chart Detail,0022400303,293,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,3,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-28,258,1,1,20241130,PHX,GSW
+Shot Chart Detail,0022400303,421,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,4,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-158,211,1,1,20241130,PHX,GSW
+Shot Chart Detail,0022400330,52,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,7,14,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,10,1,1,20241205,NOP,PHX
+Shot Chart Detail,0022400330,83,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,5,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,8,1,1,20241205,NOP,PHX
+Shot Chart Detail,0022400330,255,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,5,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,21,257,1,1,20241205,NOP,PHX
+Shot Chart Detail,0022400330,419,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,7,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-222,117,1,1,20241205,NOP,PHX
+Shot Chart Detail,0022400330,625,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,5,26,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,205,173,1,1,20241205,NOP,PHX
+Shot Chart Detail,0022400330,629,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,5,13,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,1,1,1,20241205,NOP,PHX
+Shot Chart Detail,0022400346,76,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,5,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,167,213,1,1,20241207,MIA,PHX
+Shot Chart Detail,0022400346,215,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,7,6,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,17,64,1,1,20241207,MIA,PHX
+Shot Chart Detail,0022400346,290,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,0,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,58,1,1,20241207,MIA,PHX
+Shot Chart Detail,0022400346,293,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,0,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-120,227,1,1,20241207,MIA,PHX
+Shot Chart Detail,0022400346,433,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,2,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-228,132,1,1,20241207,MIA,PHX
+Shot Chart Detail,0022400346,441,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,2,22,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241207,MIA,PHX
+Shot Chart Detail,0022400346,466,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,0,34,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,1,1,1,20241207,MIA,PHX
+Shot Chart Detail,0022400346,471,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20241207,MIA,PHX
+Shot Chart Detail,0022400352,67,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,6,41,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,179,1,1,20241208,ORL,PHX
+Shot Chart Detail,0022400352,254,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,5,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,158,216,1,1,20241208,ORL,PHX
+Shot Chart Detail,0022400352,292,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,2,32,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20241208,ORL,PHX
+Shot Chart Detail,0022400352,347,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,11,49,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-45,91,1,1,20241208,ORL,PHX
+Shot Chart Detail,0022400352,356,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,10,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-152,210,1,1,20241208,ORL,PHX
+Shot Chart Detail,0022400352,640,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,2,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,110,221,1,1,20241208,ORL,PHX
+Shot Chart Detail,0022400369,114,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,3,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,182,1,1,20241219,PHX,IND
+Shot Chart Detail,0022400369,329,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,0,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,45,1,1,20241219,PHX,IND
+Shot Chart Detail,0022400369,332,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,131,219,1,1,20241219,PHX,IND
+Shot Chart Detail,0022400387,171,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,11,20,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,191,182,1,1,20241221,PHX,DET
+Shot Chart Detail,0022400387,468,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,0,47,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,10,1,1,20241221,PHX,DET
+Shot Chart Detail,0022400387,581,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,6,20,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-157,199,1,1,20241221,PHX,DET
+Shot Chart Detail,0022400387,616,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,3,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,102,234,1,1,20241221,PHX,DET
+Shot Chart Detail,0022400402,478,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,2,13,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,142,236,1,1,20241223,DEN,PHX
+Shot Chart Detail,0022400402,551,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,8,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,156,218,1,1,20241223,DEN,PHX
+Shot Chart Detail,0022400409,435,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,2,22,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,5,1,1,20241225,PHX,DEN
+Shot Chart Detail,0022400409,518,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,7,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-125,222,1,1,20241225,PHX,DEN
+Shot Chart Detail,0022400425,236,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,7,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,207,155,1,1,20241227,PHX,DAL
+Shot Chart Detail,0022400425,498,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,3,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,30,129,276,1,1,20241227,PHX,DAL
+Shot Chart Detail,0022400425,560,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,11,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,14,1,1,20241227,PHX,DAL
+Shot Chart Detail,0022400425,612,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,6,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,243,77,1,1,20241227,PHX,DAL
+Shot Chart Detail,0022400425,651,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,2,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-234,85,1,1,20241227,PHX,DAL
+Shot Chart Detail,0022400547,488,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,1,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,8,1,1,20250112,PHX,CHA
+Shot Chart Detail,0022400547,636,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,5,18,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-16,1,1,20250112,PHX,CHA
+Shot Chart Detail,0022400547,688,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,0,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,245,53,1,1,20250112,PHX,CHA
+Shot Chart Detail,0022400556,312,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,1,27,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,11,1,1,20250114,ATL,PHX
+Shot Chart Detail,0022400573,434,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,5,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,32,197,257,1,1,20250116,WAS,PHX
+Shot Chart Detail,0022400573,470,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,2,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,230,98,1,1,20250116,WAS,PHX
+Shot Chart Detail,0022400573,625,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,4,8,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,9,1,1,20250116,WAS,PHX
+Shot Chart Detail,0022400586,267,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,6,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-205,165,1,1,20250118,DET,PHX
+Shot Chart Detail,0022400586,517,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,2,4,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,42,64,1,1,20250118,DET,PHX
+Shot Chart Detail,0022400613,449,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,0,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-198,177,1,1,20250122,BKN,PHX
+Shot Chart Detail,0022400645,163,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,0,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-205,211,1,1,20250125,PHX,WAS
+Shot Chart Detail,0022400659,26,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,8,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,207,194,1,1,20250127,PHX,LAC
+Shot Chart Detail,0022400659,253,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,1,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,26,1,1,20250127,PHX,LAC
+Shot Chart Detail,0022400659,270,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,0,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,30,1,1,20250127,PHX,LAC
+Shot Chart Detail,0022400659,528,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,6,15,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-33,25,1,1,20250127,PHX,LAC
+Shot Chart Detail,0022400672,196,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,8,29,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,64,58,1,1,20250129,PHX,MIN
+Shot Chart Detail,0022400672,504,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,11,37,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,15,1,1,20250129,PHX,MIN
+Shot Chart Detail,0022400685,123,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,3,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-9,285,1,1,20250131,GSW,PHX
+Shot Chart Detail,0022400685,603,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,7,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-211,146,1,1,20250131,GSW,PHX
+Shot Chart Detail,0022400694,157,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,11,30,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-4,1,1,20250201,POR,PHX
+Shot Chart Detail,0022400694,184,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,8,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-195,159,1,1,20250201,POR,PHX
+Shot Chart Detail,0022400709,276,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,2,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-180,190,1,1,20250203,POR,PHX
+Shot Chart Detail,0022400709,282,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,1,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,4,1,1,20250203,POR,PHX
+Shot Chart Detail,0022400709,453,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,0,27,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,0,1,1,20250203,POR,PHX
+Shot Chart Detail,0022400709,483,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,9,54,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-1,1,1,20250203,POR,PHX
+Shot Chart Detail,0022400709,594,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,222,1,1,20250203,POR,PHX
+Shot Chart Detail,0022400724,8,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,11,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,154,232,1,1,20250205,OKC,PHX
+Shot Chart Detail,0022400724,29,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,9,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,178,1,1,20250205,OKC,PHX
+Shot Chart Detail,0022400724,193,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,8,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,15,1,1,20250205,OKC,PHX
+Shot Chart Detail,0022400724,208,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,6,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,228,75,1,1,20250205,OKC,PHX
+Shot Chart Detail,0022400724,237,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,4,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-151,204,1,1,20250205,OKC,PHX
+Shot Chart Detail,0022400724,506,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,11,14,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,235,78,1,1,20250205,OKC,PHX
+Shot Chart Detail,0022400740,23,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,9,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-129,220,1,1,20250207,PHX,UTA
+Shot Chart Detail,0022400740,424,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,7,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,53,1,1,20250207,PHX,UTA
+Shot Chart Detail,0022400740,732,1626220,Royce O'Neale,1610612756,Phoenix Suns,5,2,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,212,153,1,1,20250207,PHX,UTA
+Shot Chart Detail,0022400740,740,1626220,Royce O'Neale,1610612756,Phoenix Suns,5,1,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,161,222,1,1,20250207,PHX,UTA
+Shot Chart Detail,0022400749,41,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,189,1,1,20250208,PHX,DEN
+Shot Chart Detail,0022400749,283,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,1,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,99,249,1,1,20250208,PHX,DEN
+Shot Chart Detail,0022400749,320,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,10,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,135,224,1,1,20250208,PHX,DEN
+Shot Chart Detail,0022400767,105,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,3,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,78,246,1,1,20250211,PHX,MEM
+Shot Chart Detail,0022400767,371,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,11,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,109,254,1,1,20250211,PHX,MEM
+Shot Chart Detail,0022400767,457,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,5,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-202,180,1,1,20250211,PHX,MEM
+Shot Chart Detail,0022400767,598,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,8,39,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,27,1,1,20250211,PHX,MEM
+Shot Chart Detail,0022400779,27,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,10,39,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,218,123,1,1,20250212,HOU,PHX
+Shot Chart Detail,0022400779,39,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,9,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-180,199,1,1,20250212,HOU,PHX
+Shot Chart Detail,0022400779,52,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,119,238,1,1,20250212,HOU,PHX
+Shot Chart Detail,0022400779,334,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,11,11,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,13,38,1,1,20250212,HOU,PHX
+Shot Chart Detail,0022400779,531,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,9,58,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,5,1,1,20250212,HOU,PHX
+Shot Chart Detail,0022400795,45,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,7,26,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,201,1,1,20250220,SAS,PHX
+Shot Chart Detail,0022400795,198,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,8,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,206,126,1,1,20250220,SAS,PHX
+Shot Chart Detail,0022400795,255,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,4,26,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,2,1,1,20250220,SAS,PHX
+Shot Chart Detail,0022400795,290,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,1,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-1,1,1,20250220,SAS,PHX
+Shot Chart Detail,0022400795,294,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,1,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,42,1,1,20250220,SAS,PHX
+Shot Chart Detail,0022400795,377,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,7,8,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,5,1,1,20250220,SAS,PHX
+Shot Chart Detail,0022400795,514,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,11,25,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,13,1,1,20250220,SAS,PHX
+Shot Chart Detail,0022400795,518,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,10,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-17,1,1,20250220,SAS,PHX
+Shot Chart Detail,0022400795,632,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,4,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,73,1,1,20250220,SAS,PHX
+Shot Chart Detail,0022400795,663,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,2,22,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,1,20250220,SAS,PHX
+Shot Chart Detail,0022400806,354,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,9,26,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,52,1,1,20250222,CHI,PHX
+Shot Chart Detail,0022400816,354,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,9,50,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,195,161,1,1,20250223,TOR,PHX
+Shot Chart Detail,0022400816,368,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,8,50,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20250223,TOR,PHX
+Shot Chart Detail,0022400832,139,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,1,47,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,22,1,1,20250225,MEM,PHX
+Shot Chart Detail,0022400832,482,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,0,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-186,186,1,1,20250225,MEM,PHX
+Shot Chart Detail,0022400832,558,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,7,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,205,159,1,1,20250225,MEM,PHX
+Shot Chart Detail,0022400848,143,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,0,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-225,92,1,1,20250227,PHX,NOP
+Shot Chart Detail,0022400848,409,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,1,35,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,145,210,1,1,20250227,PHX,NOP
+Shot Chart Detail,0022400857,118,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,2,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-162,188,1,1,20250228,PHX,NOP
+Shot Chart Detail,0022400857,136,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,0,58,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,32,1,1,20250228,PHX,NOP
+Shot Chart Detail,0022400857,425,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,2,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,57,1,1,20250228,PHX,NOP
+Shot Chart Detail,0022400857,502,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,9,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-85,257,1,1,20250228,PHX,NOP
+Shot Chart Detail,0022400857,505,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,9,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,222,63,1,1,20250228,PHX,NOP
+Shot Chart Detail,0022400857,535,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,6,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,57,1,1,20250228,PHX,NOP
+Shot Chart Detail,0022400889,59,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,6,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-223,175,1,1,20250304,PHX,LAC
+Shot Chart Detail,0022400889,152,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,179,198,1,1,20250304,PHX,LAC
+Shot Chart Detail,0022400889,275,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,1,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-176,217,1,1,20250304,PHX,LAC
+Shot Chart Detail,0022400889,352,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,6,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-190,180,1,1,20250304,PHX,LAC
+Shot Chart Detail,0022400909,120,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,2,17,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-212,143,1,1,20250307,DEN,PHX
+Shot Chart Detail,0022400909,392,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,2,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,212,168,1,1,20250307,DEN,PHX
+Shot Chart Detail,0022400921,461,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,10,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-221,89,1,1,20250309,DAL,PHX
+Shot Chart Detail,0022400921,529,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,4,36,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,22,1,1,20250309,DAL,PHX
+Shot Chart Detail,0022400935,152,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,1,16,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,124,1,1,20250310,MEM,PHX
+Shot Chart Detail,0022400935,478,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,3,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,64,1,1,20250310,MEM,PHX
+Shot Chart Detail,0022400935,626,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,5,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-148,220,1,1,20250310,MEM,PHX
+Shot Chart Detail,0022400949,369,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,7,49,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20250312,HOU,PHX
+Shot Chart Detail,0022400967,124,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,1,45,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-211,157,1,1,20250314,PHX,SAC
+Shot Chart Detail,0022400967,432,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,2,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-94,263,1,1,20250314,PHX,SAC
+Shot Chart Detail,0022400967,494,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,10,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-232,73,1,1,20250314,PHX,SAC
+Shot Chart Detail,0022400977,163,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,11,38,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-39,32,1,1,20250316,LAL,PHX
+Shot Chart Detail,0022400977,175,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,10,17,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250316,LAL,PHX
+Shot Chart Detail,0022400977,376,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,7,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-183,175,1,1,20250316,LAL,PHX
+Shot Chart Detail,0022400977,417,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,4,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,12,1,1,20250316,LAL,PHX
+Shot Chart Detail,0022400991,119,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,1,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,200,184,1,1,20250317,PHX,TOR
+Shot Chart Detail,0022400991,216,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,6,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-190,173,1,1,20250317,PHX,TOR
+Shot Chart Detail,0022400991,232,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,5,6,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,225,152,1,1,20250317,PHX,TOR
+Shot Chart Detail,0022400991,289,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,0,30,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-27,79,1,1,20250317,PHX,TOR
+Shot Chart Detail,0022401007,471,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,1,52,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,104,45,1,1,20250319,PHX,CHI
+Shot Chart Detail,0022401007,482,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,0,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-152,224,1,1,20250319,PHX,CHI
+Shot Chart Detail,0022401021,68,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,5,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,26,1,1,20250321,PHX,CLE
+Shot Chart Detail,0022401021,98,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,2,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,34,1,1,20250321,PHX,CLE
+Shot Chart Detail,0022401021,101,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,2,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,48,1,1,20250321,PHX,CLE
+Shot Chart Detail,0022401021,180,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,9,30,Made Shot,Fadeaway Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,216,157,1,1,20250321,PHX,CLE
+Shot Chart Detail,0022401021,185,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,8,49,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,-7,1,1,20250321,PHX,CLE
+Shot Chart Detail,0022401043,278,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,2,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,104,251,1,1,20250324,PHX,MIL
+Shot Chart Detail,0022401071,176,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,9,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-154,201,1,1,20250328,MIN,PHX
+Shot Chart Detail,0022401071,207,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,7,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-42,248,1,1,20250328,MIN,PHX
+Shot Chart Detail,0022401071,240,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,4,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,169,216,1,1,20250328,MIN,PHX
+Shot Chart Detail,0022401071,244,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,4,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-176,177,1,1,20250328,MIN,PHX
+Shot Chart Detail,0022401071,548,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,6,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,6,1,1,20250328,MIN,PHX
+Shot Chart Detail,0022401071,570,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2,257,1,1,20250328,MIN,PHX
+Shot Chart Detail,0022401071,629,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,0,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,168,184,1,1,20250328,MIN,PHX
+Shot Chart Detail,0022401088,483,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,3,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-11,1,1,20250330,PHX,HOU
+Shot Chart Detail,0022401088,487,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,2,22,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,34,1,1,20250330,PHX,HOU
+Shot Chart Detail,0022401120,229,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,5,42,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,153,226,1,1,20250404,BOS,PHX
+Shot Chart Detail,0022401120,266,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,2,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-43,251,1,1,20250404,BOS,PHX
+Shot Chart Detail,0022401120,335,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,8,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,178,201,1,1,20250404,BOS,PHX
+Shot Chart Detail,0022401120,550,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,4,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,210,141,1,1,20250404,BOS,PHX
+Shot Chart Detail,0022401140,65,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,6,12,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,2,1,1,20250406,NYK,PHX
+Shot Chart Detail,0022401140,423,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,3,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-229,114,1,1,20250406,NYK,PHX
+Shot Chart Detail,0022401154,29,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,156,219,1,1,20250408,PHX,GSW
+Shot Chart Detail,0022401164,158,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,1,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-6,1,1,20250409,PHX,OKC
+Shot Chart Detail,0022401164,165,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,0,33,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,81,52,1,1,20250409,PHX,OKC
+Shot Chart Detail,0022401164,325,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,0,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,2,1,1,20250409,PHX,OKC
+Shot Chart Detail,0022401164,557,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,9,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,216,155,1,1,20250409,PHX,OKC
+Shot Chart Detail,0022401182,465,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,10,21,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-33,29,1,1,20250411,PHX,SAS
+Shot Chart Detail,0022401200,146,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,11,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,224,153,1,1,20250413,SAC,PHX
+Shot Chart Detail,0022401200,172,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,9,21,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,24,1,1,20250413,SAC,PHX
+Shot Chart Detail,0022401214,11,1626220,Royce O'Neale,1610612756,Phoenix Suns,1,11,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-61,248,1,1,20241213,UTA,PHX
+Shot Chart Detail,0022401214,260,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,5,7,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,8,1,1,20241213,UTA,PHX
+Shot Chart Detail,0022401214,281,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,3,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-1,1,1,20241213,UTA,PHX
+Shot Chart Detail,0022401214,349,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,11,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-119,235,1,1,20241213,UTA,PHX
+Shot Chart Detail,0022401214,367,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,9,6,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-13,1,1,20241213,UTA,PHX
+Shot Chart Detail,0022401214,633,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,0,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,219,153,1,1,20241213,UTA,PHX
+Shot Chart Detail,0022401219,264,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,3,4,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,20,1,1,20241215,PHX,POR
+Shot Chart Detail,0022401219,295,1626220,Royce O'Neale,1610612756,Phoenix Suns,2,1,11,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,199,163,1,1,20241215,PHX,POR
+Shot Chart Detail,0022401219,385,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,6,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,22,1,1,20241215,PHX,POR
+Shot Chart Detail,0022401219,396,1626220,Royce O'Neale,1610612756,Phoenix Suns,3,5,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,137,1,1,20241215,PHX,POR
+Shot Chart Detail,0022401219,577,1626220,Royce O'Neale,1610612756,Phoenix Suns,4,4,41,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,29,1,1,20241215,PHX,POR

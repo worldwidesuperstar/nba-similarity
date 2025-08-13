@@ -1,21 +1,287 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400013,278,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,4,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-6,1,1,20241115,CLE,CHI
+Shot Chart Detail,0022400013,347,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,11,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,32,1,1,20241115,CLE,CHI
+Shot Chart Detail,0022400013,382,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,9,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,214,139,1,1,20241115,CLE,CHI
+Shot Chart Detail,0022400013,460,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,3,38,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-11,73,1,1,20241115,CLE,CHI
+Shot Chart Detail,0022400013,482,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,2,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,12,1,1,20241115,CLE,CHI
+Shot Chart Detail,0022400021,118,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,3,5,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,91,1,1,20241119,BOS,CLE
+Shot Chart Detail,0022400021,224,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,5,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,13,1,1,20241119,BOS,CLE
+Shot Chart Detail,0022400021,233,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,4,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-6,1,1,20241119,BOS,CLE
+Shot Chart Detail,0022400021,356,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,6,20,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,15,1,1,20241119,BOS,CLE
+Shot Chart Detail,0022400021,411,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,2,25,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,19,1,1,20241119,BOS,CLE
+Shot Chart Detail,0022400041,416,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,5,33,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-32,57,1,1,20241129,ATL,CLE
+Shot Chart Detail,0022400051,113,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,3,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-4,1,1,20241203,CLE,WAS
+Shot Chart Detail,0022400051,143,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,2,4,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,13,1,1,20241203,CLE,WAS
+Shot Chart Detail,0022400051,329,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,1,36,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,15,1,1,20241203,CLE,WAS
+Shot Chart Detail,0022400051,507,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,2,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,31,1,1,20241203,CLE,WAS
+Shot Chart Detail,0022400051,645,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,5,10,Made Shot,Driving Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,36,1,1,20241203,CLE,WAS
+Shot Chart Detail,0022400051,685,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,0,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,17,1,1,20241203,CLE,WAS
+Shot Chart Detail,0022400067,136,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,2,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-156,217,1,1,20241023,TOR,CLE
+Shot Chart Detail,0022400067,513,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,1,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,0,1,1,20241023,TOR,CLE
+Shot Chart Detail,0022400067,516,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,0,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-17,1,1,20241023,TOR,CLE
+Shot Chart Detail,0022400067,597,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,8,30,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,10,1,1,20241023,TOR,CLE
+Shot Chart Detail,0022400080,467,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,1,10,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,107,239,1,1,20241025,CLE,DET
+Shot Chart Detail,0022400090,150,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,2,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,17,1,1,20241026,WAS,CLE
+Shot Chart Detail,0022400106,465,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,1,43,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,5,1,1,20241028,NYK,CLE
+Shot Chart Detail,0022400106,509,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,10,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,2,1,1,20241028,NYK,CLE
+Shot Chart Detail,0022400118,428,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,3,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,1,20241030,CLE,LAL
+Shot Chart Detail,0022400118,432,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,3,14,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,1,1,1,20241030,CLE,LAL
+Shot Chart Detail,0022400133,93,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,4,15,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,8,1,1,20241101,CLE,ORL
+Shot Chart Detail,0022400133,496,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,0,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-4,1,1,20241101,CLE,ORL
+Shot Chart Detail,0022400133,522,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,11,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,8,1,1,20241101,CLE,ORL
+Shot Chart Detail,0022400145,497,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,10,40,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,4,1,1,20241102,MIL,CLE
+Shot Chart Detail,0022400154,377,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,6,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,16,1,1,20241104,CLE,MIL
+Shot Chart Detail,0022400154,420,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,3,21,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,131,219,1,1,20241104,CLE,MIL
+Shot Chart Detail,0022400154,487,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,9,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,10,1,1,20241104,CLE,MIL
+Shot Chart Detail,0022400175,67,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,7,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,167,180,1,1,20241106,NOP,CLE
+Shot Chart Detail,0022400175,112,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,3,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,10,1,1,20241106,NOP,CLE
+Shot Chart Detail,0022400175,433,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,5,5,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,0,1,1,20241106,NOP,CLE
+Shot Chart Detail,0022400175,522,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,11,42,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-4,1,1,20241106,NOP,CLE
+Shot Chart Detail,0022400188,101,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,4,23,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20241108,CLE,GSW
+Shot Chart Detail,0022400188,151,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,0,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,104,239,1,1,20241108,CLE,GSW
+Shot Chart Detail,0022400188,172,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,11,5,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-75,26,1,1,20241108,CLE,GSW
+Shot Chart Detail,0022400199,91,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,4,9,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20241109,CLE,BKN
+Shot Chart Detail,0022400199,169,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,10,34,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-26,91,1,1,20241109,CLE,BKN
+Shot Chart Detail,0022400199,496,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,10,25,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,11,75,1,1,20241109,CLE,BKN
+Shot Chart Detail,0022400199,540,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,6,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20241109,CLE,BKN
+Shot Chart Detail,0022400212,161,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,10,57,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-10,43,1,1,20241111,CHI,CLE
+Shot Chart Detail,0022400212,164,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,10,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,4,1,1,20241111,CHI,CLE
+Shot Chart Detail,0022400212,474,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,2,53,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,4,1,1,20241111,CHI,CLE
+Shot Chart Detail,0022400212,548,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,9,55,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241111,CHI,CLE
+Shot Chart Detail,0022400212,564,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,9,1,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,20,1,1,20241111,CHI,CLE
+Shot Chart Detail,0022400220,110,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,2,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,194,1,1,20241113,PHI,CLE
+Shot Chart Detail,0022400220,127,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,1,10,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,4,1,1,20241113,PHI,CLE
+Shot Chart Detail,0022400220,453,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,1,10,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,130,249,1,1,20241113,PHI,CLE
+Shot Chart Detail,0022400236,190,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,11,15,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-18,83,1,1,20241117,CLE,CHA
+Shot Chart Detail,0022400236,233,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,8,19,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-103,43,1,1,20241117,CLE,CHA
+Shot Chart Detail,0022400236,268,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,5,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-213,144,1,1,20241117,CLE,CHA
+Shot Chart Detail,0022400236,439,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-181,168,1,1,20241117,CLE,CHA
+Shot Chart Detail,0022400236,558,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,9,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-222,122,1,1,20241117,CLE,CHA
+Shot Chart Detail,0022400252,182,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,10,8,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,6,1,1,20241120,CLE,NOP
+Shot Chart Detail,0022400252,283,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,2,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-224,99,1,1,20241120,CLE,NOP
+Shot Chart Detail,0022400252,401,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,6,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-148,212,1,1,20241120,CLE,NOP
+Shot Chart Detail,0022400252,443,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,3,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-212,141,1,1,20241120,CLE,NOP
+Shot Chart Detail,0022400252,451,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,2,25,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,183,167,1,1,20241120,CLE,NOP
+Shot Chart Detail,0022400252,460,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,1,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,179,1,1,20241120,CLE,NOP
+Shot Chart Detail,0022400275,443,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,5,37,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,56,55,1,1,20241124,CLE,TOR
+Shot Chart Detail,0022400287,114,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,4,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-6,1,1,20241127,CLE,ATL
+Shot Chart Detail,0022400287,211,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,10,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,46,1,1,20241127,CLE,ATL
+Shot Chart Detail,0022400287,552,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,11,46,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,2,83,1,1,20241127,CLE,ATL
+Shot Chart Detail,0022400307,104,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,3,0,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,134,228,1,1,20241201,CLE,BOS
+Shot Chart Detail,0022400307,134,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,1,23,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-3,1,1,20241201,CLE,BOS
+Shot Chart Detail,0022400307,156,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,11,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,157,195,1,1,20241201,CLE,BOS
+Shot Chart Detail,0022400307,191,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,7,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-6,1,1,20241201,CLE,BOS
+Shot Chart Detail,0022400325,95,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,4,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-137,221,1,1,20241205,CLE,DEN
+Shot Chart Detail,0022400325,476,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,2,23,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-60,55,1,1,20241205,CLE,DEN
+Shot Chart Detail,0022400340,184,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,9,35,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-6,43,1,1,20241207,CHA,CLE
+Shot Chart Detail,0022400351,73,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,4,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,35,1,1,20241208,MIA,CLE
+Shot Chart Detail,0022400351,211,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,6,25,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-224,80,1,1,20241208,MIA,CLE
+Shot Chart Detail,0022400351,326,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,9,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,-6,1,1,20241208,MIA,CLE
+Shot Chart Detail,0022400351,357,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,7,15,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-31,33,1,1,20241208,MIA,CLE
+Shot Chart Detail,0022400351,489,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,10,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-8,1,1,20241208,MIA,CLE
+Shot Chart Detail,0022400374,422,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,2,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,11,1,1,20241220,CLE,MIL
+Shot Chart Detail,0022400374,492,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,11,11,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,36,1,1,20241220,CLE,MIL
+Shot Chart Detail,0022400380,99,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,3,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-127,231,1,1,20241221,CLE,PHI
+Shot Chart Detail,0022400380,423,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,4,37,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-1,1,1,20241221,CLE,PHI
+Shot Chart Detail,0022400380,436,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,3,47,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,1,20241221,CLE,PHI
+Shot Chart Detail,0022400380,515,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,10,48,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,54,113,1,1,20241221,CLE,PHI
+Shot Chart Detail,0022400380,563,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,7,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,215,1,1,20241221,CLE,PHI
+Shot Chart Detail,0022400392,471,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,3,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,168,197,1,1,20241223,CLE,UTA
+Shot Chart Detail,0022400392,474,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,2,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,170,195,1,1,20241223,CLE,UTA
+Shot Chart Detail,0022400392,694,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,0,52,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,13,1,1,20241223,CLE,UTA
+Shot Chart Detail,0022400424,696,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,1,0,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-141,208,1,1,20241227,DEN,CLE
+Shot Chart Detail,0022400446,104,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,4,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,51,256,1,1,20241230,GSW,CLE
+Shot Chart Detail,0022400454,211,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,10,33,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,1,20241231,LAL,CLE
+Shot Chart Detail,0022400454,521,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,9,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,7,1,1,20241231,LAL,CLE
+Shot Chart Detail,0022400454,553,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,7,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-178,184,1,1,20241231,LAL,CLE
+Shot Chart Detail,0022400474,127,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,2,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-202,164,1,1,20250103,DAL,CLE
+Shot Chart Detail,0022400474,164,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,0,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,5,1,1,20250103,DAL,CLE
+Shot Chart Detail,0022400474,195,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,10,14,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-61,20,1,1,20250103,DAL,CLE
+Shot Chart Detail,0022400474,432,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,6,28,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-46,76,1,1,20250103,DAL,CLE
+Shot Chart Detail,0022400474,460,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,4,8,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,164,227,1,1,20250103,DAL,CLE
+Shot Chart Detail,0022400474,531,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,11,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,16,1,1,20250103,DAL,CLE
+Shot Chart Detail,0022400488,86,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,4,33,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-28,65,1,1,20250105,CLE,CHA
+Shot Chart Detail,0022400488,119,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,2,6,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-235,55,1,1,20250105,CLE,CHA
+Shot Chart Detail,0022400488,451,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,4,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-6,256,1,1,20250105,CLE,CHA
+Shot Chart Detail,0022400488,624,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,4,31,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,8,1,1,20250105,CLE,CHA
+Shot Chart Detail,0022400509,540,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,10,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-120,221,1,1,20250108,CLE,OKC
+Shot Chart Detail,0022400517,124,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,2,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,190,1,1,20250109,CLE,TOR
+Shot Chart Detail,0022400517,430,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,5,18,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-235,94,1,1,20250109,CLE,TOR
+Shot Chart Detail,0022400517,463,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,2,37,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20250109,CLE,TOR
+Shot Chart Detail,0022400543,122,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,3,1,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20250112,CLE,IND
+Shot Chart Detail,0022400543,246,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,5,23,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-53,35,1,1,20250112,CLE,IND
+Shot Chart Detail,0022400543,272,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,3,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,0,1,1,20250112,CLE,IND
+Shot Chart Detail,0022400554,121,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,2,57,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-31,46,1,1,20250114,IND,CLE
+Shot Chart Detail,0022400554,462,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,3,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,194,183,1,1,20250114,IND,CLE
+Shot Chart Detail,0022400554,525,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,10,52,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,11,1,1,20250114,IND,CLE
+Shot Chart Detail,0022400574,413,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,5,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,21,1,1,20250116,OKC,CLE
+Shot Chart Detail,0022400574,469,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,2,5,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,44,11,1,1,20250116,OKC,CLE
+Shot Chart Detail,0022400590,113,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,3,12,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,4,1,1,20250118,MIN,CLE
+Shot Chart Detail,0022400590,240,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,5,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,98,227,1,1,20250118,MIN,CLE
+Shot Chart Detail,0022400590,486,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,11,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,19,1,1,20250118,MIN,CLE
+Shot Chart Detail,0022400590,553,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,7,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,22,1,1,20250118,MIN,CLE
+Shot Chart Detail,0022400590,560,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,6,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,15,1,1,20250118,MIN,CLE
+Shot Chart Detail,0022400603,101,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,4,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-212,140,1,1,20250120,CLE,PHX
+Shot Chart Detail,0022400603,307,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,0,29,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,35,44,1,1,20250120,CLE,PHX
+Shot Chart Detail,0022400603,459,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,2,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,10,1,1,20250120,CLE,PHX
+Shot Chart Detail,0022400615,159,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,0,47,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,15,1,1,20250122,HOU,CLE
+Shot Chart Detail,0022400615,192,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,11,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,99,238,1,1,20250122,HOU,CLE
+Shot Chart Detail,0022400615,484,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,3,11,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,14,1,1,20250122,HOU,CLE
+Shot Chart Detail,0022400631,69,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,6,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-225,53,1,1,20250124,PHI,CLE
+Shot Chart Detail,0022400631,142,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,1,50,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,-10,1,1,20250124,PHI,CLE
+Shot Chart Detail,0022400640,112,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,3,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-7,1,1,20250125,CLE,HOU
+Shot Chart Detail,0022400640,167,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,11,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-8,1,1,20250125,CLE,HOU
+Shot Chart Detail,0022400640,181,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,10,1,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,25,1,1,20250125,CLE,HOU
+Shot Chart Detail,0022400640,233,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,6,58,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,1,20250125,CLE,HOU
+Shot Chart Detail,0022400640,607,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,7,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,36,1,1,20250125,CLE,HOU
+Shot Chart Detail,0022400640,648,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,4,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,118,1,1,20250125,CLE,HOU
+Shot Chart Detail,0022400640,663,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,3,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-194,175,1,1,20250125,CLE,HOU
+Shot Chart Detail,0022400649,451,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,3,9,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,208,150,1,1,20250127,CLE,DET
+Shot Chart Detail,0022400667,218,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,6,25,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,92,83,1,1,20250129,MIA,CLE
+Shot Chart Detail,0022400667,244,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,4,1,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,-1,1,1,20250129,MIA,CLE
+Shot Chart Detail,0022400667,260,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,2,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-1,1,1,20250129,MIA,CLE
+Shot Chart Detail,0022400667,362,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,6,40,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,33,1,1,20250129,MIA,CLE
+Shot Chart Detail,0022400667,480,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,9,33,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,1,20250129,MIA,CLE
+Shot Chart Detail,0022400667,605,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,0,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,6,1,1,20250129,MIA,CLE
+Shot Chart Detail,0022400675,78,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,5,43,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,12,1,1,20250130,CLE,ATL
+Shot Chart Detail,0022400675,457,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,3,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,163,196,1,1,20250130,CLE,ATL
+Shot Chart Detail,0022400696,92,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,5,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,100,242,1,1,20250202,CLE,DAL
+Shot Chart Detail,0022400696,114,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,3,30,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,16,1,1,20250202,CLE,DAL
+Shot Chart Detail,0022400696,156,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,0,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,15,1,1,20250202,CLE,DAL
+Shot Chart Detail,0022400696,495,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,2,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-140,206,1,1,20250202,CLE,DAL
+Shot Chart Detail,0022400696,506,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,0,54,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,13,1,1,20250202,CLE,DAL
+Shot Chart Detail,0022400710,520,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,11,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,223,137,1,1,20250204,CLE,BOS
+Shot Chart Detail,0022400718,129,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,2,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-104,272,1,1,20250205,DET,CLE
+Shot Chart Detail,0022400718,139,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,0,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,5,1,1,20250205,DET,CLE
+Shot Chart Detail,0022400718,432,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,6,33,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,19,1,1,20250205,DET,CLE
+Shot Chart Detail,0022400744,325,1627777,Georges Niang,1610612737,Atlanta Hawks,2,0,44,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20250208,WAS,ATL
+Shot Chart Detail,0022400744,367,1627777,Georges Niang,1610612737,Atlanta Hawks,3,10,30,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-219,152,1,1,20250208,WAS,ATL
+Shot Chart Detail,0022400744,375,1627777,Georges Niang,1610612737,Atlanta Hawks,3,9,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-9,1,1,20250208,WAS,ATL
+Shot Chart Detail,0022400744,378,1627777,Georges Niang,1610612737,Atlanta Hawks,3,9,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-140,225,1,1,20250208,WAS,ATL
+Shot Chart Detail,0022400744,385,1627777,Georges Niang,1610612737,Atlanta Hawks,3,8,40,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-14,1,1,20250208,WAS,ATL
+Shot Chart Detail,0022400744,582,1627777,Georges Niang,1610612737,Atlanta Hawks,4,5,46,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,62,67,1,1,20250208,WAS,ATL
+Shot Chart Detail,0022400756,94,1627777,Georges Niang,1610612737,Atlanta Hawks,1,4,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,230,94,1,1,20250210,ORL,ATL
+Shot Chart Detail,0022400756,587,1627777,Georges Niang,1610612737,Atlanta Hawks,4,6,27,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,27,1,1,20250210,ORL,ATL
+Shot Chart Detail,0022400773,88,1627777,Georges Niang,1610612737,Atlanta Hawks,1,6,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,1,1,1,20250212,NYK,ATL
+Shot Chart Detail,0022400773,116,1627777,Georges Niang,1610612737,Atlanta Hawks,1,3,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,129,219,1,1,20250212,NYK,ATL
+Shot Chart Detail,0022400773,294,1627777,Georges Niang,1610612737,Atlanta Hawks,2,5,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,1,20250212,NYK,ATL
+Shot Chart Detail,0022400773,482,1627777,Georges Niang,1610612737,Atlanta Hawks,3,5,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-126,225,1,1,20250212,NYK,ATL
+Shot Chart Detail,0022400773,527,1627777,Georges Niang,1610612737,Atlanta Hawks,3,2,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,33,1,1,20250212,NYK,ATL
+Shot Chart Detail,0022400773,539,1627777,Georges Niang,1610612737,Atlanta Hawks,3,1,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-6,1,1,20250212,NYK,ATL
+Shot Chart Detail,0022400773,656,1627777,Georges Niang,1610612737,Atlanta Hawks,4,5,31,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,43,69,1,1,20250212,NYK,ATL
+Shot Chart Detail,0022400773,725,1627777,Georges Niang,1610612737,Atlanta Hawks,4,0,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,214,151,1,1,20250212,NYK,ATL
+Shot Chart Detail,0022400790,159,1627777,Georges Niang,1610612737,Atlanta Hawks,1,1,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-159,195,1,1,20250220,ATL,ORL
+Shot Chart Detail,0022400790,624,1627777,Georges Niang,1610612737,Atlanta Hawks,4,6,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-228,101,1,1,20250220,ATL,ORL
+Shot Chart Detail,0022400814,130,1627777,Georges Niang,1610612737,Atlanta Hawks,1,3,7,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,5,1,1,20250223,ATL,DET
+Shot Chart Detail,0022400814,153,1627777,Georges Niang,1610612737,Atlanta Hawks,1,2,13,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-232,63,1,1,20250223,ATL,DET
+Shot Chart Detail,0022400814,226,1627777,Georges Niang,1610612737,Atlanta Hawks,2,9,39,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,25,89,1,1,20250223,ATL,DET
+Shot Chart Detail,0022400814,321,1627777,Georges Niang,1610612737,Atlanta Hawks,2,4,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-53,257,1,1,20250223,ATL,DET
+Shot Chart Detail,0022400814,362,1627777,Georges Niang,1610612737,Atlanta Hawks,2,0,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-97,239,1,1,20250223,ATL,DET
+Shot Chart Detail,0022400814,401,1627777,Georges Niang,1610612737,Atlanta Hawks,3,10,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-1,1,1,20250223,ATL,DET
+Shot Chart Detail,0022400814,453,1627777,Georges Niang,1610612737,Atlanta Hawks,3,6,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,70,242,1,1,20250223,ATL,DET
+Shot Chart Detail,0022400814,536,1627777,Georges Niang,1610612737,Atlanta Hawks,3,0,28,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,40,1,1,20250223,ATL,DET
+Shot Chart Detail,0022400814,579,1627777,Georges Niang,1610612737,Atlanta Hawks,4,10,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,151,1,1,20250223,ATL,DET
+Shot Chart Detail,0022400814,628,1627777,Georges Niang,1610612737,Atlanta Hawks,4,7,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,17,1,1,20250223,ATL,DET
+Shot Chart Detail,0022400825,170,1627777,Georges Niang,1610612737,Atlanta Hawks,2,11,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,25,1,1,20250224,ATL,MIA
+Shot Chart Detail,0022400825,197,1627777,Georges Niang,1610612737,Atlanta Hawks,2,9,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-87,237,1,1,20250224,ATL,MIA
+Shot Chart Detail,0022400825,277,1627777,Georges Niang,1610612737,Atlanta Hawks,2,2,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,13,258,1,1,20250224,ATL,MIA
+Shot Chart Detail,0022400825,284,1627777,Georges Niang,1610612737,Atlanta Hawks,2,1,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-192,175,1,1,20250224,ATL,MIA
+Shot Chart Detail,0022400841,86,1627777,Georges Niang,1610612737,Atlanta Hawks,1,3,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,135,207,1,1,20250226,MIA,ATL
+Shot Chart Detail,0022400841,488,1627777,Georges Niang,1610612737,Atlanta Hawks,4,10,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,1,20250226,MIA,ATL
+Shot Chart Detail,0022400841,500,1627777,Georges Niang,1610612737,Atlanta Hawks,4,9,12,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,2,61,1,1,20250226,MIA,ATL
+Shot Chart Detail,0022400851,71,1627777,Georges Niang,1610612737,Atlanta Hawks,1,7,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-175,191,1,1,20250228,ATL,OKC
+Shot Chart Detail,0022400851,126,1627777,Georges Niang,1610612737,Atlanta Hawks,1,2,50,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-21,94,1,1,20250228,ATL,OKC
+Shot Chart Detail,0022400851,258,1627777,Georges Niang,1610612737,Atlanta Hawks,2,5,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,217,121,1,1,20250228,ATL,OKC
+Shot Chart Detail,0022400851,278,1627777,Georges Niang,1610612737,Atlanta Hawks,2,3,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,197,1,1,20250228,ATL,OKC
+Shot Chart Detail,0022400884,144,1627777,Georges Niang,1610612737,Atlanta Hawks,1,0,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,207,1,1,20250304,ATL,MIL
+Shot Chart Detail,0022400884,212,1627777,Georges Niang,1610612737,Atlanta Hawks,2,7,28,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,26,1,1,20250304,ATL,MIL
+Shot Chart Detail,0022400884,457,1627777,Georges Niang,1610612737,Atlanta Hawks,3,3,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,214,1,1,20250304,ATL,MIL
+Shot Chart Detail,0022400899,113,1627777,Georges Niang,1610612737,Atlanta Hawks,1,3,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,5,1,1,20250306,ATL,IND
+Shot Chart Detail,0022400899,134,1627777,Georges Niang,1610612737,Atlanta Hawks,1,2,10,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,25,99,1,1,20250306,ATL,IND
+Shot Chart Detail,0022400899,166,1627777,Georges Niang,1610612737,Atlanta Hawks,2,11,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-134,206,1,1,20250306,ATL,IND
+Shot Chart Detail,0022400899,179,1627777,Georges Niang,1610612737,Atlanta Hawks,2,10,25,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250306,ATL,IND
+Shot Chart Detail,0022400899,326,1627777,Georges Niang,1610612737,Atlanta Hawks,2,0,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,3,1,1,20250306,ATL,IND
+Shot Chart Detail,0022400899,514,1627777,Georges Niang,1610612737,Atlanta Hawks,4,11,5,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,36,68,1,1,20250306,ATL,IND
+Shot Chart Detail,0022400899,525,1627777,Georges Niang,1610612737,Atlanta Hawks,4,9,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,11,1,1,20250306,ATL,IND
+Shot Chart Detail,0022400899,583,1627777,Georges Niang,1610612737,Atlanta Hawks,4,5,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,102,236,1,1,20250306,ATL,IND
+Shot Chart Detail,0022400899,587,1627777,Georges Niang,1610612737,Atlanta Hawks,4,5,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,214,133,1,1,20250306,ATL,IND
+Shot Chart Detail,0022400899,624,1627777,Georges Niang,1610612737,Atlanta Hawks,4,1,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20250306,ATL,IND
+Shot Chart Detail,0022400914,480,1627777,Georges Niang,1610612737,Atlanta Hawks,3,4,8,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,31,1,1,20250308,ATL,IND
+Shot Chart Detail,0022400914,525,1627777,Georges Niang,1610612737,Atlanta Hawks,3,2,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,225,49,1,1,20250308,ATL,IND
+Shot Chart Detail,0022400928,117,1627777,Georges Niang,1610612737,Atlanta Hawks,1,2,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-16,1,1,20250310,ATL,PHI
+Shot Chart Detail,0022400928,157,1627777,Georges Niang,1610612737,Atlanta Hawks,1,0,2,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-70,115,1,1,20250310,ATL,PHI
+Shot Chart Detail,0022400928,271,1627777,Georges Niang,1610612737,Atlanta Hawks,2,4,8,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-25,1,1,20250310,ATL,PHI
+Shot Chart Detail,0022400928,312,1627777,Georges Niang,1610612737,Atlanta Hawks,2,0,37,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,24,59,1,1,20250310,ATL,PHI
+Shot Chart Detail,0022400928,454,1627777,Georges Niang,1610612737,Atlanta Hawks,3,2,54,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,39,55,1,1,20250310,ATL,PHI
+Shot Chart Detail,0022400928,502,1627777,Georges Niang,1610612737,Atlanta Hawks,4,11,37,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-209,154,1,1,20250310,ATL,PHI
+Shot Chart Detail,0022400928,617,1627777,Georges Niang,1610612737,Atlanta Hawks,4,2,7,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-20,57,1,1,20250310,ATL,PHI
+Shot Chart Detail,0022400945,281,1627777,Georges Niang,1610612737,Atlanta Hawks,2,3,21,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-26,65,1,1,20250312,ATL,CHA
+Shot Chart Detail,0022400945,502,1627777,Georges Niang,1610612737,Atlanta Hawks,3,0,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-191,186,1,1,20250312,ATL,CHA
+Shot Chart Detail,0022400945,661,1627777,Georges Niang,1610612737,Atlanta Hawks,4,4,53,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-216,134,1,1,20250312,ATL,CHA
+Shot Chart Detail,0022400978,228,1627777,Georges Niang,1610612737,Atlanta Hawks,2,8,37,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-176,174,1,1,20250316,BKN,ATL
+Shot Chart Detail,0022400978,295,1627777,Georges Niang,1610612737,Atlanta Hawks,2,4,58,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,17,1,1,20250316,BKN,ATL
+Shot Chart Detail,0022400978,346,1627777,Georges Niang,1610612737,Atlanta Hawks,2,1,23,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,169,198,1,1,20250316,BKN,ATL
+Shot Chart Detail,0022400978,572,1627777,Georges Niang,1610612737,Atlanta Hawks,4,9,32,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,34,1,1,20250316,BKN,ATL
+Shot Chart Detail,0022400993,262,1627777,Georges Niang,1610612737,Atlanta Hawks,2,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-86,235,1,1,20250318,CHA,ATL
+Shot Chart Detail,0022400993,471,1627777,Georges Niang,1610612737,Atlanta Hawks,3,1,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,27,1,1,20250318,CHA,ATL
+Shot Chart Detail,0022401025,107,1627777,Georges Niang,1610612737,Atlanta Hawks,1,4,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,-7,1,1,20250322,ATL,GSW
+Shot Chart Detail,0022401025,250,1627777,Georges Niang,1610612737,Atlanta Hawks,2,5,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,9,1,1,20250322,ATL,GSW
+Shot Chart Detail,0022401025,394,1627777,Georges Niang,1610612737,Atlanta Hawks,3,6,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-176,183,1,1,20250322,ATL,GSW
+Shot Chart Detail,0022401025,404,1627777,Georges Niang,1610612737,Atlanta Hawks,3,5,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,193,1,1,20250322,ATL,GSW
+Shot Chart Detail,0022401025,465,1627777,Georges Niang,1610612737,Atlanta Hawks,3,2,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,222,128,1,1,20250322,ATL,GSW
+Shot Chart Detail,0022401025,520,1627777,Georges Niang,1610612737,Atlanta Hawks,4,9,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-94,238,1,1,20250322,ATL,GSW
+Shot Chart Detail,0022401025,524,1627777,Georges Niang,1610612737,Atlanta Hawks,4,9,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-5,1,1,20250322,ATL,GSW
+Shot Chart Detail,0022401025,549,1627777,Georges Niang,1610612737,Atlanta Hawks,4,7,35,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-21,1,1,20250322,ATL,GSW
+Shot Chart Detail,0022401031,80,1627777,Georges Niang,1610612737,Atlanta Hawks,1,4,57,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-134,221,1,1,20250323,ATL,PHI
+Shot Chart Detail,0022401031,88,1627777,Georges Niang,1610612737,Atlanta Hawks,1,4,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,73,1,1,20250323,ATL,PHI
+Shot Chart Detail,0022401031,216,1627777,Georges Niang,1610612737,Atlanta Hawks,2,7,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,11,1,1,20250323,ATL,PHI
+Shot Chart Detail,0022401031,482,1627777,Georges Niang,1610612737,Atlanta Hawks,3,1,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-131,214,1,1,20250323,ATL,PHI
+Shot Chart Detail,0022401031,630,1627777,Georges Niang,1610612737,Atlanta Hawks,4,5,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-120,215,1,1,20250323,ATL,PHI
+Shot Chart Detail,0022401031,662,1627777,Georges Niang,1610612737,Atlanta Hawks,4,2,44,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,57,1,1,20250323,ATL,PHI
+Shot Chart Detail,0022401049,150,1627777,Georges Niang,1610612737,Atlanta Hawks,1,1,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-137,215,1,1,20250325,HOU,ATL
+Shot Chart Detail,0022401049,284,1627777,Georges Niang,1610612737,Atlanta Hawks,2,5,28,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,6,1,1,20250325,HOU,ATL
+Shot Chart Detail,0022401049,372,1627777,Georges Niang,1610612737,Atlanta Hawks,3,11,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-184,173,1,1,20250325,HOU,ATL
+Shot Chart Detail,0022401049,693,1627777,Georges Niang,1610612737,Atlanta Hawks,4,0,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,110,225,1,1,20250325,HOU,ATL
+Shot Chart Detail,0022401062,245,1627777,Georges Niang,1610612737,Atlanta Hawks,2,4,46,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,8,1,1,20250327,MIA,ATL
+Shot Chart Detail,0022401062,449,1627777,Georges Niang,1610612737,Atlanta Hawks,3,1,37,Made Shot,Step Back Bank Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,185,1,1,20250327,MIA,ATL
+Shot Chart Detail,0022401083,178,1627777,Georges Niang,1610612737,Atlanta Hawks,2,11,46,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,104,91,1,1,20250330,MIL,ATL
+Shot Chart Detail,0022401083,188,1627777,Georges Niang,1610612737,Atlanta Hawks,2,10,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-29,270,1,1,20250330,MIL,ATL
+Shot Chart Detail,0022401083,217,1627777,Georges Niang,1610612737,Atlanta Hawks,2,9,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,197,145,1,1,20250330,MIL,ATL
+Shot Chart Detail,0022401083,224,1627777,Georges Niang,1610612737,Atlanta Hawks,2,8,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-184,200,1,1,20250330,MIL,ATL
+Shot Chart Detail,0022401083,324,1627777,Georges Niang,1610612737,Atlanta Hawks,2,3,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-14,1,1,20250330,MIL,ATL
+Shot Chart Detail,0022401083,348,1627777,Georges Niang,1610612737,Atlanta Hawks,2,1,9,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,8,1,1,20250330,MIL,ATL
+Shot Chart Detail,0022401097,206,1627777,Georges Niang,1610612737,Atlanta Hawks,2,11,4,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,35,1,1,20250401,ATL,POR
+Shot Chart Detail,0022401109,343,1627777,Georges Niang,1610612737,Atlanta Hawks,2,0,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,6,1,1,20250402,DAL,ATL
+Shot Chart Detail,0022401109,572,1627777,Georges Niang,1610612737,Atlanta Hawks,4,8,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,17,1,1,20250402,DAL,ATL
+Shot Chart Detail,0022401128,132,1627777,Georges Niang,1610612737,Atlanta Hawks,1,1,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,17,1,1,20250405,ATL,NYK
+Shot Chart Detail,0022401128,170,1627777,Georges Niang,1610612737,Atlanta Hawks,2,11,30,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,38,44,1,1,20250405,ATL,NYK
+Shot Chart Detail,0022401128,279,1627777,Georges Niang,1610612737,Atlanta Hawks,2,3,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-67,248,1,1,20250405,ATL,NYK
+Shot Chart Detail,0022401128,319,1627777,Georges Niang,1610612737,Atlanta Hawks,2,0,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-132,217,1,1,20250405,ATL,NYK
+Shot Chart Detail,0022401128,369,1627777,Georges Niang,1610612737,Atlanta Hawks,3,8,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-157,190,1,1,20250405,ATL,NYK
+Shot Chart Detail,0022401136,354,1627777,Georges Niang,1610612737,Atlanta Hawks,3,9,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-233,81,1,1,20250406,ATL,UTA
+Shot Chart Detail,0022401136,381,1627777,Georges Niang,1610612737,Atlanta Hawks,3,7,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,16,252,1,1,20250406,ATL,UTA
+Shot Chart Detail,0022401149,163,1627777,Georges Niang,1610612737,Atlanta Hawks,1,0,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,49,257,1,1,20250408,ORL,ATL
+Shot Chart Detail,0022401149,198,1627777,Georges Niang,1610612737,Atlanta Hawks,2,11,11,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,37,1,1,20250408,ORL,ATL
+Shot Chart Detail,0022401149,217,1627777,Georges Niang,1610612737,Atlanta Hawks,2,10,3,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,55,33,1,1,20250408,ORL,ATL
+Shot Chart Detail,0022401149,240,1627777,Georges Niang,1610612737,Atlanta Hawks,2,8,44,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,58,1,1,20250408,ORL,ATL
+Shot Chart Detail,0022401169,223,1627777,Georges Niang,1610612737,Atlanta Hawks,2,9,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-123,218,1,1,20250410,BKN,ATL
+Shot Chart Detail,0022401169,627,1627777,Georges Niang,1610612737,Atlanta Hawks,4,6,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-223,122,1,1,20250410,BKN,ATL
+Shot Chart Detail,0022401169,652,1627777,Georges Niang,1610612737,Atlanta Hawks,4,5,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,7,1,1,20250410,BKN,ATL
+Shot Chart Detail,0022401169,659,1627777,Georges Niang,1610612737,Atlanta Hawks,4,4,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-12,270,1,1,20250410,BKN,ATL
+Shot Chart Detail,0022401173,199,1627777,Georges Niang,1610612737,Atlanta Hawks,2,9,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-202,178,1,1,20250411,PHI,ATL
+Shot Chart Detail,0022401173,208,1627777,Georges Niang,1610612737,Atlanta Hawks,2,8,48,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,37,1,1,20250411,PHI,ATL
+Shot Chart Detail,0022401173,318,1627777,Georges Niang,1610612737,Atlanta Hawks,2,1,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,174,190,1,1,20250411,PHI,ATL
+Shot Chart Detail,0022401173,505,1627777,Georges Niang,1610612737,Atlanta Hawks,3,1,38,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,1,20250411,PHI,ATL
+Shot Chart Detail,0022401173,522,1627777,Georges Niang,1610612737,Atlanta Hawks,3,0,33,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,51,1,1,20250411,PHI,ATL
+Shot Chart Detail,0022401173,537,1627777,Georges Niang,1610612737,Atlanta Hawks,4,11,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-1,255,1,1,20250411,PHI,ATL
+Shot Chart Detail,0022401208,102,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,4,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,217,115,1,1,20241213,CLE,WAS
+Shot Chart Detail,0022401208,464,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,5,24,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,35,1,1,20241213,CLE,WAS
+Shot Chart Detail,0022401208,499,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,2,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,18,1,1,20241213,CLE,WAS
+Shot Chart Detail,0022401208,576,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,9,18,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,33,51,1,1,20241213,CLE,WAS
+Shot Chart Detail,0022401224,72,1627777,Georges Niang,1610612739,Cleveland Cavaliers,1,5,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,7,1,1,20241216,BKN,CLE
+Shot Chart Detail,0022401224,173,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,11,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,21,1,1,20241216,BKN,CLE
+Shot Chart Detail,0022401224,176,1627777,Georges Niang,1610612739,Cleveland Cavaliers,2,10,25,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,20,1,1,20241216,BKN,CLE
+Shot Chart Detail,0022401224,425,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,6,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,19,1,1,20241216,BKN,CLE
+Shot Chart Detail,0022401224,469,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,3,46,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,11,1,1,20241216,BKN,CLE
+Shot Chart Detail,0022401224,499,1627777,Georges Niang,1610612739,Cleveland Cavaliers,3,2,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,-10,1,1,20241216,BKN,CLE
+Shot Chart Detail,0022401224,629,1627777,Georges Niang,1610612739,Cleveland Cavaliers,4,5,46,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-7,38,1,1,20241216,BKN,CLE

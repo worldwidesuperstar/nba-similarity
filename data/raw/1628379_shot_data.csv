@@ -1,21 +1,207 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400023,118,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,4,18,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-1,80,1,1,20241119,MEM,DEN
+Shot Chart Detail,0022400023,584,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,2,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,147,204,1,1,20241119,MEM,DEN
+Shot Chart Detail,0022400042,272,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,3,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,47,1,1,20241129,MEM,NOP
+Shot Chart Detail,0022400174,522,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,11,2,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,214,133,1,1,20241106,MEM,LAL
+Shot Chart Detail,0022400174,559,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,8,19,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,32,1,1,20241106,MEM,LAL
+Shot Chart Detail,0022400191,294,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,3,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,27,1,1,20241108,MEM,WAS
+Shot Chart Detail,0022400191,492,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,3,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,185,1,1,20241108,MEM,WAS
+Shot Chart Detail,0022400191,523,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,2,39,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-233,60,1,1,20241108,MEM,WAS
+Shot Chart Detail,0022400191,677,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,5,52,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-93,8,1,1,20241108,MEM,WAS
+Shot Chart Detail,0022400210,514,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,1,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,16,1,1,20241110,POR,MEM
+Shot Chart Detail,0022400225,330,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,1,28,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-225,108,1,1,20241113,LAL,MEM
+Shot Chart Detail,0022400225,433,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,6,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-42,269,1,1,20241113,LAL,MEM
+Shot Chart Detail,0022400225,493,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,2,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,-9,301,1,1,20241113,LAL,MEM
+Shot Chart Detail,0022400225,720,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,0,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-109,283,1,1,20241113,LAL,MEM
+Shot Chart Detail,0022400238,127,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,3,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,10,1,1,20241117,MEM,DEN
+Shot Chart Detail,0022400238,150,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,1,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,14,1,1,20241117,MEM,DEN
+Shot Chart Detail,0022400238,295,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,2,30,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,50,119,1,1,20241117,MEM,DEN
+Shot Chart Detail,0022400255,144,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,0,34,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-76,237,1,1,20241120,MEM,PHI
+Shot Chart Detail,0022400255,165,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,11,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,40,1,1,20241120,MEM,PHI
+Shot Chart Detail,0022400255,173,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,11,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,22,250,1,1,20241120,MEM,PHI
+Shot Chart Detail,0022400266,157,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,0,36,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,210,177,1,1,20241123,CHI,MEM
+Shot Chart Detail,0022400266,473,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,4,50,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,-1,1,1,20241123,CHI,MEM
+Shot Chart Detail,0022400266,498,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,3,26,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-61,86,1,1,20241123,CHI,MEM
+Shot Chart Detail,0022400266,606,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,7,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,1,1,1,20241123,CHI,MEM
+Shot Chart Detail,0022400282,113,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,4,26,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,223,108,1,1,20241125,MEM,POR
+Shot Chart Detail,0022400282,519,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,4,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-146,212,1,1,20241125,MEM,POR
+Shot Chart Detail,0022400282,603,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,11,9,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-156,172,1,1,20241125,MEM,POR
+Shot Chart Detail,0022400293,295,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,4,5,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,8,1,1,20241127,MEM,DET
+Shot Chart Detail,0022400293,431,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,6,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,36,1,1,20241127,MEM,DET
+Shot Chart Detail,0022400306,480,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,3,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,5,1,1,20241201,MEM,IND
+Shot Chart Detail,0022400306,497,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,1,47,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,13,1,1,20241201,MEM,IND
+Shot Chart Detail,0022400366,178,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,0,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-6,251,1,1,20241219,MEM,GSW
+Shot Chart Detail,0022400366,635,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,5,57,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-191,177,1,1,20241219,MEM,GSW
+Shot Chart Detail,0022400366,663,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,4,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-37,248,1,1,20241219,MEM,GSW
+Shot Chart Detail,0022400366,688,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,1,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,120,222,1,1,20241219,MEM,GSW
+Shot Chart Detail,0022400366,698,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,1,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,6,256,1,1,20241219,MEM,GSW
+Shot Chart Detail,0022400378,575,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,9,15,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-114,216,1,1,20241221,ATL,MEM
+Shot Chart Detail,0022400414,535,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,1,31,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-16,1,1,20241226,MEM,TOR
+Shot Chart Detail,0022400414,698,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,4,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,19,1,1,20241226,MEM,TOR
+Shot Chart Detail,0022400414,714,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,3,0,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,43,1,1,20241226,MEM,TOR
+Shot Chart Detail,0022400414,722,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,2,41,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-75,241,1,1,20241226,MEM,TOR
+Shot Chart Detail,0022400423,145,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,2,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,26,1,1,20241227,NOP,MEM
+Shot Chart Detail,0022400423,148,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,1,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4,256,1,1,20241227,NOP,MEM
+Shot Chart Detail,0022400423,590,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,0,38,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-94,242,1,1,20241227,NOP,MEM
+Shot Chart Detail,0022400440,92,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,4,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,19,1,1,20241229,OKC,MEM
+Shot Chart Detail,0022400440,253,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,6,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-92,230,1,1,20241229,OKC,MEM
+Shot Chart Detail,0022400440,584,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,11,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,128,1,1,20241229,OKC,MEM
+Shot Chart Detail,0022400440,619,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,9,30,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-45,79,1,1,20241229,OKC,MEM
+Shot Chart Detail,0022400440,638,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,7,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-116,230,1,1,20241229,OKC,MEM
+Shot Chart Detail,0022400440,700,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,3,22,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-33,52,1,1,20241229,OKC,MEM
+Shot Chart Detail,0022400453,99,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,5,35,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-9,44,1,1,20241231,PHX,MEM
+Shot Chart Detail,0022400453,318,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,3,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-109,249,1,1,20241231,PHX,MEM
+Shot Chart Detail,0022400453,429,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,7,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,83,263,1,1,20241231,PHX,MEM
+Shot Chart Detail,0022400453,521,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,2,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,14,1,1,20241231,PHX,MEM
+Shot Chart Detail,0022400453,727,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,2,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,224,105,1,1,20241231,PHX,MEM
+Shot Chart Detail,0022400476,96,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,5,32,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,16,1,1,20250103,SAC,MEM
+Shot Chart Detail,0022400476,157,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,1,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-154,219,1,1,20250103,SAC,MEM
+Shot Chart Detail,0022400476,418,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,9,4,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,85,242,1,1,20250103,SAC,MEM
+Shot Chart Detail,0022400499,65,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,7,40,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,17,1,1,20250106,MEM,DAL
+Shot Chart Detail,0022400499,93,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,5,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,174,188,1,1,20250106,MEM,DAL
+Shot Chart Detail,0022400499,342,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,3,18,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,0,1,1,20250106,MEM,DAL
+Shot Chart Detail,0022400499,489,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,5,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-142,126,1,1,20250106,MEM,DAL
+Shot Chart Detail,0022400499,501,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,4,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,10,1,1,20250106,MEM,DAL
+Shot Chart Detail,0022400520,115,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,3,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,170,207,1,1,20250109,MEM,HOU
+Shot Chart Detail,0022400520,165,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,1,2,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,12,1,1,20250109,MEM,HOU
+Shot Chart Detail,0022400520,373,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,1,54,Made Shot,Jump Shot,2PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,118,207,1,1,20250109,MEM,HOU
+Shot Chart Detail,0022400520,752,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,3,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,232,66,1,1,20250109,MEM,HOU
+Shot Chart Detail,0022400535,120,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,3,54,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,1,20250111,MIN,MEM
+Shot Chart Detail,0022400535,297,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,5,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-32,263,1,1,20250111,MIN,MEM
+Shot Chart Detail,0022400535,311,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,3,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,5,263,1,1,20250111,MIN,MEM
+Shot Chart Detail,0022400551,168,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,11,7,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-93,43,1,1,20250113,HOU,MEM
+Shot Chart Detail,0022400551,182,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,10,10,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,23,130,1,1,20250113,HOU,MEM
+Shot Chart Detail,0022400567,327,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,3,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-143,207,1,1,20250115,SAS,MEM
+Shot Chart Detail,0022400567,341,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,2,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,205,139,1,1,20250115,SAS,MEM
+Shot Chart Detail,0022400567,507,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,3,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,225,72,1,1,20250115,SAS,MEM
+Shot Chart Detail,0022400567,511,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,3,14,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,34,1,1,20250115,SAS,MEM
+Shot Chart Detail,0022400567,528,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,2,15,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,16,1,1,20250115,SAS,MEM
+Shot Chart Detail,0022400582,34,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,8,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,93,71,1,1,20250117,SAS,MEM
+Shot Chart Detail,0022400582,48,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,7,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,5,1,1,20250117,SAS,MEM
+Shot Chart Detail,0022400582,167,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,11,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-7,272,1,1,20250117,SAS,MEM
+Shot Chart Detail,0022400582,345,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,11,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,98,117,1,1,20250117,SAS,MEM
+Shot Chart Detail,0022400582,484,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,2,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-138,208,1,1,20250117,SAS,MEM
+Shot Chart Detail,0022400582,496,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,1,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,103,120,1,1,20250117,SAS,MEM
+Shot Chart Detail,0022400601,101,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,3,54,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-221,125,1,1,20250120,MEM,MIN
+Shot Chart Detail,0022400601,573,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,0,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,73,167,1,1,20250120,MEM,MIN
+Shot Chart Detail,0022400616,97,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,5,21,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-109,218,1,1,20250122,MEM,CHA
+Shot Chart Detail,0022400616,142,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,2,44,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,134,224,1,1,20250122,MEM,CHA
+Shot Chart Detail,0022400616,197,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,11,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-15,1,1,20250122,MEM,CHA
+Shot Chart Detail,0022400616,322,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,4,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-196,145,1,1,20250122,MEM,CHA
+Shot Chart Detail,0022400616,326,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,4,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-104,224,1,1,20250122,MEM,CHA
+Shot Chart Detail,0022400616,394,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,0,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-2,1,1,20250122,MEM,CHA
+Shot Chart Detail,0022400616,635,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,10,16,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20250122,MEM,CHA
+Shot Chart Detail,0022400616,718,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,3,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-221,123,1,1,20250122,MEM,CHA
+Shot Chart Detail,0022400632,19,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,10,15,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,222,115,1,1,20250124,MEM,NOP
+Shot Chart Detail,0022400632,28,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,9,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-18,202,1,1,20250124,MEM,NOP
+Shot Chart Detail,0022400632,52,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,7,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-175,191,1,1,20250124,MEM,NOP
+Shot Chart Detail,0022400632,194,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,9,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-116,230,1,1,20250124,MEM,NOP
+Shot Chart Detail,0022400632,216,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,6,56,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-199,190,1,1,20250124,MEM,NOP
+Shot Chart Detail,0022400632,367,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,9,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,192,1,1,20250124,MEM,NOP
+Shot Chart Detail,0022400632,379,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,8,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,36,148,1,1,20250124,MEM,NOP
+Shot Chart Detail,0022400632,382,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,7,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-37,243,1,1,20250124,MEM,NOP
+Shot Chart Detail,0022400632,517,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,10,39,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-16,103,1,1,20250124,MEM,NOP
+Shot Chart Detail,0022400632,521,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,10,17,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,173,182,1,1,20250124,MEM,NOP
+Shot Chart Detail,0022400643,110,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,4,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,215,1,1,20250125,MEM,UTA
+Shot Chart Detail,0022400653,271,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,5,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,28,1,1,20250127,NYK,MEM
+Shot Chart Detail,0022400653,464,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,3,31,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,4,89,1,1,20250127,NYK,MEM
+Shot Chart Detail,0022400653,479,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,2,27,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,16,153,1,1,20250127,NYK,MEM
+Shot Chart Detail,0022400676,33,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,9,20,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,67,113,1,1,20250130,MEM,HOU
+Shot Chart Detail,0022400676,172,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,11,17,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-31,26,1,1,20250130,MEM,HOU
+Shot Chart Detail,0022400676,218,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,8,24,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,60,96,1,1,20250130,MEM,HOU
+Shot Chart Detail,0022400676,251,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,6,32,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-22,76,1,1,20250130,MEM,HOU
+Shot Chart Detail,0022400676,360,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,11,12,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,72,243,1,1,20250130,MEM,HOU
+Shot Chart Detail,0022400676,365,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,10,48,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-22,246,1,1,20250130,MEM,HOU
+Shot Chart Detail,0022400676,397,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,8,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-118,222,1,1,20250130,MEM,HOU
+Shot Chart Detail,0022400676,600,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,9,7,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,9,1,1,20250130,MEM,HOU
+Shot Chart Detail,0022400676,701,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,1,39,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,10,1,1,20250130,MEM,HOU
+Shot Chart Detail,0022400699,7,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,11,43,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,4,89,1,1,20250202,MIL,MEM
+Shot Chart Detail,0022400699,210,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,8,29,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,39,245,1,1,20250202,MIL,MEM
+Shot Chart Detail,0022400699,710,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,1,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,175,223,1,1,20250202,MIL,MEM
+Shot Chart Detail,0022400703,218,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,7,59,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,23,1,1,20250203,MEM,SAS
+Shot Chart Detail,0022400722,39,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,8,7,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-232,90,1,1,20250205,TOR,MEM
+Shot Chart Detail,0022400746,323,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,2,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-154,190,1,1,20250208,MEM,OKC
+Shot Chart Detail,0022400783,66,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,7,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,65,1,1,20250212,LAC,MEM
+Shot Chart Detail,0022400783,70,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,7,18,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,19,1,1,20250212,LAC,MEM
+Shot Chart Detail,0022400783,91,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,4,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,68,141,1,1,20250212,LAC,MEM
+Shot Chart Detail,0022400783,313,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,2,6,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-12,57,1,1,20250212,LAC,MEM
+Shot Chart Detail,0022400783,335,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,0,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,52,1,1,20250212,LAC,MEM
+Shot Chart Detail,0022400788,129,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,3,8,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-31,255,1,1,20250220,IND,MEM
+Shot Chart Detail,0022400788,199,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,10,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,4,1,1,20250220,IND,MEM
+Shot Chart Detail,0022400798,150,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,1,55,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,32,1,1,20250221,ORL,MEM
+Shot Chart Detail,0022400798,502,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,5,16,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-48,116,1,1,20250221,ORL,MEM
+Shot Chart Detail,0022400819,160,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,0,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-108,248,1,1,20250223,CLE,MEM
+Shot Chart Detail,0022400819,185,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,11,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,23,1,1,20250223,CLE,MEM
+Shot Chart Detail,0022400819,328,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,2,47,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-75,104,1,1,20250223,CLE,MEM
+Shot Chart Detail,0022400819,628,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,9,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20250223,CLE,MEM
+Shot Chart Detail,0022400819,737,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,2,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,23,253,1,1,20250223,CLE,MEM
+Shot Chart Detail,0022400819,745,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,2,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,6,1,1,20250223,CLE,MEM
+Shot Chart Detail,0022400832,455,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,2,42,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,10,1,1,20250225,MEM,PHX
+Shot Chart Detail,0022400832,466,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,2,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,183,187,1,1,20250225,MEM,PHX
+Shot Chart Detail,0022400856,211,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,9,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-89,177,1,1,20250228,MEM,NYK
+Shot Chart Detail,0022400856,234,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,7,16,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,65,126,1,1,20250228,MEM,NYK
+Shot Chart Detail,0022400856,567,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,7,52,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,12,1,1,20250228,MEM,NYK
+Shot Chart Detail,0022400863,72,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,5,46,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-66,49,1,1,20250301,MEM,SAS
+Shot Chart Detail,0022400863,259,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,5,21,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,5,125,1,1,20250301,MEM,SAS
+Shot Chart Detail,0022400863,299,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,1,37,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,18,1,1,20250301,MEM,SAS
+Shot Chart Detail,0022400863,315,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,0,44,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,15,1,1,20250301,MEM,SAS
+Shot Chart Detail,0022400863,321,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,0,19,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250301,MEM,SAS
+Shot Chart Detail,0022400863,525,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,11,20,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-76,4,1,1,20250301,MEM,SAS
+Shot Chart Detail,0022400878,35,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,9,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,211,152,1,1,20250303,MEM,ATL
+Shot Chart Detail,0022400878,145,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,2,40,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,22,1,1,20250303,MEM,ATL
+Shot Chart Detail,0022400878,444,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,9,50,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,29,1,1,20250303,MEM,ATL
+Shot Chart Detail,0022400878,449,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,9,14,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,20,1,1,20250303,MEM,ATL
+Shot Chart Detail,0022400878,619,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,11,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-29,189,1,1,20250303,MEM,ATL
+Shot Chart Detail,0022400878,655,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,7,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,-1,1,1,20250303,MEM,ATL
+Shot Chart Detail,0022400878,671,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,6,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-53,96,1,1,20250303,MEM,ATL
+Shot Chart Detail,0022400878,692,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,5,25,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-16,88,1,1,20250303,MEM,ATL
+Shot Chart Detail,0022400895,85,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,5,39,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,66,1,1,20250305,MEM,OKC
+Shot Chart Detail,0022400906,546,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,1,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-13,1,1,20250307,DAL,MEM
+Shot Chart Detail,0022400906,603,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,9,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-58,144,1,1,20250307,DAL,MEM
+Shot Chart Detail,0022400906,643,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,7,9,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-48,38,1,1,20250307,DAL,MEM
+Shot Chart Detail,0022400950,198,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,11,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-16,256,1,1,20250312,MEM,UTA
+Shot Chart Detail,0022400950,239,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,8,26,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,98,236,1,1,20250312,MEM,UTA
+Shot Chart Detail,0022400950,245,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,7,57,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,6,109,1,1,20250312,MEM,UTA
+Shot Chart Detail,0022400950,252,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,6,59,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-45,91,1,1,20250312,MEM,UTA
+Shot Chart Detail,0022400950,342,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,1,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,18,1,1,20250312,MEM,UTA
+Shot Chart Detail,0022400950,447,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,6,0,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,6,1,1,20250312,MEM,UTA
+Shot Chart Detail,0022400950,527,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,1,28,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,11,1,1,20250312,MEM,UTA
+Shot Chart Detail,0022400950,576,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,10,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,56,1,1,20250312,MEM,UTA
+Shot Chart Detail,0022400950,636,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,6,43,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-127,230,1,1,20250312,MEM,UTA
+Shot Chart Detail,0022400950,693,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,2,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,20,1,1,20250312,MEM,UTA
+Shot Chart Detail,0022400950,729,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,0,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,228,122,1,1,20250312,MEM,UTA
+Shot Chart Detail,0022400971,283,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,2,24,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,102,234,1,1,20250315,MEM,MIA
+Shot Chart Detail,0022400971,304,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,0,35,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-60,119,1,1,20250315,MEM,MIA
+Shot Chart Detail,0022400971,490,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,10,20,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20250315,MEM,MIA
+Shot Chart Detail,0022400971,541,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,5,36,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-69,102,1,1,20250315,MEM,MIA
+Shot Chart Detail,0022400971,561,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,4,13,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,21,131,1,1,20250315,MEM,MIA
+Shot Chart Detail,0022400992,247,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,7,41,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-124,143,1,1,20250317,SAC,MEM
+Shot Chart Detail,0022400992,259,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,6,57,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,40,1,1,20250317,SAC,MEM
+Shot Chart Detail,0022400992,341,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,1,28,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-9,102,1,1,20250317,SAC,MEM
+Shot Chart Detail,0022400992,608,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,8,50,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-6,1,1,20250317,SAC,MEM
+Shot Chart Detail,0022401008,27,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,9,32,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0,141,1,1,20250319,POR,MEM
+Shot Chart Detail,0022401008,34,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,8,36,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-18,139,1,1,20250319,POR,MEM
+Shot Chart Detail,0022401008,37,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,8,11,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,21,1,1,20250319,POR,MEM
+Shot Chart Detail,0022401023,109,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,3,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-134,256,1,1,20250321,LAC,MEM
+Shot Chart Detail,0022401023,193,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,10,38,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,18,267,1,1,20250321,LAC,MEM
+Shot Chart Detail,0022401023,211,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,9,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,37,1,1,20250321,LAC,MEM
+Shot Chart Detail,0022401023,217,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,8,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-53,262,1,1,20250321,LAC,MEM
+Shot Chart Detail,0022401023,416,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,6,52,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-42,110,1,1,20250321,LAC,MEM
+Shot Chart Detail,0022401023,614,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,4,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20250321,LAC,MEM
+Shot Chart Detail,0022401050,190,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,9,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,42,251,1,1,20250325,UTA,MEM
+Shot Chart Detail,0022401050,450,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,3,55,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-6,1,1,20250325,UTA,MEM
+Shot Chart Detail,0022401050,461,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,3,11,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-7,35,1,1,20250325,UTA,MEM
+Shot Chart Detail,0022401064,110,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,3,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,-7,1,1,20250327,OKC,MEM
+Shot Chart Detail,0022401064,269,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,5,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,179,195,1,1,20250327,OKC,MEM
+Shot Chart Detail,0022401064,489,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,2,20,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,82,149,1,1,20250327,OKC,MEM
+Shot Chart Detail,0022401100,497,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,2,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-153,182,1,1,20250401,MEM,GSW
+Shot Chart Detail,0022401114,253,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,5,22,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,34,1,1,20250403,MIA,MEM
+Shot Chart Detail,0022401129,253,1628379,Luke Kennard,1610612763,Memphis Grizzlies,2,6,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,116,70,1,1,20250405,DET,MEM
+Shot Chart Detail,0022401129,421,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,5,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-120,143,1,1,20250405,DET,MEM
+Shot Chart Detail,0022401180,152,1628379,Luke Kennard,1610612763,Memphis Grizzlies,1,1,3,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,75,242,1,1,20250411,DEN,MEM
+Shot Chart Detail,0022401180,493,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,1,49,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,3,1,1,20250411,DEN,MEM
+Shot Chart Detail,0022401180,526,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,11,41,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,33,119,1,1,20250411,DEN,MEM
+Shot Chart Detail,0022401180,567,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,9,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,69,235,1,1,20250411,DEN,MEM
+Shot Chart Detail,0022401220,509,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,5,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-237,89,1,1,20241215,LAL,MEM
+Shot Chart Detail,0022401220,593,1628379,Luke Kennard,1610612763,Memphis Grizzlies,3,0,1,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,131,230,1,1,20241215,LAL,MEM
+Shot Chart Detail,0022401220,684,1628379,Luke Kennard,1610612763,Memphis Grizzlies,4,5,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,136,223,1,1,20241215,LAL,MEM

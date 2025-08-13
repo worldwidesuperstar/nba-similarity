@@ -1,21 +1,263 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400003,143,1641710,Anthony Black,1610612753,Orlando Magic,1,1,22,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-62,37,1,1,20241112,ORL,CHA
+Shot Chart Detail,0022400003,420,1641710,Anthony Black,1610612753,Orlando Magic,3,4,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,104,252,1,1,20241112,ORL,CHA
+Shot Chart Detail,0022400003,589,1641710,Anthony Black,1610612753,Orlando Magic,4,5,34,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-42,38,1,1,20241112,ORL,CHA
+Shot Chart Detail,0022400010,467,1641710,Anthony Black,1610612753,Orlando Magic,3,1,25,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,21,1,1,20241115,ORL,PHI
+Shot Chart Detail,0022400010,470,1641710,Anthony Black,1610612753,Orlando Magic,3,1,3,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,16,1,1,20241115,ORL,PHI
+Shot Chart Detail,0022400043,172,1641710,Anthony Black,1610612753,Orlando Magic,2,9,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-1,1,1,20241129,BKN,ORL
+Shot Chart Detail,0022400053,130,1641710,Anthony Black,1610612753,Orlando Magic,1,0,36,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20241203,NYK,ORL
+Shot Chart Detail,0022400053,428,1641710,Anthony Black,1610612753,Orlando Magic,3,4,13,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-5,1,1,20241203,NYK,ORL
+Shot Chart Detail,0022400053,439,1641710,Anthony Black,1610612753,Orlando Magic,3,3,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,7,1,1,20241203,NYK,ORL
+Shot Chart Detail,0022400065,279,1641710,Anthony Black,1610612753,Orlando Magic,2,6,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,11,1,1,20241023,MIA,ORL
+Shot Chart Detail,0022400065,492,1641710,Anthony Black,1610612753,Orlando Magic,3,3,17,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-10,1,1,20241023,MIA,ORL
+Shot Chart Detail,0022400065,577,1641710,Anthony Black,1610612753,Orlando Magic,4,8,45,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-1,74,1,1,20241023,MIA,ORL
+Shot Chart Detail,0022400065,590,1641710,Anthony Black,1610612753,Orlando Magic,4,8,10,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-5,1,1,20241023,MIA,ORL
+Shot Chart Detail,0022400077,213,1641710,Anthony Black,1610612753,Orlando Magic,2,9,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,58,248,1,1,20241025,ORL,BKN
+Shot Chart Detail,0022400077,240,1641710,Anthony Black,1610612753,Orlando Magic,2,7,25,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,15,1,1,20241025,ORL,BKN
+Shot Chart Detail,0022400077,465,1641710,Anthony Black,1610612753,Orlando Magic,3,3,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-85,27,1,1,20241025,ORL,BKN
+Shot Chart Detail,0022400077,555,1641710,Anthony Black,1610612753,Orlando Magic,4,9,54,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,8,1,1,20241025,ORL,BKN
+Shot Chart Detail,0022400092,124,1641710,Anthony Black,1610612753,Orlando Magic,1,3,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,17,1,1,20241026,MEM,ORL
+Shot Chart Detail,0022400092,243,1641710,Anthony Black,1610612753,Orlando Magic,2,8,38,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,65,1,1,20241026,MEM,ORL
+Shot Chart Detail,0022400092,582,1641710,Anthony Black,1610612753,Orlando Magic,4,11,21,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,19,1,1,20241026,MEM,ORL
+Shot Chart Detail,0022400092,604,1641710,Anthony Black,1610612753,Orlando Magic,4,9,57,Made Shot,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,76,58,1,1,20241026,MEM,ORL
+Shot Chart Detail,0022400102,644,1641710,Anthony Black,1610612753,Orlando Magic,4,5,27,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,8,1,1,20241028,ORL,IND
+Shot Chart Detail,0022400102,711,1641710,Anthony Black,1610612753,Orlando Magic,4,0,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-18,1,1,20241028,ORL,IND
+Shot Chart Detail,0022400123,641,1641710,Anthony Black,1610612753,Orlando Magic,4,1,12,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20241030,CHI,ORL
+Shot Chart Detail,0022400133,61,1641710,Anthony Black,1610612753,Orlando Magic,1,6,7,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20241101,CLE,ORL
+Shot Chart Detail,0022400133,250,1641710,Anthony Black,1610612753,Orlando Magic,2,4,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-5,1,1,20241101,CLE,ORL
+Shot Chart Detail,0022400133,283,1641710,Anthony Black,1610612753,Orlando Magic,2,2,4,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,20,1,1,20241101,CLE,ORL
+Shot Chart Detail,0022400153,578,1641710,Anthony Black,1610612753,Orlando Magic,4,8,14,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,26,1,1,20241103,DAL,ORL
+Shot Chart Detail,0022400163,403,1641710,Anthony Black,1610612753,Orlando Magic,3,6,14,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,17,38,1,1,20241104,OKC,ORL
+Shot Chart Detail,0022400170,432,1641710,Anthony Black,1610612753,Orlando Magic,3,3,37,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,-4,1,1,20241106,IND,ORL
+Shot Chart Detail,0022400170,480,1641710,Anthony Black,1610612753,Orlando Magic,4,11,42,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,28,1,1,20241106,IND,ORL
+Shot Chart Detail,0022400170,523,1641710,Anthony Black,1610612753,Orlando Magic,4,8,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,26,1,1,20241106,IND,ORL
+Shot Chart Detail,0022400170,564,1641710,Anthony Black,1610612753,Orlando Magic,4,5,3,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,64,1,1,20241106,IND,ORL
+Shot Chart Detail,0022400186,451,1641710,Anthony Black,1610612753,Orlando Magic,3,1,59,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,26,1,1,20241108,ORL,NOP
+Shot Chart Detail,0022400186,468,1641710,Anthony Black,1610612753,Orlando Magic,3,0,29,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,1,1,1,20241108,ORL,NOP
+Shot Chart Detail,0022400186,510,1641710,Anthony Black,1610612753,Orlando Magic,4,10,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,11,1,1,20241108,ORL,NOP
+Shot Chart Detail,0022400186,522,1641710,Anthony Black,1610612753,Orlando Magic,4,9,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,26,1,1,20241108,ORL,NOP
+Shot Chart Detail,0022400204,84,1641710,Anthony Black,1610612753,Orlando Magic,1,4,58,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-22,31,1,1,20241110,ORL,WAS
+Shot Chart Detail,0022400204,191,1641710,Anthony Black,1610612753,Orlando Magic,2,8,51,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-104,240,1,1,20241110,ORL,WAS
+Shot Chart Detail,0022400204,430,1641710,Anthony Black,1610612753,Orlando Magic,3,2,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,221,12,1,1,20241110,ORL,WAS
+Shot Chart Detail,0022400204,535,1641710,Anthony Black,1610612753,Orlando Magic,4,7,32,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,26,1,1,20241110,ORL,WAS
+Shot Chart Detail,0022400217,521,1641710,Anthony Black,1610612753,Orlando Magic,4,10,33,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,-7,1,1,20241113,ORL,IND
+Shot Chart Detail,0022400217,585,1641710,Anthony Black,1610612753,Orlando Magic,4,6,27,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,12,37,1,1,20241113,ORL,IND
+Shot Chart Detail,0022400249,124,1641710,Anthony Black,1610612753,Orlando Magic,1,1,42,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,5,1,1,20241118,PHX,ORL
+Shot Chart Detail,0022400249,310,1641710,Anthony Black,1610612753,Orlando Magic,2,1,56,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,8,1,1,20241118,PHX,ORL
+Shot Chart Detail,0022400249,492,1641710,Anthony Black,1610612753,Orlando Magic,3,0,3,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,123,218,1,1,20241118,PHX,ORL
+Shot Chart Detail,0022400249,536,1641710,Anthony Black,1610612753,Orlando Magic,4,9,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-186,189,1,1,20241118,PHX,ORL
+Shot Chart Detail,0022400249,577,1641710,Anthony Black,1610612753,Orlando Magic,4,7,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,23,1,1,20241118,PHX,ORL
+Shot Chart Detail,0022400259,213,1641710,Anthony Black,1610612753,Orlando Magic,2,8,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,8,1,1,20241120,LAC,ORL
+Shot Chart Detail,0022400259,458,1641710,Anthony Black,1610612753,Orlando Magic,3,2,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,4,280,1,1,20241120,LAC,ORL
+Shot Chart Detail,0022400259,465,1641710,Anthony Black,1610612753,Orlando Magic,3,2,2,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-159,207,1,1,20241120,LAC,ORL
+Shot Chart Detail,0022400259,520,1641710,Anthony Black,1610612753,Orlando Magic,4,9,18,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,4,92,1,1,20241120,LAC,ORL
+Shot Chart Detail,0022400259,572,1641710,Anthony Black,1610612753,Orlando Magic,4,5,46,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,36,90,1,1,20241120,LAC,ORL
+Shot Chart Detail,0022400263,199,1641710,Anthony Black,1610612753,Orlando Magic,2,9,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,31,1,1,20241121,LAL,ORL
+Shot Chart Detail,0022400263,542,1641710,Anthony Black,1610612753,Orlando Magic,4,8,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,25,1,1,20241121,LAL,ORL
+Shot Chart Detail,0022400265,357,1641710,Anthony Black,1610612753,Orlando Magic,3,10,58,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,11,1,1,20241123,ORL,DET
+Shot Chart Detail,0022400265,410,1641710,Anthony Black,1610612753,Orlando Magic,3,6,1,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,60,1,1,20241123,ORL,DET
+Shot Chart Detail,0022400265,418,1641710,Anthony Black,1610612753,Orlando Magic,3,5,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-27,202,1,1,20241123,ORL,DET
+Shot Chart Detail,0022400277,97,1641710,Anthony Black,1610612753,Orlando Magic,1,4,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,57,1,1,20241125,CHA,ORL
+Shot Chart Detail,0022400277,183,1641710,Anthony Black,1610612753,Orlando Magic,2,10,9,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,17,1,1,20241125,CHA,ORL
+Shot Chart Detail,0022400277,268,1641710,Anthony Black,1610612753,Orlando Magic,2,3,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,188,174,1,1,20241125,CHA,ORL
+Shot Chart Detail,0022400289,163,1641710,Anthony Black,1610612753,Orlando Magic,2,10,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,10,1,1,20241127,ORL,CHI
+Shot Chart Detail,0022400289,504,1641710,Anthony Black,1610612753,Orlando Magic,3,0,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,13,1,1,20241127,ORL,CHI
+Shot Chart Detail,0022400305,142,1641710,Anthony Black,1610612753,Orlando Magic,1,2,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,5,1,1,20241201,BKN,ORL
+Shot Chart Detail,0022400305,504,1641710,Anthony Black,1610612753,Orlando Magic,3,2,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,13,1,1,20241201,BKN,ORL
+Shot Chart Detail,0022400322,207,1641710,Anthony Black,1610612753,Orlando Magic,2,8,9,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,27,1,1,20241204,PHI,ORL
+Shot Chart Detail,0022400322,412,1641710,Anthony Black,1610612753,Orlando Magic,3,3,46,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,1,20241204,PHI,ORL
+Shot Chart Detail,0022400322,521,1641710,Anthony Black,1610612753,Orlando Magic,4,6,38,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-6,1,1,20241204,PHI,ORL
+Shot Chart Detail,0022400322,524,1641710,Anthony Black,1610612753,Orlando Magic,4,6,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-4,1,1,20241204,PHI,ORL
+Shot Chart Detail,0022400322,594,1641710,Anthony Black,1610612753,Orlando Magic,4,1,8,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20241204,PHI,ORL
+Shot Chart Detail,0022400352,137,1641710,Anthony Black,1610612753,Orlando Magic,1,1,14,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-10,44,1,1,20241208,ORL,PHX
+Shot Chart Detail,0022400352,253,1641710,Anthony Black,1610612753,Orlando Magic,2,5,58,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,162,1,1,20241208,ORL,PHX
+Shot Chart Detail,0022400352,514,1641710,Anthony Black,1610612753,Orlando Magic,4,11,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-4,1,1,20241208,ORL,PHX
+Shot Chart Detail,0022400352,609,1641710,Anthony Black,1610612753,Orlando Magic,4,4,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,26,1,1,20241208,ORL,PHX
+Shot Chart Detail,0022400361,188,1641710,Anthony Black,1610612753,Orlando Magic,2,10,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,-9,1,1,20241219,ORL,OKC
+Shot Chart Detail,0022400361,451,1641710,Anthony Black,1610612753,Orlando Magic,3,4,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-206,131,1,1,20241219,ORL,OKC
+Shot Chart Detail,0022400361,459,1641710,Anthony Black,1610612753,Orlando Magic,3,4,13,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,40,1,1,20241219,ORL,OKC
+Shot Chart Detail,0022400361,491,1641710,Anthony Black,1610612753,Orlando Magic,3,2,52,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,-20,1,1,20241219,ORL,OKC
+Shot Chart Detail,0022400361,531,1641710,Anthony Black,1610612753,Orlando Magic,4,11,48,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,81,79,1,1,20241219,ORL,OKC
+Shot Chart Detail,0022400361,548,1641710,Anthony Black,1610612753,Orlando Magic,4,10,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,47,94,1,1,20241219,ORL,OKC
+Shot Chart Detail,0022400361,554,1641710,Anthony Black,1610612753,Orlando Magic,4,9,42,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,105,239,1,1,20241219,ORL,OKC
+Shot Chart Detail,0022400361,633,1641710,Anthony Black,1610612753,Orlando Magic,4,1,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,211,1,1,20241219,ORL,OKC
+Shot Chart Detail,0022400377,23,1641710,Anthony Black,1610612753,Orlando Magic,1,9,58,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,26,1,1,20241221,ORL,MIA
+Shot Chart Detail,0022400377,42,1641710,Anthony Black,1610612753,Orlando Magic,1,8,55,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,51,1,1,20241221,ORL,MIA
+Shot Chart Detail,0022400377,69,1641710,Anthony Black,1610612753,Orlando Magic,1,6,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,-6,1,1,20241221,ORL,MIA
+Shot Chart Detail,0022400377,296,1641710,Anthony Black,1610612753,Orlando Magic,2,3,20,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-22,1,1,20241221,ORL,MIA
+Shot Chart Detail,0022400393,520,1641710,Anthony Black,1610612753,Orlando Magic,3,1,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,131,233,1,1,20241223,ORL,BOS
+Shot Chart Detail,0022400393,586,1641710,Anthony Black,1610612753,Orlando Magic,4,8,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,13,1,1,20241223,ORL,BOS
+Shot Chart Detail,0022400411,170,1641710,Anthony Black,1610612753,Orlando Magic,2,10,17,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,19,1,1,20241226,ORL,MIA
+Shot Chart Detail,0022400419,274,1641710,Anthony Black,1610612753,Orlando Magic,2,3,14,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,26,50,1,1,20241227,ORL,NYK
+Shot Chart Detail,0022400419,328,1641710,Anthony Black,1610612753,Orlando Magic,2,0,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,27,1,1,20241227,ORL,NYK
+Shot Chart Detail,0022400496,118,1641710,Anthony Black,1610612753,Orlando Magic,1,0,50,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,31,129,1,1,20250106,NYK,ORL
+Shot Chart Detail,0022400519,454,1641710,Anthony Black,1610612753,Orlando Magic,3,2,25,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,19,1,1,20250109,ORL,MIN
+Shot Chart Detail,0022400526,149,1641710,Anthony Black,1610612753,Orlando Magic,1,0,24,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20250110,ORL,MIL
+Shot Chart Detail,0022400526,175,1641710,Anthony Black,1610612753,Orlando Magic,2,10,47,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,20,1,1,20250110,ORL,MIL
+Shot Chart Detail,0022400526,428,1641710,Anthony Black,1610612753,Orlando Magic,3,3,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,66,268,1,1,20250110,ORL,MIL
+Shot Chart Detail,0022400526,431,1641710,Anthony Black,1610612753,Orlando Magic,3,3,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,22,160,1,1,20250110,ORL,MIL
+Shot Chart Detail,0022400526,434,1641710,Anthony Black,1610612753,Orlando Magic,3,2,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,12,1,1,20250110,ORL,MIL
+Shot Chart Detail,0022400526,456,1641710,Anthony Black,1610612753,Orlando Magic,3,0,38,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,18,1,1,20250110,ORL,MIL
+Shot Chart Detail,0022400544,55,1641710,Anthony Black,1610612753,Orlando Magic,1,7,47,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,27,1,1,20250112,ORL,PHI
+Shot Chart Detail,0022400544,269,1641710,Anthony Black,1610612753,Orlando Magic,2,3,35,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-45,4,1,1,20250112,ORL,PHI
+Shot Chart Detail,0022400544,356,1641710,Anthony Black,1610612753,Orlando Magic,3,10,10,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-4,1,1,20250112,ORL,PHI
+Shot Chart Detail,0022400544,421,1641710,Anthony Black,1610612753,Orlando Magic,3,4,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,18,1,1,20250112,ORL,PHI
+Shot Chart Detail,0022400544,460,1641710,Anthony Black,1610612753,Orlando Magic,3,2,2,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,20,1,1,20250112,ORL,PHI
+Shot Chart Detail,0022400544,472,1641710,Anthony Black,1610612753,Orlando Magic,3,0,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,100,138,1,1,20250112,ORL,PHI
+Shot Chart Detail,0022400544,524,1641710,Anthony Black,1610612753,Orlando Magic,4,9,18,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,23,1,1,20250112,ORL,PHI
+Shot Chart Detail,0022400564,253,1641710,Anthony Black,1610612753,Orlando Magic,2,6,13,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,25,1,1,20250115,MIL,ORL
+Shot Chart Detail,0022400564,476,1641710,Anthony Black,1610612753,Orlando Magic,3,1,5,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,15,1,1,20250115,MIL,ORL
+Shot Chart Detail,0022400564,596,1641710,Anthony Black,1610612753,Orlando Magic,4,5,30,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,36,1,1,20250115,MIL,ORL
+Shot Chart Detail,0022400577,103,1641710,Anthony Black,1610612753,Orlando Magic,1,2,53,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,8,1,1,20250117,BOS,ORL
+Shot Chart Detail,0022400577,165,1641710,Anthony Black,1610612753,Orlando Magic,2,10,38,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,26,65,1,1,20250117,BOS,ORL
+Shot Chart Detail,0022400577,409,1641710,Anthony Black,1610612753,Orlando Magic,3,4,29,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-56,44,1,1,20250117,BOS,ORL
+Shot Chart Detail,0022400577,563,1641710,Anthony Black,1610612753,Orlando Magic,4,4,50,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,12,1,1,20250117,BOS,ORL
+Shot Chart Detail,0022400593,99,1641710,Anthony Black,1610612753,Orlando Magic,1,4,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,224,56,1,1,20250119,ORL,DEN
+Shot Chart Detail,0022400593,256,1641710,Anthony Black,1610612753,Orlando Magic,2,5,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-146,109,1,1,20250119,ORL,DEN
+Shot Chart Detail,0022400593,571,1641710,Anthony Black,1610612753,Orlando Magic,4,8,59,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,16,1,1,20250119,ORL,DEN
+Shot Chart Detail,0022400593,587,1641710,Anthony Black,1610612753,Orlando Magic,4,7,35,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,11,1,1,20250119,ORL,DEN
+Shot Chart Detail,0022400593,620,1641710,Anthony Black,1610612753,Orlando Magic,4,5,24,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,5,1,1,20250119,ORL,DEN
+Shot Chart Detail,0022400608,62,1641710,Anthony Black,1610612753,Orlando Magic,1,5,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,26,1,1,20250121,TOR,ORL
+Shot Chart Detail,0022400608,78,1641710,Anthony Black,1610612753,Orlando Magic,1,5,18,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-11,53,1,1,20250121,TOR,ORL
+Shot Chart Detail,0022400608,90,1641710,Anthony Black,1610612753,Orlando Magic,1,4,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,208,4,1,1,20250121,TOR,ORL
+Shot Chart Detail,0022400608,220,1641710,Anthony Black,1610612753,Orlando Magic,2,6,51,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,8,1,1,20250121,TOR,ORL
+Shot Chart Detail,0022400608,509,1641710,Anthony Black,1610612753,Orlando Magic,4,10,28,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,40,65,1,1,20250121,TOR,ORL
+Shot Chart Detail,0022400608,635,1641710,Anthony Black,1610612753,Orlando Magic,4,1,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,5,1,1,20250121,TOR,ORL
+Shot Chart Detail,0022400622,10,1641710,Anthony Black,1610612753,Orlando Magic,1,11,37,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,20,1,1,20250123,ORL,POR
+Shot Chart Detail,0022400622,225,1641710,Anthony Black,1610612753,Orlando Magic,2,9,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,15,1,1,20250123,ORL,POR
+Shot Chart Detail,0022400622,251,1641710,Anthony Black,1610612753,Orlando Magic,2,7,31,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,224,71,1,1,20250123,ORL,POR
+Shot Chart Detail,0022400622,293,1641710,Anthony Black,1610612753,Orlando Magic,2,5,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,8,1,1,20250123,ORL,POR
+Shot Chart Detail,0022400622,611,1641710,Anthony Black,1610612753,Orlando Magic,4,7,33,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,5,46,1,1,20250123,ORL,POR
+Shot Chart Detail,0022400638,476,1641710,Anthony Black,1610612753,Orlando Magic,3,6,34,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,6,1,1,20250125,ORL,DET
+Shot Chart Detail,0022400638,505,1641710,Anthony Black,1610612753,Orlando Magic,3,4,5,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,21,1,1,20250125,ORL,DET
+Shot Chart Detail,0022400652,83,1641710,Anthony Black,1610612753,Orlando Magic,1,5,13,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-49,60,1,1,20250127,MIA,ORL
+Shot Chart Detail,0022400652,313,1641710,Anthony Black,1610612753,Orlando Magic,2,1,9,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,11,1,1,20250127,MIA,ORL
+Shot Chart Detail,0022400652,445,1641710,Anthony Black,1610612753,Orlando Magic,3,1,24,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,8,1,1,20250127,MIA,ORL
+Shot Chart Detail,0022400652,452,1641710,Anthony Black,1610612753,Orlando Magic,3,0,55,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,15,1,1,20250127,MIA,ORL
+Shot Chart Detail,0022400652,547,1641710,Anthony Black,1610612753,Orlando Magic,4,6,51,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,84,1,1,20250127,MIA,ORL
+Shot Chart Detail,0022400652,566,1641710,Anthony Black,1610612753,Orlando Magic,4,4,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,175,220,1,1,20250127,MIA,ORL
+Shot Chart Detail,0022400687,72,1641710,Anthony Black,1610612753,Orlando Magic,1,6,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,186,184,1,1,20250201,UTA,ORL
+Shot Chart Detail,0022400727,112,1641710,Anthony Black,1610612753,Orlando Magic,1,1,56,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,28,1,1,20250205,SAC,ORL
+Shot Chart Detail,0022400727,144,1641710,Anthony Black,1610612753,Orlando Magic,2,11,9,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,37,1,1,20250205,SAC,ORL
+Shot Chart Detail,0022400727,439,1641710,Anthony Black,1610612753,Orlando Magic,3,1,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,25,1,1,20250205,SAC,ORL
+Shot Chart Detail,0022400727,462,1641710,Anthony Black,1610612753,Orlando Magic,3,0,30,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-151,221,1,1,20250205,SAC,ORL
+Shot Chart Detail,0022400730,179,1641710,Anthony Black,1610612753,Orlando Magic,1,0,23,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,21,1,1,20250206,DEN,ORL
+Shot Chart Detail,0022400730,659,1641710,Anthony Black,1610612753,Orlando Magic,4,1,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,34,1,1,20250206,DEN,ORL
+Shot Chart Detail,0022400743,101,1641710,Anthony Black,1610612753,Orlando Magic,1,4,17,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,129,86,1,1,20250208,ORL,SAS
+Shot Chart Detail,0022400743,109,1641710,Anthony Black,1610612753,Orlando Magic,1,3,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,16,1,1,20250208,ORL,SAS
+Shot Chart Detail,0022400743,122,1641710,Anthony Black,1610612753,Orlando Magic,1,2,25,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,18,1,1,20250208,ORL,SAS
+Shot Chart Detail,0022400743,186,1641710,Anthony Black,1610612753,Orlando Magic,2,9,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-178,190,1,1,20250208,ORL,SAS
+Shot Chart Detail,0022400743,489,1641710,Anthony Black,1610612753,Orlando Magic,4,10,38,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,30,1,1,20250208,ORL,SAS
+Shot Chart Detail,0022400743,517,1641710,Anthony Black,1610612753,Orlando Magic,4,8,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,13,1,1,20250208,ORL,SAS
+Shot Chart Detail,0022400743,538,1641710,Anthony Black,1610612753,Orlando Magic,4,5,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-224,85,1,1,20250208,ORL,SAS
+Shot Chart Detail,0022400743,573,1641710,Anthony Black,1610612753,Orlando Magic,4,3,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,170,192,1,1,20250208,ORL,SAS
+Shot Chart Detail,0022400756,193,1641710,Anthony Black,1610612753,Orlando Magic,2,9,22,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,36,1,1,20250210,ORL,ATL
+Shot Chart Detail,0022400756,511,1641710,Anthony Black,1610612753,Orlando Magic,4,10,30,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-9,29,1,1,20250210,ORL,ATL
+Shot Chart Detail,0022400770,149,1641710,Anthony Black,1610612753,Orlando Magic,1,1,0,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-30,57,1,1,20250212,ORL,CHA
+Shot Chart Detail,0022400770,173,1641710,Anthony Black,1610612753,Orlando Magic,2,11,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,9,1,1,20250212,ORL,CHA
+Shot Chart Detail,0022400770,205,1641710,Anthony Black,1610612753,Orlando Magic,2,8,19,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,33,52,1,1,20250212,ORL,CHA
+Shot Chart Detail,0022400770,448,1641710,Anthony Black,1610612753,Orlando Magic,3,2,43,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-23,57,1,1,20250212,ORL,CHA
+Shot Chart Detail,0022400770,508,1641710,Anthony Black,1610612753,Orlando Magic,4,9,6,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-1,1,1,20250212,ORL,CHA
+Shot Chart Detail,0022400770,518,1641710,Anthony Black,1610612753,Orlando Magic,4,8,6,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,30,1,1,20250212,ORL,CHA
+Shot Chart Detail,0022400770,524,1641710,Anthony Black,1610612753,Orlando Magic,4,7,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-211,38,1,1,20250212,ORL,CHA
+Shot Chart Detail,0022400770,563,1641710,Anthony Black,1610612753,Orlando Magic,4,4,18,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,42,44,1,1,20250212,ORL,CHA
+Shot Chart Detail,0022400790,167,1641710,Anthony Black,1610612753,Orlando Magic,1,0,53,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,5,48,1,1,20250220,ATL,ORL
+Shot Chart Detail,0022400790,214,1641710,Anthony Black,1610612753,Orlando Magic,2,9,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,10,1,1,20250220,ATL,ORL
+Shot Chart Detail,0022400790,527,1641710,Anthony Black,1610612753,Orlando Magic,3,1,10,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,32,1,1,20250220,ATL,ORL
+Shot Chart Detail,0022400790,545,1641710,Anthony Black,1610612753,Orlando Magic,4,11,37,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20250220,ATL,ORL
+Shot Chart Detail,0022400815,133,1641710,Anthony Black,1610612753,Orlando Magic,1,3,18,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-12,92,1,1,20250223,ORL,WAS
+Shot Chart Detail,0022400815,201,1641710,Anthony Black,1610612753,Orlando Magic,2,9,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-232,96,1,1,20250223,ORL,WAS
+Shot Chart Detail,0022400815,488,1641710,Anthony Black,1610612753,Orlando Magic,3,2,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20250223,ORL,WAS
+Shot Chart Detail,0022400815,524,1641710,Anthony Black,1610612753,Orlando Magic,3,0,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,43,1,1,20250223,ORL,WAS
+Shot Chart Detail,0022400815,647,1641710,Anthony Black,1610612753,Orlando Magic,4,5,16,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,17,1,1,20250223,ORL,WAS
+Shot Chart Detail,0022400815,656,1641710,Anthony Black,1610612753,Orlando Magic,4,4,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,26,1,1,20250223,ORL,WAS
+Shot Chart Detail,0022400815,674,1641710,Anthony Black,1610612753,Orlando Magic,4,3,38,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,38,258,1,1,20250223,ORL,WAS
+Shot Chart Detail,0022400830,195,1641710,Anthony Black,1610612753,Orlando Magic,2,9,40,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,67,1,1,20250225,ORL,CLE
+Shot Chart Detail,0022400845,125,1641710,Anthony Black,1610612753,Orlando Magic,1,1,14,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,67,66,1,1,20250227,ORL,GSW
+Shot Chart Detail,0022400845,447,1641710,Anthony Black,1610612753,Orlando Magic,3,3,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,93,251,1,1,20250227,ORL,GSW
+Shot Chart Detail,0022400870,204,1641710,Anthony Black,1610612753,Orlando Magic,2,10,49,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-22,63,1,1,20250302,ORL,TOR
+Shot Chart Detail,0022400883,238,1641710,Anthony Black,1610612753,Orlando Magic,2,8,13,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,10,1,1,20250304,ORL,TOR
+Shot Chart Detail,0022400917,110,1641710,Anthony Black,1610612753,Orlando Magic,1,2,21,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,2,1,1,20250308,MIL,ORL
+Shot Chart Detail,0022400917,118,1641710,Anthony Black,1610612753,Orlando Magic,1,1,53,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,214,138,1,1,20250308,MIL,ORL
+Shot Chart Detail,0022400917,141,1641710,Anthony Black,1610612753,Orlando Magic,2,11,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-114,130,1,1,20250308,MIL,ORL
+Shot Chart Detail,0022400917,179,1641710,Anthony Black,1610612753,Orlando Magic,2,8,11,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-37,121,1,1,20250308,MIL,ORL
+Shot Chart Detail,0022400917,448,1641710,Anthony Black,1610612753,Orlando Magic,3,0,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20250308,MIL,ORL
+Shot Chart Detail,0022400944,160,1641710,Anthony Black,1610612753,Orlando Magic,1,1,2,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,85,248,1,1,20250306,ORL,CHI
+Shot Chart Detail,0022400944,193,1641710,Anthony Black,1610612753,Orlando Magic,2,11,19,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,5,1,1,20250306,ORL,CHI
+Shot Chart Detail,0022400944,558,1641710,Anthony Black,1610612753,Orlando Magic,3,0,14,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,47,1,1,20250306,ORL,CHI
+Shot Chart Detail,0022400963,167,1641710,Anthony Black,1610612753,Orlando Magic,1,0,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,16,1,1,20250314,MIN,ORL
+Shot Chart Detail,0022400963,481,1641710,Anthony Black,1610612753,Orlando Magic,3,1,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,16,1,1,20250314,MIN,ORL
+Shot Chart Detail,0022400979,164,1641710,Anthony Black,1610612753,Orlando Magic,2,11,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,-2,1,1,20250316,CLE,ORL
+Shot Chart Detail,0022400979,179,1641710,Anthony Black,1610612753,Orlando Magic,2,9,46,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-66,58,1,1,20250316,CLE,ORL
+Shot Chart Detail,0022400979,524,1641710,Anthony Black,1610612753,Orlando Magic,3,0,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,21,1,1,20250316,CLE,ORL
+Shot Chart Detail,0022400979,576,1641710,Anthony Black,1610612753,Orlando Magic,4,7,31,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,1,1,1,20250316,CLE,ORL
+Shot Chart Detail,0022400979,582,1641710,Anthony Black,1610612753,Orlando Magic,4,6,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,20,1,1,20250316,CLE,ORL
+Shot Chart Detail,0022400988,193,1641710,Anthony Black,1610612753,Orlando Magic,2,8,54,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,10,1,1,20250401,SAS,ORL
+Shot Chart Detail,0022400988,510,1641710,Anthony Black,1610612753,Orlando Magic,4,10,17,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20250401,SAS,ORL
+Shot Chart Detail,0022400999,180,1641710,Anthony Black,1610612753,Orlando Magic,2,10,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,33,1,1,20250319,ORL,HOU
+Shot Chart Detail,0022400999,505,1641710,Anthony Black,1610612753,Orlando Magic,4,10,14,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,14,1,1,20250319,ORL,HOU
+Shot Chart Detail,0022400999,532,1641710,Anthony Black,1610612753,Orlando Magic,4,8,7,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-13,62,1,1,20250319,ORL,HOU
+Shot Chart Detail,0022401014,174,1641710,Anthony Black,1610612753,Orlando Magic,2,10,27,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-201,158,1,1,20250321,WAS,ORL
+Shot Chart Detail,0022401014,460,1641710,Anthony Black,1610612753,Orlando Magic,3,0,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,16,1,1,20250321,WAS,ORL
+Shot Chart Detail,0022401014,483,1641710,Anthony Black,1610612753,Orlando Magic,4,11,49,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,61,57,1,1,20250321,WAS,ORL
+Shot Chart Detail,0022401014,558,1641710,Anthony Black,1610612753,Orlando Magic,4,5,39,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-22,88,1,1,20250321,WAS,ORL
+Shot Chart Detail,0022401014,576,1641710,Anthony Black,1610612753,Orlando Magic,4,4,35,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,37,101,1,1,20250321,WAS,ORL
+Shot Chart Detail,0022401038,204,1641710,Anthony Black,1610612753,Orlando Magic,2,9,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,37,1,1,20250324,ORL,LAL
+Shot Chart Detail,0022401038,235,1641710,Anthony Black,1610612753,Orlando Magic,2,6,52,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,21,1,1,20250324,ORL,LAL
+Shot Chart Detail,0022401038,338,1641710,Anthony Black,1610612753,Orlando Magic,2,0,31,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,27,1,1,20250324,ORL,LAL
+Shot Chart Detail,0022401038,425,1641710,Anthony Black,1610612753,Orlando Magic,3,4,36,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,21,1,1,20250324,ORL,LAL
+Shot Chart Detail,0022401038,458,1641710,Anthony Black,1610612753,Orlando Magic,3,1,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,10,1,1,20250324,ORL,LAL
+Shot Chart Detail,0022401038,463,1641710,Anthony Black,1610612753,Orlando Magic,3,1,22,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,16,1,1,20250324,ORL,LAL
+Shot Chart Detail,0022401038,520,1641710,Anthony Black,1610612753,Orlando Magic,4,8,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,42,1,1,20250324,ORL,LAL
+Shot Chart Detail,0022401045,118,1641710,Anthony Black,1610612753,Orlando Magic,1,3,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,13,1,1,20250325,CHA,ORL
+Shot Chart Detail,0022401045,265,1641710,Anthony Black,1610612753,Orlando Magic,2,5,19,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,56,1,1,20250325,CHA,ORL
+Shot Chart Detail,0022401045,447,1641710,Anthony Black,1610612753,Orlando Magic,3,5,47,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-25,175,1,1,20250325,CHA,ORL
+Shot Chart Detail,0022401045,454,1641710,Anthony Black,1610612753,Orlando Magic,3,5,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,26,1,1,20250325,CHA,ORL
+Shot Chart Detail,0022401045,483,1641710,Anthony Black,1610612753,Orlando Magic,3,2,51,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,10,1,1,20250325,CHA,ORL
+Shot Chart Detail,0022401045,542,1641710,Anthony Black,1610612753,Orlando Magic,4,10,33,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,18,1,1,20250325,CHA,ORL
+Shot Chart Detail,0022401045,573,1641710,Anthony Black,1610612753,Orlando Magic,4,7,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-223,125,1,1,20250325,CHA,ORL
+Shot Chart Detail,0022401045,635,1641710,Anthony Black,1610612753,Orlando Magic,4,1,58,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250325,CHA,ORL
+Shot Chart Detail,0022401060,102,1641710,Anthony Black,1610612753,Orlando Magic,1,4,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,17,1,1,20250327,ORL,DAL
+Shot Chart Detail,0022401060,106,1641710,Anthony Black,1610612753,Orlando Magic,1,4,8,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-4,267,1,1,20250327,ORL,DAL
+Shot Chart Detail,0022401060,164,1641710,Anthony Black,1610612753,Orlando Magic,2,11,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,9,1,1,20250327,ORL,DAL
+Shot Chart Detail,0022401060,491,1641710,Anthony Black,1610612753,Orlando Magic,4,10,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-12,31,1,1,20250327,ORL,DAL
+Shot Chart Detail,0022401060,494,1641710,Anthony Black,1610612753,Orlando Magic,4,10,3,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,48,1,1,20250327,ORL,DAL
+Shot Chart Detail,0022401074,106,1641710,Anthony Black,1610612753,Orlando Magic,1,3,50,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,17,1,1,20250329,ORL,SAC
+Shot Chart Detail,0022401074,145,1641710,Anthony Black,1610612753,Orlando Magic,1,1,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-121,225,1,1,20250329,ORL,SAC
+Shot Chart Detail,0022401074,193,1641710,Anthony Black,1610612753,Orlando Magic,2,10,1,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,86,129,1,1,20250329,ORL,SAC
+Shot Chart Detail,0022401091,128,1641710,Anthony Black,1610612753,Orlando Magic,1,2,37,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,29,1,1,20250331,ORL,LAC
+Shot Chart Detail,0022401091,188,1641710,Anthony Black,1610612753,Orlando Magic,2,9,27,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,15,1,1,20250331,ORL,LAC
+Shot Chart Detail,0022401091,426,1641710,Anthony Black,1610612753,Orlando Magic,3,2,43,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,26,68,1,1,20250331,ORL,LAC
+Shot Chart Detail,0022401112,201,1641710,Anthony Black,1610612753,Orlando Magic,2,8,22,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,8,1,1,20250403,WAS,ORL
+Shot Chart Detail,0022401112,485,1641710,Anthony Black,1610612753,Orlando Magic,3,0,5,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,15,1,1,20250403,WAS,ORL
+Shot Chart Detail,0022401112,523,1641710,Anthony Black,1610612753,Orlando Magic,4,9,18,Made Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-15,47,1,1,20250403,WAS,ORL
+Shot Chart Detail,0022401141,103,1641710,Anthony Black,1610612753,Orlando Magic,1,2,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,32,1,1,20250313,NOP,ORL
+Shot Chart Detail,0022401141,607,1641710,Anthony Black,1610612753,Orlando Magic,4,1,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-156,212,1,1,20250313,NOP,ORL
+Shot Chart Detail,0022401149,189,1641710,Anthony Black,1610612753,Orlando Magic,2,11,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,1,20250408,ORL,ATL
+Shot Chart Detail,0022401149,501,1641710,Anthony Black,1610612753,Orlando Magic,3,1,8,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,50,1,1,20250408,ORL,ATL
+Shot Chart Detail,0022401149,580,1641710,Anthony Black,1610612753,Orlando Magic,4,8,35,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,8,1,1,20250408,ORL,ATL
+Shot Chart Detail,0022401156,112,1641710,Anthony Black,1610612753,Orlando Magic,1,2,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-13,1,1,20250409,ORL,BOS
+Shot Chart Detail,0022401156,392,1641710,Anthony Black,1610612753,Orlando Magic,3,2,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,2,1,1,20250409,ORL,BOS
+Shot Chart Detail,0022401172,153,1641710,Anthony Black,1610612753,Orlando Magic,1,2,27,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,27,1,1,20250411,IND,ORL
+Shot Chart Detail,0022401172,184,1641710,Anthony Black,1610612753,Orlando Magic,2,11,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,20,1,1,20250411,IND,ORL
+Shot Chart Detail,0022401172,193,1641710,Anthony Black,1610612753,Orlando Magic,2,10,53,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,8,1,1,20250411,IND,ORL
+Shot Chart Detail,0022401172,223,1641710,Anthony Black,1610612753,Orlando Magic,2,8,46,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-6,82,1,1,20250411,IND,ORL
+Shot Chart Detail,0022401172,229,1641710,Anthony Black,1610612753,Orlando Magic,2,8,4,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250411,IND,ORL
+Shot Chart Detail,0022401172,239,1641710,Anthony Black,1610612753,Orlando Magic,2,7,24,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,11,1,1,20250411,IND,ORL
+Shot Chart Detail,0022401172,397,1641710,Anthony Black,1610612753,Orlando Magic,3,8,55,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-25,42,1,1,20250411,IND,ORL
+Shot Chart Detail,0022401172,427,1641710,Anthony Black,1610612753,Orlando Magic,3,7,33,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,137,131,1,1,20250411,IND,ORL
+Shot Chart Detail,0022401172,497,1641710,Anthony Black,1610612753,Orlando Magic,3,3,49,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,33,1,1,20250411,IND,ORL
+Shot Chart Detail,0022401186,58,1641710,Anthony Black,1610612753,Orlando Magic,1,6,47,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,8,1,1,20250413,ATL,ORL
+Shot Chart Detail,0022401186,101,1641710,Anthony Black,1610612753,Orlando Magic,1,3,41,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250413,ATL,ORL
+Shot Chart Detail,0022401186,300,1641710,Anthony Black,1610612753,Orlando Magic,3,11,16,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-6,254,1,1,20250413,ATL,ORL
+Shot Chart Detail,0022401186,403,1641710,Anthony Black,1610612753,Orlando Magic,3,3,1,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-162,196,1,1,20250413,ATL,ORL
+Shot Chart Detail,0022401186,492,1641710,Anthony Black,1610612753,Orlando Magic,4,7,7,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,18,1,1,20250413,ATL,ORL
+Shot Chart Detail,0022401186,510,1641710,Anthony Black,1610612753,Orlando Magic,4,5,54,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,47,41,1,1,20250413,ATL,ORL
+Shot Chart Detail,0022401186,549,1641710,Anthony Black,1610612753,Orlando Magic,4,2,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-65,248,1,1,20250413,ATL,ORL
+Shot Chart Detail,0022401201,105,1641710,Anthony Black,1610612753,Orlando Magic,1,3,33,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-42,101,1,1,20241210,MIL,ORL
+Shot Chart Detail,0022401201,121,1641710,Anthony Black,1610612753,Orlando Magic,1,1,30,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,-13,1,1,20241210,MIL,ORL
+Shot Chart Detail,0022401201,199,1641710,Anthony Black,1610612753,Orlando Magic,2,7,15,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,45,57,1,1,20241210,MIL,ORL
+Shot Chart Detail,0022401201,270,1641710,Anthony Black,1610612753,Orlando Magic,2,2,7,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-28,105,1,1,20241210,MIL,ORL
+Shot Chart Detail,0022401201,453,1641710,Anthony Black,1610612753,Orlando Magic,3,0,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20241210,MIL,ORL
+Shot Chart Detail,0022401201,468,1641710,Anthony Black,1610612753,Orlando Magic,4,11,28,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,64,63,1,1,20241210,MIL,ORL
+Shot Chart Detail,0022401227,438,1641710,Anthony Black,1610612753,Orlando Magic,3,3,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,26,1,1,20241215,ORL,NYK

@@ -1,21 +1,277 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400015,7,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,11,42,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-22,26,1,1,20241115,SAS,LAL
+Shot Chart Detail,0022400015,200,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,9,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,27,1,1,20241115,SAS,LAL
+Shot Chart Detail,0022400015,370,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,8,50,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-199,157,1,1,20241115,SAS,LAL
+Shot Chart Detail,0022400015,497,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,10,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,5,1,1,20241115,SAS,LAL
+Shot Chart Detail,0022400025,7,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,11,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,25,1,1,20241119,SAS,OKC
+Shot Chart Detail,0022400025,45,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,8,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,21,1,1,20241119,SAS,OKC
+Shot Chart Detail,0022400025,55,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,7,34,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,2,100,1,1,20241119,SAS,OKC
+Shot Chart Detail,0022400025,360,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,10,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,137,224,1,1,20241119,SAS,OKC
+Shot Chart Detail,0022400025,372,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,10,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-114,229,1,1,20241119,SAS,OKC
+Shot Chart Detail,0022400038,152,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,0,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,25,252,1,1,20241126,UTA,SAS
+Shot Chart Detail,0022400038,578,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,7,33,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,183,171,1,1,20241126,UTA,SAS
+Shot Chart Detail,0022400038,593,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,6,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,104,230,1,1,20241126,UTA,SAS
+Shot Chart Detail,0022400038,602,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,5,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,159,197,1,1,20241126,UTA,SAS
+Shot Chart Detail,0022400057,43,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,20,260,1,1,20241203,PHX,SAS
+Shot Chart Detail,0022400057,154,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,10,29,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,18,1,1,20241203,PHX,SAS
+Shot Chart Detail,0022400057,490,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,0,0,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-45,27,1,1,20241203,PHX,SAS
+Shot Chart Detail,0022400074,11,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,11,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,164,195,1,1,20241024,DAL,SAS
+Shot Chart Detail,0022400074,52,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,7,53,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,12,1,1,20241024,DAL,SAS
+Shot Chart Detail,0022400074,233,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,7,52,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,26,106,1,1,20241024,DAL,SAS
+Shot Chart Detail,0022400074,255,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,6,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,65,1,1,20241024,DAL,SAS
+Shot Chart Detail,0022400074,281,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,4,46,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20241024,DAL,SAS
+Shot Chart Detail,0022400074,431,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,6,8,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,-4,1,1,20241024,DAL,SAS
+Shot Chart Detail,0022400074,635,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,6,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,205,1,1,20241024,DAL,SAS
+Shot Chart Detail,0022400094,18,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,10,37,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241026,SAS,HOU
+Shot Chart Detail,0022400094,22,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,10,17,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,76,246,1,1,20241026,SAS,HOU
+Shot Chart Detail,0022400094,519,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,10,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,210,142,1,1,20241026,SAS,HOU
+Shot Chart Detail,0022400094,572,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,7,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,8,1,1,20241026,SAS,HOU
+Shot Chart Detail,0022400109,71,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,6,38,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,10,1,1,20241028,SAS,HOU
+Shot Chart Detail,0022400109,358,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,11,17,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,16,1,1,20241028,SAS,HOU
+Shot Chart Detail,0022400125,343,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,10,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-19,1,1,20241030,OKC,SAS
+Shot Chart Detail,0022400130,32,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,8,52,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,46,1,1,20241031,UTA,SAS
+Shot Chart Detail,0022400130,389,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,7,49,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,26,1,1,20241031,UTA,SAS
+Shot Chart Detail,0022400130,405,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,6,32,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,21,1,1,20241031,UTA,SAS
+Shot Chart Detail,0022400146,330,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,9,43,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,4,1,1,20241102,SAS,MIN
+Shot Chart Detail,0022400146,435,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,1,31,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20241102,SAS,MIN
+Shot Chart Detail,0022400146,499,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,9,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,148,211,1,1,20241102,SAS,MIN
+Shot Chart Detail,0022400168,11,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,10,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-230,101,1,1,20241104,LAC,SAS
+Shot Chart Detail,0022400168,31,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,9,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,78,237,1,1,20241104,LAC,SAS
+Shot Chart Detail,0022400168,55,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,7,8,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-23,1,1,20241104,LAC,SAS
+Shot Chart Detail,0022400168,377,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,6,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-239,86,1,1,20241104,LAC,SAS
+Shot Chart Detail,0022400168,391,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,6,9,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,29,1,1,20241104,LAC,SAS
+Shot Chart Detail,0022400168,415,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,3,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-203,157,1,1,20241104,LAC,SAS
+Shot Chart Detail,0022400168,598,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,2,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,27,1,1,20241104,LAC,SAS
+Shot Chart Detail,0022400173,193,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,8,34,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,7,1,1,20241106,HOU,SAS
+Shot Chart Detail,0022400173,260,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,3,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-188,202,1,1,20241106,HOU,SAS
+Shot Chart Detail,0022400173,336,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,9,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-189,193,1,1,20241106,HOU,SAS
+Shot Chart Detail,0022400173,359,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,7,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,26,1,1,20241106,HOU,SAS
+Shot Chart Detail,0022400173,372,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,6,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-53,257,1,1,20241106,HOU,SAS
+Shot Chart Detail,0022400183,16,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,11,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,4,1,1,20241107,SAS,POR
+Shot Chart Detail,0022400183,49,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,7,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,25,1,1,20241107,SAS,POR
+Shot Chart Detail,0022400183,317,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,11,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,68,1,1,20241107,SAS,POR
+Shot Chart Detail,0022400183,334,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,9,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-2,1,1,20241107,SAS,POR
+Shot Chart Detail,0022400183,399,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,4,30,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20241107,SAS,POR
+Shot Chart Detail,0022400197,467,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,4,41,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,25,1,1,20241109,SAS,UTA
+Shot Chart Detail,0022400197,727,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,0,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,39,1,1,20241109,SAS,UTA
+Shot Chart Detail,0022400216,150,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,10,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,21,259,1,1,20241111,SAS,SAC
+Shot Chart Detail,0022400216,233,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,4,20,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241111,SAS,SAC
+Shot Chart Detail,0022400216,245,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,3,24,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,124,228,1,1,20241111,SAS,SAC
+Shot Chart Detail,0022400216,320,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,10,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-7,1,1,20241111,SAS,SAC
+Shot Chart Detail,0022400216,363,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,6,40,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,4,1,1,20241111,SAS,SAC
+Shot Chart Detail,0022400224,7,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,11,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-157,197,1,1,20241113,SAS,WAS
+Shot Chart Detail,0022400224,121,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,2,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-15,1,1,20241113,SAS,WAS
+Shot Chart Detail,0022400224,349,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,11,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,100,243,1,1,20241113,SAS,WAS
+Shot Chart Detail,0022400232,114,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,2,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-36,268,1,1,20241116,DAL,SAS
+Shot Chart Detail,0022400232,121,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,2,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-184,197,1,1,20241116,DAL,SAS
+Shot Chart Detail,0022400232,184,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,10,47,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,214,142,1,1,20241116,DAL,SAS
+Shot Chart Detail,0022400262,325,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,0,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20241121,SAS,UTA
+Shot Chart Detail,0022400262,371,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,10,2,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,16,1,1,20241121,SAS,UTA
+Shot Chart Detail,0022400262,399,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,8,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-194,185,1,1,20241121,SAS,UTA
+Shot Chart Detail,0022400262,598,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,10,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,29,1,1,20241121,SAS,UTA
+Shot Chart Detail,0022400269,196,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,8,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-175,173,1,1,20241123,SAS,GSW
+Shot Chart Detail,0022400269,416,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,5,9,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,7,1,1,20241123,SAS,GSW
+Shot Chart Detail,0022400269,530,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,10,0,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,18,1,1,20241123,SAS,GSW
+Shot Chart Detail,0022400269,598,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,5,22,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,18,1,1,20241123,SAS,GSW
+Shot Chart Detail,0022400296,40,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,8,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,2,1,1,20241127,SAS,LAL
+Shot Chart Detail,0022400296,54,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,7,28,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-9,80,1,1,20241127,SAS,LAL
+Shot Chart Detail,0022400296,440,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,2,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,-1,1,1,20241127,SAS,LAL
+Shot Chart Detail,0022400296,493,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,10,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,1,20241127,SAS,LAL
+Shot Chart Detail,0022400296,504,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,9,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,1,1,1,20241127,SAS,LAL
+Shot Chart Detail,0022400296,513,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-31,250,1,1,20241127,SAS,LAL
+Shot Chart Detail,0022400313,11,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,10,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,193,1,1,20241201,SAC,SAS
+Shot Chart Detail,0022400313,216,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,8,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-186,179,1,1,20241201,SAC,SAS
+Shot Chart Detail,0022400313,220,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,8,18,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,75,19,1,1,20241201,SAC,SAS
+Shot Chart Detail,0022400313,232,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,7,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-224,138,1,1,20241201,SAC,SAS
+Shot Chart Detail,0022400313,420,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,7,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,27,1,1,20241201,SAC,SAS
+Shot Chart Detail,0022400331,18,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,10,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-125,236,1,1,20241205,SAS,CHI
+Shot Chart Detail,0022400331,145,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,0,41,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,15,1,1,20241205,SAS,CHI
+Shot Chart Detail,0022400331,218,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,8,56,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,28,103,1,1,20241205,SAS,CHI
+Shot Chart Detail,0022400331,223,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,8,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,16,1,1,20241205,SAS,CHI
+Shot Chart Detail,0022400331,660,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,7,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,61,142,1,1,20241205,SAS,CHI
+Shot Chart Detail,0022400337,10,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,11,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-33,272,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400337,19,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,10,22,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,10,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400337,31,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,9,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-86,252,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400337,41,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,8,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-189,174,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400337,185,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,10,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-162,243,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400337,286,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,4,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,34,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400337,353,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,11,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-7,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400337,579,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,8,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,67,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400354,12,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,11,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,206,1,1,20241208,SAS,NOP
+Shot Chart Detail,0022400354,51,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,7,34,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,191,169,1,1,20241208,SAS,NOP
+Shot Chart Detail,0022400354,244,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,8,52,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20241208,SAS,NOP
+Shot Chart Detail,0022400354,344,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,0,54,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20241208,SAS,NOP
+Shot Chart Detail,0022400354,580,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,8,15,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,8,1,1,20241208,SAS,NOP
+Shot Chart Detail,0022400370,164,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,1,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-173,228,1,1,20241219,SAS,ATL
+Shot Chart Detail,0022400370,515,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,2,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,3,1,1,20241219,SAS,ATL
+Shot Chart Detail,0022400370,579,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,9,14,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,32,1,1,20241219,SAS,ATL
+Shot Chart Detail,0022400386,169,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,11,22,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,16,1,1,20241221,SAS,POR
+Shot Chart Detail,0022400386,178,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,10,5,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-15,1,1,20241221,SAS,POR
+Shot Chart Detail,0022400386,554,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,6,46,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,13,1,1,20241221,SAS,POR
+Shot Chart Detail,0022400394,523,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,11,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,58,262,1,1,20241223,PHI,SAS
+Shot Chart Detail,0022400394,555,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,8,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-244,38,1,1,20241223,PHI,SAS
+Shot Chart Detail,0022400394,565,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,7,48,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-130,242,1,1,20241223,PHI,SAS
+Shot Chart Detail,0022400394,613,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,3,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,114,241,1,1,20241223,PHI,SAS
+Shot Chart Detail,0022400394,657,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,0,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,107,252,1,1,20241223,PHI,SAS
+Shot Chart Detail,0022400405,114,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,2,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,156,215,1,1,20241225,NYK,SAS
+Shot Chart Detail,0022400405,430,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,2,30,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-118,218,1,1,20241225,NYK,SAS
+Shot Chart Detail,0022400405,502,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,9,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,-12,1,1,20241225,NYK,SAS
+Shot Chart Detail,0022400421,166,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,11,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,1,1,1,20241227,BKN,SAS
+Shot Chart Detail,0022400421,182,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,11,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,185,168,1,1,20241227,BKN,SAS
+Shot Chart Detail,0022400421,200,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,9,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,88,239,1,1,20241227,BKN,SAS
+Shot Chart Detail,0022400421,452,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,3,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-29,1,1,20241227,BKN,SAS
+Shot Chart Detail,0022400421,523,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,10,18,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,19,1,1,20241227,BKN,SAS
+Shot Chart Detail,0022400421,562,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,7,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-119,231,1,1,20241227,BKN,SAS
+Shot Chart Detail,0022400451,200,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,7,50,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,195,1,1,20241231,SAS,LAC
+Shot Chart Detail,0022400451,500,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,9,35,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,1,20241231,SAS,LAC
+Shot Chart Detail,0022400451,534,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,7,22,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-203,157,1,1,20241231,SAS,LAC
+Shot Chart Detail,0022400475,100,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,4,33,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,29,1,1,20250103,DEN,SAS
+Shot Chart Detail,0022400475,104,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,3,54,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-34,167,1,1,20250103,DEN,SAS
+Shot Chart Detail,0022400475,123,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,3,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,28,1,1,20250103,DEN,SAS
+Shot Chart Detail,0022400475,148,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,0,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-179,197,1,1,20250103,DEN,SAS
+Shot Chart Detail,0022400475,464,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,2,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,36,1,1,20250103,DEN,SAS
+Shot Chart Detail,0022400475,640,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,1,58,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,43,1,1,20250103,DEN,SAS
+Shot Chart Detail,0022400484,105,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,5,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,22,1,1,20250104,SAS,DEN
+Shot Chart Detail,0022400484,116,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,3,50,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,11,1,1,20250104,SAS,DEN
+Shot Chart Detail,0022400498,140,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,1,47,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-181,188,1,1,20250106,CHI,SAS
+Shot Chart Detail,0022400498,184,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,9,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,4,255,1,1,20250106,CHI,SAS
+Shot Chart Detail,0022400498,454,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,2,7,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-164,222,1,1,20250106,CHI,SAS
+Shot Chart Detail,0022400498,489,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,0,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-175,200,1,1,20250106,CHI,SAS
+Shot Chart Detail,0022400516,103,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,3,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,13,1,1,20250108,MIL,SAS
+Shot Chart Detail,0022400516,142,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,207,199,1,1,20250108,MIL,SAS
+Shot Chart Detail,0022400516,153,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,11,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,9,254,1,1,20250108,MIL,SAS
+Shot Chart Detail,0022400537,488,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,11,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-225,73,1,1,20250317,LAL,SAS
+Shot Chart Detail,0022400537,597,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,4,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,136,232,1,1,20250317,LAL,SAS
+Shot Chart Detail,0022400552,470,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,1,22,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250113,LAL,SAS
+Shot Chart Detail,0022400567,192,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,11,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,35,163,318,1,1,20250115,SAS,MEM
+Shot Chart Detail,0022400567,196,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,11,15,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,102,226,1,1,20250115,SAS,MEM
+Shot Chart Detail,0022400567,308,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,5,13,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,53,1,1,20250115,SAS,MEM
+Shot Chart Detail,0022400582,200,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,9,14,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,5,1,1,20250117,SAS,MEM
+Shot Chart Detail,0022400592,105,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,2,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,4,1,1,20250119,MIA,SAS
+Shot Chart Detail,0022400592,128,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,1,13,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250119,MIA,SAS
+Shot Chart Detail,0022400621,468,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,1,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,233,94,1,1,20250123,IND,SAS
+Shot Chart Detail,0022400621,479,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,0,28,Made Shot,Tip Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,41,1,1,20250123,IND,SAS
+Shot Chart Detail,0022400633,545,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,10,50,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,29,1,1,20250125,SAS,IND
+Shot Chart Detail,0022400671,80,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,5,40,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,71,241,1,1,20250129,SAS,LAC
+Shot Chart Detail,0022400671,501,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,11,46,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,-3,1,1,20250129,SAS,LAC
+Shot Chart Detail,0022400684,151,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,1,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,10,1,1,20250131,SAS,MIL
+Shot Chart Detail,0022400684,488,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,1,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,10,1,1,20250131,SAS,MIL
+Shot Chart Detail,0022400693,251,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,7,27,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-123,225,1,1,20250201,SAS,MIA
+Shot Chart Detail,0022400693,472,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,1,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-17,1,1,20250201,SAS,MIA
+Shot Chart Detail,0022400703,452,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,4,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-176,183,1,1,20250203,MEM,SAS
+Shot Chart Detail,0022400703,489,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,2,23,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,6,1,1,20250203,MEM,SAS
+Shot Chart Detail,0022400719,119,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,2,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-19,1,1,20250205,ATL,SAS
+Shot Chart Detail,0022400719,591,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,7,18,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250205,ATL,SAS
+Shot Chart Detail,0022400734,207,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,9,7,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20250207,CHA,SAS
+Shot Chart Detail,0022400757,443,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,4,32,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,11,1,1,20250210,WAS,SAS
+Shot Chart Detail,0022400757,487,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,1,39,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,5,1,1,20250210,WAS,SAS
+Shot Chart Detail,0022400769,93,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,5,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,170,199,1,1,20250212,BOS,SAS
+Shot Chart Detail,0022400769,150,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,0,52,Made Shot,Driving Layup Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,86,37,1,1,20250212,BOS,SAS
+Shot Chart Detail,0022400769,246,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,5,52,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,13,1,1,20250212,BOS,SAS
+Shot Chart Detail,0022400795,164,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,11,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-11,1,1,20250220,SAS,PHX
+Shot Chart Detail,0022400795,204,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,8,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,6,1,1,20250220,SAS,PHX
+Shot Chart Detail,0022400795,454,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,2,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,202,1,1,20250220,SAS,PHX
+Shot Chart Detail,0022400795,484,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,0,37,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,0,1,1,20250220,SAS,PHX
+Shot Chart Detail,0022400795,547,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,9,38,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,75,12,1,1,20250220,SAS,PHX
+Shot Chart Detail,0022400818,119,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,3,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-191,191,1,1,20250223,NOP,SAS
+Shot Chart Detail,0022400818,136,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,1,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-206,180,1,1,20250223,NOP,SAS
+Shot Chart Detail,0022400818,156,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,0,0,Made Shot,Turnaround Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,7,1,1,20250223,NOP,SAS
+Shot Chart Detail,0022400818,176,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,11,21,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,159,1,1,20250223,NOP,SAS
+Shot Chart Detail,0022400818,224,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,7,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-211,151,1,1,20250223,NOP,SAS
+Shot Chart Detail,0022400818,707,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,2,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,8,1,1,20250223,NOP,SAS
+Shot Chart Detail,0022400833,254,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,7,59,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250225,NOP,SAS
+Shot Chart Detail,0022400844,144,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,1,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,37,1,1,20250226,HOU,SAS
+Shot Chart Detail,0022400844,454,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,3,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,30,1,1,20250226,HOU,SAS
+Shot Chart Detail,0022400844,594,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,5,54,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,10,1,1,20250226,HOU,SAS
+Shot Chart Detail,0022400844,605,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,4,31,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,16,1,1,20250226,HOU,SAS
+Shot Chart Detail,0022400863,151,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,0,8,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250301,MEM,SAS
+Shot Chart Detail,0022400863,178,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,10,58,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,5,251,1,1,20250301,MEM,SAS
+Shot Chart Detail,0022400863,204,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,8,58,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250301,MEM,SAS
+Shot Chart Detail,0022400863,207,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,8,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,9,1,1,20250301,MEM,SAS
+Shot Chart Detail,0022400863,566,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,7,43,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-217,148,1,1,20250301,MEM,SAS
+Shot Chart Detail,0022400871,132,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,1,55,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,15,1,1,20250302,SAS,OKC
+Shot Chart Detail,0022400871,135,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,1,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-196,186,1,1,20250302,SAS,OKC
+Shot Chart Detail,0022400871,447,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,3,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,24,1,1,20250302,SAS,OKC
+Shot Chart Detail,0022400888,122,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,2,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,13,1,1,20250304,SAS,BKN
+Shot Chart Detail,0022400888,526,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,11,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,121,215,1,1,20250304,SAS,BKN
+Shot Chart Detail,0022400888,560,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,8,20,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,1,20250304,SAS,BKN
+Shot Chart Detail,0022400925,641,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,0,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-5,1,1,20250309,MIN,SAS
+Shot Chart Detail,0022400937,434,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,4,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,142,219,1,1,20250310,SAS,DAL
+Shot Chart Detail,0022400937,491,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,1,14,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,27,1,1,20250310,SAS,DAL
+Shot Chart Detail,0022400951,448,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,1,58,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20250312,SAS,DAL
+Shot Chart Detail,0022400951,527,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,7,44,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,5,1,1,20250312,SAS,DAL
+Shot Chart Detail,0022400951,548,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,6,21,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,5,1,1,20250312,SAS,DAL
+Shot Chart Detail,0022400964,390,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,7,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,188,174,1,1,20250314,SAS,CHA
+Shot Chart Detail,0022400964,433,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,3,59,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-148,218,1,1,20250314,SAS,CHA
+Shot Chart Detail,0022400964,450,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,2,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,16,1,1,20250314,SAS,CHA
+Shot Chart Detail,0022400964,570,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,7,29,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-127,242,1,1,20250314,SAS,CHA
+Shot Chart Detail,0022400973,97,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,4,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-94,239,1,1,20250315,SAS,NOP
+Shot Chart Detail,0022400973,112,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,3,22,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,4,1,1,20250315,SAS,NOP
+Shot Chart Detail,0022400973,183,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,9,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,161,194,1,1,20250315,SAS,NOP
+Shot Chart Detail,0022400988,73,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,4,54,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-175,218,1,1,20250401,SAS,ORL
+Shot Chart Detail,0022400988,133,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,1,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,98,253,1,1,20250401,SAS,ORL
+Shot Chart Detail,0022400988,140,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,0,56,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250401,SAS,ORL
+Shot Chart Detail,0022400988,195,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,8,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,21,275,1,1,20250401,SAS,ORL
+Shot Chart Detail,0022400988,408,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,5,1,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,13,1,1,20250401,SAS,ORL
+Shot Chart Detail,0022400988,414,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,4,31,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,33,248,1,1,20250401,SAS,ORL
+Shot Chart Detail,0022400988,650,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,0,8,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,4,1,1,20250401,SAS,ORL
+Shot Chart Detail,0022401003,452,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,2,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,98,229,1,1,20250319,SAS,NYK
+Shot Chart Detail,0022401018,186,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,9,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-152,226,1,1,20250321,SAS,PHI
+Shot Chart Detail,0022401018,436,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,2,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,1,1,1,20250321,SAS,PHI
+Shot Chart Detail,0022401033,208,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,9,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,0,1,1,20250323,TOR,SAS
+Shot Chart Detail,0022401033,227,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,8,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,4,1,1,20250323,TOR,SAS
+Shot Chart Detail,0022401033,245,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,7,15,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250323,TOR,SAS
+Shot Chart Detail,0022401033,269,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,5,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-189,160,1,1,20250323,TOR,SAS
+Shot Chart Detail,0022401033,529,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,0,0,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250323,TOR,SAS
+Shot Chart Detail,0022401033,543,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,11,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,55,247,1,1,20250323,TOR,SAS
+Shot Chart Detail,0022401046,456,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,0,31,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,9,1,1,20250325,DET,SAS
+Shot Chart Detail,0022401059,245,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,6,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-201,159,1,1,20250327,CLE,SAS
+Shot Chart Detail,0022401059,253,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,6,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-169,201,1,1,20250327,CLE,SAS
+Shot Chart Detail,0022401059,502,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,2,17,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250327,CLE,SAS
+Shot Chart Detail,0022401059,571,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,9,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,161,231,1,1,20250327,CLE,SAS
+Shot Chart Detail,0022401086,95,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,5,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,-11,1,1,20250330,SAS,GSW
+Shot Chart Detail,0022401086,102,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,5,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,194,198,1,1,20250330,SAS,GSW
+Shot Chart Detail,0022401086,586,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,7,23,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,105,235,1,1,20250330,SAS,GSW
+Shot Chart Detail,0022401086,593,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,6,45,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,13,1,1,20250330,SAS,GSW
+Shot Chart Detail,0022401110,21,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,10,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,201,173,1,1,20250402,DEN,SAS
+Shot Chart Detail,0022401110,126,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,1,18,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-26,35,1,1,20250402,DEN,SAS
+Shot Chart Detail,0022401110,408,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,5,35,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-197,174,1,1,20250402,DEN,SAS
+Shot Chart Detail,0022401110,643,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,0,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-8,31,1,1,20250402,DEN,SAS
+Shot Chart Detail,0022401110,646,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,0,33,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,7,1,1,20250402,DEN,SAS
+Shot Chart Detail,0022401124,426,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,2,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-115,238,1,1,20250404,SAS,CLE
+Shot Chart Detail,0022401124,440,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,1,40,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-4,1,1,20250404,SAS,CLE
+Shot Chart Detail,0022401124,548,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,7,8,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,20,1,1,20250404,SAS,CLE
+Shot Chart Detail,0022401124,575,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,4,40,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,20,1,1,20250404,SAS,CLE
+Shot Chart Detail,0022401124,595,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,3,15,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,21,1,1,20250404,SAS,CLE
+Shot Chart Detail,0022401139,262,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,6,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-127,236,1,1,20250406,POR,SAS
+Shot Chart Detail,0022401139,319,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,1,57,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-140,241,1,1,20250406,POR,SAS
+Shot Chart Detail,0022401155,144,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,11,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-163,211,1,1,20250408,LAC,SAS
+Shot Chart Detail,0022401155,183,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,7,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-163,199,1,1,20250408,LAC,SAS
+Shot Chart Detail,0022401163,121,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,2,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-4,1,1,20250409,GSW,SAS
+Shot Chart Detail,0022401163,538,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,9,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-201,166,1,1,20250409,GSW,SAS
+Shot Chart Detail,0022401163,596,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,5,28,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,20,1,1,20250409,GSW,SAS
+Shot Chart Detail,0022401163,647,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,2,6,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,45,1,1,20250409,GSW,SAS
+Shot Chart Detail,0022401182,9,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,11,35,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,148,205,1,1,20250411,PHX,SAS
+Shot Chart Detail,0022401182,19,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,10,25,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-199,179,1,1,20250411,PHX,SAS
+Shot Chart Detail,0022401182,52,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,7,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-163,204,1,1,20250411,PHX,SAS
+Shot Chart Detail,0022401182,225,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,4,40,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-170,207,1,1,20250411,PHX,SAS
+Shot Chart Detail,0022401182,267,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,0,47,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,112,149,1,1,20250411,PHX,SAS
+Shot Chart Detail,0022401182,346,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,6,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-45,140,1,1,20250411,PHX,SAS
+Shot Chart Detail,0022401182,365,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,4,55,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,6,1,1,20250411,PHX,SAS
+Shot Chart Detail,0022401182,509,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,7,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,141,210,1,1,20250411,PHX,SAS
+Shot Chart Detail,0022401197,21,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,10,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-151,204,1,1,20250413,SAS,TOR
+Shot Chart Detail,0022401197,40,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,8,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,-5,1,1,20250413,SAS,TOR
+Shot Chart Detail,0022401197,301,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,2,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,180,179,1,1,20250413,SAS,TOR
+Shot Chart Detail,0022401197,333,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,11,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,4,285,1,1,20250413,SAS,TOR
+Shot Chart Detail,0022401197,354,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,9,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-225,142,1,1,20250413,SAS,TOR
+Shot Chart Detail,0022401215,11,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,11,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,192,178,1,1,20241213,POR,SAS
+Shot Chart Detail,0022401215,222,1630577,Julian Champagnie,1610612759,San Antonio Spurs,2,7,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,23,1,1,20241213,POR,SAS
+Shot Chart Detail,0022401215,384,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,7,58,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,-32,1,1,20241213,POR,SAS
+Shot Chart Detail,0022401215,419,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,4,54,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-28,166,1,1,20241213,POR,SAS
+Shot Chart Detail,0022401215,551,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,7,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-181,210,1,1,20241213,POR,SAS
+Shot Chart Detail,0022401215,599,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,3,41,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-157,221,1,1,20241213,POR,SAS
+Shot Chart Detail,0022401215,619,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,2,8,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,37,1,1,20241213,POR,SAS
+Shot Chart Detail,0022401218,156,1630577,Julian Champagnie,1610612759,San Antonio Spurs,1,0,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,4,1,1,20241215,SAS,MIN
+Shot Chart Detail,0022401218,407,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,7,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,219,118,1,1,20241215,SAS,MIN
+Shot Chart Detail,0022401218,497,1630577,Julian Champagnie,1610612759,San Antonio Spurs,3,1,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,143,225,1,1,20241215,SAS,MIN
+Shot Chart Detail,0022401218,585,1630577,Julian Champagnie,1610612759,San Antonio Spurs,4,6,37,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-9,37,1,1,20241215,SAS,MIN

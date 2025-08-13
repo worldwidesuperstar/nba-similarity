@@ -1,21 +1,183 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400005,72,1631260,AJ Green,1610612749,Milwaukee Bucks,1,6,40,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,125,226,1,1,20241112,MIL,TOR
+Shot Chart Detail,0022400005,339,1631260,AJ Green,1610612749,Milwaukee Bucks,2,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,215,117,1,1,20241112,MIL,TOR
+Shot Chart Detail,0022400005,417,1631260,AJ Green,1610612749,Milwaukee Bucks,3,6,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,169,215,1,1,20241112,MIL,TOR
+Shot Chart Detail,0022400005,431,1631260,AJ Green,1610612749,Milwaukee Bucks,3,5,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,235,119,1,1,20241112,MIL,TOR
+Shot Chart Detail,0022400029,532,1631260,AJ Green,1610612749,Milwaukee Bucks,4,10,26,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,72,129,1,1,20241122,MIL,IND
+Shot Chart Detail,0022400029,536,1631260,AJ Green,1610612749,Milwaukee Bucks,4,9,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,38,1,1,20241122,MIL,IND
+Shot Chart Detail,0022400036,343,1631260,AJ Green,1610612749,Milwaukee Bucks,3,9,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-119,237,1,1,20241126,MIA,MIL
+Shot Chart Detail,0022400036,567,1631260,AJ Green,1610612749,Milwaukee Bucks,4,3,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-5,1,1,20241126,MIA,MIL
+Shot Chart Detail,0022400036,570,1631260,AJ Green,1610612749,Milwaukee Bucks,4,2,24,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-188,163,1,1,20241126,MIA,MIL
+Shot Chart Detail,0022400052,211,1631260,AJ Green,1610612749,Milwaukee Bucks,2,9,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,6,1,1,20241203,DET,MIL
+Shot Chart Detail,0022400052,249,1631260,AJ Green,1610612749,Milwaukee Bucks,2,6,24,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-29,252,1,1,20241203,DET,MIL
+Shot Chart Detail,0022400052,496,1631260,AJ Green,1610612749,Milwaukee Bucks,3,1,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,152,221,1,1,20241203,DET,MIL
+Shot Chart Detail,0022400052,628,1631260,AJ Green,1610612749,Milwaukee Bucks,4,4,20,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-153,126,1,1,20241203,DET,MIL
+Shot Chart Detail,0022400083,186,1631260,AJ Green,1610612749,Milwaukee Bucks,2,9,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,12,1,1,20241025,MIL,CHI
+Shot Chart Detail,0022400083,488,1631260,AJ Green,1610612749,Milwaukee Bucks,4,11,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-221,99,1,1,20241025,MIL,CHI
+Shot Chart Detail,0022400083,496,1631260,AJ Green,1610612749,Milwaukee Bucks,4,11,2,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,53,253,1,1,20241025,MIL,CHI
+Shot Chart Detail,0022400098,618,1631260,AJ Green,1610612749,Milwaukee Bucks,4,2,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,60,252,1,1,20241027,BKN,MIL
+Shot Chart Detail,0022400104,660,1631260,AJ Green,1610612749,Milwaukee Bucks,4,1,16,Made Shot,Step Back Bank Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-219,134,1,1,20241028,BOS,MIL
+Shot Chart Detail,0022400154,118,1631260,AJ Green,1610612749,Milwaukee Bucks,1,2,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,24,1,1,20241104,CLE,MIL
+Shot Chart Detail,0022400154,121,1631260,AJ Green,1610612749,Milwaukee Bucks,1,2,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-28,1,1,20241104,CLE,MIL
+Shot Chart Detail,0022400154,167,1631260,AJ Green,1610612749,Milwaukee Bucks,2,10,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-227,87,1,1,20241104,CLE,MIL
+Shot Chart Detail,0022400154,278,1631260,AJ Green,1610612749,Milwaukee Bucks,2,2,16,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,-12,1,1,20241104,CLE,MIL
+Shot Chart Detail,0022400154,508,1631260,AJ Green,1610612749,Milwaukee Bucks,4,8,9,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,159,179,1,1,20241104,CLE,MIL
+Shot Chart Detail,0022400154,529,1631260,AJ Green,1610612749,Milwaukee Bucks,4,6,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,33,-121,315,1,1,20241104,CLE,MIL
+Shot Chart Detail,0022400154,625,1631260,AJ Green,1610612749,Milwaukee Bucks,4,0,0,Made Shot,Pullup Jump shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,52,167,496,1,1,20241104,CLE,MIL
+Shot Chart Detail,0022400182,219,1631260,AJ Green,1610612749,Milwaukee Bucks,2,6,59,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,145,210,1,1,20241107,MIL,UTA
+Shot Chart Detail,0022400182,223,1631260,AJ Green,1610612749,Milwaukee Bucks,2,6,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,150,210,1,1,20241107,MIL,UTA
+Shot Chart Detail,0022400182,490,1631260,AJ Green,1610612749,Milwaukee Bucks,4,10,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,228,90,1,1,20241107,MIL,UTA
+Shot Chart Detail,0022400182,497,1631260,AJ Green,1610612749,Milwaukee Bucks,4,9,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,208,167,1,1,20241107,MIL,UTA
+Shot Chart Detail,0022400189,299,1631260,AJ Green,1610612749,Milwaukee Bucks,2,2,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,73,1,1,20241108,NYK,MIL
+Shot Chart Detail,0022400189,340,1631260,AJ Green,1610612749,Milwaukee Bucks,3,11,41,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,174,190,1,1,20241108,NYK,MIL
+Shot Chart Detail,0022400189,446,1631260,AJ Green,1610612749,Milwaukee Bucks,3,0,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,6,1,1,20241108,NYK,MIL
+Shot Chart Detail,0022400202,198,1631260,AJ Green,1610612749,Milwaukee Bucks,2,9,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,27,1,1,20241110,MIL,BOS
+Shot Chart Detail,0022400202,255,1631260,AJ Green,1610612749,Milwaukee Bucks,2,4,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,15,1,1,20241110,MIL,BOS
+Shot Chart Detail,0022400202,359,1631260,AJ Green,1610612749,Milwaukee Bucks,3,7,45,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,7,1,1,20241110,MIL,BOS
+Shot Chart Detail,0022400202,588,1631260,AJ Green,1610612749,Milwaukee Bucks,4,2,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,116,237,1,1,20241110,MIL,BOS
+Shot Chart Detail,0022400223,339,1631260,AJ Green,1610612749,Milwaukee Bucks,3,10,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,31,1,1,20241113,MIL,DET
+Shot Chart Detail,0022400229,201,1631260,AJ Green,1610612749,Milwaukee Bucks,2,9,7,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-97,151,1,1,20241116,CHA,MIL
+Shot Chart Detail,0022400248,424,1631260,AJ Green,1610612749,Milwaukee Bucks,3,4,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,10,159,1,1,20241118,MIL,HOU
+Shot Chart Detail,0022400248,620,1631260,AJ Green,1610612749,Milwaukee Bucks,4,1,17,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,176,225,1,1,20241118,MIL,HOU
+Shot Chart Detail,0022400253,88,1631260,AJ Green,1610612749,Milwaukee Bucks,1,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,228,111,1,1,20241120,MIL,CHI
+Shot Chart Detail,0022400253,107,1631260,AJ Green,1610612749,Milwaukee Bucks,1,3,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-38,160,1,1,20241120,MIL,CHI
+Shot Chart Detail,0022400253,110,1631260,AJ Green,1610612749,Milwaukee Bucks,1,2,28,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,43,259,1,1,20241120,MIL,CHI
+Shot Chart Detail,0022400253,140,1631260,AJ Green,1610612749,Milwaukee Bucks,1,0,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,-10,1,1,20241120,MIL,CHI
+Shot Chart Detail,0022400253,427,1631260,AJ Green,1610612749,Milwaukee Bucks,3,2,34,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-7,1,1,20241120,MIL,CHI
+Shot Chart Detail,0022400253,536,1631260,AJ Green,1610612749,Milwaukee Bucks,4,6,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,16,1,1,20241120,MIL,CHI
+Shot Chart Detail,0022400268,216,1631260,AJ Green,1610612749,Milwaukee Bucks,2,7,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,238,79,1,1,20241123,MIL,CHA
+Shot Chart Detail,0022400268,485,1631260,AJ Green,1610612749,Milwaukee Bucks,3,0,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-109,253,1,1,20241123,MIL,CHA
+Shot Chart Detail,0022400268,541,1631260,AJ Green,1610612749,Milwaukee Bucks,4,9,3,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,13,1,1,20241123,MIL,CHA
+Shot Chart Detail,0022400302,96,1631260,AJ Green,1610612749,Milwaukee Bucks,1,3,57,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,4,198,1,1,20241130,MIL,WAS
+Shot Chart Detail,0022400302,149,1631260,AJ Green,1610612749,Milwaukee Bucks,1,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-100,241,1,1,20241130,MIL,WAS
+Shot Chart Detail,0022400302,226,1631260,AJ Green,1610612749,Milwaukee Bucks,2,6,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,55,1,1,20241130,MIL,WAS
+Shot Chart Detail,0022400302,430,1631260,AJ Green,1610612749,Milwaukee Bucks,3,1,52,Made Shot,Turnaround Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,185,186,1,1,20241130,MIL,WAS
+Shot Chart Detail,0022400323,462,1631260,AJ Green,1610612749,Milwaukee Bucks,3,4,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,71,256,1,1,20241204,MIL,ATL
+Shot Chart Detail,0022400323,471,1631260,AJ Green,1610612749,Milwaukee Bucks,3,3,33,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-170,202,1,1,20241204,MIL,ATL
+Shot Chart Detail,0022400335,424,1631260,AJ Green,1610612749,Milwaukee Bucks,3,1,7,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,147,227,1,1,20241206,BOS,MIL
+Shot Chart Detail,0022400335,459,1631260,AJ Green,1610612749,Milwaukee Bucks,4,10,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,44,268,1,1,20241206,BOS,MIL
+Shot Chart Detail,0022400348,278,1631260,AJ Green,1610612749,Milwaukee Bucks,2,2,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,-14,1,1,20241208,BKN,MIL
+Shot Chart Detail,0022400348,453,1631260,AJ Green,1610612749,Milwaukee Bucks,3,1,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,159,199,1,1,20241208,BKN,MIL
+Shot Chart Detail,0022400382,123,1631260,AJ Green,1610612749,Milwaukee Bucks,1,1,5,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,32,276,1,1,20241221,MIL,WAS
+Shot Chart Detail,0022400382,154,1631260,AJ Green,1610612749,Milwaukee Bucks,2,10,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-105,235,1,1,20241221,MIL,WAS
+Shot Chart Detail,0022400398,138,1631260,AJ Green,1610612749,Milwaukee Bucks,1,0,31,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-22,251,1,1,20241223,CHI,MIL
+Shot Chart Detail,0022400398,482,1631260,AJ Green,1610612749,Milwaukee Bucks,4,10,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,2,177,1,1,20241223,CHI,MIL
+Shot Chart Detail,0022400398,573,1631260,AJ Green,1610612749,Milwaukee Bucks,4,4,12,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,1,20241223,CHI,MIL
+Shot Chart Detail,0022400415,424,1631260,AJ Green,1610612749,Milwaukee Bucks,3,4,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,165,206,1,1,20241226,MIL,BKN
+Shot Chart Detail,0022400415,455,1631260,AJ Green,1610612749,Milwaukee Bucks,3,1,23,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,2,89,1,1,20241226,MIL,BKN
+Shot Chart Detail,0022400415,502,1631260,AJ Green,1610612749,Milwaukee Bucks,4,10,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-19,1,1,20241226,MIL,BKN
+Shot Chart Detail,0022400430,440,1631260,AJ Green,1610612749,Milwaukee Bucks,3,3,6,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,1,109,1,1,20241228,CHI,MIL
+Shot Chart Detail,0022400430,585,1631260,AJ Green,1610612749,Milwaukee Bucks,4,5,47,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-245,5,1,1,20241228,CHI,MIL
+Shot Chart Detail,0022400450,338,1631260,AJ Green,1610612749,Milwaukee Bucks,2,0,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-192,155,1,1,20241231,IND,MIL
+Shot Chart Detail,0022400450,443,1631260,AJ Green,1610612749,Milwaukee Bucks,3,5,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,32,-126,302,1,1,20241231,IND,MIL
+Shot Chart Detail,0022400450,506,1631260,AJ Green,1610612749,Milwaukee Bucks,3,0,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,5,1,1,20241231,IND,MIL
+Shot Chart Detail,0022400483,114,1631260,AJ Green,1610612749,Milwaukee Bucks,1,3,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,26,1,1,20250104,MIL,POR
+Shot Chart Detail,0022400483,155,1631260,AJ Green,1610612749,Milwaukee Bucks,1,0,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-234,65,1,1,20250104,MIL,POR
+Shot Chart Detail,0022400483,176,1631260,AJ Green,1610612749,Milwaukee Bucks,2,10,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-189,198,1,1,20250104,MIL,POR
+Shot Chart Detail,0022400483,210,1631260,AJ Green,1610612749,Milwaukee Bucks,2,7,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,148,220,1,1,20250104,MIL,POR
+Shot Chart Detail,0022400483,243,1631260,AJ Green,1610612749,Milwaukee Bucks,2,4,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,-4,1,1,20250104,MIL,POR
+Shot Chart Detail,0022400483,499,1631260,AJ Green,1610612749,Milwaukee Bucks,4,7,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,237,83,1,1,20250104,MIL,POR
+Shot Chart Detail,0022400483,527,1631260,AJ Green,1610612749,Milwaukee Bucks,4,5,10,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,6,1,1,20250104,MIL,POR
+Shot Chart Detail,0022400497,103,1631260,AJ Green,1610612749,Milwaukee Bucks,1,3,46,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-54,105,1,1,20250106,TOR,MIL
+Shot Chart Detail,0022400497,228,1631260,AJ Green,1610612749,Milwaukee Bucks,2,7,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-235,57,1,1,20250106,TOR,MIL
+Shot Chart Detail,0022400516,108,1631260,AJ Green,1610612749,Milwaukee Bucks,1,3,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-201,175,1,1,20250108,MIL,SAS
+Shot Chart Detail,0022400516,112,1631260,AJ Green,1610612749,Milwaukee Bucks,1,3,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-4,1,1,20250108,MIL,SAS
+Shot Chart Detail,0022400516,247,1631260,AJ Green,1610612749,Milwaukee Bucks,2,4,57,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,5,1,1,20250108,MIL,SAS
+Shot Chart Detail,0022400516,291,1631260,AJ Green,1610612749,Milwaukee Bucks,2,1,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,5,1,1,20250108,MIL,SAS
+Shot Chart Detail,0022400516,294,1631260,AJ Green,1610612749,Milwaukee Bucks,2,1,38,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-127,273,1,1,20250108,MIL,SAS
+Shot Chart Detail,0022400539,94,1631260,AJ Green,1610612749,Milwaukee Bucks,1,4,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-4,1,1,20250112,NYK,MIL
+Shot Chart Detail,0022400539,434,1631260,AJ Green,1610612749,Milwaukee Bucks,3,2,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,137,244,1,1,20250112,NYK,MIL
+Shot Chart Detail,0022400558,155,1631260,AJ Green,1610612749,Milwaukee Bucks,1,0,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,107,243,1,1,20250114,MIL,SAC
+Shot Chart Detail,0022400558,167,1631260,AJ Green,1610612749,Milwaukee Bucks,2,11,23,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,80,261,1,1,20250114,MIL,SAC
+Shot Chart Detail,0022400558,421,1631260,AJ Green,1610612749,Milwaukee Bucks,3,4,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,15,1,1,20250114,MIL,SAC
+Shot Chart Detail,0022400558,464,1631260,AJ Green,1610612749,Milwaukee Bucks,3,1,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,129,231,1,1,20250114,MIL,SAC
+Shot Chart Detail,0022400558,496,1631260,AJ Green,1610612749,Milwaukee Bucks,4,11,45,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,6,1,1,20250114,MIL,SAC
+Shot Chart Detail,0022400580,155,1631260,AJ Green,1610612749,Milwaukee Bucks,1,2,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,151,1,1,20250117,MIL,TOR
+Shot Chart Detail,0022400580,307,1631260,AJ Green,1610612749,Milwaukee Bucks,2,4,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-165,223,1,1,20250117,MIL,TOR
+Shot Chart Detail,0022400617,89,1631260,AJ Green,1610612749,Milwaukee Bucks,1,3,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,35,1,1,20250406,NOP,MIL
+Shot Chart Detail,0022400617,401,1631260,AJ Green,1610612749,Milwaukee Bucks,3,3,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-164,217,1,1,20250406,NOP,MIL
+Shot Chart Detail,0022400699,185,1631260,AJ Green,1610612749,Milwaukee Bucks,2,10,32,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20250202,MIL,MEM
+Shot Chart Detail,0022400699,289,1631260,AJ Green,1610612749,Milwaukee Bucks,2,3,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-36,252,1,1,20250202,MIL,MEM
+Shot Chart Detail,0022400699,315,1631260,AJ Green,1610612749,Milwaukee Bucks,2,1,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,102,243,1,1,20250202,MIL,MEM
+Shot Chart Detail,0022400699,501,1631260,AJ Green,1610612749,Milwaukee Bucks,3,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,12,155,1,1,20250202,MIL,MEM
+Shot Chart Detail,0022400699,555,1631260,AJ Green,1610612749,Milwaukee Bucks,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,35,-140,326,1,1,20250202,MIL,MEM
+Shot Chart Detail,0022400705,271,1631260,AJ Green,1610612749,Milwaukee Bucks,2,2,59,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,5,1,1,20250203,OKC,MIL
+Shot Chart Detail,0022400717,103,1631260,AJ Green,1610612749,Milwaukee Bucks,1,2,26,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,152,96,1,1,20250205,CHA,MIL
+Shot Chart Detail,0022400717,164,1631260,AJ Green,1610612749,Milwaukee Bucks,2,9,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-15,271,1,1,20250205,CHA,MIL
+Shot Chart Detail,0022400717,521,1631260,AJ Green,1610612749,Milwaukee Bucks,4,5,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,44,1,1,20250205,CHA,MIL
+Shot Chart Detail,0022400736,452,1631260,AJ Green,1610612749,Milwaukee Bucks,3,2,24,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-32,122,1,1,20250207,ATL,MIL
+Shot Chart Detail,0022400754,188,1631260,AJ Green,1610612749,Milwaukee Bucks,2,9,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,205,192,1,1,20250209,MIL,PHI
+Shot Chart Detail,0022400754,463,1631260,AJ Green,1610612749,Milwaukee Bucks,3,4,8,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,11,1,1,20250209,MIL,PHI
+Shot Chart Detail,0022400754,565,1631260,AJ Green,1610612749,Milwaukee Bucks,4,7,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,16,1,1,20250209,MIL,PHI
+Shot Chart Detail,0022400760,219,1631260,AJ Green,1610612749,Milwaukee Bucks,2,6,31,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,11,164,1,1,20250210,MIL,GSW
+Shot Chart Detail,0022400760,437,1631260,AJ Green,1610612749,Milwaukee Bucks,3,4,24,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,45,1,1,20250210,MIL,GSW
+Shot Chart Detail,0022400776,467,1631260,AJ Green,1610612749,Milwaukee Bucks,3,0,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-29,247,1,1,20250212,MIN,MIL
+Shot Chart Detail,0022400776,497,1631260,AJ Green,1610612749,Milwaukee Bucks,4,10,6,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,162,197,1,1,20250212,MIN,MIL
+Shot Chart Detail,0022400776,521,1631260,AJ Green,1610612749,Milwaukee Bucks,4,7,19,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,5,1,1,20250212,MIN,MIL
+Shot Chart Detail,0022400793,105,1631260,AJ Green,1610612749,Milwaukee Bucks,1,3,45,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,82,263,1,1,20250220,MIL,LAC
+Shot Chart Detail,0022400793,194,1631260,AJ Green,1610612749,Milwaukee Bucks,2,8,36,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,110,233,1,1,20250220,MIL,LAC
+Shot Chart Detail,0022400793,520,1631260,AJ Green,1610612749,Milwaukee Bucks,4,8,6,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,59,266,1,1,20250220,MIL,LAC
+Shot Chart Detail,0022400799,101,1631260,AJ Green,1610612749,Milwaukee Bucks,1,5,51,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-115,271,1,1,20250221,WAS,MIL
+Shot Chart Detail,0022400799,232,1631260,AJ Green,1610612749,Milwaukee Bucks,2,7,9,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,8,1,1,20250221,WAS,MIL
+Shot Chart Detail,0022400799,490,1631260,AJ Green,1610612749,Milwaukee Bucks,3,2,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-38,278,1,1,20250221,WAS,MIL
+Shot Chart Detail,0022400817,167,1631260,AJ Green,1610612749,Milwaukee Bucks,2,10,59,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,50,126,1,1,20250223,MIL,MIA
+Shot Chart Detail,0022400817,540,1631260,AJ Green,1610612749,Milwaukee Bucks,4,9,0,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,141,235,1,1,20250223,MIL,MIA
+Shot Chart Detail,0022400831,86,1631260,AJ Green,1610612749,Milwaukee Bucks,1,5,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,158,1,1,20250225,HOU,MIL
+Shot Chart Detail,0022400831,276,1631260,AJ Green,1610612749,Milwaukee Bucks,2,2,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,6,290,1,1,20250225,HOU,MIL
+Shot Chart Detail,0022400831,430,1631260,AJ Green,1610612749,Milwaukee Bucks,3,2,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,36,1,1,20250225,HOU,MIL
+Shot Chart Detail,0022400831,436,1631260,AJ Green,1610612749,Milwaukee Bucks,3,2,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,0,1,1,20250225,HOU,MIL
+Shot Chart Detail,0022400846,489,1631260,AJ Green,1610612749,Milwaukee Bucks,4,11,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,17,1,1,20250227,MIL,DEN
+Shot Chart Detail,0022400846,500,1631260,AJ Green,1610612749,Milwaukee Bucks,4,9,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,88,248,1,1,20250227,MIL,DEN
+Shot Chart Detail,0022400865,596,1631260,AJ Green,1610612749,Milwaukee Bucks,4,5,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,29,262,1,1,20250301,DAL,MIL
+Shot Chart Detail,0022400884,129,1631260,AJ Green,1610612749,Milwaukee Bucks,1,2,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,134,208,1,1,20250304,ATL,MIL
+Shot Chart Detail,0022400884,281,1631260,AJ Green,1610612749,Milwaukee Bucks,2,3,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,21,1,1,20250304,ATL,MIL
+Shot Chart Detail,0022400884,547,1631260,AJ Green,1610612749,Milwaukee Bucks,4,8,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1,157,1,1,20250304,ATL,MIL
+Shot Chart Detail,0022400897,234,1631260,AJ Green,1610612749,Milwaukee Bucks,2,6,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,39,1,1,20250305,MIL,DAL
+Shot Chart Detail,0022400897,411,1631260,AJ Green,1610612749,Milwaukee Bucks,3,5,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-200,181,1,1,20250305,MIL,DAL
+Shot Chart Detail,0022400897,464,1631260,AJ Green,1610612749,Milwaukee Bucks,3,1,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,224,123,1,1,20250305,MIL,DAL
+Shot Chart Detail,0022400897,477,1631260,AJ Green,1610612749,Milwaukee Bucks,3,0,20,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,197,183,1,1,20250305,MIL,DAL
+Shot Chart Detail,0022400897,542,1631260,AJ Green,1610612749,Milwaukee Bucks,4,7,29,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,8,1,1,20250305,MIL,DAL
+Shot Chart Detail,0022400897,555,1631260,AJ Green,1610612749,Milwaukee Bucks,4,5,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,45,1,1,20250305,MIL,DAL
+Shot Chart Detail,0022400922,435,1631260,AJ Green,1610612749,Milwaukee Bucks,3,3,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,48,195,1,1,20250309,MIL,CLE
+Shot Chart Detail,0022400942,161,1631260,AJ Green,1610612749,Milwaukee Bucks,2,10,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-1,299,1,1,20250311,IND,MIL
+Shot Chart Detail,0022400942,496,1631260,AJ Green,1610612749,Milwaukee Bucks,4,11,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,164,191,1,1,20250311,IND,MIL
+Shot Chart Detail,0022400955,280,1631260,AJ Green,1610612749,Milwaukee Bucks,2,3,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,223,98,1,1,20250313,MIL,LAL
+Shot Chart Detail,0022400972,225,1631260,AJ Green,1610612749,Milwaukee Bucks,2,6,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,-10,1,1,20250315,MIL,IND
+Shot Chart Detail,0022400972,542,1631260,AJ Green,1610612749,Milwaukee Bucks,4,6,12,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,13,1,1,20250315,MIL,IND
+Shot Chart Detail,0022400982,245,1631260,AJ Green,1610612749,Milwaukee Bucks,2,5,49,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,88,172,1,1,20250316,MIL,OKC
+Shot Chart Detail,0022400982,480,1631260,AJ Green,1610612749,Milwaukee Bucks,3,1,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,32,1,1,20250316,MIL,OKC
+Shot Chart Detail,0022400982,555,1631260,AJ Green,1610612749,Milwaukee Bucks,4,8,1,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,80,267,1,1,20250316,MIL,OKC
+Shot Chart Detail,0022400996,184,1631260,AJ Green,1610612749,Milwaukee Bucks,2,10,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,21,1,1,20250320,LAL,MIL
+Shot Chart Detail,0022400996,587,1631260,AJ Green,1610612749,Milwaukee Bucks,4,5,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,46,1,1,20250320,LAL,MIL
+Shot Chart Detail,0022401027,503,1631260,AJ Green,1610612749,Milwaukee Bucks,4,9,20,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,35,1,1,20250322,SAC,MIL
+Shot Chart Detail,0022401043,492,1631260,AJ Green,1610612749,Milwaukee Bucks,4,11,23,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,26,1,1,20250324,PHX,MIL
+Shot Chart Detail,0022401057,183,1631260,AJ Green,1610612749,Milwaukee Bucks,2,9,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-232,101,1,1,20250326,DEN,MIL
+Shot Chart Detail,0022401057,188,1631260,AJ Green,1610612749,Milwaukee Bucks,2,8,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-133,241,1,1,20250326,DEN,MIL
+Shot Chart Detail,0022401057,246,1631260,AJ Green,1610612749,Milwaukee Bucks,2,5,25,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,231,70,1,1,20250326,DEN,MIL
+Shot Chart Detail,0022401057,448,1631260,AJ Green,1610612749,Milwaukee Bucks,3,0,58,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,64,254,1,1,20250326,DEN,MIL
+Shot Chart Detail,0022401057,542,1631260,AJ Green,1610612749,Milwaukee Bucks,4,6,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,27,1,1,20250326,DEN,MIL
+Shot Chart Detail,0022401070,192,1631260,AJ Green,1610612749,Milwaukee Bucks,2,7,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-5,198,1,1,20250328,MIL,NYK
+Shot Chart Detail,0022401070,420,1631260,AJ Green,1610612749,Milwaukee Bucks,3,2,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,62,1,1,20250328,MIL,NYK
+Shot Chart Detail,0022401070,497,1631260,AJ Green,1610612749,Milwaukee Bucks,4,7,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,66,253,1,1,20250328,MIL,NYK
+Shot Chart Detail,0022401115,142,1631260,AJ Green,1610612749,Milwaukee Bucks,1,0,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,234,95,1,1,20250403,PHI,MIL
+Shot Chart Detail,0022401115,150,1631260,AJ Green,1610612749,Milwaukee Bucks,2,11,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-15,267,1,1,20250403,PHI,MIL
+Shot Chart Detail,0022401115,460,1631260,AJ Green,1610612749,Milwaukee Bucks,3,1,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,161,200,1,1,20250403,PHI,MIL
+Shot Chart Detail,0022401115,525,1631260,AJ Green,1610612749,Milwaukee Bucks,4,8,59,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,214,145,1,1,20250403,PHI,MIL
+Shot Chart Detail,0022401131,134,1631260,AJ Green,1610612749,Milwaukee Bucks,1,2,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-156,190,1,1,20250405,MIA,MIL
+Shot Chart Detail,0022401131,187,1631260,AJ Green,1610612749,Milwaukee Bucks,2,9,27,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,2,1,1,20250405,MIA,MIL
+Shot Chart Detail,0022401131,197,1631260,AJ Green,1610612749,Milwaukee Bucks,2,8,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,162,186,1,1,20250405,MIA,MIL
+Shot Chart Detail,0022401152,189,1631260,AJ Green,1610612749,Milwaukee Bucks,2,9,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-219,159,1,1,20250408,MIL,MIN
+Shot Chart Detail,0022401152,508,1631260,AJ Green,1610612749,Milwaukee Bucks,4,6,42,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,31,-201,247,1,1,20250408,MIL,MIN
+Shot Chart Detail,0022401152,545,1631260,AJ Green,1610612749,Milwaukee Bucks,4,3,35,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,13,1,1,20250408,MIL,MIN
+Shot Chart Detail,0022401161,159,1631260,AJ Green,1610612749,Milwaukee Bucks,2,10,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,211,1,1,20250410,MIL,NOP
+Shot Chart Detail,0022401171,130,1631260,AJ Green,1610612749,Milwaukee Bucks,1,1,20,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,173,192,1,1,20250411,DET,MIL
+Shot Chart Detail,0022401171,512,1631260,AJ Green,1610612749,Milwaukee Bucks,4,10,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,-28,304,1,1,20250411,DET,MIL
+Shot Chart Detail,0022401171,634,1631260,AJ Green,1610612749,Milwaukee Bucks,4,1,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-185,203,1,1,20250411,DET,MIL
+Shot Chart Detail,0022401192,46,1631260,AJ Green,1610612749,Milwaukee Bucks,1,7,42,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,162,209,1,1,20250413,MIL,DET
+Shot Chart Detail,0022401192,240,1631260,AJ Green,1610612749,Milwaukee Bucks,2,4,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-23,246,1,1,20250413,MIL,DET
+Shot Chart Detail,0022401201,92,1631260,AJ Green,1610612749,Milwaukee Bucks,1,4,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-180,216,1,1,20241210,MIL,ORL
+Shot Chart Detail,0022401201,529,1631260,AJ Green,1610612749,Milwaukee Bucks,4,6,35,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,6,1,1,20241210,MIL,ORL
+Shot Chart Detail,0022401201,550,1631260,AJ Green,1610612749,Milwaukee Bucks,4,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,126,232,1,1,20241210,MIL,ORL
+Shot Chart Detail,0022401229,151,1631260,AJ Green,1610612749,Milwaukee Bucks,1,1,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-21,1,1,20241214,MIL,ATL
+Shot Chart Detail,0022401229,200,1631260,AJ Green,1610612749,Milwaukee Bucks,2,10,30,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-197,168,1,1,20241214,MIL,ATL
+Shot Chart Detail,0022401229,212,1631260,AJ Green,1610612749,Milwaukee Bucks,2,9,49,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,131,218,1,1,20241214,MIL,ATL

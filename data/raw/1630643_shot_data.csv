@@ -1,21 +1,158 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400019,646,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,10,40,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241115,GSW,MEM
+Shot Chart Detail,0022400023,128,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,3,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-65,242,1,1,20241119,MEM,DEN
+Shot Chart Detail,0022400023,356,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,3,23,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241119,MEM,DEN
+Shot Chart Detail,0022400042,83,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,5,30,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20241129,MEM,NOP
+Shot Chart Detail,0022400042,98,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,4,46,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,12,1,1,20241129,MEM,NOP
+Shot Chart Detail,0022400042,293,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,1,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-43,257,1,1,20241129,MEM,NOP
+Shot Chart Detail,0022400056,273,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,5,36,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,26,1,1,20241203,DAL,MEM
+Shot Chart Detail,0022400056,285,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,4,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,99,237,1,1,20241203,DAL,MEM
+Shot Chart Detail,0022400056,511,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,4,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-224,140,1,1,20241203,DAL,MEM
+Shot Chart Detail,0022400070,306,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,5,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-175,188,1,1,20241023,UTA,MEM
+Shot Chart Detail,0022400070,310,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,5,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-56,248,1,1,20241023,UTA,MEM
+Shot Chart Detail,0022400070,660,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,7,34,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,37,1,1,20241023,UTA,MEM
+Shot Chart Detail,0022400070,689,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,5,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-107,230,1,1,20241023,UTA,MEM
+Shot Chart Detail,0022400082,116,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,4,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-135,223,1,1,20241025,HOU,MEM
+Shot Chart Detail,0022400082,153,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,1,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2,259,1,1,20241025,HOU,MEM
+Shot Chart Detail,0022400082,351,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,0,41,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,28,1,1,20241025,HOU,MEM
+Shot Chart Detail,0022400092,147,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,1,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,97,240,1,1,20241026,MEM,ORL
+Shot Chart Detail,0022400092,151,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,1,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,8,1,1,20241026,MEM,ORL
+Shot Chart Detail,0022400092,210,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,10,42,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20241026,MEM,ORL
+Shot Chart Detail,0022400092,525,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,2,29,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-48,268,1,1,20241026,MEM,ORL
+Shot Chart Detail,0022400092,580,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,11,44,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-16,75,1,1,20241026,MEM,ORL
+Shot Chart Detail,0022400092,619,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,9,2,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,11,1,1,20241026,MEM,ORL
+Shot Chart Detail,0022400092,632,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,7,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,-14,1,1,20241026,MEM,ORL
+Shot Chart Detail,0022400108,430,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,7,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-112,230,1,1,20241028,MEM,CHI
+Shot Chart Detail,0022400108,639,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,8,36,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,2,66,1,1,20241028,MEM,CHI
+Shot Chart Detail,0022400108,689,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,4,20,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,134,222,1,1,20241028,MEM,CHI
+Shot Chart Detail,0022400124,116,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,4,22,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,6,1,1,20241030,MEM,BKN
+Shot Chart Detail,0022400124,577,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,11,8,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,16,1,1,20241030,MEM,BKN
+Shot Chart Detail,0022400128,702,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,0,53,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20241031,MEM,MIL
+Shot Chart Detail,0022400142,60,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,6,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,3,1,1,20241102,PHI,MEM
+Shot Chart Detail,0022400142,257,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,5,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,19,1,1,20241102,PHI,MEM
+Shot Chart Detail,0022400142,261,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,5,21,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-1,1,1,20241102,PHI,MEM
+Shot Chart Detail,0022400142,451,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,4,45,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-127,246,1,1,20241102,PHI,MEM
+Shot Chart Detail,0022400142,461,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,4,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-38,279,1,1,20241102,PHI,MEM
+Shot Chart Detail,0022400142,466,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,3,57,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20241102,PHI,MEM
+Shot Chart Detail,0022400142,491,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,2,39,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-107,252,1,1,20241102,PHI,MEM
+Shot Chart Detail,0022400158,239,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,5,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,11,1,1,20241104,BKN,MEM
+Shot Chart Detail,0022400174,405,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,6,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,16,1,1,20241106,MEM,LAL
+Shot Chart Detail,0022400174,414,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,5,57,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-5,1,1,20241106,MEM,LAL
+Shot Chart Detail,0022400174,430,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,5,10,Made Shot,Jump Shot,3PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,219,15,1,1,20241106,MEM,LAL
+Shot Chart Detail,0022400174,436,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,4,34,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241106,MEM,LAL
+Shot Chart Detail,0022400191,322,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,2,34,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,11,1,1,20241108,MEM,WAS
+Shot Chart Detail,0022400191,721,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,3,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,20,258,1,1,20241108,MEM,WAS
+Shot Chart Detail,0022400191,734,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,2,42,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20241108,MEM,WAS
+Shot Chart Detail,0022400210,188,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,10,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-159,217,1,1,20241110,POR,MEM
+Shot Chart Detail,0022400210,602,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,7,23,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20241110,POR,MEM
+Shot Chart Detail,0022400210,631,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,6,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,65,278,1,1,20241110,POR,MEM
+Shot Chart Detail,0022400210,705,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,1,12,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,53,43,1,1,20241110,POR,MEM
+Shot Chart Detail,0022400225,38,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,8,58,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241113,LAL,MEM
+Shot Chart Detail,0022400225,481,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,2,58,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,16,1,1,20241113,LAL,MEM
+Shot Chart Detail,0022400225,521,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,0,18,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-9,41,1,1,20241113,LAL,MEM
+Shot Chart Detail,0022400238,286,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,3,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,4,1,1,20241117,MEM,DEN
+Shot Chart Detail,0022400238,299,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,2,2,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-62,232,1,1,20241117,MEM,DEN
+Shot Chart Detail,0022400238,532,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,11,13,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,17,1,1,20241117,MEM,DEN
+Shot Chart Detail,0022400238,536,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,10,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-123,246,1,1,20241117,MEM,DEN
+Shot Chart Detail,0022400255,178,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,10,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,4,1,1,20241120,MEM,PHI
+Shot Chart Detail,0022400255,532,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,11,45,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,15,1,1,20241120,MEM,PHI
+Shot Chart Detail,0022400255,553,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,9,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-7,264,1,1,20241120,MEM,PHI
+Shot Chart Detail,0022400266,99,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,4,59,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,10,1,1,20241123,CHI,MEM
+Shot Chart Detail,0022400266,145,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,2,13,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20241123,CHI,MEM
+Shot Chart Detail,0022400266,284,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,5,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,2,259,1,1,20241123,CHI,MEM
+Shot Chart Detail,0022400266,469,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,5,7,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-120,241,1,1,20241123,CHI,MEM
+Shot Chart Detail,0022400266,637,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,5,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-15,1,1,20241123,CHI,MEM
+Shot Chart Detail,0022400282,106,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,5,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-12,1,1,20241125,MEM,POR
+Shot Chart Detail,0022400282,118,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,3,43,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,87,56,1,1,20241125,MEM,POR
+Shot Chart Detail,0022400282,132,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,2,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,1,1,1,20241125,MEM,POR
+Shot Chart Detail,0022400282,713,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,5,10,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20241125,MEM,POR
+Shot Chart Detail,0022400293,110,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,4,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-183,171,1,1,20241127,MEM,DET
+Shot Chart Detail,0022400293,473,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,4,1,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20241127,MEM,DET
+Shot Chart Detail,0022400293,667,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,2,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,212,153,1,1,20241127,MEM,DET
+Shot Chart Detail,0022400329,277,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,4,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,185,1,1,20241205,MEM,SAC
+Shot Chart Detail,0022400329,308,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,1,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,25,243,1,1,20241205,MEM,SAC
+Shot Chart Detail,0022400329,314,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,1,27,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,5,1,1,20241205,MEM,SAC
+Shot Chart Detail,0022400329,692,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,3,16,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,11,1,1,20241205,MEM,SAC
+Shot Chart Detail,0022400345,328,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,3,8,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,17,1,1,20241207,BOS,MEM
+Shot Chart Detail,0022400345,584,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,9,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,126,231,1,1,20241207,BOS,MEM
+Shot Chart Detail,0022400353,94,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,4,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,1,1,1,20241208,WAS,MEM
+Shot Chart Detail,0022400353,303,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,4,12,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,1,20241208,WAS,MEM
+Shot Chart Detail,0022400353,321,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,2,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,0,1,1,20241208,WAS,MEM
+Shot Chart Detail,0022400353,357,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,0,23,Made Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,33,1,1,20241208,WAS,MEM
+Shot Chart Detail,0022400353,541,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,2,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,162,250,1,1,20241208,WAS,MEM
+Shot Chart Detail,0022400353,561,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,0,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-245,-34,1,1,20241208,WAS,MEM
+Shot Chart Detail,0022400423,129,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,3,14,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,-14,1,1,20241227,NOP,MEM
+Shot Chart Detail,0022400423,275,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,5,49,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,39,1,1,20241227,NOP,MEM
+Shot Chart Detail,0022400440,96,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,4,32,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,67,243,1,1,20241229,OKC,MEM
+Shot Chart Detail,0022400440,100,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,4,4,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20241229,OKC,MEM
+Shot Chart Detail,0022400440,107,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,3,38,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-108,245,1,1,20241229,OKC,MEM
+Shot Chart Detail,0022400440,606,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,10,25,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241229,OKC,MEM
+Shot Chart Detail,0022400440,609,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,10,7,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-3,1,1,20241229,OKC,MEM
+Shot Chart Detail,0022400440,626,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,8,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,137,230,1,1,20241229,OKC,MEM
+Shot Chart Detail,0022400440,630,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,8,11,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,86,36,1,1,20241229,OKC,MEM
+Shot Chart Detail,0022400453,164,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,1,22,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,21,1,1,20241231,PHX,MEM
+Shot Chart Detail,0022400453,168,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,0,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,42,1,1,20241231,PHX,MEM
+Shot Chart Detail,0022400453,249,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,6,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,4,259,1,1,20241231,PHX,MEM
+Shot Chart Detail,0022400485,283,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,4,40,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-125,244,1,1,20250104,GSW,MEM
+Shot Chart Detail,0022400485,304,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,3,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-32,272,1,1,20250104,GSW,MEM
+Shot Chart Detail,0022400485,448,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,4,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-114,225,1,1,20250104,GSW,MEM
+Shot Chart Detail,0022400499,349,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,2,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-62,239,1,1,20250106,MEM,DAL
+Shot Chart Detail,0022400499,353,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,2,20,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,5,1,1,20250106,MEM,DAL
+Shot Chart Detail,0022400499,373,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,0,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,32,1,1,20250106,MEM,DAL
+Shot Chart Detail,0022400499,729,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,1,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-146,214,1,1,20250106,MEM,DAL
+Shot Chart Detail,0022400520,82,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,5,41,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,6,1,1,20250109,MEM,HOU
+Shot Chart Detail,0022400520,323,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,4,39,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,41,1,1,20250109,MEM,HOU
+Shot Chart Detail,0022400567,226,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,9,10,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,18,1,1,20250115,SAS,MEM
+Shot Chart Detail,0022400567,485,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,4,54,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,143,216,1,1,20250115,SAS,MEM
+Shot Chart Detail,0022400567,488,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,4,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,71,240,1,1,20250115,SAS,MEM
+Shot Chart Detail,0022400567,576,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,11,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-29,251,1,1,20250115,SAS,MEM
+Shot Chart Detail,0022400582,457,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,4,31,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20250117,SAS,MEM
+Shot Chart Detail,0022400582,664,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,1,6,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,4,1,1,20250117,SAS,MEM
+Shot Chart Detail,0022400616,500,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,6,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-131,232,1,1,20250122,MEM,CHA
+Shot Chart Detail,0022400616,504,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,6,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,258,1,1,20250122,MEM,CHA
+Shot Chart Detail,0022400616,515,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,5,43,Made Shot,Running Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-3,1,1,20250122,MEM,CHA
+Shot Chart Detail,0022400616,535,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,4,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,10,1,1,20250122,MEM,CHA
+Shot Chart Detail,0022400616,543,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,3,44,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20250122,MEM,CHA
+Shot Chart Detail,0022400653,678,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,3,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,71,246,1,1,20250127,NYK,MEM
+Shot Chart Detail,0022400722,723,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,1,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-86,245,1,1,20250205,TOR,MEM
+Shot Chart Detail,0022400923,259,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,6,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-89,247,1,1,20250309,NOP,MEM
+Shot Chart Detail,0022400923,312,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,2,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-32,264,1,1,20250309,NOP,MEM
+Shot Chart Detail,0022400923,326,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,1,37,Made Shot,Running Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,12,1,1,20250309,NOP,MEM
+Shot Chart Detail,0022400935,115,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,3,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,26,1,1,20250310,MEM,PHX
+Shot Chart Detail,0022400935,382,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,10,40,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,38,251,1,1,20250310,MEM,PHX
+Shot Chart Detail,0022400935,429,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,6,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,65,248,1,1,20250310,MEM,PHX
+Shot Chart Detail,0022400935,563,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,10,19,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,60,73,1,1,20250310,MEM,PHX
+Shot Chart Detail,0022400935,568,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,9,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,55,250,1,1,20250310,MEM,PHX
+Shot Chart Detail,0022400950,86,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,5,37,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,8,1,1,20250312,MEM,UTA
+Shot Chart Detail,0022400950,272,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,5,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-152,202,1,1,20250312,MEM,UTA
+Shot Chart Detail,0022400962,263,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,6,48,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,15,1,1,20250314,MEM,CLE
+Shot Chart Detail,0022401008,441,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,4,35,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,22,1,1,20250319,POR,MEM
+Shot Chart Detail,0022401008,734,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,0,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-10,261,1,1,20250319,POR,MEM
+Shot Chart Detail,0022401023,90,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,4,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-217,158,1,1,20250321,LAC,MEM
+Shot Chart Detail,0022401023,450,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,3,30,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-83,245,1,1,20250321,LAC,MEM
+Shot Chart Detail,0022401023,586,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,6,52,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,17,1,1,20250321,LAC,MEM
+Shot Chart Detail,0022401023,590,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,6,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,34,1,1,20250321,LAC,MEM
+Shot Chart Detail,0022401023,601,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,5,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,5,1,1,20250321,LAC,MEM
+Shot Chart Detail,0022401050,272,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,4,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,2,257,1,1,20250325,UTA,MEM
+Shot Chart Detail,0022401050,395,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,7,14,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,32,1,1,20250325,UTA,MEM
+Shot Chart Detail,0022401050,426,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,5,28,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-6,30,1,1,20250325,UTA,MEM
+Shot Chart Detail,0022401050,438,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,4,56,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,32,1,1,20250325,UTA,MEM
+Shot Chart Detail,0022401050,486,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,2,11,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,30,1,1,20250325,UTA,MEM
+Shot Chart Detail,0022401050,494,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,1,1,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-6,71,1,1,20250325,UTA,MEM
+Shot Chart Detail,0022401064,114,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,3,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,47,255,1,1,20250327,OKC,MEM
+Shot Chart Detail,0022401064,314,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,2,15,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,-1,1,1,20250327,OKC,MEM
+Shot Chart Detail,0022401064,551,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,10,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,99,242,1,1,20250327,OKC,MEM
+Shot Chart Detail,0022401146,621,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,3,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-21,253,1,1,20250408,CHA,MEM
+Shot Chart Detail,0022401194,87,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,6,19,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,8,1,1,20250413,MEM,DAL
+Shot Chart Detail,0022401194,229,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,8,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,55,246,1,1,20250413,MEM,DAL
+Shot Chart Detail,0022401194,277,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,6,33,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,77,235,1,1,20250413,MEM,DAL
+Shot Chart Detail,0022401194,300,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,5,7,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,36,61,1,1,20250413,MEM,DAL
+Shot Chart Detail,0022401194,349,1630643,Jay Huff,1610612763,Memphis Grizzlies,2,1,59,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-17,79,1,1,20250413,MEM,DAL
+Shot Chart Detail,0022401194,468,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,5,19,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250413,MEM,DAL
+Shot Chart Detail,0022401194,476,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,4,40,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-1,1,1,20250413,MEM,DAL
+Shot Chart Detail,0022401194,479,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,4,23,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,7,1,1,20250413,MEM,DAL
+Shot Chart Detail,0022401194,616,1630643,Jay Huff,1610612763,Memphis Grizzlies,4,5,39,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,17,1,1,20250413,MEM,DAL
+Shot Chart Detail,0022401211,85,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,6,24,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241213,MEM,BKN
+Shot Chart Detail,0022401211,126,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,3,37,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20241213,MEM,BKN
+Shot Chart Detail,0022401211,463,1630643,Jay Huff,1610612763,Memphis Grizzlies,3,6,1,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,27,1,1,20241213,MEM,BKN
+Shot Chart Detail,0022401220,90,1630643,Jay Huff,1610612763,Memphis Grizzlies,1,5,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,5,288,1,1,20241215,LAL,MEM

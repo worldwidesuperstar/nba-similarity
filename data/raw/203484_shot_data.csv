@@ -1,21 +1,240 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400003,55,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,6,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-29,173,1,1,20241112,ORL,CHA
+Shot Chart Detail,0022400003,304,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,1,50,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-162,58,1,1,20241112,ORL,CHA
+Shot Chart Detail,0022400010,100,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,4,6,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,11,1,1,20241115,ORL,PHI
+Shot Chart Detail,0022400010,323,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,0,2,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,131,227,1,1,20241115,ORL,PHI
+Shot Chart Detail,0022400010,343,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,10,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-206,154,1,1,20241115,ORL,PHI
+Shot Chart Detail,0022400043,30,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,8,50,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,243,100,1,1,20241129,BKN,ORL
+Shot Chart Detail,0022400043,40,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,7,48,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-5,1,1,20241129,BKN,ORL
+Shot Chart Detail,0022400043,98,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,3,7,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-93,17,1,1,20241129,BKN,ORL
+Shot Chart Detail,0022400043,281,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,1,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-21,247,1,1,20241129,BKN,ORL
+Shot Chart Detail,0022400043,329,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,11,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,83,252,1,1,20241129,BKN,ORL
+Shot Chart Detail,0022400043,333,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,10,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,2,1,1,20241129,BKN,ORL
+Shot Chart Detail,0022400043,388,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,6,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-39,200,1,1,20241129,BKN,ORL
+Shot Chart Detail,0022400053,11,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,10,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-17,1,1,20241203,NYK,ORL
+Shot Chart Detail,0022400053,15,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,10,8,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-135,209,1,1,20241203,NYK,ORL
+Shot Chart Detail,0022400053,46,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,7,42,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,42,250,1,1,20241203,NYK,ORL
+Shot Chart Detail,0022400077,42,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,9,19,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,29,1,1,20241025,ORL,BKN
+Shot Chart Detail,0022400077,295,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,4,58,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-2,1,1,20241025,ORL,BKN
+Shot Chart Detail,0022400077,351,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,0,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,14,1,1,20241025,ORL,BKN
+Shot Chart Detail,0022400092,68,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,7,50,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,29,1,1,20241026,MEM,ORL
+Shot Chart Detail,0022400102,111,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,2,18,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,15,1,1,20241028,ORL,IND
+Shot Chart Detail,0022400102,300,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,0,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,16,1,1,20241028,ORL,IND
+Shot Chart Detail,0022400123,7,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,11,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,190,1,1,20241030,CHI,ORL
+Shot Chart Detail,0022400123,355,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,8,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-156,197,1,1,20241030,CHI,ORL
+Shot Chart Detail,0022400123,596,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,4,15,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,8,1,1,20241030,CHI,ORL
+Shot Chart Detail,0022400133,286,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,1,46,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20241101,CLE,ORL
+Shot Chart Detail,0022400133,448,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,3,46,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-1,1,1,20241101,CLE,ORL
+Shot Chart Detail,0022400153,30,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,9,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,169,184,1,1,20241103,DAL,ORL
+Shot Chart Detail,0022400153,462,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,3,18,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,189,159,1,1,20241103,DAL,ORL
+Shot Chart Detail,0022400163,547,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,9,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,219,130,1,1,20241104,OKC,ORL
+Shot Chart Detail,0022400170,30,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,9,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,252,1,1,20241106,IND,ORL
+Shot Chart Detail,0022400170,247,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,6,40,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,19,1,1,20241106,IND,ORL
+Shot Chart Detail,0022400170,277,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,4,20,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,5,1,1,20241106,IND,ORL
+Shot Chart Detail,0022400170,296,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,2,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,19,1,1,20241106,IND,ORL
+Shot Chart Detail,0022400170,304,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,1,48,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-180,197,1,1,20241106,IND,ORL
+Shot Chart Detail,0022400186,22,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,10,42,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,11,1,1,20241108,ORL,NOP
+Shot Chart Detail,0022400186,223,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,7,50,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,7,1,1,20241108,ORL,NOP
+Shot Chart Detail,0022400186,368,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,8,2,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,1,1,1,20241108,ORL,NOP
+Shot Chart Detail,0022400204,249,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,4,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-224,64,1,1,20241110,ORL,WAS
+Shot Chart Detail,0022400204,368,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,6,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-152,7,1,1,20241110,ORL,WAS
+Shot Chart Detail,0022400217,9,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,11,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-9,1,1,20241113,ORL,IND
+Shot Chart Detail,0022400217,446,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,3,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,5,1,1,20241113,ORL,IND
+Shot Chart Detail,0022400217,609,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,4,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,168,193,1,1,20241113,ORL,IND
+Shot Chart Detail,0022400217,614,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,3,42,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,9,1,1,20241113,ORL,IND
+Shot Chart Detail,0022400249,291,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,3,17,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-194,155,1,1,20241118,PHX,ORL
+Shot Chart Detail,0022400249,386,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,7,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,99,139,1,1,20241118,PHX,ORL
+Shot Chart Detail,0022400249,559,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,8,23,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,13,1,1,20241118,PHX,ORL
+Shot Chart Detail,0022400259,73,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,5,37,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,8,1,1,20241120,LAC,ORL
+Shot Chart Detail,0022400265,43,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,7,33,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,25,1,1,20241123,ORL,DET
+Shot Chart Detail,0022400265,306,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,2,14,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,20,1,1,20241123,ORL,DET
+Shot Chart Detail,0022400265,353,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,11,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,54,1,1,20241123,ORL,DET
+Shot Chart Detail,0022400277,599,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,2,7,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,120,122,1,1,20241125,CHA,ORL
+Shot Chart Detail,0022400289,62,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,6,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,201,176,1,1,20241127,ORL,CHI
+Shot Chart Detail,0022400289,90,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,3,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,5,1,1,20241127,ORL,CHI
+Shot Chart Detail,0022400289,298,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,3,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,18,1,1,20241127,ORL,CHI
+Shot Chart Detail,0022400289,317,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,1,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-178,189,1,1,20241127,ORL,CHI
+Shot Chart Detail,0022400289,321,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,1,32,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,116,254,1,1,20241127,ORL,CHI
+Shot Chart Detail,0022400289,354,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,11,41,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,15,1,1,20241127,ORL,CHI
+Shot Chart Detail,0022400289,360,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,11,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-186,180,1,1,20241127,ORL,CHI
+Shot Chart Detail,0022400289,536,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,10,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,4,1,1,20241127,ORL,CHI
+Shot Chart Detail,0022400305,253,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,7,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-218,121,1,1,20241201,BKN,ORL
+Shot Chart Detail,0022400305,433,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,8,27,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,211,132,1,1,20241201,BKN,ORL
+Shot Chart Detail,0022400305,479,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,4,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,221,134,1,1,20241201,BKN,ORL
+Shot Chart Detail,0022400305,489,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,4,5,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,11,1,1,20241201,BKN,ORL
+Shot Chart Detail,0022400305,645,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,6,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,2,1,1,20241201,BKN,ORL
+Shot Chart Detail,0022400305,672,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,4,9,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,6,1,1,20241201,BKN,ORL
+Shot Chart Detail,0022400322,36,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,9,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-3,1,1,20241204,PHI,ORL
+Shot Chart Detail,0022400322,40,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,9,8,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,18,1,1,20241204,PHI,ORL
+Shot Chart Detail,0022400333,426,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,6,23,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-10,1,1,20241206,PHI,ORL
+Shot Chart Detail,0022400352,256,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,5,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-102,159,1,1,20241208,ORL,PHX
+Shot Chart Detail,0022400352,268,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,4,37,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,11,256,1,1,20241208,ORL,PHX
+Shot Chart Detail,0022400352,410,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,6,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,36,1,1,20241208,ORL,PHX
+Shot Chart Detail,0022400361,26,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,9,36,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-165,201,1,1,20241219,ORL,OKC
+Shot Chart Detail,0022400361,288,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,4,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,44,251,1,1,20241219,ORL,OKC
+Shot Chart Detail,0022400361,649,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,0,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-152,210,1,1,20241219,ORL,OKC
+Shot Chart Detail,0022400377,7,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,11,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,4,1,1,20241221,ORL,MIA
+Shot Chart Detail,0022400377,45,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,8,39,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,153,222,1,1,20241221,ORL,MIA
+Shot Chart Detail,0022400377,141,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,1,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,-10,1,1,20241221,ORL,MIA
+Shot Chart Detail,0022400377,431,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,6,58,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,47,1,1,20241221,ORL,MIA
+Shot Chart Detail,0022400377,621,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,2,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,180,67,1,1,20241221,ORL,MIA
+Shot Chart Detail,0022400393,192,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,10,2,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,6,1,1,20241223,ORL,BOS
+Shot Chart Detail,0022400393,618,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,5,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,44,1,1,20241223,ORL,BOS
+Shot Chart Detail,0022400411,24,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,9,47,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,7,180,1,1,20241226,ORL,MIA
+Shot Chart Detail,0022400411,28,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,9,26,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20241226,ORL,MIA
+Shot Chart Detail,0022400411,35,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,8,35,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-140,145,1,1,20241226,ORL,MIA
+Shot Chart Detail,0022400411,162,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,11,5,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-40,31,1,1,20241226,ORL,MIA
+Shot Chart Detail,0022400411,596,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,0,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-153,243,1,1,20241226,ORL,MIA
+Shot Chart Detail,0022400419,266,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,3,42,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,118,31,1,1,20241227,ORL,NYK
+Shot Chart Detail,0022400419,355,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,11,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,170,206,1,1,20241227,ORL,NYK
+Shot Chart Detail,0022400419,434,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,5,27,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-15,41,1,1,20241227,ORL,NYK
+Shot Chart Detail,0022400419,546,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,8,56,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,32,1,1,20241227,ORL,NYK
+Shot Chart Detail,0022400436,68,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,5,23,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-69,182,1,1,20241229,ORL,BKN
+Shot Chart Detail,0022400436,605,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,3,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,16,1,1,20241229,ORL,BKN
+Shot Chart Detail,0022400455,9,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,11,13,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-93,158,1,1,20250101,DET,ORL
+Shot Chart Detail,0022400455,53,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,6,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,-12,1,1,20250101,DET,ORL
+Shot Chart Detail,0022400455,66,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,6,13,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,132,221,1,1,20250101,DET,ORL
+Shot Chart Detail,0022400455,84,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,4,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,58,269,1,1,20250101,DET,ORL
+Shot Chart Detail,0022400455,239,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,5,27,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,27,1,1,20250101,DET,ORL
+Shot Chart Detail,0022400455,329,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,11,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,92,165,1,1,20250101,DET,ORL
+Shot Chart Detail,0022400455,337,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,10,36,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,7,128,1,1,20250101,DET,ORL
+Shot Chart Detail,0022400455,358,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,8,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,58,244,1,1,20250101,DET,ORL
+Shot Chart Detail,0022400470,19,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,10,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-221,116,1,1,20250103,TOR,ORL
+Shot Chart Detail,0022400470,88,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,4,4,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,0,1,1,20250103,TOR,ORL
+Shot Chart Detail,0022400470,299,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,0,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-213,143,1,1,20250103,TOR,ORL
+Shot Chart Detail,0022400470,345,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,8,35,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,62,268,1,1,20250103,TOR,ORL
+Shot Chart Detail,0022400470,351,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,7,40,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,16,1,1,20250103,TOR,ORL
+Shot Chart Detail,0022400470,510,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,6,58,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-2,122,1,1,20250103,TOR,ORL
+Shot Chart Detail,0022400490,9,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,11,21,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,59,197,1,1,20250105,ORL,UTA
+Shot Chart Detail,0022400496,11,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,11,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,94,172,1,1,20250106,NYK,ORL
+Shot Chart Detail,0022400496,163,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,10,13,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,10,1,1,20250106,NYK,ORL
+Shot Chart Detail,0022400496,176,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,9,5,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-50,54,1,1,20250106,NYK,ORL
+Shot Chart Detail,0022400496,330,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,10,6,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250106,NYK,ORL
+Shot Chart Detail,0022400496,482,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,7,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,214,130,1,1,20250106,NYK,ORL
+Shot Chart Detail,0022400496,514,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,4,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,211,128,1,1,20250106,NYK,ORL
+Shot Chart Detail,0022400519,9,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,11,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,132,111,1,1,20250109,ORL,MIN
+Shot Chart Detail,0022400519,23,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,9,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,77,249,1,1,20250109,ORL,MIN
+Shot Chart Detail,0022400519,241,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,5,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-102,121,1,1,20250109,ORL,MIN
+Shot Chart Detail,0022400519,349,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,9,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-163,200,1,1,20250109,ORL,MIN
+Shot Chart Detail,0022400519,366,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,7,47,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,151,206,1,1,20250109,ORL,MIN
+Shot Chart Detail,0022400526,65,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,6,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,67,247,1,1,20250110,ORL,MIL
+Shot Chart Detail,0022400564,250,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,6,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,-2,1,1,20250115,MIL,ORL
+Shot Chart Detail,0022400564,391,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,8,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-221,108,1,1,20250115,MIL,ORL
+Shot Chart Detail,0022400564,420,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,5,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,227,151,1,1,20250115,MIL,ORL
+Shot Chart Detail,0022400577,21,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,10,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-129,145,1,1,20250117,BOS,ORL
+Shot Chart Detail,0022400577,82,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,4,15,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,64,250,1,1,20250117,BOS,ORL
+Shot Chart Detail,0022400593,11,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,11,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,17,147,1,1,20250119,ORL,DEN
+Shot Chart Detail,0022400593,36,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,8,42,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,20,1,1,20250119,ORL,DEN
+Shot Chart Detail,0022400593,91,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,4,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-98,239,1,1,20250119,ORL,DEN
+Shot Chart Detail,0022400593,396,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,9,28,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,143,227,1,1,20250119,ORL,DEN
+Shot Chart Detail,0022400608,11,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,11,23,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,8,1,1,20250121,TOR,ORL
+Shot Chart Detail,0022400608,37,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,7,58,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,67,119,1,1,20250121,TOR,ORL
+Shot Chart Detail,0022400608,46,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,7,26,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-5,267,1,1,20250121,TOR,ORL
+Shot Chart Detail,0022400608,346,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,10,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-28,15,1,1,20250121,TOR,ORL
+Shot Chart Detail,0022400608,400,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,5,40,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,59,170,1,1,20250121,TOR,ORL
+Shot Chart Detail,0022400608,516,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,10,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-176,133,1,1,20250121,TOR,ORL
+Shot Chart Detail,0022400608,554,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,7,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-89,168,1,1,20250121,TOR,ORL
+Shot Chart Detail,0022400608,666,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,0,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,11,1,1,20250121,TOR,ORL
+Shot Chart Detail,0022400622,97,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,4,25,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-116,44,1,1,20250123,ORL,POR
+Shot Chart Detail,0022400622,481,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,3,45,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,120,158,1,1,20250123,ORL,POR
+Shot Chart Detail,0022400638,345,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,2,41,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-213,129,1,1,20250125,ORL,DET
+Shot Chart Detail,0022400638,480,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,6,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,-17,1,1,20250125,ORL,DET
+Shot Chart Detail,0022400652,87,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,4,54,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,8,1,1,20250127,MIA,ORL
+Shot Chart Detail,0022400652,360,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,8,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2,250,1,1,20250127,MIA,ORL
+Shot Chart Detail,0022400678,39,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,8,51,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-2,213,1,1,20250130,POR,ORL
+Shot Chart Detail,0022400678,48,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,7,47,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,64,62,1,1,20250130,POR,ORL
+Shot Chart Detail,0022400708,7,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,11,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,190,171,1,1,20250203,GSW,ORL
+Shot Chart Detail,0022400708,42,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,8,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-51,98,1,1,20250203,GSW,ORL
+Shot Chart Detail,0022400708,68,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,6,36,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-120,57,1,1,20250203,GSW,ORL
+Shot Chart Detail,0022400708,269,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,7,7,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-110,54,1,1,20250203,GSW,ORL
+Shot Chart Detail,0022400727,7,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,11,46,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,4,138,1,1,20250205,SAC,ORL
+Shot Chart Detail,0022400727,17,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,10,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,75,1,1,20250205,SAC,ORL
+Shot Chart Detail,0022400727,324,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,10,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,45,1,1,20250205,SAC,ORL
+Shot Chart Detail,0022400730,55,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,7,51,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,1,1,1,20250206,DEN,ORL
+Shot Chart Detail,0022400730,318,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,1,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-6,1,1,20250206,DEN,ORL
+Shot Chart Detail,0022400743,351,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,7,50,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,28,264,1,1,20250208,ORL,SAS
+Shot Chart Detail,0022400756,287,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,3,56,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,20,1,1,20250210,ORL,ATL
+Shot Chart Detail,0022400770,47,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,8,9,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,36,1,1,20250212,ORL,CHA
+Shot Chart Detail,0022400790,399,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,8,18,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,8,1,1,20250220,ATL,ORL
+Shot Chart Detail,0022400790,456,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,4,50,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-38,174,1,1,20250220,ATL,ORL
+Shot Chart Detail,0022400798,12,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,10,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,21,196,1,1,20250221,ORL,MEM
+Shot Chart Detail,0022400798,481,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,6,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,17,261,1,1,20250221,ORL,MEM
+Shot Chart Detail,0022400798,508,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,4,38,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,1,1,1,20250221,ORL,MEM
+Shot Chart Detail,0022400815,43,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,8,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,2,151,1,1,20250223,ORL,WAS
+Shot Chart Detail,0022400815,318,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,3,30,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,26,1,1,20250223,ORL,WAS
+Shot Chart Detail,0022400830,21,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,10,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-233,90,1,1,20250225,ORL,CLE
+Shot Chart Detail,0022400830,230,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,7,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-188,7,1,1,20250225,ORL,CLE
+Shot Chart Detail,0022400830,358,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,7,14,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,11,1,1,20250225,ORL,CLE
+Shot Chart Detail,0022400830,362,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,6,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,22,1,1,20250225,ORL,CLE
+Shot Chart Detail,0022400870,14,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,10,52,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,78,194,1,1,20250302,ORL,TOR
+Shot Chart Detail,0022400870,26,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,10,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-134,148,1,1,20250302,ORL,TOR
+Shot Chart Detail,0022400870,236,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,8,47,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,31,1,1,20250302,ORL,TOR
+Shot Chart Detail,0022400870,447,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,5,40,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20250302,ORL,TOR
+Shot Chart Detail,0022400870,451,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,5,22,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,20,1,1,20250302,ORL,TOR
+Shot Chart Detail,0022400883,7,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,11,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-32,143,1,1,20250304,ORL,TOR
+Shot Chart Detail,0022400883,10,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,11,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,172,134,1,1,20250304,ORL,TOR
+Shot Chart Detail,0022400883,254,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,7,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,20,1,1,20250304,ORL,TOR
+Shot Chart Detail,0022400883,351,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-109,246,1,1,20250304,ORL,TOR
+Shot Chart Detail,0022400883,398,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,8,57,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,14,1,1,20250304,ORL,TOR
+Shot Chart Detail,0022400917,34,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,8,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,-15,1,1,20250308,MIL,ORL
+Shot Chart Detail,0022400917,98,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,3,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-84,166,1,1,20250308,MIL,ORL
+Shot Chart Detail,0022400917,252,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,3,13,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,7,1,1,20250308,MIL,ORL
+Shot Chart Detail,0022400944,16,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,10,55,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-37,105,1,1,20250306,ORL,CHI
+Shot Chart Detail,0022400944,91,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,5,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-158,212,1,1,20250306,ORL,CHI
+Shot Chart Detail,0022400944,100,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,4,34,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,108,172,1,1,20250306,ORL,CHI
+Shot Chart Detail,0022400944,337,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,1,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,28,1,1,20250306,ORL,CHI
+Shot Chart Detail,0022400944,363,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,0,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,227,112,1,1,20250306,ORL,CHI
+Shot Chart Detail,0022400944,407,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,9,30,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,3,1,1,20250306,ORL,CHI
+Shot Chart Detail,0022400944,444,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,7,30,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-48,171,1,1,20250306,ORL,CHI
+Shot Chart Detail,0022400944,667,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,6,8,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,5,1,1,20250306,ORL,CHI
+Shot Chart Detail,0022400979,78,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,5,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-13,1,1,20250316,CLE,ORL
+Shot Chart Detail,0022400979,97,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,4,33,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,16,1,1,20250316,CLE,ORL
+Shot Chart Detail,0022400979,251,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,5,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,197,153,1,1,20250316,CLE,ORL
+Shot Chart Detail,0022400979,366,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,9,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20250316,CLE,ORL
+Shot Chart Detail,0022400979,642,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,1,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-233,59,1,1,20250316,CLE,ORL
+Shot Chart Detail,0022400988,11,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,11,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-205,146,1,1,20250401,SAS,ORL
+Shot Chart Detail,0022400988,57,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,5,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,32,1,1,20250401,SAS,ORL
+Shot Chart Detail,0022400988,248,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,5,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,0,1,1,20250401,SAS,ORL
+Shot Chart Detail,0022400988,264,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,4,11,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,-6,1,1,20250401,SAS,ORL
+Shot Chart Detail,0022400988,308,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,0,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-87,239,1,1,20250401,SAS,ORL
+Shot Chart Detail,0022400988,564,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,5,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,102,251,1,1,20250401,SAS,ORL
+Shot Chart Detail,0022400988,606,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,3,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,123,232,1,1,20250401,SAS,ORL
+Shot Chart Detail,0022400988,613,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,2,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,28,1,1,20250401,SAS,ORL
+Shot Chart Detail,0022400999,32,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,9,36,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-83,169,1,1,20250319,ORL,HOU
+Shot Chart Detail,0022400999,79,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,5,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-92,251,1,1,20250319,ORL,HOU
+Shot Chart Detail,0022400999,262,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,5,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,186,176,1,1,20250319,ORL,HOU
+Shot Chart Detail,0022400999,318,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,0,41,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,11,138,1,1,20250319,ORL,HOU
+Shot Chart Detail,0022401014,17,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,10,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,59,1,1,20250321,WAS,ORL
+Shot Chart Detail,0022401014,69,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,5,53,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,24,1,1,20250321,WAS,ORL
+Shot Chart Detail,0022401014,249,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,5,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,19,1,1,20250321,WAS,ORL
+Shot Chart Detail,0022401014,325,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,0,41,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,130,216,1,1,20250321,WAS,ORL
+Shot Chart Detail,0022401038,48,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,7,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-2,1,1,20250324,ORL,LAL
+Shot Chart Detail,0022401038,287,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,3,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-176,185,1,1,20250324,ORL,LAL
+Shot Chart Detail,0022401038,399,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,6,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,156,227,1,1,20250324,ORL,LAL
+Shot Chart Detail,0022401045,61,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,6,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,9,1,1,20250325,CHA,ORL
+Shot Chart Detail,0022401074,356,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,10,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,121,163,1,1,20250329,ORL,SAC
+Shot Chart Detail,0022401074,424,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,4,43,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,15,1,1,20250329,ORL,SAC
+Shot Chart Detail,0022401074,438,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,3,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,108,221,1,1,20250329,ORL,SAC
+Shot Chart Detail,0022401091,19,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,10,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-175,196,1,1,20250331,ORL,LAC
+Shot Chart Detail,0022401091,292,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,1,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,45,1,1,20250331,ORL,LAC
+Shot Chart Detail,0022401091,321,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,10,20,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,11,1,1,20250331,ORL,LAC
+Shot Chart Detail,0022401091,610,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,0,29,Made Shot,Turnaround Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-190,161,1,1,20250331,ORL,LAC
+Shot Chart Detail,0022401112,9,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,11,21,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-38,155,1,1,20250403,WAS,ORL
+Shot Chart Detail,0022401112,251,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,4,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,67,258,1,1,20250403,WAS,ORL
+Shot Chart Detail,0022401112,368,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,10,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-112,169,1,1,20250403,WAS,ORL
+Shot Chart Detail,0022401141,25,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,9,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-66,150,1,1,20250313,NOP,ORL
+Shot Chart Detail,0022401141,64,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,6,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,232,77,1,1,20250313,NOP,ORL
+Shot Chart Detail,0022401141,392,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,5,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,109,-4,1,1,20250313,NOP,ORL
+Shot Chart Detail,0022401141,515,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,8,47,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-55,158,1,1,20250313,NOP,ORL
+Shot Chart Detail,0022401141,533,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,4,7,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-8,1,1,20250313,NOP,ORL
+Shot Chart Detail,0022401149,340,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,2,22,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,0,1,1,20250408,ORL,ATL
+Shot Chart Detail,0022401149,348,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,1,26,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,21,1,1,20250408,ORL,ATL
+Shot Chart Detail,0022401149,410,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,8,10,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,18,1,1,20250408,ORL,ATL
+Shot Chart Detail,0022401149,425,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,7,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-206,160,1,1,20250408,ORL,ATL
+Shot Chart Detail,0022401149,477,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,3,20,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,68,1,1,20250408,ORL,ATL
+Shot Chart Detail,0022401186,19,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,10,31,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,13,1,1,20250413,ATL,ORL
+Shot Chart Detail,0022401201,44,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,7,40,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-129,148,1,1,20241210,MIL,ORL
+Shot Chart Detail,0022401201,60,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,1,6,38,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20241210,MIL,ORL
+Shot Chart Detail,0022401201,317,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,3,11,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,2,179,1,1,20241210,MIL,ORL
+Shot Chart Detail,0022401227,317,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,1,17,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,11,1,1,20241215,ORL,NYK
+Shot Chart Detail,0022401227,330,203484,Kentavious Caldwell-Pope,1610612753,Orlando Magic,2,0,4,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,13,1,1,20241215,ORL,NYK

@@ -1,21 +1,204 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400012,163,1642273,Kyshawn George,1610612764,Washington Wizards,1,1,41,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-55,141,1,1,20241115,ATL,WAS
+Shot Chart Detail,0022400012,521,1642273,Kyshawn George,1610612764,Washington Wizards,3,2,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,10,1,1,20241115,ATL,WAS
+Shot Chart Detail,0022400012,676,1642273,Kyshawn George,1610612764,Washington Wizards,4,2,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-235,79,1,1,20241115,ATL,WAS
+Shot Chart Detail,0022400012,747,1642273,Kyshawn George,1610612764,Washington Wizards,4,0,3,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,8,1,1,20241115,ATL,WAS
+Shot Chart Detail,0022400028,134,1642273,Kyshawn George,1610612764,Washington Wizards,1,0,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-244,-13,1,1,20241122,WAS,BOS
+Shot Chart Detail,0022400035,57,1642273,Kyshawn George,1610612764,Washington Wizards,1,7,20,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,6,1,1,20241126,WAS,CHI
+Shot Chart Detail,0022400035,261,1642273,Kyshawn George,1610612764,Washington Wizards,2,6,24,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,202,159,1,1,20241126,WAS,CHI
+Shot Chart Detail,0022400035,298,1642273,Kyshawn George,1610612764,Washington Wizards,2,3,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,129,-2,1,1,20241126,WAS,CHI
+Shot Chart Detail,0022400073,220,1642273,Kyshawn George,1610612764,Washington Wizards,2,8,25,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,13,1,1,20241024,WAS,BOS
+Shot Chart Detail,0022400073,440,1642273,Kyshawn George,1610612764,Washington Wizards,3,4,44,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-4,1,1,20241024,WAS,BOS
+Shot Chart Detail,0022400103,545,1642273,Kyshawn George,1610612764,Washington Wizards,4,9,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-154,197,1,1,20241028,ATL,WAS
+Shot Chart Detail,0022400121,44,1642273,Kyshawn George,1610612764,Washington Wizards,1,9,9,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,10,1,1,20241030,WAS,ATL
+Shot Chart Detail,0022400121,57,1642273,Kyshawn George,1610612764,Washington Wizards,1,8,25,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,10,1,1,20241030,WAS,ATL
+Shot Chart Detail,0022400121,433,1642273,Kyshawn George,1610612764,Washington Wizards,3,9,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20241030,WAS,ATL
+Shot Chart Detail,0022400121,580,1642273,Kyshawn George,1610612764,Washington Wizards,4,10,14,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,16,1,1,20241030,WAS,ATL
+Shot Chart Detail,0022400121,584,1642273,Kyshawn George,1610612764,Washington Wizards,4,9,52,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,207,169,1,1,20241030,WAS,ATL
+Shot Chart Detail,0022400147,175,1642273,Kyshawn George,1610612764,Washington Wizards,2,11,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,9,1,1,20241102,WAS,MIA
+Shot Chart Detail,0022400147,504,1642273,Kyshawn George,1610612764,Washington Wizards,3,3,7,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,2,1,1,20241102,WAS,MIA
+Shot Chart Detail,0022400155,357,1642273,Kyshawn George,1610612764,Washington Wizards,3,10,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,49,1,1,20241104,WAS,GSW
+Shot Chart Detail,0022400155,493,1642273,Kyshawn George,1610612764,Washington Wizards,3,1,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-104,244,1,1,20241104,WAS,GSW
+Shot Chart Detail,0022400155,541,1642273,Kyshawn George,1610612764,Washington Wizards,4,11,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-176,191,1,1,20241104,WAS,GSW
+Shot Chart Detail,0022400155,560,1642273,Kyshawn George,1610612764,Washington Wizards,4,10,15,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,170,197,1,1,20241104,WAS,GSW
+Shot Chart Detail,0022400155,567,1642273,Kyshawn George,1610612764,Washington Wizards,4,9,55,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-142,269,1,1,20241104,WAS,GSW
+Shot Chart Detail,0022400155,574,1642273,Kyshawn George,1610612764,Washington Wizards,4,9,12,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,232,121,1,1,20241104,WAS,GSW
+Shot Chart Detail,0022400155,648,1642273,Kyshawn George,1610612764,Washington Wizards,4,5,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-1,1,1,20241104,WAS,GSW
+Shot Chart Detail,0022400191,139,1642273,Kyshawn George,1610612764,Washington Wizards,1,2,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,170,194,1,1,20241108,MEM,WAS
+Shot Chart Detail,0022400191,156,1642273,Kyshawn George,1610612764,Washington Wizards,1,0,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,212,137,1,1,20241108,MEM,WAS
+Shot Chart Detail,0022400191,225,1642273,Kyshawn George,1610612764,Washington Wizards,2,8,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-94,283,1,1,20241108,MEM,WAS
+Shot Chart Detail,0022400191,466,1642273,Kyshawn George,1610612764,Washington Wizards,3,5,7,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-2,1,1,20241108,MEM,WAS
+Shot Chart Detail,0022400191,643,1642273,Kyshawn George,1610612764,Washington Wizards,4,7,30,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,6,1,1,20241108,MEM,WAS
+Shot Chart Detail,0022400191,675,1642273,Kyshawn George,1610612764,Washington Wizards,4,6,4,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,11,1,1,20241108,MEM,WAS
+Shot Chart Detail,0022400204,153,1642273,Kyshawn George,1610612764,Washington Wizards,2,11,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,15,1,1,20241110,ORL,WAS
+Shot Chart Detail,0022400204,260,1642273,Kyshawn George,1610612764,Washington Wizards,2,3,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,228,86,1,1,20241110,ORL,WAS
+Shot Chart Detail,0022400204,264,1642273,Kyshawn George,1610612764,Washington Wizards,2,2,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-78,280,1,1,20241110,ORL,WAS
+Shot Chart Detail,0022400204,268,1642273,Kyshawn George,1610612764,Washington Wizards,2,2,33,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,68,1,1,20241110,ORL,WAS
+Shot Chart Detail,0022400204,284,1642273,Kyshawn George,1610612764,Washington Wizards,2,0,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-147,227,1,1,20241110,ORL,WAS
+Shot Chart Detail,0022400213,85,1642273,Kyshawn George,1610612764,Washington Wizards,1,5,1,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-109,256,1,1,20241111,HOU,WAS
+Shot Chart Detail,0022400213,390,1642273,Kyshawn George,1610612764,Washington Wizards,3,6,26,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,175,1,1,20241111,HOU,WAS
+Shot Chart Detail,0022400213,463,1642273,Kyshawn George,1610612764,Washington Wizards,3,0,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,110,109,1,1,20241111,HOU,WAS
+Shot Chart Detail,0022400224,110,1642273,Kyshawn George,1610612764,Washington Wizards,1,3,29,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,11,1,1,20241113,SAS,WAS
+Shot Chart Detail,0022400224,123,1642273,Kyshawn George,1610612764,Washington Wizards,1,2,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,205,1,1,20241113,SAS,WAS
+Shot Chart Detail,0022400224,223,1642273,Kyshawn George,1610612764,Washington Wizards,2,7,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-157,262,1,1,20241113,SAS,WAS
+Shot Chart Detail,0022400224,525,1642273,Kyshawn George,1610612764,Washington Wizards,3,0,27,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-152,175,1,1,20241113,SAS,WAS
+Shot Chart Detail,0022400272,122,1642273,Kyshawn George,1610612764,Washington Wizards,1,3,59,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-26,1,1,20241124,IND,WAS
+Shot Chart Detail,0022400272,145,1642273,Kyshawn George,1610612764,Washington Wizards,1,1,57,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,56,55,1,1,20241124,IND,WAS
+Shot Chart Detail,0022400272,330,1642273,Kyshawn George,1610612764,Washington Wizards,2,1,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,5,269,1,1,20241124,IND,WAS
+Shot Chart Detail,0022400272,545,1642273,Kyshawn George,1610612764,Washington Wizards,4,9,48,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,57,1,1,20241124,IND,WAS
+Shot Chart Detail,0022400291,189,1642273,Kyshawn George,1610612764,Washington Wizards,2,8,30,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,5,1,1,20241127,WAS,LAC
+Shot Chart Detail,0022400302,417,1642273,Kyshawn George,1610612764,Washington Wizards,3,3,20,Made Shot,Running Alley Oop Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20241130,MIL,WAS
+Shot Chart Detail,0022400302,434,1642273,Kyshawn George,1610612764,Washington Wizards,3,1,44,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,11,1,1,20241130,MIL,WAS
+Shot Chart Detail,0022400362,572,1642273,Kyshawn George,1610612764,Washington Wizards,4,10,38,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,1,1,1,20241219,WAS,CHA
+Shot Chart Detail,0022400382,125,1642273,Kyshawn George,1610612764,Washington Wizards,1,0,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,1,20241221,MIL,WAS
+Shot Chart Detail,0022400382,574,1642273,Kyshawn George,1610612764,Washington Wizards,4,1,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,209,150,1,1,20241221,MIL,WAS
+Shot Chart Detail,0022400382,601,1642273,Kyshawn George,1610612764,Washington Wizards,4,0,25,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241221,MIL,WAS
+Shot Chart Detail,0022400400,138,1642273,Kyshawn George,1610612764,Washington Wizards,1,2,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-55,248,1,1,20241223,OKC,WAS
+Shot Chart Detail,0022400400,186,1642273,Kyshawn George,1610612764,Washington Wizards,2,11,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,60,1,1,20241223,OKC,WAS
+Shot Chart Detail,0022400400,487,1642273,Kyshawn George,1610612764,Washington Wizards,3,3,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-4,1,1,20241223,OKC,WAS
+Shot Chart Detail,0022400429,93,1642273,Kyshawn George,1610612764,Washington Wizards,1,3,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,135,220,1,1,20241228,WAS,NYK
+Shot Chart Detail,0022400429,173,1642273,Kyshawn George,1610612764,Washington Wizards,2,9,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,55,1,1,20241228,WAS,NYK
+Shot Chart Detail,0022400429,246,1642273,Kyshawn George,1610612764,Washington Wizards,2,3,54,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-115,269,1,1,20241228,WAS,NYK
+Shot Chart Detail,0022400429,378,1642273,Kyshawn George,1610612764,Washington Wizards,3,3,50,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-74,245,1,1,20241228,WAS,NYK
+Shot Chart Detail,0022400429,509,1642273,Kyshawn George,1610612764,Washington Wizards,4,5,18,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241228,WAS,NYK
+Shot Chart Detail,0022400443,641,1642273,Kyshawn George,1610612764,Washington Wizards,4,2,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,30,192,239,1,1,20241230,WAS,NYK
+Shot Chart Detail,0022400456,499,1642273,Kyshawn George,1610612764,Washington Wizards,3,1,42,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,44,39,1,1,20250101,WAS,CHI
+Shot Chart Detail,0022400456,529,1642273,Kyshawn George,1610612764,Washington Wizards,4,11,8,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,14,92,1,1,20250101,WAS,CHI
+Shot Chart Detail,0022400456,534,1642273,Kyshawn George,1610612764,Washington Wizards,4,10,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-205,172,1,1,20250101,WAS,CHI
+Shot Chart Detail,0022400456,550,1642273,Kyshawn George,1610612764,Washington Wizards,4,9,36,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,30,1,1,20250101,WAS,CHI
+Shot Chart Detail,0022400472,219,1642273,Kyshawn George,1610612764,Washington Wizards,2,8,55,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,55,1,1,20250103,NOP,WAS
+Shot Chart Detail,0022400472,471,1642273,Kyshawn George,1610612764,Washington Wizards,3,3,28,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,21,1,1,20250103,NOP,WAS
+Shot Chart Detail,0022400503,60,1642273,Kyshawn George,1610612764,Washington Wizards,1,7,39,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,40,1,1,20250107,WAS,HOU
+Shot Chart Detail,0022400503,410,1642273,Kyshawn George,1610612764,Washington Wizards,3,7,7,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-183,186,1,1,20250107,WAS,HOU
+Shot Chart Detail,0022400503,462,1642273,Kyshawn George,1610612764,Washington Wizards,3,3,2,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,36,1,1,20250107,WAS,HOU
+Shot Chart Detail,0022400503,650,1642273,Kyshawn George,1610612764,Washington Wizards,4,2,47,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,24,1,1,20250107,WAS,HOU
+Shot Chart Detail,0022400512,367,1642273,Kyshawn George,1610612764,Washington Wizards,3,10,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,182,1,1,20250108,PHI,WAS
+Shot Chart Detail,0022400530,102,1642273,Kyshawn George,1610612764,Washington Wizards,1,4,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,107,228,1,1,20250110,CHI,WAS
+Shot Chart Detail,0022400530,148,1642273,Kyshawn George,1610612764,Washington Wizards,1,1,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-118,231,1,1,20250110,CHI,WAS
+Shot Chart Detail,0022400530,440,1642273,Kyshawn George,1610612764,Washington Wizards,3,4,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,30,1,1,20250110,CHI,WAS
+Shot Chart Detail,0022400530,452,1642273,Kyshawn George,1610612764,Washington Wizards,3,3,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,26,253,1,1,20250110,CHI,WAS
+Shot Chart Detail,0022400548,139,1642273,Kyshawn George,1610612764,Washington Wizards,1,1,15,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,5,1,1,20250113,WAS,MIN
+Shot Chart Detail,0022400548,184,1642273,Kyshawn George,1610612764,Washington Wizards,2,9,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-22,1,1,20250113,WAS,MIN
+Shot Chart Detail,0022400548,213,1642273,Kyshawn George,1610612764,Washington Wizards,2,7,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,1,20250113,WAS,MIN
+Shot Chart Detail,0022400548,448,1642273,Kyshawn George,1610612764,Washington Wizards,3,2,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-18,281,1,1,20250113,WAS,MIN
+Shot Chart Detail,0022400573,125,1642273,Kyshawn George,1610612764,Washington Wizards,1,3,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,58,1,1,20250116,WAS,PHX
+Shot Chart Detail,0022400573,159,1642273,Kyshawn George,1610612764,Washington Wizards,1,0,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,51,1,1,20250116,WAS,PHX
+Shot Chart Detail,0022400573,197,1642273,Kyshawn George,1610612764,Washington Wizards,2,9,34,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-16,1,1,20250116,WAS,PHX
+Shot Chart Detail,0022400573,201,1642273,Kyshawn George,1610612764,Washington Wizards,2,9,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,9,1,1,20250116,WAS,PHX
+Shot Chart Detail,0022400573,610,1642273,Kyshawn George,1610612764,Washington Wizards,4,5,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,7,1,1,20250116,WAS,PHX
+Shot Chart Detail,0022400573,617,1642273,Kyshawn George,1610612764,Washington Wizards,4,5,1,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-168,235,1,1,20250116,WAS,PHX
+Shot Chart Detail,0022400573,655,1642273,Kyshawn George,1610612764,Washington Wizards,4,1,48,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-15,1,1,20250116,WAS,PHX
+Shot Chart Detail,0022400573,667,1642273,Kyshawn George,1610612764,Washington Wizards,4,1,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,154,246,1,1,20250116,WAS,PHX
+Shot Chart Detail,0022400589,113,1642273,Kyshawn George,1610612764,Washington Wizards,1,3,58,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,173,183,1,1,20250118,GSW,WAS
+Shot Chart Detail,0022400589,190,1642273,Kyshawn George,1610612764,Washington Wizards,2,11,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-96,266,1,1,20250118,GSW,WAS
+Shot Chart Detail,0022400598,146,1642273,Kyshawn George,1610612764,Washington Wizards,1,1,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,184,186,1,1,20250119,SAC,WAS
+Shot Chart Detail,0022400598,205,1642273,Kyshawn George,1610612764,Washington Wizards,2,9,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,183,183,1,1,20250119,SAC,WAS
+Shot Chart Detail,0022400610,195,1642273,Kyshawn George,1610612764,Washington Wizards,2,10,4,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-12,32,1,1,20250121,LAL,WAS
+Shot Chart Detail,0022400610,517,1642273,Kyshawn George,1610612764,Washington Wizards,4,11,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,206,140,1,1,20250121,LAL,WAS
+Shot Chart Detail,0022400645,375,1642273,Kyshawn George,1610612764,Washington Wizards,3,8,53,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,8,1,1,20250125,PHX,WAS
+Shot Chart Detail,0022400645,503,1642273,Kyshawn George,1610612764,Washington Wizards,4,9,42,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-229,131,1,1,20250125,PHX,WAS
+Shot Chart Detail,0022400657,52,1642273,Kyshawn George,1610612764,Washington Wizards,1,7,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,167,231,1,1,20250127,DAL,WAS
+Shot Chart Detail,0022400665,135,1642273,Kyshawn George,1610612764,Washington Wizards,1,1,15,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,26,1,1,20250129,WAS,TOR
+Shot Chart Detail,0022400665,151,1642273,Kyshawn George,1610612764,Washington Wizards,1,0,24,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,102,251,1,1,20250129,WAS,TOR
+Shot Chart Detail,0022400665,389,1642273,Kyshawn George,1610612764,Washington Wizards,3,7,58,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,46,1,1,20250129,WAS,TOR
+Shot Chart Detail,0022400665,570,1642273,Kyshawn George,1610612764,Washington Wizards,4,8,37,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-203,175,1,1,20250129,WAS,TOR
+Shot Chart Detail,0022400674,54,1642273,Kyshawn George,1610612764,Washington Wizards,1,7,31,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-8,1,1,20250130,WAS,LAL
+Shot Chart Detail,0022400674,578,1642273,Kyshawn George,1610612764,Washington Wizards,4,10,10,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-222,106,1,1,20250130,WAS,LAL
+Shot Chart Detail,0022400690,62,1642273,Kyshawn George,1610612764,Washington Wizards,1,6,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,10,1,1,20250201,MIN,WAS
+Shot Chart Detail,0022400690,320,1642273,Kyshawn George,1610612764,Washington Wizards,3,11,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-9,248,1,1,20250201,MIN,WAS
+Shot Chart Detail,0022400690,377,1642273,Kyshawn George,1610612764,Washington Wizards,3,6,45,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,36,1,1,20250201,MIN,WAS
+Shot Chart Detail,0022400700,266,1642273,Kyshawn George,1610612764,Washington Wizards,2,6,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,96,248,1,1,20250203,CHA,WAS
+Shot Chart Detail,0022400700,272,1642273,Kyshawn George,1610612764,Washington Wizards,2,5,9,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,20,1,1,20250203,CHA,WAS
+Shot Chart Detail,0022400720,9,1642273,Kyshawn George,1610612764,Washington Wizards,1,11,36,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,105,230,1,1,20250205,BKN,WAS
+Shot Chart Detail,0022400720,65,1642273,Kyshawn George,1610612764,Washington Wizards,1,6,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,-21,1,1,20250205,BKN,WAS
+Shot Chart Detail,0022400720,73,1642273,Kyshawn George,1610612764,Washington Wizards,1,5,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-22,262,1,1,20250205,BKN,WAS
+Shot Chart Detail,0022400720,294,1642273,Kyshawn George,1610612764,Washington Wizards,2,2,28,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,62,1,1,20250205,BKN,WAS
+Shot Chart Detail,0022400720,413,1642273,Kyshawn George,1610612764,Washington Wizards,3,6,15,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,100,268,1,1,20250205,BKN,WAS
+Shot Chart Detail,0022400720,576,1642273,Kyshawn George,1610612764,Washington Wizards,4,7,38,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,158,209,1,1,20250205,BKN,WAS
+Shot Chart Detail,0022400735,43,1642273,Kyshawn George,1610612764,Washington Wizards,1,8,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,-22,1,1,20250207,WAS,CLE
+Shot Chart Detail,0022400735,243,1642273,Kyshawn George,1610612764,Washington Wizards,2,7,19,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,58,1,1,20250207,WAS,CLE
+Shot Chart Detail,0022400735,267,1642273,Kyshawn George,1610612764,Washington Wizards,2,5,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-6,1,1,20250207,WAS,CLE
+Shot Chart Detail,0022400735,304,1642273,Kyshawn George,1610612764,Washington Wizards,2,3,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-134,240,1,1,20250207,WAS,CLE
+Shot Chart Detail,0022400735,378,1642273,Kyshawn George,1610612764,Washington Wizards,3,9,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-163,217,1,1,20250207,WAS,CLE
+Shot Chart Detail,0022400735,586,1642273,Kyshawn George,1610612764,Washington Wizards,4,7,42,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-1,122,1,1,20250207,WAS,CLE
+Shot Chart Detail,0022400757,42,1642273,Kyshawn George,1610612764,Washington Wizards,1,9,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-229,125,1,1,20250210,WAS,SAS
+Shot Chart Detail,0022400757,136,1642273,Kyshawn George,1610612764,Washington Wizards,1,1,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,8,1,1,20250210,WAS,SAS
+Shot Chart Detail,0022400757,415,1642273,Kyshawn George,1610612764,Washington Wizards,3,6,23,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,20,1,1,20250210,WAS,SAS
+Shot Chart Detail,0022400771,41,1642273,Kyshawn George,1610612764,Washington Wizards,1,8,47,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-224,110,1,1,20250212,WAS,IND
+Shot Chart Detail,0022400771,92,1642273,Kyshawn George,1610612764,Washington Wizards,1,5,23,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-237,95,1,1,20250212,WAS,IND
+Shot Chart Detail,0022400771,277,1642273,Kyshawn George,1610612764,Washington Wizards,2,3,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,9,1,1,20250212,WAS,IND
+Shot Chart Detail,0022400771,440,1642273,Kyshawn George,1610612764,Washington Wizards,3,4,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-217,137,1,1,20250212,WAS,IND
+Shot Chart Detail,0022400771,612,1642273,Kyshawn George,1610612764,Washington Wizards,4,4,5,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,18,1,1,20250212,WAS,IND
+Shot Chart Detail,0022400799,51,1642273,Kyshawn George,1610612764,Washington Wizards,1,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-129,275,1,1,20250221,WAS,MIL
+Shot Chart Detail,0022400815,19,1642273,Kyshawn George,1610612764,Washington Wizards,1,10,24,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,83,253,1,1,20250223,ORL,WAS
+Shot Chart Detail,0022400815,134,1642273,Kyshawn George,1610612764,Washington Wizards,1,2,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,11,1,1,20250223,ORL,WAS
+Shot Chart Detail,0022400815,625,1642273,Kyshawn George,1610612764,Washington Wizards,4,6,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-173,195,1,1,20250223,ORL,WAS
+Shot Chart Detail,0022400824,23,1642273,Kyshawn George,1610612764,Washington Wizards,1,9,40,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-47,28,1,1,20250224,WAS,BKN
+Shot Chart Detail,0022400824,285,1642273,Kyshawn George,1610612764,Washington Wizards,2,4,23,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-129,236,1,1,20250224,WAS,BKN
+Shot Chart Detail,0022400824,401,1642273,Kyshawn George,1610612764,Washington Wizards,3,8,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,8,1,1,20250224,WAS,BKN
+Shot Chart Detail,0022400824,509,1642273,Kyshawn George,1610612764,Washington Wizards,3,2,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-191,221,1,1,20250224,WAS,BKN
+Shot Chart Detail,0022400839,74,1642273,Kyshawn George,1610612764,Washington Wizards,1,7,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,81,74,1,1,20250226,WAS,POR
+Shot Chart Detail,0022400839,449,1642273,Kyshawn George,1610612764,Washington Wizards,3,10,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,225,144,1,1,20250226,WAS,POR
+Shot Chart Detail,0022400860,153,1642273,Kyshawn George,1610612764,Washington Wizards,1,1,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,13,1,1,20250301,CHA,WAS
+Shot Chart Detail,0022400860,305,1642273,Kyshawn George,1610612764,Washington Wizards,2,3,58,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,9,1,1,20250301,CHA,WAS
+Shot Chart Detail,0022400860,425,1642273,Kyshawn George,1610612764,Washington Wizards,3,5,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,191,165,1,1,20250301,CHA,WAS
+Shot Chart Detail,0022400877,137,1642273,Kyshawn George,1610612764,Washington Wizards,1,1,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,99,227,1,1,20250303,MIA,WAS
+Shot Chart Detail,0022400877,340,1642273,Kyshawn George,1610612764,Washington Wizards,3,10,26,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,146,245,1,1,20250303,MIA,WAS
+Shot Chart Detail,0022400877,368,1642273,Kyshawn George,1610612764,Washington Wizards,3,7,40,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,3,1,1,20250303,MIA,WAS
+Shot Chart Detail,0022400877,400,1642273,Kyshawn George,1610612764,Washington Wizards,3,4,20,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,-7,1,1,20250303,MIA,WAS
+Shot Chart Detail,0022400894,219,1642273,Kyshawn George,1610612764,Washington Wizards,2,8,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-154,210,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,271,1642273,Kyshawn George,1610612764,Washington Wizards,2,5,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,14,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,287,1642273,Kyshawn George,1610612764,Washington Wizards,2,4,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,32,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,328,1642273,Kyshawn George,1610612764,Washington Wizards,2,0,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,185,205,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,376,1642273,Kyshawn George,1610612764,Washington Wizards,3,9,19,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,5,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,468,1642273,Kyshawn George,1610612764,Washington Wizards,3,3,2,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,34,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,481,1642273,Kyshawn George,1610612764,Washington Wizards,3,2,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-3,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,658,1642273,Kyshawn George,1610612764,Washington Wizards,4,3,19,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-165,195,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400915,22,1642273,Kyshawn George,1610612764,Washington Wizards,1,10,19,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,1,20250308,TOR,WAS
+Shot Chart Detail,0022400915,60,1642273,Kyshawn George,1610612764,Washington Wizards,1,8,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-7,1,1,20250308,TOR,WAS
+Shot Chart Detail,0022400932,15,1642273,Kyshawn George,1610612764,Washington Wizards,1,10,33,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,42,116,1,1,20250310,TOR,WAS
+Shot Chart Detail,0022400932,29,1642273,Kyshawn George,1610612764,Washington Wizards,1,9,36,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,48,246,1,1,20250310,TOR,WAS
+Shot Chart Detail,0022400932,610,1642273,Kyshawn George,1610612764,Washington Wizards,4,9,0,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-158,188,1,1,20250310,TOR,WAS
+Shot Chart Detail,0022400932,621,1642273,Kyshawn George,1610612764,Washington Wizards,4,8,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,161,193,1,1,20250310,TOR,WAS
+Shot Chart Detail,0022400941,37,1642273,Kyshawn George,1610612764,Washington Wizards,1,9,6,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,19,1,1,20250311,DET,WAS
+Shot Chart Detail,0022400941,360,1642273,Kyshawn George,1610612764,Washington Wizards,3,10,44,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,89,243,1,1,20250311,DET,WAS
+Shot Chart Detail,0022400941,584,1642273,Kyshawn George,1610612764,Washington Wizards,4,5,31,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,8,1,1,20250311,DET,WAS
+Shot Chart Detail,0022400941,630,1642273,Kyshawn George,1610612764,Washington Wizards,4,2,52,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-123,247,1,1,20250311,DET,WAS
+Shot Chart Detail,0022400954,565,1642273,Kyshawn George,1610612764,Washington Wizards,4,11,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,126,239,1,1,20250313,DET,WAS
+Shot Chart Detail,0022400954,689,1642273,Kyshawn George,1610612764,Washington Wizards,4,1,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-179,199,1,1,20250313,DET,WAS
+Shot Chart Detail,0022400954,699,1642273,Kyshawn George,1610612764,Washington Wizards,4,1,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,145,232,1,1,20250313,DET,WAS
+Shot Chart Detail,0022400975,331,1642273,Kyshawn George,1610612764,Washington Wizards,2,1,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-1,1,1,20250315,DEN,WAS
+Shot Chart Detail,0022400975,348,1642273,Kyshawn George,1610612764,Washington Wizards,2,0,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,190,182,1,1,20250315,DEN,WAS
+Shot Chart Detail,0022400975,394,1642273,Kyshawn George,1610612764,Washington Wizards,3,9,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,130,223,1,1,20250315,DEN,WAS
+Shot Chart Detail,0022400975,547,1642273,Kyshawn George,1610612764,Washington Wizards,3,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-12,278,1,1,20250315,DEN,WAS
+Shot Chart Detail,0022400975,577,1642273,Kyshawn George,1610612764,Washington Wizards,4,9,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,16,1,1,20250315,DEN,WAS
+Shot Chart Detail,0022400975,695,1642273,Kyshawn George,1610612764,Washington Wizards,4,0,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,23,1,1,20250315,DEN,WAS
+Shot Chart Detail,0022400983,285,1642273,Kyshawn George,1610612764,Washington Wizards,2,2,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,17,1,1,20250123,LAC,WAS
+Shot Chart Detail,0022400983,307,1642273,Kyshawn George,1610612764,Washington Wizards,2,0,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-97,246,1,1,20250123,LAC,WAS
+Shot Chart Detail,0022400995,50,1642273,Kyshawn George,1610612764,Washington Wizards,1,7,52,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,16,29,1,1,20250317,POR,WAS
+Shot Chart Detail,0022400995,287,1642273,Kyshawn George,1610612764,Washington Wizards,2,3,39,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-29,122,1,1,20250317,POR,WAS
+Shot Chart Detail,0022400995,321,1642273,Kyshawn George,1610612764,Washington Wizards,2,1,7,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,27,105,1,1,20250317,POR,WAS
+Shot Chart Detail,0022400995,365,1642273,Kyshawn George,1610612764,Washington Wizards,3,10,50,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-48,37,1,1,20250317,POR,WAS
+Shot Chart Detail,0022400995,409,1642273,Kyshawn George,1610612764,Washington Wizards,3,7,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-17,280,1,1,20250317,POR,WAS
+Shot Chart Detail,0022401014,16,1642273,Kyshawn George,1610612764,Washington Wizards,1,10,41,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-33,265,1,1,20250321,WAS,ORL
+Shot Chart Detail,0022401014,75,1642273,Kyshawn George,1610612764,Washington Wizards,1,4,59,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,54,63,1,1,20250321,WAS,ORL
+Shot Chart Detail,0022401014,248,1642273,Kyshawn George,1610612764,Washington Wizards,2,5,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,91,70,1,1,20250321,WAS,ORL
+Shot Chart Detail,0022401026,7,1642273,Kyshawn George,1610612764,Washington Wizards,1,11,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,3,1,1,20250322,NYK,WAS
+Shot Chart Detail,0022401026,136,1642273,Kyshawn George,1610612764,Washington Wizards,1,2,1,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-2,1,1,20250322,NYK,WAS
+Shot Chart Detail,0022401026,295,1642273,Kyshawn George,1610612764,Washington Wizards,2,2,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20250322,NYK,WAS
+Shot Chart Detail,0022401026,309,1642273,Kyshawn George,1610612764,Washington Wizards,2,1,26,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-54,243,1,1,20250322,NYK,WAS
+Shot Chart Detail,0022401026,393,1642273,Kyshawn George,1610612764,Washington Wizards,3,8,55,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,16,1,1,20250322,NYK,WAS
+Shot Chart Detail,0022401148,277,1642273,Kyshawn George,1610612764,Washington Wizards,2,4,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,1,20250408,IND,WAS
+Shot Chart Detail,0022401148,406,1642273,Kyshawn George,1610612764,Washington Wizards,3,6,48,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,121,89,1,1,20250408,IND,WAS
+Shot Chart Detail,0022401148,527,1642273,Kyshawn George,1610612764,Washington Wizards,4,10,31,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-165,244,1,1,20250408,IND,WAS
+Shot Chart Detail,0022401148,563,1642273,Kyshawn George,1610612764,Washington Wizards,4,6,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,11,1,1,20250408,IND,WAS
+Shot Chart Detail,0022401157,36,1642273,Kyshawn George,1610612764,Washington Wizards,1,8,51,Made Shot,Pullup Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,8,1,1,20250409,WAS,PHI
+Shot Chart Detail,0022401157,256,1642273,Kyshawn George,1610612764,Washington Wizards,2,6,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20250409,WAS,PHI
+Shot Chart Detail,0022401157,360,1642273,Kyshawn George,1610612764,Washington Wizards,3,11,31,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,173,226,1,1,20250409,WAS,PHI
+Shot Chart Detail,0022401157,428,1642273,Kyshawn George,1610612764,Washington Wizards,3,6,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,31,154,273,1,1,20250409,WAS,PHI
+Shot Chart Detail,0022401176,58,1642273,Kyshawn George,1610612764,Washington Wizards,1,6,56,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,48,7,1,1,20250411,CHI,WAS
+Shot Chart Detail,0022401176,61,1642273,Kyshawn George,1610612764,Washington Wizards,1,6,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-116,233,1,1,20250411,CHI,WAS
+Shot Chart Detail,0022401176,163,1642273,Kyshawn George,1610612764,Washington Wizards,2,11,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,1,1,1,20250411,CHI,WAS
+Shot Chart Detail,0022401176,338,1642273,Kyshawn George,1610612764,Washington Wizards,3,10,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-32,264,1,1,20250411,CHI,WAS
+Shot Chart Detail,0022401190,225,1642273,Kyshawn George,1610612764,Washington Wizards,2,6,32,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,12,1,1,20250413,MIA,WAS
+Shot Chart Detail,0022401190,244,1642273,Kyshawn George,1610612764,Washington Wizards,2,4,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-27,258,1,1,20250413,MIA,WAS

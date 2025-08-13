@@ -1,21 +1,258 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400020,551,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,5,4,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,69,131,1,1,20241115,SAC,MIN
+Shot Chart Detail,0022400020,576,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,3,44,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,11,1,1,20241115,SAC,MIN
+Shot Chart Detail,0022400059,125,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,1,41,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,42,1,1,20241203,SAC,HOU
+Shot Chart Detail,0022400059,192,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,8,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,189,163,1,1,20241203,SAC,HOU
+Shot Chart Detail,0022400059,486,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,0,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,5,1,1,20241203,SAC,HOU
+Shot Chart Detail,0022400059,568,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,7,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,156,208,1,1,20241203,SAC,HOU
+Shot Chart Detail,0022400076,376,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,8,42,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,59,1,1,20241024,SAC,MIN
+Shot Chart Detail,0022400096,74,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,5,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,157,209,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400096,89,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,4,43,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,100,260,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400096,243,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,6,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,213,130,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400096,417,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,7,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,34,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400096,427,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,6,41,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,-4,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400112,29,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,9,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-17,1,1,20241028,SAC,POR
+Shot Chart Detail,0022400112,54,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,6,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,235,84,1,1,20241028,SAC,POR
+Shot Chart Detail,0022400112,265,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,7,3,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,3,1,1,20241028,SAC,POR
+Shot Chart Detail,0022400112,390,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,10,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,129,232,1,1,20241028,SAC,POR
+Shot Chart Detail,0022400112,448,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,5,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,10,1,1,20241028,SAC,POR
+Shot Chart Detail,0022400112,461,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,4,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,6,172,1,1,20241028,SAC,POR
+Shot Chart Detail,0022400112,646,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,4,31,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-53,115,1,1,20241028,SAC,POR
+Shot Chart Detail,0022400115,20,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,10,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-72,247,1,1,20241029,UTA,SAC
+Shot Chart Detail,0022400115,60,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,5,52,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,5,1,1,20241029,UTA,SAC
+Shot Chart Detail,0022400115,199,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,8,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,8,1,1,20241029,UTA,SAC
+Shot Chart Detail,0022400115,377,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,6,37,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-47,17,1,1,20241029,UTA,SAC
+Shot Chart Detail,0022400115,531,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,8,37,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-159,117,1,1,20241029,UTA,SAC
+Shot Chart Detail,0022400115,554,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,6,46,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-20,91,1,1,20241029,UTA,SAC
+Shot Chart Detail,0022400135,9,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,11,22,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-197,167,1,1,20241101,ATL,SAC
+Shot Chart Detail,0022400135,250,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,7,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,16,1,1,20241101,ATL,SAC
+Shot Chart Detail,0022400135,382,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,10,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,73,1,1,20241101,ATL,SAC
+Shot Chart Detail,0022400135,526,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,11,35,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,4,1,1,20241101,ATL,SAC
+Shot Chart Detail,0022400180,49,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,7,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,18,1,1,20241106,SAC,TOR
+Shot Chart Detail,0022400180,233,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,6,36,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,8,1,1,20241106,SAC,TOR
+Shot Chart Detail,0022400180,265,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,3,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,108,237,1,1,20241106,SAC,TOR
+Shot Chart Detail,0022400180,453,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,3,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,4,1,1,20241106,SAC,TOR
+Shot Chart Detail,0022400196,17,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,10,36,Made Shot,Reverse Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,6,1,1,20241108,SAC,LAC
+Shot Chart Detail,0022400196,222,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,6,31,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,40,115,1,1,20241108,SAC,LAC
+Shot Chart Detail,0022400209,25,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,9,37,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,24,1,1,20241110,PHX,SAC
+Shot Chart Detail,0022400209,31,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,8,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,243,100,1,1,20241110,PHX,SAC
+Shot Chart Detail,0022400209,43,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,7,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-189,156,1,1,20241110,PHX,SAC
+Shot Chart Detail,0022400209,285,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,3,20,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,193,1,1,20241110,PHX,SAC
+Shot Chart Detail,0022400209,288,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,2,52,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,169,1,1,20241110,PHX,SAC
+Shot Chart Detail,0022400209,376,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,7,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-211,183,1,1,20241110,PHX,SAC
+Shot Chart Detail,0022400216,25,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,10,5,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20241111,SAS,SAC
+Shot Chart Detail,0022400227,52,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,7,38,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,71,104,1,1,20241113,SAC,PHX
+Shot Chart Detail,0022400227,229,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,8,19,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,60,1,1,20241113,SAC,PHX
+Shot Chart Detail,0022400227,239,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,7,9,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,69,53,1,1,20241113,SAC,PHX
+Shot Chart Detail,0022400227,422,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,5,49,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,19,1,1,20241113,SAC,PHX
+Shot Chart Detail,0022400227,427,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,5,39,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-4,1,1,20241113,SAC,PHX
+Shot Chart Detail,0022400227,505,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,0,54,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,35,1,1,20241113,SAC,PHX
+Shot Chart Detail,0022400227,515,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,0,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,13,1,1,20241113,SAC,PHX
+Shot Chart Detail,0022400227,564,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,7,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,214,127,1,1,20241113,SAC,PHX
+Shot Chart Detail,0022400227,621,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,4,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,21,1,1,20241113,SAC,PHX
+Shot Chart Detail,0022400233,32,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,8,57,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,167,202,1,1,20241116,SAC,UTA
+Shot Chart Detail,0022400233,109,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,3,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,34,1,1,20241116,SAC,UTA
+Shot Chart Detail,0022400233,250,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,6,29,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,56,254,1,1,20241116,SAC,UTA
+Shot Chart Detail,0022400233,255,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,5,14,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,71,165,1,1,20241116,SAC,UTA
+Shot Chart Detail,0022400233,430,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,4,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-186,220,1,1,20241116,SAC,UTA
+Shot Chart Detail,0022400233,608,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,5,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,207,168,1,1,20241116,SAC,UTA
+Shot Chart Detail,0022400250,118,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,3,49,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,39,96,1,1,20241118,SAC,ATL
+Shot Chart Detail,0022400250,247,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,7,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-213,124,1,1,20241118,SAC,ATL
+Shot Chart Detail,0022400250,278,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,6,2,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,78,52,1,1,20241118,SAC,ATL
+Shot Chart Detail,0022400250,330,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,1,31,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,11,1,1,20241118,SAC,ATL
+Shot Chart Detail,0022400276,54,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,6,42,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,1,1,1,20241124,SAC,BKN
+Shot Chart Detail,0022400276,237,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,6,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,168,206,1,1,20241124,SAC,BKN
+Shot Chart Detail,0022400276,412,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,6,51,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,82,4,1,1,20241124,SAC,BKN
+Shot Chart Detail,0022400276,545,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,11,15,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,20,1,1,20241124,SAC,BKN
+Shot Chart Detail,0022400294,184,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,10,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,178,181,1,1,20241127,MIN,SAC
+Shot Chart Detail,0022400329,143,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,1,20,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-87,183,1,1,20241205,MEM,SAC
+Shot Chart Detail,0022400329,187,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,9,38,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,18,1,1,20241205,MEM,SAC
+Shot Chart Detail,0022400329,509,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,1,40,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-28,20,1,1,20241205,MEM,SAC
+Shot Chart Detail,0022400337,107,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,3,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,202,168,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400337,125,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,2,5,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-197,184,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400337,263,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,5,51,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,13,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400337,536,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,10,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,137,236,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400337,577,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,8,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,233,95,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400337,599,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,6,54,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241206,SAS,SAC
+Shot Chart Detail,0022400357,73,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,5,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,110,55,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400357,137,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,1,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-153,214,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400357,152,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,0,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-53,259,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400357,172,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,11,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,20,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400357,215,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,8,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,5,254,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400357,406,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,6,2,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,4,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400357,456,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,2,41,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,10,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400357,482,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,0,57,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-16,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400357,490,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,0,33,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,10,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400357,535,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,9,11,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-4,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400372,83,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,5,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-156,201,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400372,179,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,11,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,45,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400376,127,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,3,2,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,14,1,1,20241221,SAC,LAL
+Shot Chart Detail,0022400376,238,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,7,48,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,52,1,1,20241221,SAC,LAL
+Shot Chart Detail,0022400376,433,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,3,53,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,21,1,1,20241221,SAC,LAL
+Shot Chart Detail,0022400376,524,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,9,46,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,36,1,1,20241221,SAC,LAL
+Shot Chart Detail,0022400389,101,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,3,32,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,15,1,1,20241222,SAC,IND
+Shot Chart Detail,0022400389,150,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,11,39,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-9,37,1,1,20241222,SAC,IND
+Shot Chart Detail,0022400389,209,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,7,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-147,231,1,1,20241222,SAC,IND
+Shot Chart Detail,0022400418,77,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,5,34,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,89,240,1,1,20241226,SAC,DET
+Shot Chart Detail,0022400418,426,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,4,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-158,209,1,1,20241226,SAC,DET
+Shot Chart Detail,0022400435,124,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,0,49,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-98,158,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400435,144,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,11,27,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,18,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400435,164,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,9,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,4,76,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400435,568,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,6,54,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,195,189,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400448,543,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,1,33,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-65,269,1,1,20241230,SAC,DAL
+Shot Chart Detail,0022400462,263,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,5,41,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-5,1,1,20250101,SAC,PHI
+Shot Chart Detail,0022400476,252,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,6,42,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-147,239,1,1,20250103,SAC,MEM
+Shot Chart Detail,0022400476,502,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,3,54,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-85,29,1,1,20250103,SAC,MEM
+Shot Chart Detail,0022400492,66,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,4,55,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,127,232,1,1,20250105,GSW,SAC
+Shot Chart Detail,0022400492,74,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,4,20,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-1,256,1,1,20250105,GSW,SAC
+Shot Chart Detail,0022400492,424,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,5,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,29,1,1,20250105,GSW,SAC
+Shot Chart Detail,0022400492,445,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,4,28,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-188,184,1,1,20250105,GSW,SAC
+Shot Chart Detail,0022400492,556,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-26,279,1,1,20250105,GSW,SAC
+Shot Chart Detail,0022400501,77,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,6,21,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,93,245,1,1,20250106,SAC,MIA
+Shot Chart Detail,0022400501,152,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-118,-22,1,1,20250106,SAC,MIA
+Shot Chart Detail,0022400501,182,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,11,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,78,155,1,1,20250106,SAC,MIA
+Shot Chart Detail,0022400528,136,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,2,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,17,1,1,20250110,BOS,SAC
+Shot Chart Detail,0022400541,95,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,3,54,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,8,1,1,20250112,CHI,SAC
+Shot Chart Detail,0022400541,235,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,7,20,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-3,1,1,20250112,CHI,SAC
+Shot Chart Detail,0022400541,439,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,4,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,55,1,1,20250112,CHI,SAC
+Shot Chart Detail,0022400558,147,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,1,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20250114,MIL,SAC
+Shot Chart Detail,0022400558,419,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,4,33,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,55,121,1,1,20250114,MIL,SAC
+Shot Chart Detail,0022400558,436,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,3,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,219,135,1,1,20250114,MIL,SAC
+Shot Chart Detail,0022400576,424,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,3,29,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,156,235,1,1,20250116,SAC,HOU
+Shot Chart Detail,0022400576,466,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,0,26,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,13,1,1,20250116,SAC,HOU
+Shot Chart Detail,0022400598,665,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,2,45,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,-3,1,1,20250119,SAC,WAS
+Shot Chart Detail,0022400641,709,1628989,Kevin Huerter,1610612758,Sacramento Kings,4,1,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,142,227,1,1,20250125,NYK,SAC
+Shot Chart Detail,0022400669,234,1628989,Kevin Huerter,1610612758,Sacramento Kings,2,6,38,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,16,106,1,1,20250129,PHI,SAC
+Shot Chart Detail,0022400669,418,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,4,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,148,208,1,1,20250129,PHI,SAC
+Shot Chart Detail,0022400691,465,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,3,29,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-170,183,1,1,20250201,OKC,SAC
+Shot Chart Detail,0022400745,185,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,10,3,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-100,247,1,1,20250208,CHI,GSW
+Shot Chart Detail,0022400766,423,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,5,7,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20250211,CHI,DET
+Shot Chart Detail,0022400766,457,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,2,20,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20250211,CHI,DET
+Shot Chart Detail,0022400775,571,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,10,29,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250212,CHI,DET
+Shot Chart Detail,0022400792,106,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,3,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,58,254,1,1,20250220,NYK,CHI
+Shot Chart Detail,0022400792,460,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,2,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,127,240,1,1,20250220,NYK,CHI
+Shot Chart Detail,0022400792,490,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,0,1,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,0,1,1,20250220,NYK,CHI
+Shot Chart Detail,0022400806,102,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,3,28,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,80,1,1,20250222,CHI,PHX
+Shot Chart Detail,0022400806,143,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,0,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-199,197,1,1,20250222,CHI,PHX
+Shot Chart Detail,0022400806,353,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,9,47,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,8,1,1,20250222,CHI,PHX
+Shot Chart Detail,0022400806,467,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,0,38,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,167,235,1,1,20250222,CHI,PHX
+Shot Chart Detail,0022400806,525,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,8,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,50,1,1,20250222,CHI,PHX
+Shot Chart Detail,0022400823,8,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,11,40,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,-20,1,1,20250224,PHI,CHI
+Shot Chart Detail,0022400823,74,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,6,44,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-158,215,1,1,20250224,PHI,CHI
+Shot Chart Detail,0022400823,182,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,0,38,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-184,168,1,1,20250224,PHI,CHI
+Shot Chart Detail,0022400823,219,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,10,29,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,1,1,1,20250224,PHI,CHI
+Shot Chart Detail,0022400823,293,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,5,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,169,213,1,1,20250224,PHI,CHI
+Shot Chart Detail,0022400823,404,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,9,37,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,34,1,1,20250224,PHI,CHI
+Shot Chart Detail,0022400823,437,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,7,18,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,223,94,1,1,20250224,PHI,CHI
+Shot Chart Detail,0022400823,499,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,4,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,103,230,1,1,20250224,PHI,CHI
+Shot Chart Detail,0022400842,99,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,3,44,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-215,153,1,1,20250226,CHI,LAC
+Shot Chart Detail,0022400842,194,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,9,38,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-11,56,1,1,20250226,CHI,LAC
+Shot Chart Detail,0022400842,216,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,8,14,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,210,177,1,1,20250226,CHI,LAC
+Shot Chart Detail,0022400842,561,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,5,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,19,1,1,20250226,CHI,LAC
+Shot Chart Detail,0022400842,577,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,4,15,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,30,48,1,1,20250226,CHI,LAC
+Shot Chart Detail,0022400855,65,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,6,50,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,116,226,1,1,20250228,CHI,TOR
+Shot Chart Detail,0022400855,114,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,2,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-13,1,1,20250228,CHI,TOR
+Shot Chart Detail,0022400855,315,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,0,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-3,1,1,20250228,CHI,TOR
+Shot Chart Detail,0022400855,542,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,9,56,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,157,204,1,1,20250228,CHI,TOR
+Shot Chart Detail,0022400916,75,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,5,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,8,1,1,20250308,MIA,CHI
+Shot Chart Detail,0022400916,96,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,4,21,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-5,1,1,20250308,MIA,CHI
+Shot Chart Detail,0022400916,398,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,6,49,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,5,1,1,20250308,MIA,CHI
+Shot Chart Detail,0022400916,432,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,4,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,20,1,1,20250308,MIA,CHI
+Shot Chart Detail,0022400933,91,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,5,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,216,127,1,1,20250310,CHI,IND
+Shot Chart Detail,0022400933,188,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,10,51,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-62,55,1,1,20250310,CHI,IND
+Shot Chart Detail,0022400933,435,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,6,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,136,222,1,1,20250310,CHI,IND
+Shot Chart Detail,0022400933,624,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,6,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,60,250,1,1,20250310,CHI,IND
+Shot Chart Detail,0022400933,643,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,4,45,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,6,1,1,20250310,CHI,IND
+Shot Chart Detail,0022400944,162,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,0,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-156,194,1,1,20250306,ORL,CHI
+Shot Chart Detail,0022400944,195,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,10,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-143,48,1,1,20250306,ORL,CHI
+Shot Chart Detail,0022400944,349,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,1,28,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-173,178,1,1,20250306,ORL,CHI
+Shot Chart Detail,0022400944,524,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,2,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,175,188,1,1,20250306,ORL,CHI
+Shot Chart Detail,0022400956,37,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,8,37,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,19,1,1,20250313,CHI,BKN
+Shot Chart Detail,0022400956,240,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,6,53,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,103,264,1,1,20250313,CHI,BKN
+Shot Chart Detail,0022400956,262,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,4,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,32,1,1,20250313,CHI,BKN
+Shot Chart Detail,0022400956,307,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,1,11,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,63,39,1,1,20250313,CHI,BKN
+Shot Chart Detail,0022400956,608,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,3,54,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,15,1,1,20250313,CHI,BKN
+Shot Chart Detail,0022400956,637,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,1,38,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,41,50,1,1,20250313,CHI,BKN
+Shot Chart Detail,0022400956,650,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,1,5,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-33,48,1,1,20250313,CHI,BKN
+Shot Chart Detail,0022400970,63,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,6,57,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,61,71,1,1,20250315,HOU,CHI
+Shot Chart Detail,0022400970,324,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,1,6,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-1,1,1,20250315,HOU,CHI
+Shot Chart Detail,0022400970,328,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,0,31,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,10,1,1,20250315,HOU,CHI
+Shot Chart Detail,0022400970,569,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,9,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-7,251,1,1,20250315,HOU,CHI
+Shot Chart Detail,0022400989,9,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,11,36,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,27,1,1,20250317,UTA,CHI
+Shot Chart Detail,0022400989,23,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,10,24,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,121,220,1,1,20250317,UTA,CHI
+Shot Chart Detail,0022400989,116,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,4,1,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-47,258,1,1,20250317,UTA,CHI
+Shot Chart Detail,0022400989,331,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,0,58,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,2,1,1,20250317,UTA,CHI
+Shot Chart Detail,0022400989,367,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,9,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,135,245,1,1,20250317,UTA,CHI
+Shot Chart Detail,0022400989,582,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,6,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-185,197,1,1,20250317,UTA,CHI
+Shot Chart Detail,0022401007,17,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,10,39,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,176,190,1,1,20250319,PHX,CHI
+Shot Chart Detail,0022401007,57,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,6,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-131,236,1,1,20250319,PHX,CHI
+Shot Chart Detail,0022401007,324,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,0,7,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,32,45,1,1,20250319,PHX,CHI
+Shot Chart Detail,0022401007,387,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,7,38,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,29,1,1,20250319,PHX,CHI
+Shot Chart Detail,0022401007,618,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,3,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,235,78,1,1,20250319,PHX,CHI
+Shot Chart Detail,0022401007,686,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,0,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,7,1,1,20250319,PHX,CHI
+Shot Chart Detail,0022401013,20,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,10,12,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-1,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,241,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,6,54,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-4,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,307,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,1,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-203,140,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,319,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,0,16,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,44,45,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,335,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,11,38,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,15,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,395,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,7,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-197,158,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,549,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,8,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,16,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,557,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,7,36,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,222,83,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,623,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,2,35,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,-1,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401013,627,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,1,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,223,68,1,1,20250320,SAC,CHI
+Shot Chart Detail,0022401028,366,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,9,42,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,31,1,1,20250322,LAL,CHI
+Shot Chart Detail,0022401028,390,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,7,34,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-21,113,1,1,20250322,LAL,CHI
+Shot Chart Detail,0022401028,409,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,6,2,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,21,1,1,20250322,LAL,CHI
+Shot Chart Detail,0022401028,513,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,0,44,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,17,67,1,1,20250322,LAL,CHI
+Shot Chart Detail,0022401028,539,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,10,28,Made Shot,Turnaround Bank Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,21,1,1,20250322,LAL,CHI
+Shot Chart Detail,0022401028,623,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,6,5,Made Shot,Reverse Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-12,50,1,1,20250322,LAL,CHI
+Shot Chart Detail,0022401042,294,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,3,34,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,16,1,1,20250324,DEN,CHI
+Shot Chart Detail,0022401042,298,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,2,53,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,54,84,1,1,20250324,DEN,CHI
+Shot Chart Detail,0022401042,394,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,8,45,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,9,1,1,20250324,DEN,CHI
+Shot Chart Detail,0022401042,417,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,6,14,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,22,1,1,20250324,DEN,CHI
+Shot Chart Detail,0022401063,40,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,8,2,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,30,1,1,20250327,CHI,LAL
+Shot Chart Detail,0022401063,85,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,5,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,194,1,1,20250327,CHI,LAL
+Shot Chart Detail,0022401063,300,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,3,32,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-83,246,1,1,20250327,CHI,LAL
+Shot Chart Detail,0022401063,429,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,5,10,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-6,33,1,1,20250327,CHI,LAL
+Shot Chart Detail,0022401063,485,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,1,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,10,1,1,20250327,CHI,LAL
+Shot Chart Detail,0022401063,548,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,9,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,0,279,1,1,20250327,CHI,LAL
+Shot Chart Detail,0022401063,609,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,3,55,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,7,1,1,20250327,CHI,LAL
+Shot Chart Detail,0022401063,640,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,0,46,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-33,288,1,1,20250327,CHI,LAL
+Shot Chart Detail,0022401077,16,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,10,18,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,0,1,1,20250329,CHI,DAL
+Shot Chart Detail,0022401077,515,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,0,15,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,12,1,1,20250329,CHI,DAL
+Shot Chart Detail,0022401077,655,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,1,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-157,204,1,1,20250329,CHI,DAL
+Shot Chart Detail,0022401099,17,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,10,44,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,16,1,1,20250401,CHI,TOR
+Shot Chart Detail,0022401099,69,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,6,32,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20250401,CHI,TOR
+Shot Chart Detail,0022401099,74,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,5,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-195,178,1,1,20250401,CHI,TOR
+Shot Chart Detail,0022401099,79,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,5,31,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,15,1,1,20250401,CHI,TOR
+Shot Chart Detail,0022401099,329,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,11,46,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,5,1,1,20250401,CHI,TOR
+Shot Chart Detail,0022401099,351,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,9,38,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,3,1,1,20250401,CHI,TOR
+Shot Chart Detail,0022401099,450,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,3,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,141,209,1,1,20250401,CHI,TOR
+Shot Chart Detail,0022401122,44,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,8,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-16,268,1,1,20250404,CHI,POR
+Shot Chart Detail,0022401122,281,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,3,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-154,221,1,1,20250404,CHI,POR
+Shot Chart Detail,0022401122,571,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,8,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,20,1,1,20250404,CHI,POR
+Shot Chart Detail,0022401133,32,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,8,24,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,10,1,1,20250406,CHA,CHI
+Shot Chart Detail,0022401133,239,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,4,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,6,1,1,20250406,CHA,CHI
+Shot Chart Detail,0022401133,273,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,1,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-232,64,1,1,20250406,CHA,CHI
+Shot Chart Detail,0022401133,361,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,8,36,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,10,1,1,20250406,CHA,CHI
+Shot Chart Detail,0022401133,622,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,3,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,40,1,1,20250406,CHA,CHI
+Shot Chart Detail,0022401160,28,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,10,0,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,44,44,1,1,20250409,CHI,MIA
+Shot Chart Detail,0022401160,49,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,8,2,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-68,48,1,1,20250409,CHI,MIA
+Shot Chart Detail,0022401160,59,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,7,27,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-31,269,1,1,20250409,CHI,MIA
+Shot Chart Detail,0022401160,96,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,4,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,196,190,1,1,20250409,CHI,MIA
+Shot Chart Detail,0022401160,357,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,7,42,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,39,1,1,20250409,CHI,MIA
+Shot Chart Detail,0022401160,373,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,6,32,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,52,55,1,1,20250409,CHI,MIA
+Shot Chart Detail,0022401160,377,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,6,11,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,4,1,1,20250409,CHI,MIA
+Shot Chart Detail,0022401160,439,1628989,Kevin Huerter,1610612741,Chicago Bulls,3,1,22,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,36,51,1,1,20250409,CHI,MIA
+Shot Chart Detail,0022401160,554,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,5,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,27,1,1,20250409,CHI,MIA
+Shot Chart Detail,0022401176,23,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,9,58,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,14,1,1,20250411,CHI,WAS
+Shot Chart Detail,0022401176,183,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,9,23,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,205,155,1,1,20250411,CHI,WAS
+Shot Chart Detail,0022401176,562,1628989,Kevin Huerter,1610612741,Chicago Bulls,4,8,19,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,1,20250411,CHI,WAS
+Shot Chart Detail,0022401191,19,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,11,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,170,235,1,1,20250413,PHI,CHI
+Shot Chart Detail,0022401191,34,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,9,39,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-12,1,1,20250413,PHI,CHI
+Shot Chart Detail,0022401191,60,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,7,47,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-188,163,1,1,20250413,PHI,CHI
+Shot Chart Detail,0022401191,104,1628989,Kevin Huerter,1610612741,Chicago Bulls,1,4,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,179,194,1,1,20250413,PHI,CHI
+Shot Chart Detail,0022401191,206,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,9,10,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,23,252,1,1,20250413,PHI,CHI
+Shot Chart Detail,0022401191,210,1628989,Kevin Huerter,1610612741,Chicago Bulls,2,8,51,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-21,1,1,20250413,PHI,CHI
+Shot Chart Detail,0022401207,145,1628989,Kevin Huerter,1610612758,Sacramento Kings,1,1,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,207,157,1,1,20241212,NOP,SAC
+Shot Chart Detail,0022401207,524,1628989,Kevin Huerter,1610612758,Sacramento Kings,3,0,49,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-74,42,1,1,20241212,NOP,SAC

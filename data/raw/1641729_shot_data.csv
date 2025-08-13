@@ -1,21 +1,276 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400038,190,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,10,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,214,132,1,1,20241126,UTA,SAS
+Shot Chart Detail,0022400038,215,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,8,23,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,44,187,1,1,20241126,UTA,SAS
+Shot Chart Detail,0022400038,219,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,7,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,227,100,1,1,20241126,UTA,SAS
+Shot Chart Detail,0022400038,230,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,7,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,130,224,1,1,20241126,UTA,SAS
+Shot Chart Detail,0022400038,260,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,5,44,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-78,250,1,1,20241126,UTA,SAS
+Shot Chart Detail,0022400038,305,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,2,45,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,42,80,1,1,20241126,UTA,SAS
+Shot Chart Detail,0022400055,509,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,9,19,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,69,44,1,1,20241203,OKC,UTA
+Shot Chart Detail,0022400055,519,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,8,50,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,98,243,1,1,20241203,OKC,UTA
+Shot Chart Detail,0022400070,508,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,4,26,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-23,86,1,1,20241023,UTA,MEM
+Shot Chart Detail,0022400084,97,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,5,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-235,80,1,1,20241025,UTA,GSW
+Shot Chart Detail,0022400084,479,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,5,49,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,25,1,1,20241025,UTA,GSW
+Shot Chart Detail,0022400084,515,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,2,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-221,123,1,1,20241025,UTA,GSW
+Shot Chart Detail,0022400115,152,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,11,18,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,12,1,1,20241029,UTA,SAC
+Shot Chart Detail,0022400115,219,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,6,58,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-74,246,1,1,20241029,UTA,SAC
+Shot Chart Detail,0022400115,234,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,5,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,68,1,1,20241029,UTA,SAC
+Shot Chart Detail,0022400115,635,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,0,32,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,30,1,1,20241029,UTA,SAC
+Shot Chart Detail,0022400130,221,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,8,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-13,1,1,20241031,UTA,SAS
+Shot Chart Detail,0022400130,481,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,2,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,18,1,1,20241031,UTA,SAS
+Shot Chart Detail,0022400148,79,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,6,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,98,257,1,1,20241102,DEN,UTA
+Shot Chart Detail,0022400148,488,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,2,51,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-54,293,1,1,20241102,DEN,UTA
+Shot Chart Detail,0022400148,545,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,11,18,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,61,100,1,1,20241102,DEN,UTA
+Shot Chart Detail,0022400160,241,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,7,4,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,31,113,1,1,20241104,CHI,UTA
+Shot Chart Detail,0022400182,615,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,1,51,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,112,74,1,1,20241107,MIL,UTA
+Shot Chart Detail,0022400262,203,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,9,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,162,215,1,1,20241121,SAS,UTA
+Shot Chart Detail,0022400262,232,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,7,59,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,18,1,1,20241121,SAS,UTA
+Shot Chart Detail,0022400262,235,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,7,38,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,22,277,1,1,20241121,SAS,UTA
+Shot Chart Detail,0022400262,272,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,5,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,15,1,1,20241121,SAS,UTA
+Shot Chart Detail,0022400262,275,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,4,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,20,1,1,20241121,SAS,UTA
+Shot Chart Detail,0022400262,611,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,10,14,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241121,SAS,UTA
+Shot Chart Detail,0022400262,749,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,0,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,200,158,1,1,20241121,SAS,UTA
+Shot Chart Detail,0022400298,144,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,0,42,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241127,UTA,DEN
+Shot Chart Detail,0022400298,418,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,3,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,11,1,1,20241127,UTA,DEN
+Shot Chart Detail,0022400298,447,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,1,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-119,234,1,1,20241127,UTA,DEN
+Shot Chart Detail,0022400298,497,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,10,22,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,113,229,1,1,20241127,UTA,DEN
+Shot Chart Detail,0022400298,594,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,2,46,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,16,1,1,20241127,UTA,DEN
+Shot Chart Detail,0022400304,96,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,5,3,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,80,43,1,1,20241130,UTA,DAL
+Shot Chart Detail,0022400304,101,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,4,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,225,67,1,1,20241130,UTA,DAL
+Shot Chart Detail,0022400304,108,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,3,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,56,244,1,1,20241130,UTA,DAL
+Shot Chart Detail,0022400304,510,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,0,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-192,155,1,1,20241130,UTA,DAL
+Shot Chart Detail,0022400311,89,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,4,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,5,1,1,20241201,UTA,LAL
+Shot Chart Detail,0022400311,271,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,5,10,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-83,241,1,1,20241201,UTA,LAL
+Shot Chart Detail,0022400339,186,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,9,53,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-43,59,1,1,20241206,POR,UTA
+Shot Chart Detail,0022400339,527,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,11,9,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,8,1,1,20241206,POR,UTA
+Shot Chart Detail,0022400339,580,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,7,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,31,1,1,20241206,POR,UTA
+Shot Chart Detail,0022400339,602,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,5,11,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,69,113,1,1,20241206,POR,UTA
+Shot Chart Detail,0022400339,648,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,1,6,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,71,45,1,1,20241206,POR,UTA
+Shot Chart Detail,0022400357,130,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,2,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-200,148,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400357,162,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,0,12,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,24,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400357,580,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,5,15,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-168,199,1,1,20241208,SAC,UTA
+Shot Chart Detail,0022400360,120,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,3,3,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,13,1,1,20241219,DET,UTA
+Shot Chart Detail,0022400360,151,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,0,39,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,2,1,1,20241219,DET,UTA
+Shot Chart Detail,0022400379,160,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,0,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,20,1,1,20241221,BKN,UTA
+Shot Chart Detail,0022400379,524,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,9,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,43,255,1,1,20241221,BKN,UTA
+Shot Chart Detail,0022400379,530,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,8,31,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,5,1,1,20241221,BKN,UTA
+Shot Chart Detail,0022400392,212,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,8,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,132,64,1,1,20241223,CLE,UTA
+Shot Chart Detail,0022400417,279,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,3,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,85,153,1,1,20241226,POR,UTA
+Shot Chart Detail,0022400417,416,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,5,8,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-59,-5,1,1,20241226,POR,UTA
+Shot Chart Detail,0022400433,153,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,0,1,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-77,115,1,1,20241228,UTA,PHI
+Shot Chart Detail,0022400433,216,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,8,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,17,1,1,20241228,UTA,PHI
+Shot Chart Detail,0022400433,233,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,6,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,98,254,1,1,20241228,UTA,PHI
+Shot Chart Detail,0022400433,483,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,1,49,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,82,271,1,1,20241228,UTA,PHI
+Shot Chart Detail,0022400433,486,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,1,8,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-16,83,1,1,20241228,UTA,PHI
+Shot Chart Detail,0022400433,547,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,8,2,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,70,268,1,1,20241228,UTA,PHI
+Shot Chart Detail,0022400445,508,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,9,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-6,1,1,20241230,UTA,DEN
+Shot Chart Detail,0022400445,532,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,8,1,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-62,34,1,1,20241230,UTA,DEN
+Shot Chart Detail,0022400458,186,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,9,26,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,33,81,1,1,20250101,NYK,UTA
+Shot Chart Detail,0022400458,193,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,8,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,8,1,1,20250101,NYK,UTA
+Shot Chart Detail,0022400481,193,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,10,48,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-141,221,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400481,243,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,7,34,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,8,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400481,251,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,6,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,178,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400481,267,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,4,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,4,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400481,284,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,3,16,Made Shot,Tip Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-49,19,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400481,539,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,9,16,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-222,137,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400481,597,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,6,6,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-203,175,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400481,609,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,4,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,173,195,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400481,616,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,4,23,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,31,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400481,623,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,4,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,2,254,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400481,652,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,1,12,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,29,118,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400481,655,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,0,39,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-180,247,1,1,20250104,MIA,UTA
+Shot Chart Detail,0022400490,143,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,0,31,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-39,278,1,1,20250105,ORL,UTA
+Shot Chart Detail,0022400490,148,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,0,3,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,27,1,1,20250105,ORL,UTA
+Shot Chart Detail,0022400490,194,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,8,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,35,1,1,20250105,ORL,UTA
+Shot Chart Detail,0022400490,217,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,6,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,14,1,1,20250105,ORL,UTA
+Shot Chart Detail,0022400490,412,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,3,53,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-21,123,1,1,20250105,ORL,UTA
+Shot Chart Detail,0022400490,428,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,2,44,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,11,78,1,1,20250105,ORL,UTA
+Shot Chart Detail,0022400490,489,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,9,43,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,202,1,1,20250105,ORL,UTA
+Shot Chart Detail,0022400490,511,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,8,27,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-172,232,1,1,20250105,ORL,UTA
+Shot Chart Detail,0022400490,516,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,7,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,11,1,1,20250105,ORL,UTA
+Shot Chart Detail,0022400490,586,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,3,8,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,70,1,1,20250105,ORL,UTA
+Shot Chart Detail,0022400490,621,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,1,39,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,20,1,1,20250105,ORL,UTA
+Shot Chart Detail,0022400546,105,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,3,51,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,42,1,1,20250112,UTA,BKN
+Shot Chart Detail,0022400546,138,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,1,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,107,233,1,1,20250112,UTA,BKN
+Shot Chart Detail,0022400546,151,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,0,29,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,20,1,1,20250112,UTA,BKN
+Shot Chart Detail,0022400546,510,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,0,38,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,199,147,1,1,20250112,UTA,BKN
+Shot Chart Detail,0022400546,724,1641729,Brice Sensabaugh,1610612762,Utah Jazz,5,1,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-138,197,1,1,20250112,UTA,BKN
+Shot Chart Detail,0022400569,98,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,5,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,134,209,1,1,20250115,UTA,CHA
+Shot Chart Detail,0022400569,102,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,5,12,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,34,1,1,20250115,UTA,CHA
+Shot Chart Detail,0022400569,132,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,2,52,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-26,81,1,1,20250115,UTA,CHA
+Shot Chart Detail,0022400569,146,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,2,35,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-22,27,1,1,20250115,UTA,CHA
+Shot Chart Detail,0022400569,341,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,0,30,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,48,117,1,1,20250115,UTA,CHA
+Shot Chart Detail,0022400569,417,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,5,12,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,14,1,1,20250115,UTA,CHA
+Shot Chart Detail,0022400569,584,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,5,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,162,187,1,1,20250115,UTA,CHA
+Shot Chart Detail,0022400581,125,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,3,36,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,216,1,1,20250117,NOP,UTA
+Shot Chart Detail,0022400581,146,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,2,24,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-42,33,1,1,20250117,NOP,UTA
+Shot Chart Detail,0022400581,360,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,2,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-23,259,1,1,20250117,NOP,UTA
+Shot Chart Detail,0022400581,507,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,4,54,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,48,1,1,20250117,NOP,UTA
+Shot Chart Detail,0022400581,553,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,1,45,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3,34,1,1,20250117,NOP,UTA
+Shot Chart Detail,0022400581,672,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,6,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-236,27,1,1,20250117,NOP,UTA
+Shot Chart Detail,0022400605,78,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,4,52,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,10,1,1,20250120,NOP,UTA
+Shot Chart Detail,0022400605,291,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,3,27,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-10,54,1,1,20250120,NOP,UTA
+Shot Chart Detail,0022400605,311,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,2,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,7,1,1,20250120,NOP,UTA
+Shot Chart Detail,0022400605,643,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,4,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,26,1,1,20250120,NOP,UTA
+Shot Chart Detail,0022400627,315,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,0,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-5,1,1,20250319,UTA,WAS
+Shot Chart Detail,0022400627,426,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,4,35,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,127,100,1,1,20250319,UTA,WAS
+Shot Chart Detail,0022400627,429,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,4,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,16,1,1,20250319,UTA,WAS
+Shot Chart Detail,0022400627,434,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,3,53,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,25,1,1,20250319,UTA,WAS
+Shot Chart Detail,0022400627,503,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,11,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,38,152,1,1,20250319,UTA,WAS
+Shot Chart Detail,0022400627,517,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,10,1,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,87,62,1,1,20250319,UTA,WAS
+Shot Chart Detail,0022400627,521,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,9,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,155,1,1,20250319,UTA,WAS
+Shot Chart Detail,0022400643,105,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,4,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-18,1,1,20250125,MEM,UTA
+Shot Chart Detail,0022400658,89,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,5,44,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,221,-31,1,1,20250127,UTA,MIL
+Shot Chart Detail,0022400658,165,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,0,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,18,1,1,20250127,UTA,MIL
+Shot Chart Detail,0022400658,267,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,5,34,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,11,1,1,20250127,UTA,MIL
+Shot Chart Detail,0022400658,280,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,4,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,-17,1,1,20250127,UTA,MIL
+Shot Chart Detail,0022400658,431,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,4,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-5,1,1,20250127,UTA,MIL
+Shot Chart Detail,0022400658,447,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,3,51,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-130,113,1,1,20250127,UTA,MIL
+Shot Chart Detail,0022400661,367,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,10,40,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-119,14,1,1,20250128,GSW,UTA
+Shot Chart Detail,0022400661,608,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,7,20,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-36,22,1,1,20250128,GSW,UTA
+Shot Chart Detail,0022400661,629,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,6,14,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,19,1,1,20250128,GSW,UTA
+Shot Chart Detail,0022400677,488,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,10,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-189,168,1,1,20250130,UTA,MIN
+Shot Chart Detail,0022400687,157,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,0,18,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-28,38,1,1,20250201,UTA,ORL
+Shot Chart Detail,0022400687,190,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,11,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,-16,1,1,20250201,UTA,ORL
+Shot Chart Detail,0022400687,230,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,8,11,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-27,99,1,1,20250201,UTA,ORL
+Shot Chart Detail,0022400687,515,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,0,31,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-69,74,1,1,20250201,UTA,ORL
+Shot Chart Detail,0022400707,219,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,8,54,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-80,48,1,1,20250203,UTA,IND
+Shot Chart Detail,0022400740,593,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,7,43,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,109,99,1,1,20250207,PHX,UTA
+Shot Chart Detail,0022400751,220,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,7,12,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-11,57,1,1,20250208,LAC,UTA
+Shot Chart Detail,0022400751,463,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,2,50,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-55,30,1,1,20250208,LAC,UTA
+Shot Chart Detail,0022400751,525,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,10,11,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,11,1,1,20250208,LAC,UTA
+Shot Chart Detail,0022400809,176,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,11,43,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,3,1,1,20250222,UTA,HOU
+Shot Chart Detail,0022400809,414,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,8,53,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-86,121,1,1,20250222,UTA,HOU
+Shot Chart Detail,0022400809,429,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,7,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,11,1,1,20250222,UTA,HOU
+Shot Chart Detail,0022400809,546,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,10,8,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,31,1,1,20250222,UTA,HOU
+Shot Chart Detail,0022400809,589,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,7,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-227,115,1,1,20250222,UTA,HOU
+Shot Chart Detail,0022400827,33,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,9,24,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,216,167,1,1,20250224,UTA,POR
+Shot Chart Detail,0022400827,197,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,9,38,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,105,71,1,1,20250224,UTA,POR
+Shot Chart Detail,0022400827,388,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,8,30,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,11,1,1,20250224,UTA,POR
+Shot Chart Detail,0022400827,418,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,7,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,15,1,1,20250224,UTA,POR
+Shot Chart Detail,0022400827,570,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,8,54,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,7,1,1,20250224,UTA,POR
+Shot Chart Detail,0022400827,658,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,3,11,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250224,UTA,POR
+Shot Chart Detail,0022400827,669,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,2,4,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,96,236,1,1,20250224,UTA,POR
+Shot Chart Detail,0022400843,32,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,9,22,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-169,200,1,1,20250226,UTA,SAC
+Shot Chart Detail,0022400843,334,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,10,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,1,1,1,20250226,UTA,SAC
+Shot Chart Detail,0022400843,347,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,9,10,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-127,-22,1,1,20250226,UTA,SAC
+Shot Chart Detail,0022400843,363,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,7,45,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,76,103,1,1,20250226,UTA,SAC
+Shot Chart Detail,0022400843,519,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,8,24,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,126,1,1,1,20250226,UTA,SAC
+Shot Chart Detail,0022400858,75,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,5,38,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-210,122,1,1,20250228,UTA,MIN
+Shot Chart Detail,0022400858,78,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,5,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,222,124,1,1,20250228,UTA,MIN
+Shot Chart Detail,0022400858,108,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,3,27,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,78,237,1,1,20250228,UTA,MIN
+Shot Chart Detail,0022400858,122,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,2,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-216,113,1,1,20250228,UTA,MIN
+Shot Chart Detail,0022400858,401,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,5,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-216,167,1,1,20250228,UTA,MIN
+Shot Chart Detail,0022400858,423,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,4,18,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-121,20,1,1,20250228,UTA,MIN
+Shot Chart Detail,0022400872,11,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,11,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,225,115,1,1,20250302,UTA,NOP
+Shot Chart Detail,0022400872,39,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,8,56,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,5,147,1,1,20250302,UTA,NOP
+Shot Chart Detail,0022400872,47,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,8,1,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,31,1,1,20250302,UTA,NOP
+Shot Chart Detail,0022400872,61,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,6,49,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-121,-26,1,1,20250302,UTA,NOP
+Shot Chart Detail,0022400872,213,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,8,6,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,3,1,1,20250302,UTA,NOP
+Shot Chart Detail,0022400872,247,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,5,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-12,1,1,20250302,UTA,NOP
+Shot Chart Detail,0022400872,300,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,1,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,3,1,1,20250302,UTA,NOP
+Shot Chart Detail,0022400872,347,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,8,48,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-9,64,1,1,20250302,UTA,NOP
+Shot Chart Detail,0022400872,359,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,8,9,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-28,63,1,1,20250302,UTA,NOP
+Shot Chart Detail,0022400894,24,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,9,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-10,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,70,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,7,18,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,5,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,94,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,5,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,6,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,460,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,4,6,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,75,58,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400894,491,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,1,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,194,177,1,1,20250305,WAS,UTA
+Shot Chart Detail,0022400905,314,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,4,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-131,226,1,1,20250307,TOR,UTA
+Shot Chart Detail,0022400905,377,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,0,9,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,16,1,1,20250307,TOR,UTA
+Shot Chart Detail,0022400905,408,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,10,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,104,240,1,1,20250307,TOR,UTA
+Shot Chart Detail,0022400905,445,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,8,23,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,5,1,1,20250307,TOR,UTA
+Shot Chart Detail,0022400924,13,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,10,57,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250309,PHI,UTA
+Shot Chart Detail,0022400924,413,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,7,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-174,235,1,1,20250309,PHI,UTA
+Shot Chart Detail,0022400924,583,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,7,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,224,55,1,1,20250309,PHI,UTA
+Shot Chart Detail,0022400924,611,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,6,12,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,36,1,1,20250309,PHI,UTA
+Shot Chart Detail,0022400924,633,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,4,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,37,1,1,20250309,PHI,UTA
+Shot Chart Detail,0022400929,176,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,11,39,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,7,1,1,20250310,BOS,UTA
+Shot Chart Detail,0022400929,451,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,1,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,40,1,1,20250310,BOS,UTA
+Shot Chart Detail,0022400929,486,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,11,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,205,157,1,1,20250310,BOS,UTA
+Shot Chart Detail,0022400929,490,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,10,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,99,234,1,1,20250310,BOS,UTA
+Shot Chart Detail,0022400929,514,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,8,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-146,204,1,1,20250310,BOS,UTA
+Shot Chart Detail,0022400929,545,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,7,3,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-9,100,1,1,20250310,BOS,UTA
+Shot Chart Detail,0022400929,551,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,5,55,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-137,21,1,1,20250310,BOS,UTA
+Shot Chart Detail,0022400929,566,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,5,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,203,1,1,20250310,BOS,UTA
+Shot Chart Detail,0022400950,250,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,7,18,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,17,1,1,20250312,MEM,UTA
+Shot Chart Detail,0022400950,274,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,5,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-105,234,1,1,20250312,MEM,UTA
+Shot Chart Detail,0022400950,294,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,4,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-234,73,1,1,20250312,MEM,UTA
+Shot Chart Detail,0022400950,674,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,3,41,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,13,1,1,20250312,MEM,UTA
+Shot Chart Detail,0022400966,156,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,1,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,185,173,1,1,20250314,UTA,TOR
+Shot Chart Detail,0022400966,239,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,8,44,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-88,243,1,1,20250314,UTA,TOR
+Shot Chart Detail,0022400966,492,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,3,41,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-37,39,1,1,20250314,UTA,TOR
+Shot Chart Detail,0022400966,679,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,3,49,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,37,1,1,20250314,UTA,TOR
+Shot Chart Detail,0022400966,720,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,0,31,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-229,123,1,1,20250314,UTA,TOR
+Shot Chart Detail,0022400981,172,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,11,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,10,1,1,20250316,MIN,UTA
+Shot Chart Detail,0022400981,553,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,8,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,224,99,1,1,20250316,MIN,UTA
+Shot Chart Detail,0022400989,225,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,8,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,227,103,1,1,20250317,UTA,CHI
+Shot Chart Detail,0022400989,229,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,7,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-202,185,1,1,20250317,UTA,CHI
+Shot Chart Detail,0022400989,473,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,1,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-47,158,1,1,20250317,UTA,CHI
+Shot Chart Detail,0022400989,544,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,8,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-230,100,1,1,20250317,UTA,CHI
+Shot Chart Detail,0022401004,114,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,3,56,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,0,1,1,20250213,UTA,LAC
+Shot Chart Detail,0022401004,118,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,3,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,244,74,1,1,20250213,UTA,LAC
+Shot Chart Detail,0022401004,465,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,1,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-174,241,1,1,20250213,UTA,LAC
+Shot Chart Detail,0022401020,288,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,2,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,4,1,1,20250321,UTA,BOS
+Shot Chart Detail,0022401020,469,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,1,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-130,63,1,1,20250321,UTA,BOS
+Shot Chart Detail,0022401020,520,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,9,13,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,37,1,1,20250321,UTA,BOS
+Shot Chart Detail,0022401030,232,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,7,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-82,242,1,1,20250323,UTA,CLE
+Shot Chart Detail,0022401030,293,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,4,3,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-45,21,1,1,20250323,UTA,CLE
+Shot Chart Detail,0022401030,613,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,7,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,0,1,1,20250323,UTA,CLE
+Shot Chart Detail,0022401030,674,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,3,26,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-7,71,1,1,20250323,UTA,CLE
+Shot Chart Detail,0022401050,95,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,4,37,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-162,189,1,1,20250325,UTA,MEM
+Shot Chart Detail,0022401050,168,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,11,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,183,177,1,1,20250325,UTA,MEM
+Shot Chart Detail,0022401050,206,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,8,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,197,1,1,20250325,UTA,MEM
+Shot Chart Detail,0022401065,183,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,11,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,227,107,1,1,20250327,UTA,HOU
+Shot Chart Detail,0022401065,268,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,5,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-228,87,1,1,20250327,UTA,HOU
+Shot Chart Detail,0022401065,296,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,2,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-229,80,1,1,20250327,UTA,HOU
+Shot Chart Detail,0022401065,315,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,1,41,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-173,201,1,1,20250327,UTA,HOU
+Shot Chart Detail,0022401065,523,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,8,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,161,1,1,20250327,UTA,HOU
+Shot Chart Detail,0022401065,648,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,0,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-106,4,1,1,20250327,UTA,HOU
+Shot Chart Detail,0022401073,227,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,7,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,27,1,1,20250328,DEN,UTA
+Shot Chart Detail,0022401073,630,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,4,54,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,14,1,1,20250328,DEN,UTA
+Shot Chart Detail,0022401073,658,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,3,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,-17,1,1,20250328,DEN,UTA
+Shot Chart Detail,0022401073,665,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,2,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,1,1,1,20250328,DEN,UTA
+Shot Chart Detail,0022401073,670,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,2,4,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-4,1,1,20250328,DEN,UTA
+Shot Chart Detail,0022401089,21,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,9,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-143,227,1,1,20250331,CHA,UTA
+Shot Chart Detail,0022401089,221,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,6,35,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-93,280,1,1,20250331,CHA,UTA
+Shot Chart Detail,0022401089,267,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,2,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,49,1,1,20250331,CHA,UTA
+Shot Chart Detail,0022401089,323,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,11,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-136,224,1,1,20250331,CHA,UTA
+Shot Chart Detail,0022401089,333,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,10,11,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,11,1,1,20250331,CHA,UTA
+Shot Chart Detail,0022401089,550,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,6,5,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,17,1,1,20250331,CHA,UTA
+Shot Chart Detail,0022401107,163,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,0,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-212,138,1,1,20250402,HOU,UTA
+Shot Chart Detail,0022401107,240,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,7,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,39,264,1,1,20250402,HOU,UTA
+Shot Chart Detail,0022401119,261,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,6,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,91,253,1,1,20250404,IND,UTA
+Shot Chart Detail,0022401119,417,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,8,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-176,197,1,1,20250404,IND,UTA
+Shot Chart Detail,0022401119,457,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,5,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,6,1,1,20250404,IND,UTA
+Shot Chart Detail,0022401136,81,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,5,28,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-235,67,1,1,20250406,ATL,UTA
+Shot Chart Detail,0022401136,275,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,3,5,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,12,1,1,20250406,ATL,UTA
+Shot Chart Detail,0022401136,279,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,2,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-11,1,1,20250406,ATL,UTA
+Shot Chart Detail,0022401136,297,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,1,24,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,11,50,1,1,20250406,ATL,UTA
+Shot Chart Detail,0022401136,352,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,9,40,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-116,-1,1,1,20250406,ATL,UTA
+Shot Chart Detail,0022401136,375,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,7,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-183,157,1,1,20250406,ATL,UTA
+Shot Chart Detail,0022401162,19,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,10,21,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,38,1,1,20250409,UTA,POR
+Shot Chart Detail,0022401162,269,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,6,17,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,15,1,1,20250409,UTA,POR
+Shot Chart Detail,0022401162,289,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,4,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-86,246,1,1,20250409,UTA,POR
+Shot Chart Detail,0022401162,554,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,10,27,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-27,265,1,1,20250409,UTA,POR
+Shot Chart Detail,0022401162,642,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,3,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-192,153,1,1,20250409,UTA,POR
+Shot Chart Detail,0022401162,649,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,2,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-229,105,1,1,20250409,UTA,POR
+Shot Chart Detail,0022401162,710,1641729,Brice Sensabaugh,1610612762,Utah Jazz,5,4,1,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-169,214,1,1,20250409,UTA,POR
+Shot Chart Detail,0022401181,62,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,7,7,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,38,1,1,20250411,UTA,OKC
+Shot Chart Detail,0022401181,95,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,4,47,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,23,1,1,20250411,UTA,OKC
+Shot Chart Detail,0022401181,265,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,4,31,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,20,1,1,20250411,UTA,OKC
+Shot Chart Detail,0022401181,411,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,5,6,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,42,1,1,20250411,UTA,OKC
+Shot Chart Detail,0022401181,426,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,4,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,1,268,1,1,20250411,UTA,OKC
+Shot Chart Detail,0022401181,565,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,6,56,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,16,1,1,20250411,UTA,OKC
+Shot Chart Detail,0022401181,640,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,1,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,66,1,1,20250411,UTA,OKC
+Shot Chart Detail,0022401195,23,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,9,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,45,1,1,20250413,MIN,UTA
+Shot Chart Detail,0022401195,135,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,1,59,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-192,156,1,1,20250413,MIN,UTA
+Shot Chart Detail,0022401195,188,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,8,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,62,235,1,1,20250413,MIN,UTA
+Shot Chart Detail,0022401195,265,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,2,42,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,154,232,1,1,20250413,MIN,UTA
+Shot Chart Detail,0022401195,282,1641729,Brice Sensabaugh,1610612762,Utah Jazz,2,1,41,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,56,115,1,1,20250413,MIN,UTA
+Shot Chart Detail,0022401195,438,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,3,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-100,239,1,1,20250413,MIN,UTA
+Shot Chart Detail,0022401195,603,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,2,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-227,91,1,1,20250413,MIN,UTA
+Shot Chart Detail,0022401214,78,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,5,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,40,1,1,20241213,UTA,PHX
+Shot Chart Detail,0022401214,405,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,5,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,44,1,1,20241213,UTA,PHX
+Shot Chart Detail,0022401214,472,1641729,Brice Sensabaugh,1610612762,Utah Jazz,3,0,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,13,1,1,20241213,UTA,PHX
+Shot Chart Detail,0022401226,128,1641729,Brice Sensabaugh,1610612762,Utah Jazz,1,2,56,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-1,1,1,20241216,LAC,UTA
+Shot Chart Detail,0022401226,605,1641729,Brice Sensabaugh,1610612762,Utah Jazz,4,5,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,142,203,1,1,20241216,LAC,UTA

@@ -1,21 +1,294 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400039,30,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,8,36,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-37,157,1,1,20241126,PHX,LAL
+Shot Chart Detail,0022400039,53,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,6,14,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,6,1,1,20241126,PHX,LAL
+Shot Chart Detail,0022400039,203,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,7,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-12,1,1,20241126,PHX,LAL
+Shot Chart Detail,0022400048,16,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,10,9,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-36,55,1,1,20241129,LAL,OKC
+Shot Chart Detail,0022400048,147,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,11,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,27,1,1,20241129,LAL,OKC
+Shot Chart Detail,0022400048,242,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,3,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-17,146,1,1,20241129,LAL,OKC
+Shot Chart Detail,0022400048,331,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,9,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,64,80,1,1,20241129,LAL,OKC
+Shot Chart Detail,0022400062,9,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,11,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,121,231,1,1,20241022,LAL,MIN
+Shot Chart Detail,0022400062,15,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,10,23,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,28,1,1,20241022,LAL,MIN
+Shot Chart Detail,0022400062,169,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,11,39,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,13,1,1,20241022,LAL,MIN
+Shot Chart Detail,0022400062,247,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,6,14,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,64,126,1,1,20241022,LAL,MIN
+Shot Chart Detail,0022400062,255,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,5,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,12,1,1,20241022,LAL,MIN
+Shot Chart Detail,0022400062,365,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,9,30,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,9,1,1,20241022,LAL,MIN
+Shot Chart Detail,0022400062,606,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,5,2,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,48,109,1,1,20241022,LAL,MIN
+Shot Chart Detail,0022400085,33,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,9,20,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20241025,LAL,PHX
+Shot Chart Detail,0022400085,181,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,10,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,190,175,1,1,20241025,LAL,PHX
+Shot Chart Detail,0022400085,203,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,8,23,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,42,1,1,20241025,LAL,PHX
+Shot Chart Detail,0022400085,507,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,10,39,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20241025,LAL,PHX
+Shot Chart Detail,0022400085,634,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,1,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,94,271,1,1,20241025,LAL,PHX
+Shot Chart Detail,0022400096,60,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,6,48,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,27,48,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400096,111,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,2,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,83,267,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400096,183,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,10,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,124,271,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400096,445,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,4,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400096,682,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,0,18,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,17,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400111,13,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,10,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-208,178,1,1,20241028,PHX,LAL
+Shot Chart Detail,0022400111,23,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,9,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,16,1,1,20241028,PHX,LAL
+Shot Chart Detail,0022400111,211,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,8,6,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241028,PHX,LAL
+Shot Chart Detail,0022400111,231,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,7,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,26,1,1,20241028,PHX,LAL
+Shot Chart Detail,0022400111,405,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,7,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,56,248,1,1,20241028,PHX,LAL
+Shot Chart Detail,0022400111,431,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,5,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,207,185,1,1,20241028,PHX,LAL
+Shot Chart Detail,0022400111,447,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,4,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,13,1,1,20241028,PHX,LAL
+Shot Chart Detail,0022400111,614,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,5,30,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241028,PHX,LAL
+Shot Chart Detail,0022400118,36,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,8,52,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20241030,CLE,LAL
+Shot Chart Detail,0022400118,255,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,4,1,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20241030,CLE,LAL
+Shot Chart Detail,0022400118,274,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,1,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,10,1,1,20241030,CLE,LAL
+Shot Chart Detail,0022400118,384,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,7,25,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-38,8,1,1,20241030,CLE,LAL
+Shot Chart Detail,0022400137,99,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,5,11,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,31,1,1,20241101,TOR,LAL
+Shot Chart Detail,0022400137,638,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,7,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-4,1,1,20241101,TOR,LAL
+Shot Chart Detail,0022400137,642,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,6,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-10,1,1,20241101,TOR,LAL
+Shot Chart Detail,0022400156,105,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,3,27,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,21,1,1,20241104,DET,LAL
+Shot Chart Detail,0022400156,669,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,0,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,219,125,1,1,20241104,DET,LAL
+Shot Chart Detail,0022400195,7,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,11,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,-15,1,1,20241108,LAL,PHI
+Shot Chart Detail,0022400195,48,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,8,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-20,1,1,20241108,LAL,PHI
+Shot Chart Detail,0022400195,368,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,8,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,191,201,1,1,20241108,LAL,PHI
+Shot Chart Detail,0022400211,25,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,9,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,17,1,1,20241110,LAL,TOR
+Shot Chart Detail,0022400211,51,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,7,40,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,22,1,1,20241110,LAL,TOR
+Shot Chart Detail,0022400225,9,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,11,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-230,92,1,1,20241113,LAL,MEM
+Shot Chart Detail,0022400225,53,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,7,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,124,233,1,1,20241113,LAL,MEM
+Shot Chart Detail,0022400225,115,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,3,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-61,143,1,1,20241113,LAL,MEM
+Shot Chart Detail,0022400225,203,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,9,50,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,15,1,1,20241113,LAL,MEM
+Shot Chart Detail,0022400225,444,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,5,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,15,1,1,20241113,LAL,MEM
+Shot Chart Detail,0022400225,679,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,2,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,205,158,1,1,20241113,LAL,MEM
+Shot Chart Detail,0022400270,24,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,9,53,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,24,1,1,20241123,LAL,DEN
+Shot Chart Detail,0022400270,254,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,4,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-159,209,1,1,20241123,LAL,DEN
+Shot Chart Detail,0022400270,517,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,9,5,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-12,29,1,1,20241123,LAL,DEN
+Shot Chart Detail,0022400270,539,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,7,18,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,141,231,1,1,20241123,LAL,DEN
+Shot Chart Detail,0022400296,77,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,5,51,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,119,145,1,1,20241127,SAS,LAL
+Shot Chart Detail,0022400296,240,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,5,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,179,174,1,1,20241127,SAS,LAL
+Shot Chart Detail,0022400296,284,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,2,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-1,1,1,20241127,SAS,LAL
+Shot Chart Detail,0022400296,368,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,7,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,222,62,1,1,20241127,SAS,LAL
+Shot Chart Detail,0022400296,509,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,9,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,12,1,1,20241127,SAS,LAL
+Shot Chart Detail,0022400311,19,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,11,13,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,17,1,1,20241201,UTA,LAL
+Shot Chart Detail,0022400311,44,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,8,36,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,20,59,1,1,20241201,UTA,LAL
+Shot Chart Detail,0022400311,216,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,8,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,10,1,1,20241201,UTA,LAL
+Shot Chart Detail,0022400311,522,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,10,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-22,254,1,1,20241201,UTA,LAL
+Shot Chart Detail,0022400311,526,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,10,5,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,7,1,1,20241201,UTA,LAL
+Shot Chart Detail,0022400318,220,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,6,20,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,24,1,1,20241202,MIN,LAL
+Shot Chart Detail,0022400318,333,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,10,53,Made Shot,Driving Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,-4,1,1,20241202,MIN,LAL
+Shot Chart Detail,0022400318,342,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,10,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-178,8,1,1,20241202,MIN,LAL
+Shot Chart Detail,0022400318,377,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,6,4,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-7,1,1,20241202,MIN,LAL
+Shot Chart Detail,0022400321,97,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,4,5,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,10,1,1,20241204,MIA,LAL
+Shot Chart Detail,0022400321,114,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,3,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,41,1,1,20241204,MIA,LAL
+Shot Chart Detail,0022400321,288,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,3,8,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,12,1,1,20241204,MIA,LAL
+Shot Chart Detail,0022400321,350,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,10,9,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,21,1,1,20241204,MIA,LAL
+Shot Chart Detail,0022400321,410,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,4,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,8,1,1,20241204,MIA,LAL
+Shot Chart Detail,0022400321,414,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,3,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,-2,1,1,20241204,MIA,LAL
+Shot Chart Detail,0022400334,13,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,11,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-38,64,1,1,20241206,ATL,LAL
+Shot Chart Detail,0022400334,30,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,9,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,9,1,1,20241206,ATL,LAL
+Shot Chart Detail,0022400334,71,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,6,31,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,187,1,1,20241206,ATL,LAL
+Shot Chart Detail,0022400334,227,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,6,17,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-2,105,1,1,20241206,ATL,LAL
+Shot Chart Detail,0022400334,367,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,10,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-1,1,1,20241206,ATL,LAL
+Shot Chart Detail,0022400358,25,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,9,36,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241208,LAL,POR
+Shot Chart Detail,0022400358,196,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,8,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,24,1,1,20241208,LAL,POR
+Shot Chart Detail,0022400358,200,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,8,8,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20241208,LAL,POR
+Shot Chart Detail,0022400358,217,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,7,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,59,257,1,1,20241208,LAL,POR
+Shot Chart Detail,0022400358,221,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,6,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,56,273,1,1,20241208,LAL,POR
+Shot Chart Detail,0022400358,263,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,4,8,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,1,20241208,LAL,POR
+Shot Chart Detail,0022400358,479,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,11,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,5,1,1,20241208,LAL,POR
+Shot Chart Detail,0022400358,489,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,10,47,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-12,44,1,1,20241208,LAL,POR
+Shot Chart Detail,0022400358,554,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,6,17,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,197,1,1,20241208,LAL,POR
+Shot Chart Detail,0022400372,112,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,2,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,13,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400372,222,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,9,15,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,42,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400372,528,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,0,0,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,21,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400376,20,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,10,41,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,25,1,1,20241221,SAC,LAL
+Shot Chart Detail,0022400376,54,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,7,36,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,42,38,1,1,20241221,SAC,LAL
+Shot Chart Detail,0022400376,410,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,5,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,-27,1,1,20241221,SAC,LAL
+Shot Chart Detail,0022400376,582,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,5,54,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,29,1,1,20241221,SAC,LAL
+Shot Chart Detail,0022400404,21,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,10,27,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,14,1,1,20241223,LAL,DET
+Shot Chart Detail,0022400404,39,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,9,12,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,3,1,1,20241223,LAL,DET
+Shot Chart Detail,0022400404,191,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,10,16,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,5,1,1,20241223,LAL,DET
+Shot Chart Detail,0022400408,57,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,6,16,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,20,1,1,20241225,GSW,LAL
+Shot Chart Detail,0022400408,184,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,8,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-132,229,1,1,20241225,GSW,LAL
+Shot Chart Detail,0022400408,349,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,8,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,8,1,1,20241225,GSW,LAL
+Shot Chart Detail,0022400408,410,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,3,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,34,265,1,1,20241225,GSW,LAL
+Shot Chart Detail,0022400408,502,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,8,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-102,256,1,1,20241225,GSW,LAL
+Shot Chart Detail,0022400408,518,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,7,32,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,20,1,1,20241225,GSW,LAL
+Shot Chart Detail,0022400435,54,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,6,42,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,58,42,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400435,77,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,4,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,73,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400435,87,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,3,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,17,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400435,190,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,8,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-26,269,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400435,261,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,4,30,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,2,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400435,377,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,9,32,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,54,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400435,398,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,8,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,34,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400454,312,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,2,19,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,1,1,1,20241231,LAL,CLE
+Shot Chart Detail,0022400454,360,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,10,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,21,1,1,20241231,LAL,CLE
+Shot Chart Detail,0022400454,368,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,9,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20241231,LAL,CLE
+Shot Chart Detail,0022400468,35,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,9,29,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,9,1,1,20250102,LAL,POR
+Shot Chart Detail,0022400468,563,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,4,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,13,1,1,20250102,LAL,POR
+Shot Chart Detail,0022400477,30,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,9,42,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20250103,LAL,ATL
+Shot Chart Detail,0022400477,47,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,7,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,9,1,1,20250103,LAL,ATL
+Shot Chart Detail,0022400477,80,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,5,51,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,16,1,1,20250103,LAL,ATL
+Shot Chart Detail,0022400477,375,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,10,44,Made Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-6,49,1,1,20250103,LAL,ATL
+Shot Chart Detail,0022400477,409,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,8,12,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,18,1,1,20250103,LAL,ATL
+Shot Chart Detail,0022400477,645,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,4,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,32,1,1,20250103,LAL,ATL
+Shot Chart Detail,0022400491,19,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,10,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-104,234,1,1,20250105,HOU,LAL
+Shot Chart Detail,0022400491,45,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,6,47,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,58,179,1,1,20250105,HOU,LAL
+Shot Chart Detail,0022400491,57,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,5,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,16,253,1,1,20250105,HOU,LAL
+Shot Chart Detail,0022400491,280,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,1,44,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,6,1,1,20250105,HOU,LAL
+Shot Chart Detail,0022400491,506,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,8,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-105,233,1,1,20250105,HOU,LAL
+Shot Chart Detail,0022400504,29,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,8,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,8,1,1,20250107,DAL,LAL
+Shot Chart Detail,0022400504,81,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,4,31,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,16,1,1,20250107,DAL,LAL
+Shot Chart Detail,0022400504,255,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,6,33,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,16,1,1,20250107,DAL,LAL
+Shot Chart Detail,0022400524,55,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,7,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,19,1,1,20250219,LAL,CHA
+Shot Chart Detail,0022400524,73,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,6,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,23,1,1,20250219,LAL,CHA
+Shot Chart Detail,0022400524,173,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,11,43,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,28,120,1,1,20250219,LAL,CHA
+Shot Chart Detail,0022400524,271,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,4,5,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,48,9,1,1,20250219,LAL,CHA
+Shot Chart Detail,0022400524,437,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,4,34,Made Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,23,1,1,20250219,LAL,CHA
+Shot Chart Detail,0022400524,441,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,4,9,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,4,1,1,20250219,LAL,CHA
+Shot Chart Detail,0022400524,549,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,9,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-212,144,1,1,20250219,LAL,CHA
+Shot Chart Detail,0022400552,234,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,5,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,32,1,1,20250113,LAL,SAS
+Shot Chart Detail,0022400552,305,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,0,55,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,13,1,1,20250113,LAL,SAS
+Shot Chart Detail,0022400552,362,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,9,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-212,127,1,1,20250113,LAL,SAS
+Shot Chart Detail,0022400570,46,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-222,108,1,1,20250115,LAL,MIA
+Shot Chart Detail,0022400570,55,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,7,20,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,23,1,1,20250115,LAL,MIA
+Shot Chart Detail,0022400570,61,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,6,47,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,14,1,1,20250115,LAL,MIA
+Shot Chart Detail,0022400570,90,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,4,11,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,30,1,1,20250115,LAL,MIA
+Shot Chart Detail,0022400570,210,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,7,34,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,-7,1,1,20250115,LAL,MIA
+Shot Chart Detail,0022400570,323,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,11,4,Made Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,10,1,1,20250115,LAL,MIA
+Shot Chart Detail,0022400570,388,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,5,39,Made Shot,Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,6,1,1,20250115,LAL,MIA
+Shot Chart Detail,0022400570,529,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,5,30,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,18,1,1,20250115,LAL,MIA
+Shot Chart Detail,0022400570,535,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,4,53,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,9,1,1,20250115,LAL,MIA
+Shot Chart Detail,0022400585,17,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,10,30,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,1,20250117,LAL,BKN
+Shot Chart Detail,0022400585,257,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,2,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,5,1,1,20250117,LAL,BKN
+Shot Chart Detail,0022400585,377,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,6,4,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,29,1,1,20250117,LAL,BKN
+Shot Chart Detail,0022400585,533,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,7,27,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,44,1,1,20250117,LAL,BKN
+Shot Chart Detail,0022400596,11,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,11,24,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20250119,LAC,LAL
+Shot Chart Detail,0022400596,298,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,11,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-185,201,1,1,20250119,LAC,LAL
+Shot Chart Detail,0022400596,323,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,8,50,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,12,1,1,20250119,LAC,LAL
+Shot Chart Detail,0022400596,348,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,6,32,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,21,1,1,20250119,LAC,LAL
+Shot Chart Detail,0022400596,432,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,11,15,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20250119,LAC,LAL
+Shot Chart Detail,0022400596,478,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,8,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,17,1,1,20250119,LAC,LAL
+Shot Chart Detail,0022400596,516,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,5,50,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,27,1,1,20250119,LAC,LAL
+Shot Chart Detail,0022400596,538,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,4,31,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,15,1,1,20250119,LAC,LAL
+Shot Chart Detail,0022400596,563,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,2,14,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,41,1,1,20250119,LAC,LAL
+Shot Chart Detail,0022400610,27,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,9,26,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,13,1,1,20250121,LAL,WAS
+Shot Chart Detail,0022400610,380,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,8,44,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,17,1,1,20250121,LAL,WAS
+Shot Chart Detail,0022400610,426,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,5,41,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,2,1,1,20250121,LAL,WAS
+Shot Chart Detail,0022400610,592,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,5,2,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20250121,LAL,WAS
+Shot Chart Detail,0022400629,275,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,2,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,26,1,1,20250123,LAL,BOS
+Shot Chart Detail,0022400629,341,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,9,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,24,1,1,20250123,LAL,BOS
+Shot Chart Detail,0022400629,408,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,4,10,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,18,1,1,20250123,LAL,BOS
+Shot Chart Detail,0022400660,45,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,7,24,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,16,1,1,20250128,PHI,LAL
+Shot Chart Detail,0022400660,52,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,6,56,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,5,1,1,20250128,PHI,LAL
+Shot Chart Detail,0022400660,200,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,9,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,51,130,1,1,20250128,PHI,LAL
+Shot Chart Detail,0022400660,289,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,4,1,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,7,1,1,20250128,PHI,LAL
+Shot Chart Detail,0022400660,321,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,0,46,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,8,1,1,20250128,PHI,LAL
+Shot Chart Detail,0022400660,413,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,4,53,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,96,153,1,1,20250128,PHI,LAL
+Shot Chart Detail,0022400674,28,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,10,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,-4,1,1,20250130,WAS,LAL
+Shot Chart Detail,0022400674,56,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,7,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-225,104,1,1,20250130,WAS,LAL
+Shot Chart Detail,0022400674,69,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,5,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,11,1,1,20250130,WAS,LAL
+Shot Chart Detail,0022400674,204,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,11,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,222,105,1,1,20250130,WAS,LAL
+Shot Chart Detail,0022400674,221,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,10,6,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,93,72,1,1,20250130,WAS,LAL
+Shot Chart Detail,0022400674,248,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,8,19,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,10,1,1,20250130,WAS,LAL
+Shot Chart Detail,0022400674,303,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,4,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-42,251,1,1,20250130,WAS,LAL
+Shot Chart Detail,0022400674,420,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,9,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,55,1,1,20250130,WAS,LAL
+Shot Chart Detail,0022400674,441,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,7,51,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-1,1,1,20250130,WAS,LAL
+Shot Chart Detail,0022400692,21,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,10,25,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,0,1,1,20250201,NYK,LAL
+Shot Chart Detail,0022400692,29,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,9,35,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,17,1,1,20250201,NYK,LAL
+Shot Chart Detail,0022400692,35,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,8,56,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-18,1,1,20250201,NYK,LAL
+Shot Chart Detail,0022400692,92,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,4,42,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,14,1,1,20250201,NYK,LAL
+Shot Chart Detail,0022400692,232,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,7,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-100,231,1,1,20250201,NYK,LAL
+Shot Chart Detail,0022400692,375,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,9,26,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,15,71,1,1,20250201,NYK,LAL
+Shot Chart Detail,0022400692,521,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,10,24,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-9,36,1,1,20250201,NYK,LAL
+Shot Chart Detail,0022400692,626,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,2,10,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20250201,NYK,LAL
+Shot Chart Detail,0022400715,35,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,9,7,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,25,1,1,20250204,LAC,LAL
+Shot Chart Detail,0022400715,54,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,7,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-134,218,1,1,20250204,LAC,LAL
+Shot Chart Detail,0022400715,92,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,4,55,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,8,1,1,20250204,LAC,LAL
+Shot Chart Detail,0022400715,96,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,4,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-216,158,1,1,20250204,LAC,LAL
+Shot Chart Detail,0022400715,224,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,6,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,57,1,1,20250204,LAC,LAL
+Shot Chart Detail,0022400715,389,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,6,13,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,53,1,1,20250204,LAC,LAL
+Shot Chart Detail,0022400715,519,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,8,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-207,162,1,1,20250204,LAC,LAL
+Shot Chart Detail,0022400731,35,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,9,42,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,10,1,1,20250206,LAL,GSW
+Shot Chart Detail,0022400731,318,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,2,7,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,1,20250206,LAL,GSW
+Shot Chart Detail,0022400731,542,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,0,30,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20250206,LAL,GSW
+Shot Chart Detail,0022400731,717,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,0,48,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,8,1,1,20250206,LAL,GSW
+Shot Chart Detail,0022400742,26,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,10,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,11,1,1,20250208,LAL,IND
+Shot Chart Detail,0022400742,101,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,4,17,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,1,20250208,LAL,IND
+Shot Chart Detail,0022400742,185,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,10,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-39,194,1,1,20250208,LAL,IND
+Shot Chart Detail,0022400742,225,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,8,7,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20250208,LAL,IND
+Shot Chart Detail,0022400742,305,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,2,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,232,71,1,1,20250208,LAL,IND
+Shot Chart Detail,0022400742,391,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,9,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-96,130,1,1,20250208,LAL,IND
+Shot Chart Detail,0022400742,523,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,0,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-114,116,1,1,20250208,LAL,IND
+Shot Chart Detail,0022400742,691,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,0,19,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,1,20250208,LAL,IND
+Shot Chart Detail,0022400768,24,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,10,21,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,13,1,1,20250210,LAL,UTA
+Shot Chart Detail,0022400768,223,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,7,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-230,91,1,1,20250210,LAL,UTA
+Shot Chart Detail,0022400768,250,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,5,34,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,33,43,1,1,20250210,LAL,UTA
+Shot Chart Detail,0022400768,379,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,7,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,8,1,1,20250210,LAL,UTA
+Shot Chart Detail,0022400768,399,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,6,30,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250210,LAL,UTA
+Shot Chart Detail,0022400768,414,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,4,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-113,239,1,1,20250210,LAL,UTA
+Shot Chart Detail,0022400768,515,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,10,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-39,151,1,1,20250210,LAL,UTA
+Shot Chart Detail,0022400768,539,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,9,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-22,138,1,1,20250210,LAL,UTA
+Shot Chart Detail,0022400781,19,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,10,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,0,1,1,20250212,UTA,LAL
+Shot Chart Detail,0022400781,39,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,8,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,34,169,1,1,20250212,UTA,LAL
+Shot Chart Detail,0022400781,57,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,7,8,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,26,1,1,20250212,UTA,LAL
+Shot Chart Detail,0022400781,359,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,0,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,108,231,1,1,20250212,UTA,LAL
+Shot Chart Detail,0022400781,363,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,0,24,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,5,31,1,1,20250212,UTA,LAL
+Shot Chart Detail,0022400781,390,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,10,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,16,1,1,20250212,UTA,LAL
+Shot Chart Detail,0022400781,505,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,2,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,9,1,1,20250212,UTA,LAL
+Shot Chart Detail,0022400781,588,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,9,27,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,21,1,1,20250212,UTA,LAL
+Shot Chart Detail,0022400796,129,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,3,45,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250220,POR,LAL
+Shot Chart Detail,0022400796,287,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,4,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,13,177,1,1,20250220,POR,LAL
+Shot Chart Detail,0022400796,458,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,3,35,Made Shot,Running Alley Oop Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,10,1,1,20250220,POR,LAL
+Shot Chart Detail,0022400808,19,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,10,41,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,19,1,1,20250222,DEN,LAL
+Shot Chart Detail,0022400808,195,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,0,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-72,241,1,1,20250222,DEN,LAL
+Shot Chart Detail,0022400808,331,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,3,23,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20250222,DEN,LAL
+Shot Chart Detail,0022400808,405,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,10,13,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,39,1,1,20250222,DEN,LAL
+Shot Chart Detail,0022400808,412,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,9,36,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,0,1,1,20250222,DEN,LAL
+Shot Chart Detail,0022400808,467,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,5,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-244,-15,1,1,20250222,DEN,LAL
+Shot Chart Detail,0022400808,497,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,2,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,204,1,1,20250222,DEN,LAL
+Shot Chart Detail,0022400835,9,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,11,39,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,13,1,1,20250225,LAL,DAL
+Shot Chart Detail,0022400835,95,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,4,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,232,83,1,1,20250225,LAL,DAL
+Shot Chart Detail,0022400835,242,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,8,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,20,1,1,20250225,LAL,DAL
+Shot Chart Detail,0022400835,369,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,11,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,12,1,1,20250225,LAL,DAL
+Shot Chart Detail,0022400835,640,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,2,56,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,26,1,1,20250225,LAL,DAL
+Shot Chart Detail,0022400835,658,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,1,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,28,1,1,20250225,LAL,DAL
+Shot Chart Detail,0022400849,171,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,10,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,4,1,1,20250227,LAL,MIN
+Shot Chart Detail,0022400849,356,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,10,33,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,25,1,1,20250227,LAL,MIN
+Shot Chart Detail,0022401028,388,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,7,50,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,76,79,1,1,20250322,LAL,CHI
+Shot Chart Detail,0022401028,416,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,5,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,229,82,1,1,20250322,LAL,CHI
+Shot Chart Detail,0022401038,161,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,0,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,31,1,1,20250324,ORL,LAL
+Shot Chart Detail,0022401038,607,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,1,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,1,20250324,ORL,LAL
+Shot Chart Detail,0022401055,44,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,7,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,207,146,1,1,20250326,IND,LAL
+Shot Chart Detail,0022401055,285,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,3,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,158,1,1,20250326,IND,LAL
+Shot Chart Detail,0022401055,605,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,2,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,110,228,1,1,20250326,IND,LAL
+Shot Chart Detail,0022401055,608,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,1,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,28,252,1,1,20250326,IND,LAL
+Shot Chart Detail,0022401078,54,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,7,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,8,1,1,20250329,MEM,LAL
+Shot Chart Detail,0022401078,317,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,2,27,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,6,1,1,20250329,MEM,LAL
+Shot Chart Detail,0022401078,433,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,5,56,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-4,1,1,20250329,MEM,LAL
+Shot Chart Detail,0022401078,578,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,9,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,11,1,1,20250329,MEM,LAL
+Shot Chart Detail,0022401078,682,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,1,57,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-1,1,1,20250329,MEM,LAL
+Shot Chart Detail,0022401096,44,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,8,27,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,70,127,1,1,20250331,LAL,HOU
+Shot Chart Detail,0022401096,491,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,0,12,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,22,1,1,20250331,LAL,HOU
+Shot Chart Detail,0022401096,639,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,2,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,25,1,1,20250331,LAL,HOU
+Shot Chart Detail,0022401117,19,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,9,57,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,18,1,1,20250403,LAL,GSW
+Shot Chart Detail,0022401117,32,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,8,46,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250403,LAL,GSW
+Shot Chart Detail,0022401117,41,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,7,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,85,241,1,1,20250403,LAL,GSW
+Shot Chart Detail,0022401117,272,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,4,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,162,206,1,1,20250403,LAL,GSW
+Shot Chart Detail,0022401117,366,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,11,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,241,99,1,1,20250403,LAL,GSW
+Shot Chart Detail,0022401117,412,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,7,17,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,40,1,1,20250403,LAL,GSW
+Shot Chart Detail,0022401117,561,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,9,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-125,77,1,1,20250403,LAL,GSW
+Shot Chart Detail,0022401117,643,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,3,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-4,1,1,20250403,LAL,GSW
+Shot Chart Detail,0022401117,651,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,3,3,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20250403,LAL,GSW
+Shot Chart Detail,0022401135,52,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,7,33,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20250406,OKC,LAL
+Shot Chart Detail,0022401135,106,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,3,59,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,15,1,1,20250406,OKC,LAL
+Shot Chart Detail,0022401135,526,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,8,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,20,1,1,20250406,OKC,LAL
+Shot Chart Detail,0022401135,594,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,2,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-11,1,1,20250406,OKC,LAL
+Shot Chart Detail,0022401159,75,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,1,6,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-2,1,1,20250409,DAL,LAL
+Shot Chart Detail,0022401159,386,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,7,56,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,59,1,1,20250409,DAL,LAL
+Shot Chart Detail,0022401159,399,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,6,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,120,225,1,1,20250409,DAL,LAL
+Shot Chart Detail,0022401159,403,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,6,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,5,1,1,20250409,DAL,LAL
+Shot Chart Detail,0022401159,527,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,8,39,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-6,133,1,1,20250409,DAL,LAL
+Shot Chart Detail,0022401185,300,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,0,59,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,8,1,1,20250411,LAL,HOU
+Shot Chart Detail,0022401185,311,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,0,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,17,284,1,1,20250411,LAL,HOU
+Shot Chart Detail,0022401185,364,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,8,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,22,1,1,20250411,LAL,HOU
+Shot Chart Detail,0022401185,498,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,9,55,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,49,98,1,1,20250411,LAL,HOU
+Shot Chart Detail,0022401185,547,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,5,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,5,1,1,20250411,LAL,HOU
+Shot Chart Detail,0022401185,554,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,4,59,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-107,37,1,1,20250411,LAL,HOU
+Shot Chart Detail,0022401210,221,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,8,14,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,15,1,1,20241213,MIN,LAL
+Shot Chart Detail,0022401210,266,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,4,54,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,16,1,1,20241213,MIN,LAL
+Shot Chart Detail,0022401210,403,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,3,6,34,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-60,142,1,1,20241213,MIN,LAL
+Shot Chart Detail,0022401210,595,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,4,7,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20241213,MIN,LAL
+Shot Chart Detail,0022401220,359,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,2,2,13,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,13,1,1,20241215,LAL,MEM
+Shot Chart Detail,0022401220,791,1629060,Rui Hachimura,1610612747,Los Angeles Lakers,4,0,5,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,11,1,1,20241215,LAL,MEM

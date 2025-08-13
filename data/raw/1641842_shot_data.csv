@@ -1,21 +1,198 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400011,141,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,1,19,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-1,1,1,20241115,TOR,DET
+Shot Chart Detail,0022400011,181,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,10,22,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,31,1,1,20241115,TOR,DET
+Shot Chart Detail,0022400011,419,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,7,23,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,20,1,1,20241115,TOR,DET
+Shot Chart Detail,0022400045,178,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,9,26,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-72,37,1,1,20241129,IND,DET
+Shot Chart Detail,0022400045,194,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,8,29,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,16,1,1,20241129,IND,DET
+Shot Chart Detail,0022400045,646,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,0,7,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-28,31,1,1,20241129,IND,DET
+Shot Chart Detail,0022400052,633,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,3,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,3,1,1,20241203,DET,MIL
+Shot Chart Detail,0022400063,129,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,3,14,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241023,DET,IND
+Shot Chart Detail,0022400063,219,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,10,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,16,1,1,20241023,DET,IND
+Shot Chart Detail,0022400080,443,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,2,21,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,15,1,1,20241025,CLE,DET
+Shot Chart Detail,0022400080,664,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,1,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,17,1,1,20241025,CLE,DET
+Shot Chart Detail,0022400089,144,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,2,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-213,167,1,1,20241026,DET,BOS
+Shot Chart Detail,0022400089,195,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,11,1,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,59,5,1,1,20241026,DET,BOS
+Shot Chart Detail,0022400105,109,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,3,6,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20241028,MIA,DET
+Shot Chart Detail,0022400105,181,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,10,4,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,29,1,1,20241028,MIA,DET
+Shot Chart Detail,0022400105,231,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,6,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,1,1,1,20241028,MIA,DET
+Shot Chart Detail,0022400120,178,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,11,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,15,1,1,20241030,PHI,DET
+Shot Chart Detail,0022400120,215,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,7,46,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,10,1,1,20241030,PHI,DET
+Shot Chart Detail,0022400120,530,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,10,48,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20241030,PHI,DET
+Shot Chart Detail,0022400134,162,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,11,34,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-6,37,1,1,20241101,DET,NYK
+Shot Chart Detail,0022400134,195,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,9,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,12,1,1,20241101,DET,NYK
+Shot Chart Detail,0022400134,563,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,4,12,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,5,1,1,20241101,DET,NYK
+Shot Chart Detail,0022400134,605,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,0,27,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,1,1,1,20241101,DET,NYK
+Shot Chart Detail,0022400156,136,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,1,42,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,16,1,1,20241104,DET,LAL
+Shot Chart Detail,0022400156,194,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,9,35,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,36,114,1,1,20241104,DET,LAL
+Shot Chart Detail,0022400156,234,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,6,56,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,12,1,1,20241104,DET,LAL
+Shot Chart Detail,0022400156,601,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,5,49,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,14,1,1,20241104,DET,LAL
+Shot Chart Detail,0022400169,194,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,8,39,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-158,210,1,1,20241106,CHA,DET
+Shot Chart Detail,0022400169,474,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,2,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,47,1,1,20241106,CHA,DET
+Shot Chart Detail,0022400169,655,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,0,6,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,20,1,1,20241106,CHA,DET
+Shot Chart Detail,0022400185,215,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,10,53,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-36,48,1,1,20241108,DET,ATL
+Shot Chart Detail,0022400185,587,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,11,5,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,80,78,1,1,20241108,DET,ATL
+Shot Chart Detail,0022400201,220,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,6,15,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,55,1,1,20241110,DET,HOU
+Shot Chart Detail,0022400223,39,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,9,4,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,17,1,1,20241113,MIL,DET
+Shot Chart Detail,0022400223,88,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,5,14,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,15,1,1,20241113,MIL,DET
+Shot Chart Detail,0022400223,96,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,4,32,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20241113,MIL,DET
+Shot Chart Detail,0022400223,277,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,2,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,21,1,1,20241113,MIL,DET
+Shot Chart Detail,0022400223,330,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,11,8,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-6,1,1,20241113,MIL,DET
+Shot Chart Detail,0022400244,526,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,11,32,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,25,1,1,20241118,DET,CHI
+Shot Chart Detail,0022400260,127,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,3,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,11,1,1,20241121,CHA,DET
+Shot Chart Detail,0022400260,140,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,2,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-88,239,1,1,20241121,CHA,DET
+Shot Chart Detail,0022400265,136,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,0,39,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,16,1,1,20241123,ORL,DET
+Shot Chart Detail,0022400278,610,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,8,26,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,32,1,1,20241125,DET,TOR
+Shot Chart Detail,0022400278,623,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,7,5,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,29,1,1,20241125,DET,TOR
+Shot Chart Detail,0022400293,127,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,2,54,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,11,1,1,20241127,MEM,DET
+Shot Chart Detail,0022400293,547,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,9,29,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,8,1,1,20241127,MEM,DET
+Shot Chart Detail,0022400293,611,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,5,42,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,42,74,1,1,20241127,MEM,DET
+Shot Chart Detail,0022400293,622,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,4,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-2,292,1,1,20241127,MEM,DET
+Shot Chart Detail,0022400293,657,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,3,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,30,1,1,20241127,MEM,DET
+Shot Chart Detail,0022400301,532,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,10,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,30,1,1,20241130,DET,PHI
+Shot Chart Detail,0022400319,184,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,10,18,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,27,1,1,20241204,BOS,DET
+Shot Chart Detail,0022400319,464,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,2,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,225,133,1,1,20241204,BOS,DET
+Shot Chart Detail,0022400343,215,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,7,18,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,56,55,1,1,20241207,NYK,DET
+Shot Chart Detail,0022400343,527,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,7,11,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,86,13,1,1,20241207,NYK,DET
+Shot Chart Detail,0022400360,486,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,2,17,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241219,DET,UTA
+Shot Chart Detail,0022400387,188,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,9,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-8,1,1,20241221,PHX,DET
+Shot Chart Detail,0022400387,219,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,7,22,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,14,1,1,20241221,PHX,DET
+Shot Chart Detail,0022400404,156,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,0,34,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,33,1,1,20241223,LAL,DET
+Shot Chart Detail,0022400404,197,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,9,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,21,1,1,20241223,LAL,DET
+Shot Chart Detail,0022400404,212,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,8,11,Made Shot,Running Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,16,1,1,20241223,LAL,DET
+Shot Chart Detail,0022400404,496,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,9,55,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,14,1,1,20241223,LAL,DET
+Shot Chart Detail,0022400404,507,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,9,1,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,9,1,1,20241223,LAL,DET
+Shot Chart Detail,0022400432,544,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,10,42,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,21,127,1,1,20241228,DEN,DET
+Shot Chart Detail,0022400432,555,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,9,46,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-32,76,1,1,20241228,DEN,DET
+Shot Chart Detail,0022400432,577,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,7,59,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-1,1,1,20241228,DEN,DET
+Shot Chart Detail,0022400432,603,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,6,52,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,6,1,1,20241228,DEN,DET
+Shot Chart Detail,0022400432,658,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,2,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,191,1,1,20241228,DEN,DET
+Shot Chart Detail,0022400455,172,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,10,41,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-37,70,1,1,20250101,DET,ORL
+Shot Chart Detail,0022400469,167,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,11,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,163,199,1,1,20250103,DET,CHA
+Shot Chart Detail,0022400469,178,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,10,38,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,55,1,1,20250103,DET,CHA
+Shot Chart Detail,0022400469,211,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,8,38,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,27,32,1,1,20250103,DET,CHA
+Shot Chart Detail,0022400469,229,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,8,5,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,13,42,1,1,20250103,DET,CHA
+Shot Chart Detail,0022400479,554,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,8,29,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,8,1,1,20250104,DET,MIN
+Shot Chart Detail,0022400479,603,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,6,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,8,1,1,20250104,DET,MIN
+Shot Chart Detail,0022400493,209,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,8,10,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-56,41,1,1,20250106,DET,POR
+Shot Chart Detail,0022400493,212,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,7,56,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-31,39,1,1,20250106,DET,POR
+Shot Chart Detail,0022400493,431,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,1,39,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-5,89,1,1,20250106,DET,POR
+Shot Chart Detail,0022400513,109,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,3,49,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,1,20250108,BKN,DET
+Shot Chart Detail,0022400513,425,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,4,52,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,-3,1,1,20250108,BKN,DET
+Shot Chart Detail,0022400513,591,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,4,17,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,44,18,1,1,20250108,BKN,DET
+Shot Chart Detail,0022400513,618,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,2,33,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-15,84,1,1,20250108,BKN,DET
+Shot Chart Detail,0022400518,143,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,0,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-203,177,1,1,20250109,DET,GSW
+Shot Chart Detail,0022400518,179,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,10,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,4,1,1,20250109,DET,GSW
+Shot Chart Detail,0022400518,408,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,6,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,199,181,1,1,20250109,DET,GSW
+Shot Chart Detail,0022400534,469,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,3,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,7,1,1,20250111,DET,TOR
+Shot Chart Detail,0022400549,199,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,10,16,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,30,9,1,1,20250113,NYK,DET
+Shot Chart Detail,0022400549,229,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,8,9,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-61,40,1,1,20250113,NYK,DET
+Shot Chart Detail,0022400549,575,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,6,55,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,11,51,1,1,20250113,NYK,DET
+Shot Chart Detail,0022400572,204,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,10,10,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,5,1,1,20250116,DET,IND
+Shot Chart Detail,0022400586,203,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,10,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-4,1,1,20250118,DET,PHX
+Shot Chart Detail,0022400586,600,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,10,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-192,176,1,1,20250118,DET,PHX
+Shot Chart Detail,0022400586,686,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,2,49,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-40,99,1,1,20250118,DET,PHX
+Shot Chart Detail,0022400600,140,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,1,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,32,1,1,20250120,HOU,DET
+Shot Chart Detail,0022400638,184,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,0,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-4,1,1,20250125,ORL,DET
+Shot Chart Detail,0022400638,266,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,7,47,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,10,1,1,20250125,ORL,DET
+Shot Chart Detail,0022400638,542,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,1,44,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-18,1,1,20250125,ORL,DET
+Shot Chart Detail,0022400649,240,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,5,52,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-65,44,1,1,20250127,CLE,DET
+Shot Chart Detail,0022400649,584,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,4,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,38,1,1,20250127,CLE,DET
+Shot Chart Detail,0022400664,182,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,10,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,5,1,1,20250129,IND,DET
+Shot Chart Detail,0022400664,694,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,0,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,218,149,1,1,20250129,IND,DET
+Shot Chart Detail,0022400680,188,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,9,10,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,4,1,1,20250131,DET,DAL
+Shot Chart Detail,0022400680,541,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,9,40,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,21,1,1,20250131,DET,DAL
+Shot Chart Detail,0022400695,232,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,7,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,14,1,1,20250202,DET,CHI
+Shot Chart Detail,0022400695,323,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,1,31,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,22,1,1,20250202,DET,CHI
+Shot Chart Detail,0022400695,341,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,0,10,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,16,1,1,20250202,DET,CHI
+Shot Chart Detail,0022400701,544,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,11,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-200,182,1,1,20250203,DET,ATL
+Shot Chart Detail,0022400701,585,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,8,48,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,24,1,1,20250203,DET,ATL
+Shot Chart Detail,0022400718,172,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,11,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,19,1,1,20250205,DET,CLE
+Shot Chart Detail,0022400718,210,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,8,30,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,16,1,1,20250205,DET,CLE
+Shot Chart Detail,0022400718,238,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,6,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,210,178,1,1,20250205,DET,CLE
+Shot Chart Detail,0022400738,164,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,0,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-16,1,1,20250207,DET,PHI
+Shot Chart Detail,0022400752,167,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,11,26,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-4,1,1,20250209,DET,CHA
+Shot Chart Detail,0022400752,176,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,10,17,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,192,152,1,1,20250209,DET,CHA
+Shot Chart Detail,0022400752,211,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,8,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,15,1,1,20250209,DET,CHA
+Shot Chart Detail,0022400752,227,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,7,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,10,1,1,20250209,DET,CHA
+Shot Chart Detail,0022400802,481,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,2,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,15,1,1,20250221,SAS,DET
+Shot Chart Detail,0022400814,301,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,5,46,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20250223,ATL,DET
+Shot Chart Detail,0022400821,239,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,6,8,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,19,1,1,20250224,DET,LAC
+Shot Chart Detail,0022400821,555,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,11,33,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,4,1,1,20250224,DET,LAC
+Shot Chart Detail,0022400836,194,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,8,19,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,4,1,1,20250226,DET,BOS
+Shot Chart Detail,0022400836,489,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,10,3,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,22,1,1,20250226,DET,BOS
+Shot Chart Detail,0022400836,502,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,9,1,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,16,1,1,20250226,DET,BOS
+Shot Chart Detail,0022400836,529,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,7,8,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,53,1,1,20250226,DET,BOS
+Shot Chart Detail,0022400850,203,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,11,8,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,6,1,1,20250228,DET,DEN
+Shot Chart Detail,0022400850,686,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,1,50,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,9,1,1,20250228,DET,DEN
+Shot Chart Detail,0022400850,689,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,1,31,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,4,1,1,20250228,DET,DEN
+Shot Chart Detail,0022400861,185,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,10,1,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,10,1,1,20250301,DET,BKN
+Shot Chart Detail,0022400861,252,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,6,59,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,2,1,1,20250301,DET,BKN
+Shot Chart Detail,0022400861,516,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,3,0,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,16,1,1,20250301,DET,BKN
+Shot Chart Detail,0022400861,749,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,1,24,Made Shot,Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,52,1,1,20250301,DET,BKN
+Shot Chart Detail,0022400881,526,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,0,38,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,29,43,1,1,20250303,UTA,DET
+Shot Chart Detail,0022400881,692,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,3,23,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-7,84,1,1,20250303,UTA,DET
+Shot Chart Detail,0022400898,218,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,5,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,14,1,1,20250305,LAC,DET
+Shot Chart Detail,0022400898,247,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,4,24,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-108,34,1,1,20250305,LAC,DET
+Shot Chart Detail,0022400919,245,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,9,40,Made Shot,Running Layup Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,32,1,1,20250308,GSW,DET
+Shot Chart Detail,0022400919,271,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,8,4,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,21,1,1,20250308,GSW,DET
+Shot Chart Detail,0022400926,213,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,8,54,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-2,1,1,20250309,POR,DET
+Shot Chart Detail,0022400941,189,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,9,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,6,1,1,20250311,DET,WAS
+Shot Chart Detail,0022400941,675,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,1,20,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,10,1,1,20250311,DET,WAS
+Shot Chart Detail,0022400954,272,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,6,43,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,29,1,1,20250313,DET,WAS
+Shot Chart Detail,0022400969,191,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,11,6,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,26,1,1,20250315,DET,OKC
+Shot Chart Detail,0022400969,266,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,6,21,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,17,40,1,1,20250315,DET,OKC
+Shot Chart Detail,0022400969,294,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,4,22,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,25,1,1,20250315,DET,OKC
+Shot Chart Detail,0022400987,180,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,0,21,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,5,1,1,20250317,NOP,DET
+Shot Chart Detail,0022400987,637,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,4,35,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20250317,NOP,DET
+Shot Chart Detail,0022400987,665,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,1,56,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-158,136,1,1,20250317,NOP,DET
+Shot Chart Detail,0022401000,236,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,7,11,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,2,1,1,20250319,MIA,DET
+Shot Chart Detail,0022401000,239,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,6,52,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,0,1,1,20250319,MIA,DET
+Shot Chart Detail,0022401000,263,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,5,59,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-10,65,1,1,20250319,MIA,DET
+Shot Chart Detail,0022401019,187,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,11,34,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,5,1,1,20250321,DAL,DET
+Shot Chart Detail,0022401019,193,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,10,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20250321,DAL,DET
+Shot Chart Detail,0022401019,202,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,9,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,164,183,1,1,20250321,DAL,DET
+Shot Chart Detail,0022401019,243,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,6,51,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,8,1,1,20250321,DAL,DET
+Shot Chart Detail,0022401019,515,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-56,220,1,1,20250321,DAL,DET
+Shot Chart Detail,0022401029,119,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,3,21,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,49,50,1,1,20250323,DET,NOP
+Shot Chart Detail,0022401029,208,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,8,15,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-18,59,1,1,20250323,DET,NOP
+Shot Chart Detail,0022401029,463,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,1,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,4,1,1,20250323,DET,NOP
+Shot Chart Detail,0022401029,471,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,1,6,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20250323,DET,NOP
+Shot Chart Detail,0022401029,485,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,0,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,5,1,1,20250323,DET,NOP
+Shot Chart Detail,0022401029,555,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,8,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,2,1,1,20250323,DET,NOP
+Shot Chart Detail,0022401029,574,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,7,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,4,1,1,20250323,DET,NOP
+Shot Chart Detail,0022401029,597,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,4,59,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,74,55,1,1,20250323,DET,NOP
+Shot Chart Detail,0022401029,608,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,3,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,11,1,1,20250323,DET,NOP
+Shot Chart Detail,0022401029,618,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,2,1,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,21,1,1,20250323,DET,NOP
+Shot Chart Detail,0022401046,141,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,1,21,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-54,32,1,1,20250325,DET,SAS
+Shot Chart Detail,0022401046,491,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,10,29,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,16,1,1,20250325,DET,SAS
+Shot Chart Detail,0022401046,511,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,8,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-176,195,1,1,20250325,DET,SAS
+Shot Chart Detail,0022401067,218,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,8,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,124,227,1,1,20250328,DET,CLE
+Shot Chart Detail,0022401067,222,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,8,18,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,30,1,1,20250328,DET,CLE
+Shot Chart Detail,0022401067,482,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,3,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-183,181,1,1,20250328,DET,CLE
+Shot Chart Detail,0022401067,577,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,8,56,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,18,1,1,20250328,DET,CLE
+Shot Chart Detail,0022401084,235,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,8,44,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,66,16,1,1,20250330,MIN,DET
+Shot Chart Detail,0022401129,517,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,10,13,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,7,1,1,20250405,DET,MEM
+Shot Chart Detail,0022401144,182,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,11,36,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-17,28,1,1,20250407,DET,SAC
+Shot Chart Detail,0022401144,611,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,5,43,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,29,1,1,20250407,DET,SAC
+Shot Chart Detail,0022401167,135,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,0,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,29,1,1,20250410,DET,NYK
+Shot Chart Detail,0022401167,501,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,11,26,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-28,20,1,1,20250410,DET,NYK
+Shot Chart Detail,0022401167,526,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,9,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,11,1,1,20250410,DET,NYK
+Shot Chart Detail,0022401167,555,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,7,42,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,24,1,1,20250410,DET,NYK
+Shot Chart Detail,0022401167,576,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,5,31,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,9,1,1,20250410,DET,NYK
+Shot Chart Detail,0022401167,585,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,4,57,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,29,1,1,20250410,DET,NYK
+Shot Chart Detail,0022401192,19,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,10,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,11,1,1,20250413,MIL,DET
+Shot Chart Detail,0022401192,37,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,8,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-83,254,1,1,20250413,MIL,DET
+Shot Chart Detail,0022401205,208,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,9,1,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,92,114,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,220,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,8,4,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,13,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,240,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,6,4,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,13,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,493,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,11,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,230,95,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,556,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,5,42,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,22,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,562,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,5,12,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,145,59,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,566,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,4,42,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,20,126,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,573,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,3,53,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,27,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,605,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,2,8,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,611,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,1,26,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401205,617,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,0,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-105,236,1,1,20241212,BOS,DET
+Shot Chart Detail,0022401221,128,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,2,12,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-3,1,1,20241216,DET,MIA
+Shot Chart Detail,0022401221,295,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,3,41,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-5,1,1,20241216,DET,MIA
+Shot Chart Detail,0022401221,405,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,9,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,13,1,1,20241216,DET,MIA

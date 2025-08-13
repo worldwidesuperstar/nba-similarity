@@ -1,21 +1,250 @@
-GRID_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,FGA,FGM,FG_PCT
-League Averages,Above the Break 3,Back Court(BC),Back Court Shot,1,1,1.0
-League Averages,Above the Break 3,Center(C),24+ ft.,5987,5987,1.0
-League Averages,Above the Break 3,Left Side Center(LC),24+ ft.,9526,9526,1.0
-League Averages,Above the Break 3,Right Side Center(RC),24+ ft.,8629,8629,1.0
-League Averages,Backcourt,Back Court(BC),Back Court Shot,12,12,1.0
-League Averages,In The Paint (Non-RA),Center(C),8-16 ft.,5876,5876,1.0
-League Averages,In The Paint (Non-RA),Center(C),Less Than 8 ft.,11747,11747,1.0
-League Averages,In The Paint (Non-RA),Left Side(L),8-16 ft.,1008,1008,1.0
-League Averages,In The Paint (Non-RA),Right Side(R),8-16 ft.,1103,1103,1.0
-League Averages,Left Corner 3,Left Side(L),24+ ft.,4706,4706,1.0
-League Averages,Mid-Range,Center(C),8-16 ft.,835,835,1.0
-League Averages,Mid-Range,Center(C),16-24 ft.,1133,1133,1.0
-League Averages,Mid-Range,Left Side Center(LC),16-24 ft.,1110,1110,1.0
-League Averages,Mid-Range,Left Side(L),16-24 ft.,478,478,1.0
-League Averages,Mid-Range,Left Side(L),8-16 ft.,1889,1889,1.0
-League Averages,Mid-Range,Right Side Center(RC),16-24 ft.,1060,1060,1.0
-League Averages,Mid-Range,Right Side(R),8-16 ft.,2020,2020,1.0
-League Averages,Mid-Range,Right Side(R),16-24 ft.,400,400,1.0
-League Averages,Restricted Area,Center(C),Less Than 8 ft.,40603,40603,1.0
-League Averages,Right Corner 3,Right Side(R),24+ ft.,4443,4443,1.0
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400015,123,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,3,4,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,13,1,1,20241115,SAS,LAL
+Shot Chart Detail,0022400015,438,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,2,48,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-59,50,1,1,20241115,SAS,LAL
+Shot Chart Detail,0022400015,476,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,0,16,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,127,246,1,1,20241115,SAS,LAL
+Shot Chart Detail,0022400015,496,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,10,55,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,1,96,1,1,20241115,SAS,LAL
+Shot Chart Detail,0022400015,499,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,10,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,109,254,1,1,20241115,SAS,LAL
+Shot Chart Detail,0022400026,116,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,3,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,15,1,1,20241119,LAL,UTA
+Shot Chart Detail,0022400026,204,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,9,35,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,26,1,1,20241119,LAL,UTA
+Shot Chart Detail,0022400039,168,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,10,14,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,168,190,1,1,20241126,PHX,LAL
+Shot Chart Detail,0022400039,182,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,9,31,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-62,69,1,1,20241126,PHX,LAL
+Shot Chart Detail,0022400039,240,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,5,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,6,1,1,20241126,PHX,LAL
+Shot Chart Detail,0022400039,538,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,8,18,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-33,116,1,1,20241126,PHX,LAL
+Shot Chart Detail,0022400039,648,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,0,43,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-9,109,1,1,20241126,PHX,LAL
+Shot Chart Detail,0022400048,84,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,4,48,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-39,62,1,1,20241129,LAL,OKC
+Shot Chart Detail,0022400048,124,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,1,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,37,1,1,20241129,LAL,OKC
+Shot Chart Detail,0022400048,143,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,11,38,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-4,265,1,1,20241129,LAL,OKC
+Shot Chart Detail,0022400048,340,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,8,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,145,200,1,1,20241129,LAL,OKC
+Shot Chart Detail,0022400048,497,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,9,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-219,127,1,1,20241129,LAL,OKC
+Shot Chart Detail,0022400048,504,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,9,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-172,235,1,1,20241129,LAL,OKC
+Shot Chart Detail,0022400062,73,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,5,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,27,249,1,1,20241022,LAL,MIN
+Shot Chart Detail,0022400062,175,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,10,40,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,15,1,1,20241022,LAL,MIN
+Shot Chart Detail,0022400062,194,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,9,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,32,1,1,20241022,LAL,MIN
+Shot Chart Detail,0022400062,551,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,9,32,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,18,53,1,1,20241022,LAL,MIN
+Shot Chart Detail,0022400085,570,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,6,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,181,220,1,1,20241025,LAL,PHX
+Shot Chart Detail,0022400096,22,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,10,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,6,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400096,211,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,8,37,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,10,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400096,294,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,2,55,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-85,235,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400096,338,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,0,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-11,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400096,387,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,9,13,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,16,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400096,643,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,4,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,137,244,1,1,20241026,LAL,SAC
+Shot Chart Detail,0022400111,171,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,10,38,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,50,1,1,20241028,PHX,LAL
+Shot Chart Detail,0022400111,363,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,10,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,165,219,1,1,20241028,PHX,LAL
+Shot Chart Detail,0022400111,368,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,10,0,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,50,111,1,1,20241028,PHX,LAL
+Shot Chart Detail,0022400111,494,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,0,39,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-13,255,1,1,20241028,PHX,LAL
+Shot Chart Detail,0022400111,559,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,8,58,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,-1,1,1,20241028,PHX,LAL
+Shot Chart Detail,0022400118,199,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,8,2,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-93,73,1,1,20241030,CLE,LAL
+Shot Chart Detail,0022400118,403,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,5,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,8,1,1,20241030,CLE,LAL
+Shot Chart Detail,0022400137,29,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,9,43,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-4,1,1,20241101,TOR,LAL
+Shot Chart Detail,0022400137,65,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,6,50,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-7,1,1,20241101,TOR,LAL
+Shot Chart Detail,0022400137,281,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,5,25,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-61,257,1,1,20241101,TOR,LAL
+Shot Chart Detail,0022400137,294,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,3,52,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,32,78,1,1,20241101,TOR,LAL
+Shot Chart Detail,0022400137,655,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,5,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-142,226,1,1,20241101,TOR,LAL
+Shot Chart Detail,0022400137,692,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,2,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-11,1,1,20241101,TOR,LAL
+Shot Chart Detail,0022400137,698,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,2,12,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-9,123,1,1,20241101,TOR,LAL
+Shot Chart Detail,0022400156,36,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,9,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,1,1,1,20241104,DET,LAL
+Shot Chart Detail,0022400156,99,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,4,12,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,30,1,1,20241104,DET,LAL
+Shot Chart Detail,0022400156,397,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,7,25,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-146,217,1,1,20241104,DET,LAL
+Shot Chart Detail,0022400156,451,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,3,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-80,256,1,1,20241104,DET,LAL
+Shot Chart Detail,0022400174,21,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,10,33,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,12,1,1,20241106,MEM,LAL
+Shot Chart Detail,0022400174,71,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,6,18,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-22,32,1,1,20241106,MEM,LAL
+Shot Chart Detail,0022400174,98,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,4,33,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,103,239,1,1,20241106,MEM,LAL
+Shot Chart Detail,0022400174,399,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,7,29,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-54,242,1,1,20241106,MEM,LAL
+Shot Chart Detail,0022400195,128,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,3,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,8,1,1,20241108,LAL,PHI
+Shot Chart Detail,0022400195,148,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,0,23,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,132,229,1,1,20241108,LAL,PHI
+Shot Chart Detail,0022400195,174,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,10,27,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-47,30,1,1,20241108,LAL,PHI
+Shot Chart Detail,0022400195,421,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,4,15,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,21,1,1,20241108,LAL,PHI
+Shot Chart Detail,0022400195,461,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,1,13,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,22,1,1,20241108,LAL,PHI
+Shot Chart Detail,0022400195,469,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,0,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,142,1,1,20241108,LAL,PHI
+Shot Chart Detail,0022400195,580,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,5,16,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-74,97,1,1,20241108,LAL,PHI
+Shot Chart Detail,0022400211,128,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,1,53,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,25,1,1,20241110,LAL,TOR
+Shot Chart Detail,0022400211,165,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,11,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,40,1,1,20241110,LAL,TOR
+Shot Chart Detail,0022400211,285,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,3,32,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,80,93,1,1,20241110,LAL,TOR
+Shot Chart Detail,0022400211,336,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,0,0,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,124,247,1,1,20241110,LAL,TOR
+Shot Chart Detail,0022400211,432,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,4,53,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-7,1,1,20241110,LAL,TOR
+Shot Chart Detail,0022400211,566,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,7,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,70,245,1,1,20241110,LAL,TOR
+Shot Chart Detail,0022400225,148,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,1,39,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-39,34,1,1,20241113,LAL,MEM
+Shot Chart Detail,0022400225,286,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,4,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-150,222,1,1,20241113,LAL,MEM
+Shot Chart Detail,0022400225,557,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,9,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-135,226,1,1,20241113,LAL,MEM
+Shot Chart Detail,0022400231,471,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,1,48,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,259,1,1,20241116,NOP,LAL
+Shot Chart Detail,0022400231,576,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,4,25,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-26,105,1,1,20241116,NOP,LAL
+Shot Chart Detail,0022400263,152,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,1,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,27,1,1,20241121,LAL,ORL
+Shot Chart Detail,0022400263,198,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,9,22,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,211,194,1,1,20241121,LAL,ORL
+Shot Chart Detail,0022400263,513,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,10,47,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-58,92,1,1,20241121,LAL,ORL
+Shot Chart Detail,0022400270,184,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,9,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,53,1,1,20241123,LAL,DEN
+Shot Chart Detail,0022400270,194,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,9,5,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,25,1,1,20241123,LAL,DEN
+Shot Chart Detail,0022400296,112,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,2,30,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,68,1,1,20241127,SAS,LAL
+Shot Chart Detail,0022400296,128,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,1,16,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,40,1,1,20241127,SAS,LAL
+Shot Chart Detail,0022400296,140,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,0,30,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,5,1,1,20241127,SAS,LAL
+Shot Chart Detail,0022400296,159,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,11,29,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,27,68,1,1,20241127,SAS,LAL
+Shot Chart Detail,0022400296,194,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,8,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-112,236,1,1,20241127,SAS,LAL
+Shot Chart Detail,0022400296,209,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,7,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,232,1,1,20241127,SAS,LAL
+Shot Chart Detail,0022400296,491,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,10,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-206,149,1,1,20241127,SAS,LAL
+Shot Chart Detail,0022400318,32,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,9,3,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,20,1,1,20241202,MIN,LAL
+Shot Chart Detail,0022400318,40,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,8,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-75,239,1,1,20241202,MIN,LAL
+Shot Chart Detail,0022400318,79,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,5,7,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-88,128,1,1,20241202,MIN,LAL
+Shot Chart Detail,0022400318,183,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,9,15,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,78,247,1,1,20241202,MIN,LAL
+Shot Chart Detail,0022400318,265,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,3,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-110,244,1,1,20241202,MIN,LAL
+Shot Chart Detail,0022400318,306,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,0,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-25,251,1,1,20241202,MIN,LAL
+Shot Chart Detail,0022400318,351,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,8,55,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,44,98,1,1,20241202,MIN,LAL
+Shot Chart Detail,0022400318,526,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,7,26,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-31,152,1,1,20241202,MIN,LAL
+Shot Chart Detail,0022400321,56,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,6,53,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-15,270,1,1,20241204,MIA,LAL
+Shot Chart Detail,0022400321,108,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,3,29,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1,41,1,1,20241204,MIA,LAL
+Shot Chart Detail,0022400321,201,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,8,48,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-47,38,1,1,20241204,MIA,LAL
+Shot Chart Detail,0022400321,212,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,7,57,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,23,48,1,1,20241204,MIA,LAL
+Shot Chart Detail,0022400321,544,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,6,3,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,2,99,1,1,20241204,MIA,LAL
+Shot Chart Detail,0022400334,132,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,1,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-107,150,1,1,20241206,ATL,LAL
+Shot Chart Detail,0022400334,448,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,3,56,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-20,260,1,1,20241206,ATL,LAL
+Shot Chart Detail,0022400334,504,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,0,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,74,251,1,1,20241206,ATL,LAL
+Shot Chart Detail,0022400358,120,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,1,29,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-98,104,1,1,20241208,LAL,POR
+Shot Chart Detail,0022400358,274,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,3,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-127,248,1,1,20241208,LAL,POR
+Shot Chart Detail,0022400358,298,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,0,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,13,1,1,20241208,LAL,POR
+Shot Chart Detail,0022400358,383,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,5,39,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-62,36,1,1,20241208,LAL,POR
+Shot Chart Detail,0022400358,413,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,3,34,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-64,253,1,1,20241208,LAL,POR
+Shot Chart Detail,0022400358,485,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,11,19,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-44,74,1,1,20241208,LAL,POR
+Shot Chart Detail,0022400358,500,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,9,52,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,238,1,1,20241208,LAL,POR
+Shot Chart Detail,0022400358,517,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,8,43,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-115,238,1,1,20241208,LAL,POR
+Shot Chart Detail,0022400358,535,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,7,14,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,129,221,1,1,20241208,LAL,POR
+Shot Chart Detail,0022400372,143,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,1,26,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-11,110,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400372,156,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,0,47,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,13,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400372,287,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,5,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-174,195,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400372,461,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,4,47,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,257,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400372,515,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,1,26,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,172,141,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400372,547,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,10,47,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-65,62,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400372,582,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,8,13,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,-2,1,1,20241219,SAC,LAL
+Shot Chart Detail,0022400376,105,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,4,16,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-26,263,1,1,20241221,SAC,LAL
+Shot Chart Detail,0022400376,190,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,10,38,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,81,259,1,1,20241221,SAC,LAL
+Shot Chart Detail,0022400376,240,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,7,29,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1,49,1,1,20241221,SAC,LAL
+Shot Chart Detail,0022400376,330,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,2,0,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-76,260,1,1,20241221,SAC,LAL
+Shot Chart Detail,0022400376,435,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,3,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,130,111,1,1,20241221,SAC,LAL
+Shot Chart Detail,0022400376,575,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,6,29,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,32,1,1,20241221,SAC,LAL
+Shot Chart Detail,0022400376,607,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,4,2,54,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-18,148,1,1,20241221,SAC,LAL
+Shot Chart Detail,0022400404,133,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,2,6,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,32,1,1,20241223,LAL,DET
+Shot Chart Detail,0022400435,108,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,2,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,30,127,272,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400435,428,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,5,48,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,22,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400435,441,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,4,56,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-51,90,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400435,459,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,3,24,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,15,1,1,20241228,LAL,SAC
+Shot Chart Detail,0022400459,115,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,3,26,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-64,255,1,1,20250101,TOR,BKN
+Shot Chart Detail,0022400459,118,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,3,10,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20250101,TOR,BKN
+Shot Chart Detail,0022400459,183,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,10,24,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,6,1,1,20250101,TOR,BKN
+Shot Chart Detail,0022400459,204,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,8,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-10,1,1,20250101,TOR,BKN
+Shot Chart Detail,0022400459,215,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,7,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,4,1,1,20250101,TOR,BKN
+Shot Chart Detail,0022400459,322,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,1,18,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,50,108,1,1,20250101,TOR,BKN
+Shot Chart Detail,0022400459,415,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,5,34,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,29,85,1,1,20250101,TOR,BKN
+Shot Chart Detail,0022400459,507,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,11,38,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-45,81,1,1,20250101,TOR,BKN
+Shot Chart Detail,0022400459,526,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,9,56,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-37,62,1,1,20250101,TOR,BKN
+Shot Chart Detail,0022400465,225,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,7,45,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,28,1,1,20250102,MIL,BKN
+Shot Chart Detail,0022400465,254,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,5,10,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-29,102,1,1,20250102,MIL,BKN
+Shot Chart Detail,0022400465,258,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,4,51,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20250102,MIL,BKN
+Shot Chart Detail,0022400478,7,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,11,53,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-137,238,1,1,20250104,BKN,PHI
+Shot Chart Detail,0022400560,121,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,2,17,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,135,215,1,1,20250114,POR,BKN
+Shot Chart Detail,0022400560,127,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,1,51,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,137,221,1,1,20250114,POR,BKN
+Shot Chart Detail,0022400560,606,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,4,35,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,206,147,1,1,20250114,POR,BKN
+Shot Chart Detail,0022400585,112,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,2,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,23,1,1,20250117,LAL,BKN
+Shot Chart Detail,0022400585,173,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,8,24,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,104,248,1,1,20250117,LAL,BKN
+Shot Chart Detail,0022400585,248,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,3,42,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-84,132,1,1,20250117,LAL,BKN
+Shot Chart Detail,0022400585,424,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,3,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,183,200,1,1,20250117,LAL,BKN
+Shot Chart Detail,0022400585,493,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,11,21,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,39,263,1,1,20250117,LAL,BKN
+Shot Chart Detail,0022400585,513,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,9,13,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,114,248,1,1,20250117,LAL,BKN
+Shot Chart Detail,0022400585,582,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,3,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-113,237,1,1,20250117,LAL,BKN
+Shot Chart Detail,0022400595,64,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,7,29,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,43,1,1,20250119,OKC,BKN
+Shot Chart Detail,0022400595,280,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,2,26,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-69,104,1,1,20250119,OKC,BKN
+Shot Chart Detail,0022400606,56,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,7,17,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,1,1,1,20250121,BKN,NYK
+Shot Chart Detail,0022400606,74,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,5,4,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,60,1,1,20250121,BKN,NYK
+Shot Chart Detail,0022400606,202,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,8,22,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,92,230,1,1,20250121,BKN,NYK
+Shot Chart Detail,0022400606,384,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,8,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,11,261,1,1,20250121,BKN,NYK
+Shot Chart Detail,0022400606,461,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,2,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,18,251,1,1,20250121,BKN,NYK
+Shot Chart Detail,0022400606,654,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,0,52,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,105,242,1,1,20250121,BKN,NYK
+Shot Chart Detail,0022400636,29,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,9,22,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,17,1,1,20250125,BKN,MIA
+Shot Chart Detail,0022400636,200,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,8,50,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-108,49,1,1,20250125,BKN,MIA
+Shot Chart Detail,0022400636,300,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,1,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-123,233,1,1,20250125,BKN,MIA
+Shot Chart Detail,0022400636,307,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,1,14,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,221,1,1,20250125,BKN,MIA
+Shot Chart Detail,0022400636,361,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,9,15,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-64,243,1,1,20250125,BKN,MIA
+Shot Chart Detail,0022400636,384,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,7,39,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-11,263,1,1,20250125,BKN,MIA
+Shot Chart Detail,0022400651,17,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,10,48,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,39,1,1,20250127,BKN,SAC
+Shot Chart Detail,0022400651,39,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,7,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-99,251,1,1,20250127,BKN,SAC
+Shot Chart Detail,0022400651,181,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,10,46,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-37,49,1,1,20250127,BKN,SAC
+Shot Chart Detail,0022400651,457,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,6,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-98,246,1,1,20250127,BKN,SAC
+Shot Chart Detail,0022400663,11,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,11,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,14,1,1,20250129,CHA,BKN
+Shot Chart Detail,0022400663,32,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,9,40,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,1,20250129,CHA,BKN
+Shot Chart Detail,0022400663,532,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,10,45,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,10,1,1,20250129,CHA,BKN
+Shot Chart Detail,0022400689,47,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,7,27,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-48,258,1,1,20250201,HOU,BKN
+Shot Chart Detail,0022400689,301,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,1,5,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,104,89,1,1,20250201,HOU,BKN
+Shot Chart Detail,0022400689,317,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,0,10,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-196,173,1,1,20250201,HOU,BKN
+Shot Chart Detail,0022400689,349,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,9,42,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-61,101,1,1,20250201,HOU,BKN
+Shot Chart Detail,0022400689,467,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,1,13,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,64,251,1,1,20250201,HOU,BKN
+Shot Chart Detail,0022400689,511,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,11,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-89,161,1,1,20250201,HOU,BKN
+Shot Chart Detail,0022400711,22,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,10,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,56,185,1,1,20250204,BKN,HOU
+Shot Chart Detail,0022400711,172,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,10,5,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,97,246,1,1,20250204,BKN,HOU
+Shot Chart Detail,0022400711,705,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,0,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-23,278,1,1,20250204,BKN,HOU
+Shot Chart Detail,0022400720,38,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,9,21,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,17,1,1,20250205,BKN,WAS
+Shot Chart Detail,0022400720,276,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,3,56,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,1,1,1,20250205,BKN,WAS
+Shot Chart Detail,0022400737,28,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,9,30,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,66,1,1,20250207,BKN,MIA
+Shot Chart Detail,0022400737,133,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,1,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-126,237,1,1,20250207,BKN,MIA
+Shot Chart Detail,0022400737,380,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,8,41,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,24,132,1,1,20250207,BKN,MIA
+Shot Chart Detail,0022400737,544,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,9,24,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,59,272,1,1,20250207,BKN,MIA
+Shot Chart Detail,0022400737,552,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,8,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,141,220,1,1,20250207,BKN,MIA
+Shot Chart Detail,0022400758,10,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,11,31,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-99,32,1,1,20250210,BKN,CHA
+Shot Chart Detail,0022400758,433,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,10,44,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-5,261,1,1,20250210,BKN,CHA
+Shot Chart Detail,0022400758,454,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,9,39,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,26,1,1,20250210,BKN,CHA
+Shot Chart Detail,0022400758,575,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,1,30,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,19,1,1,20250210,BKN,CHA
+Shot Chart Detail,0022400772,7,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,11,42,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-114,32,1,1,20250212,BKN,PHI
+Shot Chart Detail,0022400772,39,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,8,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,16,1,1,20250212,BKN,PHI
+Shot Chart Detail,0022400772,51,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,7,14,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,80,244,1,1,20250212,BKN,PHI
+Shot Chart Detail,0022400772,54,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,6,37,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,53,1,1,20250212,BKN,PHI
+Shot Chart Detail,0022400772,70,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,5,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,34,1,1,20250212,BKN,PHI
+Shot Chart Detail,0022400772,86,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,5,3,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,12,1,1,20250212,BKN,PHI
+Shot Chart Detail,0022400772,369,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,7,34,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-7,78,1,1,20250212,BKN,PHI
+Shot Chart Detail,0022400772,450,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,2,10,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-4,73,1,1,20250212,BKN,PHI
+Shot Chart Detail,0022400772,460,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,1,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,195,198,1,1,20250212,BKN,PHI
+Shot Chart Detail,0022400791,207,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,11,2,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,10,252,1,1,20250220,BKN,CLE
+Shot Chart Detail,0022400888,20,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,10,6,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,4,74,1,1,20250304,SAS,BKN
+Shot Chart Detail,0022400888,56,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,6,55,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-72,50,1,1,20250304,SAS,BKN
+Shot Chart Detail,0022400888,207,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,8,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-129,216,1,1,20250304,SAS,BKN
+Shot Chart Detail,0022400888,388,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,9,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-162,206,1,1,20250304,SAS,BKN
+Shot Chart Detail,0022400901,25,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,10,44,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,5,119,1,1,20250306,BKN,GSW
+Shot Chart Detail,0022400901,54,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,7,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-165,194,1,1,20250306,BKN,GSW
+Shot Chart Detail,0022400901,181,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,10,28,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,86,87,1,1,20250306,BKN,GSW
+Shot Chart Detail,0022400912,132,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,2,9,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,65,8,1,1,20250308,CHA,BKN
+Shot Chart Detail,0022400912,181,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,10,41,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,9,53,1,1,20250308,CHA,BKN
+Shot Chart Detail,0022400912,294,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,3,16,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-6,79,1,1,20250308,CHA,BKN
+Shot Chart Detail,0022400912,329,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,1,8,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,58,1,1,20250308,CHA,BKN
+Shot Chart Detail,0022400912,335,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,0,23,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,34,-96,335,1,1,20250308,CHA,BKN
+Shot Chart Detail,0022400912,508,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,11,9,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-31,79,1,1,20250308,CHA,BKN
+Shot Chart Detail,0022400912,524,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,10,3,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-50,84,1,1,20250308,CHA,BKN
+Shot Chart Detail,0022400912,546,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,8,42,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,173,190,1,1,20250308,CHA,BKN
+Shot Chart Detail,0022400912,560,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,7,32,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,199,1,1,20250308,CHA,BKN
+Shot Chart Detail,0022400912,563,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,7,9,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-112,243,1,1,20250308,CHA,BKN
+Shot Chart Detail,0022400930,520,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,10,41,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-119,224,1,1,20250310,BKN,LAL
+Shot Chart Detail,0022400930,658,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,1,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-100,234,1,1,20250310,BKN,LAL
+Shot Chart Detail,0022400956,17,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,10,52,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,35,191,1,1,20250313,CHI,BKN
+Shot Chart Detail,0022400956,25,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,9,59,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-7,1,1,20250313,CHI,BKN
+Shot Chart Detail,0022400968,9,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,11,25,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-43,73,1,1,20250315,BKN,BOS
+Shot Chart Detail,0022400968,363,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,8,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,14,1,1,20250315,BKN,BOS
+Shot Chart Detail,0022400968,381,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,6,13,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,0,258,1,1,20250315,BKN,BOS
+Shot Chart Detail,0022400994,16,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,11,13,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,69,1,1,20250318,BOS,BKN
+Shot Chart Detail,0022400994,41,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,8,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-190,180,1,1,20250318,BOS,BKN
+Shot Chart Detail,0022400994,193,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,7,32,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,131,224,1,1,20250318,BOS,BKN
+Shot Chart Detail,0022400994,300,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,11,26,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-223,112,1,1,20250318,BOS,BKN
+Shot Chart Detail,0022400994,530,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,5,50,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-51,84,1,1,20250318,BOS,BKN
+Shot Chart Detail,0022400994,533,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,5,17,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-97,252,1,1,20250318,BOS,BKN
+Shot Chart Detail,0022401011,308,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,3,0,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,112,251,1,1,20250320,IND,BKN
+Shot Chart Detail,0022401011,349,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,0,47,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-124,220,1,1,20250320,IND,BKN
+Shot Chart Detail,0022401011,409,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,7,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,12,148,1,1,20250320,IND,BKN
+Shot Chart Detail,0022401011,560,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,8,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,65,1,1,20250320,IND,BKN
+Shot Chart Detail,0022401011,592,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,5,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,8,1,1,20250320,IND,BKN
+Shot Chart Detail,0022401011,600,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,4,55,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,21,1,1,20250320,IND,BKN
+Shot Chart Detail,0022401011,641,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,3,4,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,16,1,1,20250320,IND,BKN
+Shot Chart Detail,0022401054,371,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,10,42,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,10,1,1,20250326,BKN,TOR
+Shot Chart Detail,0022401054,443,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,5,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,18,1,1,20250326,BKN,TOR
+Shot Chart Detail,0022401068,52,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,8,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,206,1,1,20250328,BKN,LAC
+Shot Chart Detail,0022401068,188,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,10,24,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,24,1,1,20250328,BKN,LAC
+Shot Chart Detail,0022401095,44,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,8,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,6,260,1,1,20250331,DAL,BKN
+Shot Chart Detail,0022401095,48,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,1,8,13,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-33,250,1,1,20250331,DAL,BKN
+Shot Chart Detail,0022401095,198,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,2,9,14,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-5,287,1,1,20250331,DAL,BKN
+Shot Chart Detail,0022401095,352,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,3,9,41,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4,256,1,1,20250331,DAL,BKN
+Shot Chart Detail,0022401095,642,1626156,D'Angelo Russell,1610612751,Brooklyn Nets,4,1,16,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-39,91,1,1,20250331,DAL,BKN
+Shot Chart Detail,0022401210,422,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,5,2,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-80,168,1,1,20241213,MIN,LAL
+Shot Chart Detail,0022401210,476,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,1,4,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-98,236,1,1,20241213,MIN,LAL
+Shot Chart Detail,0022401220,80,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,1,6,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,107,237,1,1,20241215,LAL,MEM
+Shot Chart Detail,0022401220,530,1626156,D'Angelo Russell,1610612747,Los Angeles Lakers,3,3,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-137,230,1,1,20241215,LAL,MEM
