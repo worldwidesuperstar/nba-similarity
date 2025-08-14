@@ -1,4 +1,7 @@
-from nba_api.stats.endpoints import leagueleaders, playerdashboardbygeneralsplits, shotchartdetail, playerdashptshots
+from nba_api.stats.endpoints import (
+    leagueleaders, playerdashboardbygeneralsplits, shotchartdetail, playerdashptshots,
+    leaguehustlestatsplayer, leaguedashplayerclutch, playerdashptpassing, assisttracker
+)
 import pandas as pd
 import time
 
@@ -79,10 +82,9 @@ def retry_fetch_shot_tracking(player_id, team_id, season, max_retries=3, pause=5
                 team_id=team_id,
                 season=season,
                 season_type_all_star='Regular Season',
-                per_mode_simple='PerGame',
+                per_mode_simple='Per36',
             )
             dataframes = shot_tracking.get_data_frames()
-            print(f"  Shot tracking: SUCCESS - {len(dataframes)} dataframes")
             return dataframes
         except Exception as e:
             if attempt == max_retries - 1:
@@ -92,23 +94,18 @@ def retry_fetch_shot_tracking(player_id, team_id, season, max_retries=3, pause=5
     return None
 
 def fetch_save_shot_tracking_data(df, season='2024-25', delay=8):
-    """
-    Fetch and save shot tracking data for MBTI analysis
-    """
-    print("Fetching shot tracking data for top players...")
     
-    # Test with just top 10 players first
     for idx, row in df.iterrows():
         player_id = row['PLAYER_ID']
         team_id = row['TEAM_ID']
         player_name = row['PLAYER']
         
-        print(f"\nFetching shot tracking for {player_name}...")
+        print(f"\nfetching shot tracking for {player_name}...")
         
         tracking_data = retry_fetch_shot_tracking(player_id, team_id, season)
         
         if tracking_data:
-            # Save each dataframe with actual endpoint dataset names
+
             dataframe_names = [
                 'ClosestDefender10ftPlusShooting',
                 'ClosestDefenderShooting', 
@@ -123,7 +120,6 @@ def fetch_save_shot_tracking_data(df, season='2024-25', delay=8):
                 if not df_track.empty and i < len(dataframe_names):
                     filename = f'data/raw/{player_id}_{dataframe_names[i]}.csv'
                     df_track.to_csv(filename, index=False)
-                    print(f"    Saved: {dataframe_names[i]} ({df_track.shape[0]} rows)")
         
         time.sleep(delay)
 
@@ -133,5 +129,4 @@ if __name__ == "__main__":
     # Uncomment the line below to fetch basic shot chart data for all 200 players
     # fetch_save_advanced_data(top200)
     
-    # Fetch shot tracking data for MBTI analysis (top 10 players)
-    fetch_save_shot_tracking_data(top200)
+    # fetch_save_shot_tracking_data(top200)
