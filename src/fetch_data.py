@@ -1,4 +1,4 @@
-from nba_api.stats.endpoints import leagueleaders, playerdashboardbygeneralsplits, shotchartdetail
+from nba_api.stats.endpoints import leagueleaders, playerdashboardbygeneralsplits, shotchartdetail, playerdashptshots
 import pandas as pd
 import time
 
@@ -68,6 +68,70 @@ def retry_fetch_shotchart(player_id, season, max_retries=5, pause=5):
     print(f"failed to fetch data for {player_id} after {max_retries} attempts.")
     return None
 
+def retry_fetch_shot_tracking(player_id, team_id, season, max_retries=3, pause=5):
+    """
+    Fetch shot tracking data for MBTI analysis
+    """
+    for attempt in range(max_retries):
+        try:
+            shot_tracking = playerdashptshots.PlayerDashPtShots(
+                player_id=player_id,
+                team_id=team_id,
+                season=season,
+                season_type_all_star='Regular Season',
+                per_mode_simple='PerGame',
+            )
+            dataframes = shot_tracking.get_data_frames()
+            print(f"  Shot tracking: SUCCESS - {len(dataframes)} dataframes")
+            return dataframes
+        except Exception as e:
+            if attempt == max_retries - 1:
+                print(f"  Shot tracking: FAILED - {str(e)[:100]}...")
+                return None
+            time.sleep(pause)
+    return None
+
+def fetch_save_shot_tracking_data(df, season='2024-25', delay=8):
+    """
+    Fetch and save shot tracking data for MBTI analysis
+    """
+    print("Fetching shot tracking data for top players...")
+    
+    # Test with just top 10 players first
+    for idx, row in df.iterrows():
+        player_id = row['PLAYER_ID']
+        team_id = row['TEAM_ID']
+        player_name = row['PLAYER']
+        
+        print(f"\nFetching shot tracking for {player_name}...")
+        
+        tracking_data = retry_fetch_shot_tracking(player_id, team_id, season)
+        
+        if tracking_data:
+            # Save each dataframe with actual endpoint dataset names
+            dataframe_names = [
+                'ClosestDefender10ftPlusShooting',
+                'ClosestDefenderShooting', 
+                'DribbleShooting',
+                'GeneralShooting',
+                'Overall',
+                'ShotClockShooting',
+                'TouchTimeShooting'
+            ]
+            
+            for i, df_track in enumerate(tracking_data):
+                if not df_track.empty and i < len(dataframe_names):
+                    filename = f'data/raw/{player_id}_{dataframe_names[i]}.csv'
+                    df_track.to_csv(filename, index=False)
+                    print(f"    Saved: {dataframe_names[i]} ({df_track.shape[0]} rows)")
+        
+        time.sleep(delay)
+
 if __name__ == "__main__":
     top200 = fetch_top_200_pp48()
-    fetch_save_advanced_data(top200)
+    
+    # Uncomment the line below to fetch basic shot chart data for all 200 players
+    # fetch_save_advanced_data(top200)
+    
+    # Fetch shot tracking data for MBTI analysis (top 10 players)
+    fetch_save_shot_tracking_data(top200)
