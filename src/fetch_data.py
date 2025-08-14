@@ -2,6 +2,7 @@ from nba_api.stats.endpoints import (
     leagueleaders, playerdashboardbygeneralsplits, shotchartdetail, playerdashptshots,
     leaguehustlestatsplayer, leaguedashplayerclutch, playerdashptpass, assisttracker
 )
+
 import pandas as pd
 import time
 
@@ -17,7 +18,8 @@ def fetch_top_200_pp48(season='2024-25'):
     top200 = df.head(200)
 
     top200.to_csv('data/raw/top200_per.csv', index=False)
-    print('saved top 200 players by PTS/48 to CSV.')
+    print('saved top 200 players by PPG to CSV.')
+    print(df.head(30))
 
     return top200
 
@@ -249,5 +251,7 @@ if __name__ == "__main__":
     # fetch_save_shot_tracking_data(top200)
     
     # 8/14 added new endpoints
-    # fetch_save_basketball_iq_data()
-    fetch_save_passing_data(top200)
+    fetch_save_basketball_iq_data()
+    # fetch_save_passing_data(top200)
+
+    print("data already collected no overwriting")
