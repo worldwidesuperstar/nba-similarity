@@ -1,0 +1,22 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,3,"Johnson, AJ",1642358,0.004,0.08,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,4,"Smith, Tyler",1641890,0.005,0.1,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,2,"Livingston, Chris",1641753,0.003,0.05,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,16,"Jackson Jr., Andre",1641748,0.029,0.55,0.1,0.1,0.16,0.583,0.01,0.01,1.0,0.08,0.15,0.545
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,2,"Nance, Pete",1631250,0.005,0.1,0.0,0.0,0.03,0.0,0.0,0.01,0.0,0.0,0.01,0.0
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,25,"Rollins, Ryan",1631157,0.063,1.21,0.08,0.11,0.22,0.5,0.04,0.05,0.75,0.07,0.16,0.417
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,1,"Bouyea, Jamaree",1631123,0.004,0.07,0.01,0.01,0.01,1.0,0.0,0.0,,0.01,0.01,1.0
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,5,"Beauchamp, MarJon",1630699,0.005,0.1,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,1,"Umude, Stanley",1630649,0.001,0.03,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,12,"Sims, Jericho",1630579,0.019,0.36,0.01,0.04,0.04,1.0,0.03,0.03,1.0,0.01,0.01,1.0
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,25,"Porter Jr., Kevin",1629645,0.083,1.59,0.22,0.22,0.42,0.516,0.01,0.05,0.25,0.21,0.37,0.556
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,38,"Trent Jr., Gary",1629018,0.046,0.88,0.08,0.11,0.26,0.421,0.01,0.03,0.5,0.1,0.23,0.412
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,26,"Kuzma, Kyle",1628398,0.054,1.03,0.1,0.1,0.26,0.368,0.0,0.03,0.0,0.1,0.23,0.412
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,36,"Prince, Taurean",1627752,0.047,0.9,0.14,0.15,0.36,0.423,0.03,0.08,0.333,0.12,0.27,0.45
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,19,"Connaughton, Pat",1626192,0.043,0.82,0.19,0.19,0.36,0.538,0.03,0.03,1.0,0.16,0.33,0.5
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,40,"Portis, Bobby",1626171,0.098,1.86,0.18,0.19,0.55,0.35,0.01,0.12,0.111,0.18,0.42,0.419
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,18,"Wright, Delon",1626153,0.05,0.96,0.08,0.1,0.19,0.5,0.04,0.04,1.0,0.05,0.15,0.364
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,52,"Antetokounmpo, Giannis",203507,0.165,3.14,0.48,0.49,1.29,0.383,0.07,0.15,0.455,0.42,1.14,0.373
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,17,"Middleton, Khris",203114,0.035,0.66,0.11,0.11,0.27,0.4,0.01,0.05,0.25,0.1,0.22,0.438
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,45,"Lillard, Damian",203081,0.165,3.15,0.34,0.36,0.97,0.366,0.04,0.08,0.5,0.32,0.89,0.354
+1631260,"Green, AJ",Milwaukee Bucks,1610612749,MIL,received,48,"Lopez, Brook",201572,0.075,1.44,0.15,0.15,0.29,0.524,0.01,0.03,0.5,0.14,0.26,0.526

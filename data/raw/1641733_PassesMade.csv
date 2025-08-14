@@ -1,0 +1,26 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,30,"Simpson, KJ",1642354,0.112,3.7,0.15,0.25,0.68,0.366,0.15,0.35,0.429,0.1,0.33,0.3
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,30,"Salaün, Tidjane",1642275,0.049,1.62,0.17,0.2,0.52,0.387,0.1,0.23,0.429,0.1,0.28,0.353
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,12,"Baugh, Damion",1641878,0.043,1.42,0.03,0.08,0.27,0.313,0.05,0.1,0.5,0.03,0.17,0.2
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,11,"Miller, Brandon",1641706,0.018,0.58,0.0,0.07,0.22,0.308,0.07,0.17,0.4,0.0,0.05,0.0
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,2,"Sims, Jaylen",1631301,0.003,0.08,0.02,0.02,0.03,0.5,0.0,0.0,,0.02,0.03,0.5
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,38,"Diabaté, Moussa",1631217,0.05,1.63,0.23,0.25,0.45,0.556,0.25,0.45,0.556,0.0,0.0,
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,8,"Wong, Isaiah",1631209,0.015,0.48,0.03,0.07,0.13,0.5,0.05,0.12,0.429,0.02,0.02,1.0
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,3,"Rhoden, Jared",1631197,0.004,0.12,0.0,0.02,0.03,0.5,0.02,0.03,0.5,0.0,0.0,
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,13,"Moore Jr., Wendell",1631111,0.031,1.02,0.08,0.08,0.23,0.357,0.05,0.13,0.375,0.03,0.1,0.333
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,34,"Williams, Mark",1631109,0.086,2.83,0.43,0.43,1.05,0.413,0.43,1.02,0.426,0.0,0.03,0.0
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,4,"Garrett, Marcus",1630585,0.018,0.6,0.02,0.05,0.08,0.6,0.05,0.08,0.6,0.0,0.0,
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,2,"Mann, Tre",1630544,0.004,0.13,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,6,"Richards, Nick",1630208,0.005,0.17,0.02,0.02,0.03,0.5,0.02,0.03,0.5,0.0,0.0,
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,3,"Flynn, Malachi",1630201,0.006,0.2,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,32,"Green, Josh",1630182,0.049,1.62,0.13,0.13,0.4,0.333,0.03,0.13,0.25,0.1,0.27,0.375
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,26,"Ball, LaMelo",1630163,0.128,4.23,0.1,0.32,0.98,0.322,0.17,0.43,0.385,0.15,0.55,0.273
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,27,"Jeffries, DaQuan",1629610,0.037,1.23,0.08,0.1,0.33,0.3,0.05,0.15,0.333,0.05,0.18,0.273
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,9,"Okogie, Josh",1629006,0.013,0.43,0.05,0.05,0.22,0.231,0.02,0.13,0.125,0.03,0.08,0.4
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,15,"Martin, Cody",1628998,0.018,0.6,0.07,0.08,0.22,0.385,0.03,0.13,0.25,0.05,0.08,0.6
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,41,"Bridges, Miles",1628970,0.132,4.37,0.37,0.75,1.57,0.479,0.52,1.05,0.492,0.23,0.52,0.452
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,20,"Micic, Vasilije",203995,0.065,2.15,0.05,0.15,0.45,0.333,0.08,0.23,0.357,0.07,0.22,0.308
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,21,"Nurkić, Jusuf",203994,0.059,1.93,0.25,0.35,0.58,0.6,0.3,0.47,0.643,0.05,0.12,0.429
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,5,"Payton, Elfrid",203901,0.012,0.4,0.0,0.02,0.05,0.333,0.02,0.05,0.333,0.0,0.0,
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,21,"Curry, Seth",203552,0.025,0.82,0.1,0.12,0.23,0.5,0.05,0.1,0.5,0.07,0.13,0.5
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,made,14,"Gibson, Taj",201959,0.018,0.6,0.02,0.03,0.17,0.2,0.03,0.17,0.2,0.0,0.0,

@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1626157,"Towns, Karl-Anthony",New York Knicks,1610612752,NYK,received,2,"Dadiet, Pacôme",1642359,0.001,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1626157,"Towns, Karl-Anthony",New York Knicks,1610612752,NYK,received,13,"Kolek, Tyler",1642278,0.022,0.78,0.08,0.1,0.33,0.292,0.07,0.22,0.313,0.03,0.11,0.25
+1626157,"Towns, Karl-Anthony",New York Knicks,1610612752,NYK,received,1,"Beauchamp, MarJon",1630699,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+1626157,"Towns, Karl-Anthony",New York Knicks,1610612752,NYK,received,1,"Sims, Jericho",1630579,0.0,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1626157,"Towns, Karl-Anthony",New York Knicks,1610612752,NYK,received,54,"McBride, Miles",1630540,0.09,3.22,0.58,0.78,1.64,0.475,0.6,1.14,0.524,0.18,0.5,0.361
+1626157,"Towns, Karl-Anthony",New York Knicks,1610612752,NYK,received,22,"Achiuwa, Precious",1630173,0.014,0.51,0.06,0.08,0.18,0.462,0.06,0.14,0.4,0.03,0.04,0.667
+1626157,"Towns, Karl-Anthony",New York Knicks,1610612752,NYK,received,25,"Shamet, Landry",1629013,0.024,0.85,0.14,0.19,0.4,0.483,0.15,0.29,0.524,0.04,0.11,0.375
+1626157,"Towns, Karl-Anthony",New York Knicks,1610612752,NYK,received,2,"Robinson, Mitchell",1629011,0.001,0.03,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1626157,"Towns, Karl-Anthony",New York Knicks,1610612752,NYK,received,56,"Brunson, Jalen",1628973,0.247,8.89,1.33,1.65,3.69,0.447,1.31,2.71,0.482,0.35,0.99,0.352
+1626157,"Towns, Karl-Anthony",New York Knicks,1610612752,NYK,received,71,"Bridges, Mikal",1628969,0.164,5.9,0.89,1.17,2.72,0.429,0.85,1.92,0.442,0.32,0.81,0.397
+1626157,"Towns, Karl-Anthony",New York Knicks,1610612752,NYK,received,67,"Hart, Josh",1628404,0.213,7.67,1.31,1.61,3.68,0.438,1.06,2.58,0.409,0.56,1.1,0.506
+1626157,"Towns, Karl-Anthony",New York Knicks,1610612752,NYK,received,62,"Anunoby, OG",1628384,0.078,2.79,0.54,0.63,1.21,0.517,0.46,0.94,0.485,0.17,0.26,0.632
+1626157,"Towns, Karl-Anthony",New York Knicks,1610612752,NYK,received,61,"Payne, Cameron",1626166,0.135,4.86,0.9,1.17,2.42,0.483,0.9,1.79,0.504,0.26,0.63,0.422
+1626157,"Towns, Karl-Anthony",New York Knicks,1610612752,NYK,received,6,"Wright, Delon",1626153,0.01,0.36,0.06,0.08,0.17,0.5,0.06,0.13,0.444,0.03,0.04,0.667

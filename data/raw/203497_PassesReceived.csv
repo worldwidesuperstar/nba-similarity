@@ -1,0 +1,13 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,received,14,"Dillingham, Rob",1642265,0.02,0.42,0.04,0.04,0.11,0.375,0.04,0.11,0.375,0.0,0.0,
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,received,4,"Clark, Jaylen",1641740,0.003,0.07,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,received,2,"Minott, Josh",1631169,0.002,0.04,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,received,2,"Shannon Jr., Terrence",1630545,0.001,0.03,0.03,0.03,0.03,1.0,0.03,0.03,1.0,0.0,0.0,
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,received,53,"McDaniels, Jaden",1630183,0.085,1.79,0.25,0.25,0.57,0.439,0.25,0.57,0.439,0.0,0.0,
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,received,68,"Edwards, Anthony",1630162,0.239,5.04,0.85,0.89,1.31,0.681,0.89,1.31,0.681,0.0,0.0,
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,received,44,"Reid, Naz",1629675,0.044,0.93,0.17,0.21,0.35,0.6,0.21,0.35,0.6,0.0,0.0,
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,received,58,"Alexander-Walker, Nickeil",1629638,0.125,2.63,0.35,0.38,0.6,0.628,0.38,0.6,0.628,0.0,0.0,
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,received,52,"DiVincenzo, Donte",1628978,0.115,2.42,0.44,0.46,0.78,0.589,0.46,0.78,0.589,0.0,0.0,
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,received,8,"Ingles, Joe",204060,0.018,0.38,0.07,0.07,0.17,0.417,0.07,0.17,0.417,0.0,0.0,
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,received,58,"Randle, Julius",203944,0.098,2.07,0.46,0.47,0.93,0.507,0.47,0.93,0.507,0.0,0.0,
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,received,63,"Conley, Mike",201144,0.25,5.26,0.68,0.71,1.21,0.586,0.71,1.21,0.586,0.0,0.0,

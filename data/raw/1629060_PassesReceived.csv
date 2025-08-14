@@ -1,0 +1,21 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,1,"Olivari, Quincy",1642439,0.001,0.02,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,1,"James, Bronny",1642355,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,24,"Knecht, Dalton",1642261,0.045,1.02,0.1,0.12,0.34,0.35,0.07,0.22,0.308,0.05,0.12,0.429
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,2,"Jemison III, Trey",1641998,0.001,0.03,0.02,0.03,0.03,1.0,0.02,0.02,1.0,0.02,0.02,1.0
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,1,"Koloko, Christian",1631132,0.001,0.02,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,25,"Christie, Max",1631108,0.041,0.93,0.17,0.19,0.42,0.44,0.07,0.19,0.364,0.12,0.24,0.5
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,6,"Goodwin, Jordan",1630692,0.008,0.19,0.02,0.03,0.05,0.667,0.03,0.03,1.0,0.0,0.02,0.0
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,53,"Reaves, Austin",1630559,0.235,5.34,0.92,1.03,2.37,0.436,0.69,1.39,0.5,0.34,0.98,0.345
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,16,"Hayes, Jaxson",1629637,0.016,0.37,0.08,0.08,0.15,0.556,0.07,0.1,0.667,0.02,0.05,0.333
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,10,"Reddish, Cam",1629629,0.009,0.2,0.05,0.05,0.08,0.6,0.02,0.03,0.5,0.03,0.05,0.667
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,37,"Vincent, Gabe",1629216,0.06,1.36,0.08,0.14,0.41,0.333,0.1,0.27,0.375,0.03,0.14,0.25
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,15,"Dončić, Luka",1629029,0.064,1.46,0.29,0.29,0.68,0.425,0.08,0.2,0.417,0.2,0.47,0.429
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,8,"Vanderbilt, Jarred",1629020,0.006,0.14,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,6,"Milton, Shake",1629003,0.008,0.19,0.03,0.03,0.05,0.667,0.02,0.02,1.0,0.02,0.03,0.5
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,19,"Finney-Smith, Dorian",1627827,0.028,0.63,0.1,0.12,0.19,0.636,0.07,0.14,0.5,0.05,0.05,1.0
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,23,"Russell, D'Angelo",1626156,0.08,1.83,0.37,0.39,0.8,0.489,0.25,0.56,0.455,0.14,0.24,0.571
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,2,"Len, Alex",203458,0.002,0.05,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,33,"Davis, Anthony",203076,0.077,1.76,0.34,0.34,0.59,0.571,0.22,0.37,0.591,0.12,0.22,0.538
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,1,"Morris, Markieff",202693,0.001,0.03,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1629060,"Hachimura, Rui",Los Angeles Lakers,1610612747,LAL,received,55,"James, LeBron",2544,0.316,7.19,1.73,1.83,3.66,0.5,1.27,2.19,0.581,0.56,1.47,0.379

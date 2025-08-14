@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1628401,"White, Derrick",Boston Celtics,1610612738,BOS,made,3,"Peterson, Drew",1641809,0.002,0.09,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0
+1628401,"White, Derrick",Boston Celtics,1610612738,BOS,made,7,"Walsh, Jordan",1641775,0.004,0.2,0.0,0.0,0.04,0.0,0.0,0.01,0.0,0.0,0.03,0.0
+1628401,"White, Derrick",Boston Celtics,1610612738,BOS,made,7,"Scheierman, Baylor",1631248,0.005,0.28,0.04,0.04,0.07,0.6,0.0,0.0,,0.04,0.07,0.6
+1628401,"White, Derrick",Boston Celtics,1610612738,BOS,made,47,"Hauser, Sam",1630573,0.041,2.28,0.26,0.26,0.72,0.364,0.05,0.08,0.667,0.21,0.64,0.327
+1628401,"White, Derrick",Boston Celtics,1610612738,BOS,made,1,"Springer, Jaden",1630531,0.0,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1628401,"White, Derrick",Boston Celtics,1610612738,BOS,made,6,"Tillman, Xavier",1630214,0.002,0.12,0.01,0.01,0.04,0.333,0.0,0.01,0.0,0.01,0.03,0.5
+1628401,"White, Derrick",Boston Celtics,1610612738,BOS,made,71,"Pritchard, Payton",1630202,0.114,6.37,0.53,0.68,1.39,0.491,0.2,0.3,0.652,0.49,1.09,0.446
+1628401,"White, Derrick",Boston Celtics,1610612738,BOS,made,29,"Queta, Neemias",1629674,0.018,1.0,0.18,0.18,0.28,0.667,0.18,0.28,0.667,0.0,0.0,
+1628401,"White, Derrick",Boston Celtics,1610612738,BOS,made,7,"Craig, Torrey",1628470,0.003,0.17,0.05,0.05,0.08,0.667,0.01,0.03,0.5,0.04,0.05,0.75
+1628401,"White, Derrick",Boston Celtics,1610612738,BOS,made,46,"Kornet, Luke",1628436,0.035,1.95,0.32,0.34,0.5,0.684,0.34,0.49,0.703,0.0,0.01,0.0
+1628401,"White, Derrick",Boston Celtics,1610612738,BOS,made,68,"Tatum, Jayson",1628369,0.308,17.22,1.04,2.32,5.84,0.396,1.46,3.25,0.449,0.86,2.59,0.33
+1628401,"White, Derrick",Boston Celtics,1610612738,BOS,made,60,"Brown, Jaylen",1627759,0.197,11.03,0.83,1.55,3.84,0.404,1.25,2.83,0.442,0.3,1.01,0.299
+1628401,"White, Derrick",Boston Celtics,1610612738,BOS,made,38,"Porziņģis, Kristaps",204001,0.082,4.58,0.82,0.91,2.11,0.431,0.66,1.43,0.459,0.25,0.67,0.373
+1628401,"White, Derrick",Boston Celtics,1610612738,BOS,made,57,"Holiday, Jrue",201950,0.116,6.46,0.41,0.58,1.49,0.389,0.3,0.72,0.418,0.28,0.76,0.362
+1628401,"White, Derrick",Boston Celtics,1610612738,BOS,made,53,"Horford, Al",201143,0.074,4.14,0.26,0.26,0.84,0.313,0.11,0.26,0.4,0.16,0.58,0.273

@@ -1,0 +1,18 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641744,"Edey, Zach",Memphis Grizzlies,1610612763,MEM,made,3,"Kawamura, Yuki",1642530,0.006,0.11,0.0,0.02,0.06,0.25,0.02,0.03,0.5,0.0,0.03,0.0
+1641744,"Edey, Zach",Memphis Grizzlies,1610612763,MEM,made,39,"Wells, Jaylen",1642377,0.06,1.03,0.11,0.2,0.42,0.464,0.14,0.26,0.529,0.06,0.17,0.364
+1641744,"Edey, Zach",Memphis Grizzlies,1610612763,MEM,made,7,"Spencer, Cam",1642285,0.012,0.2,0.03,0.03,0.05,0.667,0.02,0.02,1.0,0.02,0.03,0.5
+1641744,"Edey, Zach",Memphis Grizzlies,1610612763,MEM,made,10,"Jackson, GG",1641713,0.014,0.24,0.0,0.0,0.05,0.0,0.0,0.05,0.0,0.0,0.0,
+1641744,"Edey, Zach",Memphis Grizzlies,1610612763,MEM,made,17,"Williams Jr., Vince",1631246,0.036,0.62,0.0,0.02,0.11,0.143,0.0,0.0,,0.02,0.11,0.143
+1641744,"Edey, Zach",Memphis Grizzlies,1610612763,MEM,made,17,"LaRavia, Jake",1631222,0.029,0.5,0.06,0.09,0.12,0.75,0.05,0.06,0.75,0.05,0.06,0.75
+1641744,"Edey, Zach",Memphis Grizzlies,1610612763,MEM,made,1,"Huff, Jay",1630643,0.001,0.02,0.0,0.02,0.02,1.0,0.02,0.02,1.0,0.0,0.0,
+1641744,"Edey, Zach",Memphis Grizzlies,1610612763,MEM,made,44,"Pippen Jr., Scotty",1630590,0.124,2.12,0.14,0.17,0.41,0.407,0.09,0.32,0.286,0.08,0.09,0.833
+1641744,"Edey, Zach",Memphis Grizzlies,1610612763,MEM,made,27,"Aldama, Santi",1630583,0.047,0.8,0.05,0.08,0.24,0.313,0.05,0.12,0.375,0.03,0.12,0.25
+1641744,"Edey, Zach",Memphis Grizzlies,1610612763,MEM,made,49,"Bane, Desmond",1630217,0.239,4.08,0.29,0.59,1.05,0.565,0.41,0.7,0.587,0.18,0.35,0.522
+1641744,"Edey, Zach",Memphis Grizzlies,1610612763,MEM,made,3,"Stevens, Lamar",1630205,0.003,0.05,0.0,0.0,0.03,0.0,0.0,0.02,0.0,0.0,0.02,0.0
+1641744,"Edey, Zach",Memphis Grizzlies,1610612763,MEM,made,9,"Konchar, John",1629723,0.017,0.29,0.02,0.02,0.05,0.333,0.0,0.0,,0.02,0.05,0.333
+1641744,"Edey, Zach",Memphis Grizzlies,1610612763,MEM,made,1,"Clarke, Brandon",1629634,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1641744,"Edey, Zach",Memphis Grizzlies,1610612763,MEM,made,40,"Morant, Ja",1629630,0.206,3.52,0.03,0.41,0.95,0.429,0.26,0.7,0.37,0.15,0.26,0.588
+1641744,"Edey, Zach",Memphis Grizzlies,1610612763,MEM,made,40,"Jackson Jr., Jaren",1628991,0.084,1.44,0.06,0.15,0.41,0.37,0.08,0.26,0.294,0.08,0.15,0.5
+1641744,"Edey, Zach",Memphis Grizzlies,1610612763,MEM,made,35,"Kennard, Luke",1628379,0.103,1.76,0.2,0.27,0.44,0.621,0.17,0.24,0.688,0.11,0.2,0.538
+1641744,"Edey, Zach",Memphis Grizzlies,1610612763,MEM,made,9,"Smart, Marcus",203935,0.018,0.3,0.0,0.05,0.11,0.429,0.05,0.08,0.6,0.0,0.03,0.0

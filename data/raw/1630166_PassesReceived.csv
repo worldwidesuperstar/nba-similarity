@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630166,"Avdija, Deni",Portland Trail Blazers,1610612757,POR,received,48,"Clingan, Donovan",1642270,0.064,2.47,0.18,0.39,0.78,0.5,0.31,0.57,0.537,0.08,0.21,0.4
+1630166,"Avdija, Deni",Portland Trail Blazers,1610612757,POR,received,18,"Reath, Duop",1641871,0.015,0.58,0.06,0.07,0.17,0.417,0.01,0.1,0.143,0.06,0.07,0.8
+1630166,"Avdija, Deni",Portland Trail Blazers,1610612757,POR,received,65,"Camara, Toumani",1641739,0.123,4.75,0.46,0.6,1.43,0.417,0.39,0.81,0.483,0.21,0.63,0.333
+1630166,"Avdija, Deni",Portland Trail Blazers,1610612757,POR,received,10,"Rupert, Rayan",1641712,0.008,0.32,0.0,0.0,0.08,0.0,0.0,0.06,0.0,0.0,0.03,0.0
+1630166,"Avdija, Deni",Portland Trail Blazers,1610612757,POR,received,1,"Moore, Taze",1631386,0.0,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630166,"Avdija, Deni",Portland Trail Blazers,1610612757,POR,received,1,"Minaya, Justin",1631303,0.0,0.01,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1630166,"Avdija, Deni",Portland Trail Blazers,1610612757,POR,received,23,"Murray, Kris",1631200,0.017,0.65,0.07,0.07,0.24,0.294,0.03,0.13,0.222,0.04,0.11,0.375
+1630166,"Avdija, Deni",Portland Trail Blazers,1610612757,POR,received,18,"Walker, Jabari",1631133,0.011,0.44,0.01,0.01,0.11,0.125,0.01,0.08,0.167,0.0,0.03,0.0
+1630166,"Avdija, Deni",Portland Trail Blazers,1610612757,POR,received,54,"Sharpe, Shaedon",1631101,0.121,4.68,0.46,0.68,1.4,0.485,0.43,0.83,0.517,0.25,0.57,0.439
+1630166,"Avdija, Deni",Portland Trail Blazers,1610612757,POR,received,57,"Henderson, Scoot",1630703,0.161,6.25,0.44,0.78,2.13,0.366,0.49,1.35,0.361,0.29,0.78,0.375
+1630166,"Avdija, Deni",Portland Trail Blazers,1610612757,POR,received,40,"Banton, Dalano",1630625,0.086,3.32,0.31,0.39,0.94,0.412,0.25,0.61,0.409,0.14,0.33,0.417
+1630166,"Avdija, Deni",Portland Trail Blazers,1610612757,POR,received,9,"Thybulle, Matisse",1629680,0.009,0.36,0.03,0.08,0.19,0.429,0.07,0.14,0.5,0.01,0.06,0.25
+1630166,"Avdija, Deni",Portland Trail Blazers,1610612757,POR,received,17,"Williams III, Robert",1629057,0.024,0.92,0.03,0.08,0.24,0.353,0.06,0.14,0.4,0.03,0.1,0.286
+1630166,"Avdija, Deni",Portland Trail Blazers,1610612757,POR,received,37,"Ayton, Deandre",1629028,0.077,2.99,0.21,0.29,0.85,0.344,0.17,0.49,0.343,0.13,0.36,0.346
+1630166,"Avdija, Deni",Portland Trail Blazers,1610612757,POR,received,62,"Simons, Anfernee",1629014,0.238,9.22,0.79,1.04,2.64,0.395,0.71,1.54,0.459,0.33,1.1,0.304
+1630166,"Avdija, Deni",Portland Trail Blazers,1610612757,POR,received,40,"Grant, Jerami",203924,0.045,1.75,0.14,0.19,0.56,0.35,0.1,0.32,0.304,0.1,0.24,0.412

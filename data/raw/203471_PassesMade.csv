@@ -1,0 +1,13 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203471,"Schröder, Dennis",Detroit Pistons,1610612765,DET,made,26,"Holland II, Ronald",1641842,0.075,1.24,0.19,0.28,0.56,0.5,0.19,0.36,0.519,0.09,0.2,0.467
+203471,"Schröder, Dennis",Detroit Pistons,1610612765,DET,made,16,"Thompson, Ausar",1641709,0.08,1.32,0.08,0.15,0.4,0.367,0.13,0.37,0.357,0.01,0.03,0.5
+203471,"Schröder, Dennis",Detroit Pistons,1610612765,DET,made,26,"Fontecchio, Simone",1631323,0.087,1.43,0.15,0.15,0.53,0.275,0.09,0.24,0.389,0.05,0.29,0.182
+203471,"Schröder, Dennis",Detroit Pistons,1610612765,DET,made,4,"Sasser, Marcus",1631204,0.023,0.37,0.01,0.03,0.11,0.25,0.01,0.08,0.167,0.01,0.03,0.5
+203471,"Schröder, Dennis",Detroit Pistons,1610612765,DET,made,20,"Duren, Jalen",1631105,0.09,1.48,0.15,0.17,0.39,0.448,0.17,0.39,0.448,0.0,0.0,
+203471,"Schröder, Dennis",Detroit Pistons,1610612765,DET,made,22,"Cunningham, Cade",1630595,0.151,2.49,0.15,0.4,0.88,0.455,0.32,0.69,0.462,0.08,0.19,0.429
+203471,"Schröder, Dennis",Detroit Pistons,1610612765,DET,made,4,"Waters III, Lindy",1630322,0.01,0.16,0.03,0.03,0.05,0.5,0.0,0.01,0.0,0.03,0.04,0.667
+203471,"Schröder, Dennis",Detroit Pistons,1610612765,DET,made,7,"Reed, Paul",1630194,0.015,0.25,0.01,0.01,0.05,0.25,0.01,0.05,0.25,0.0,0.0,
+203471,"Schröder, Dennis",Detroit Pistons,1610612765,DET,made,24,"Stewart, Isaiah",1630191,0.087,1.43,0.28,0.28,0.43,0.656,0.25,0.37,0.679,0.03,0.05,0.5
+203471,"Schröder, Dennis",Detroit Pistons,1610612765,DET,made,28,"Beasley, Malik",1627736,0.193,3.17,0.53,0.56,1.39,0.404,0.17,0.47,0.371,0.39,0.92,0.42
+203471,"Schröder, Dennis",Detroit Pistons,1610612765,DET,made,17,"Hardaway Jr., Tim",203501,0.087,1.43,0.23,0.29,0.69,0.423,0.13,0.27,0.5,0.16,0.43,0.375
+203471,"Schröder, Dennis",Detroit Pistons,1610612765,DET,made,20,"Harris, Tobias",202699,0.104,1.71,0.16,0.27,0.53,0.5,0.21,0.4,0.533,0.05,0.13,0.4

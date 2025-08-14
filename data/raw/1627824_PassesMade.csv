@@ -1,0 +1,27 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,30,"Edwards, Justin",1642348,0.046,1.46,0.11,0.17,0.56,0.308,0.1,0.29,0.35,0.07,0.27,0.263
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,17,"McCain, Jared",1642272,0.042,1.34,0.06,0.17,0.37,0.462,0.1,0.23,0.438,0.07,0.14,0.5
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,1,"Reese, Alex",1642024,0.0,0.01,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,33,"Council IV, Ricky",1641741,0.042,1.31,0.16,0.21,0.59,0.366,0.11,0.31,0.364,0.1,0.27,0.368
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,7,"Bona, Adem",1641737,0.005,0.16,0.04,0.04,0.09,0.5,0.04,0.09,0.5,0.0,0.0,
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,8,"Hood-Schifino, Jalen",1641720,0.015,0.49,0.04,0.06,0.1,0.571,0.03,0.07,0.4,0.03,0.03,1.0
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,1,"Roddy, David",1631223,0.0,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,2,"Wheeler, Phillip",1630762,0.001,0.03,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,2,"Castleton, Colin",1630658,0.003,0.1,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,1,"Bagley, Marcus",1630542,0.001,0.03,0.01,0.01,0.03,0.5,0.01,0.01,1.0,0.0,0.01,0.0
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,26,"Dowtin Jr., Jeff",1630288,0.047,1.5,0.04,0.1,0.3,0.333,0.07,0.17,0.417,0.03,0.13,0.222
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,12,"Martin, KJ",1630231,0.013,0.4,0.09,0.09,0.11,0.75,0.07,0.1,0.714,0.01,0.01,1.0
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,15,"Butler, Jared",1630215,0.052,1.66,0.07,0.23,0.46,0.5,0.19,0.29,0.65,0.04,0.17,0.25
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,48,"Maxey, Tyrese",1630178,0.257,8.14,0.3,0.97,2.24,0.433,0.66,1.34,0.489,0.31,0.9,0.349
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,20,"Grimes, Quentin",1629656,0.076,2.41,0.17,0.37,0.81,0.456,0.29,0.54,0.526,0.09,0.27,0.316
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,4,"Okeke, Chuma",1629643,0.004,0.13,0.04,0.04,0.07,0.6,0.03,0.03,1.0,0.01,0.04,0.333
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,3,"Brissett, Oshae",1629052,0.001,0.04,0.0,0.01,0.01,1.0,0.0,0.0,,0.01,0.01,1.0
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,9,"Walker IV, Lonnie",1629022,0.019,0.6,0.01,0.03,0.16,0.182,0.0,0.07,0.0,0.03,0.09,0.333
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,29,"Martin, Caleb",1628997,0.049,1.56,0.1,0.19,0.4,0.464,0.16,0.3,0.524,0.03,0.1,0.286
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,50,"Oubre Jr., Kelly",1626162,0.093,2.96,0.31,0.43,1.0,0.429,0.36,0.73,0.49,0.07,0.27,0.263
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,14,"Embiid, Joel",203954,0.015,0.49,0.01,0.04,0.1,0.429,0.04,0.1,0.429,0.0,0.0,
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,12,"Drummond, Andre",203083,0.008,0.24,0.06,0.06,0.07,0.8,0.04,0.06,0.75,0.01,0.01,1.0
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,23,"Jackson, Reggie",202704,0.042,1.31,0.06,0.1,0.2,0.5,0.06,0.13,0.444,0.04,0.07,0.6
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,38,"George, Paul",202331,0.092,2.9,0.21,0.41,0.91,0.453,0.26,0.49,0.529,0.16,0.43,0.367
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,28,"Gordon, Eric",201569,0.035,1.11,0.11,0.16,0.43,0.367,0.03,0.11,0.25,0.13,0.31,0.409
+1627824,"Yabusele, Guerschon",Philadelphia 76ers,1610612755,PHI,made,25,"Lowry, Kyle",200768,0.039,1.24,0.07,0.07,0.16,0.455,0.03,0.04,0.667,0.04,0.11,0.375

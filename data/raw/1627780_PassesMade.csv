@@ -1,0 +1,20 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,16,"Post, Quinten",1642366,0.028,0.53,0.02,0.02,0.11,0.143,0.0,0.05,0.0,0.02,0.06,0.25
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,1,"Rowe, Jackson",1642050,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,32,"Podziemski, Brandin",1641764,0.089,1.71,0.11,0.15,0.24,0.6,0.08,0.13,0.625,0.06,0.11,0.571
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,1,"Beekman, Reece",1641736,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,10,"Jackson-Davis, Trayce",1631218,0.016,0.31,0.06,0.06,0.06,1.0,0.06,0.06,1.0,0.0,0.0,
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,13,"Santos, Gui",1630611,0.023,0.44,0.03,0.03,0.08,0.4,0.02,0.03,0.5,0.02,0.05,0.333
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,29,"Moody, Moses",1630541,0.059,1.13,0.21,0.21,0.42,0.5,0.1,0.15,0.667,0.11,0.27,0.412
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,9,"Waters III, Lindy",1630322,0.014,0.27,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,4,"Spencer, Pat",1630311,0.008,0.16,0.02,0.02,0.05,0.333,0.02,0.03,0.5,0.0,0.02,0.0
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,22,"Kuminga, Jonathan",1630228,0.053,1.02,0.15,0.16,0.34,0.476,0.11,0.24,0.467,0.05,0.1,0.5
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,2,"Melton, De'Anthony",1629001,0.003,0.05,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,47,"Hield, Buddy",1627741,0.121,2.32,0.26,0.29,0.56,0.514,0.13,0.19,0.667,0.16,0.37,0.435
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,38,"Looney, Kevon",1626172,0.068,1.31,0.05,0.06,0.16,0.4,0.06,0.16,0.4,0.0,0.0,
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,25,"Wiggins, Andrew",203952,0.047,0.9,0.1,0.18,0.37,0.478,0.15,0.24,0.6,0.03,0.13,0.25
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,7,"Anderson, Kyle",203937,0.012,0.23,0.0,0.03,0.06,0.5,0.03,0.06,0.5,0.0,0.0,
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,9,"Schröder, Dennis",203471,0.018,0.34,0.0,0.0,0.03,0.0,0.0,0.02,0.0,0.0,0.02,0.0
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,40,"Green, Draymond",203110,0.117,2.26,0.11,0.11,0.23,0.5,0.06,0.11,0.571,0.05,0.11,0.429
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,14,"Butler III, Jimmy",202710,0.07,1.35,0.05,0.13,0.27,0.471,0.11,0.21,0.538,0.02,0.06,0.25
+1627780,"Payton II, Gary",Golden State Warriors,1610612744,GSW,made,51,"Curry, Stephen",201939,0.255,4.9,0.18,0.44,1.34,0.325,0.21,0.52,0.406,0.23,0.82,0.275

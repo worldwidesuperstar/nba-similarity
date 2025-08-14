@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,made,2,"Walsh, Jordan",1641775,0.002,0.05,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,made,4,"Scheierman, Baylor",1631248,0.006,0.15,0.07,0.07,0.07,1.0,0.0,0.0,,0.07,0.07,1.0
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,made,1,"Davison, JD",1631120,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,made,30,"Hauser, Sam",1630573,0.044,1.18,0.2,0.22,0.58,0.371,0.05,0.1,0.5,0.17,0.48,0.345
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,made,2,"Springer, Jaden",1630531,0.001,0.03,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,made,2,"Tillman, Xavier",1630214,0.001,0.03,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,made,58,"Pritchard, Payton",1630202,0.176,4.78,0.15,0.35,1.03,0.339,0.1,0.25,0.4,0.25,0.78,0.319
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,made,9,"Queta, Neemias",1629674,0.007,0.2,0.03,0.03,0.07,0.5,0.03,0.07,0.5,0.0,0.0,
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,made,1,"Craig, Torrey",1628470,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,made,15,"Kornet, Luke",1628436,0.012,0.33,0.03,0.03,0.12,0.286,0.03,0.12,0.286,0.0,0.0,
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,made,57,"White, Derrick",1628401,0.282,7.67,0.5,0.63,1.57,0.404,0.17,0.38,0.435,0.47,1.18,0.394
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,made,53,"Tatum, Jayson",1628369,0.171,4.65,0.35,0.87,1.73,0.5,0.5,0.95,0.526,0.37,0.78,0.468
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,made,41,"Brown, Jaylen",1627759,0.12,3.27,0.27,0.68,1.5,0.456,0.45,0.98,0.458,0.23,0.52,0.452
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,made,20,"Porziņģis, Kristaps",204001,0.034,0.92,0.15,0.15,0.47,0.321,0.13,0.38,0.348,0.02,0.08,0.2
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,made,43,"Holiday, Jrue",201950,0.142,3.87,0.37,0.53,1.0,0.533,0.17,0.37,0.455,0.37,0.63,0.579

@@ -1,0 +1,26 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,28,"Simpson, KJ",1642354,0.087,2.73,0.22,0.43,1.05,0.413,0.22,0.43,0.5,0.22,0.62,0.351
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,32,"Salaün, Tidjane",1642275,0.071,2.23,0.07,0.17,0.47,0.357,0.07,0.22,0.308,0.1,0.25,0.4
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,12,"Baugh, Damion",1641878,0.042,1.32,0.08,0.15,0.37,0.409,0.07,0.17,0.4,0.08,0.2,0.417
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,12,"Miller, Brandon",1641706,0.015,0.47,0.05,0.08,0.15,0.556,0.07,0.1,0.667,0.02,0.05,0.333
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,2,"Sims, Jaylen",1631301,0.006,0.2,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,38,"Diabaté, Moussa",1631217,0.05,1.57,0.08,0.2,0.57,0.353,0.17,0.32,0.526,0.03,0.25,0.133
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,6,"Wong, Isaiah",1631209,0.009,0.27,0.0,0.03,0.12,0.286,0.02,0.05,0.333,0.02,0.07,0.25
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,1,"Rhoden, Jared",1631197,0.001,0.02,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,13,"Moore Jr., Wendell",1631111,0.043,1.33,0.02,0.13,0.33,0.4,0.1,0.23,0.429,0.03,0.1,0.333
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,32,"Williams, Mark",1631109,0.079,2.48,0.25,0.33,0.82,0.408,0.17,0.47,0.357,0.17,0.35,0.476
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,4,"Garrett, Marcus",1630585,0.015,0.47,0.05,0.05,0.08,0.6,0.05,0.05,1.0,0.0,0.03,0.0
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,2,"Mann, Tre",1630544,0.003,0.08,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,4,"Richards, Nick",1630208,0.004,0.12,0.02,0.02,0.03,0.5,0.0,0.0,,0.02,0.03,0.5
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,3,"Flynn, Malachi",1630201,0.007,0.22,0.0,0.02,0.03,0.5,0.02,0.02,1.0,0.0,0.02,0.0
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,33,"Green, Josh",1630182,0.061,1.9,0.08,0.12,0.5,0.233,0.08,0.25,0.333,0.03,0.25,0.133
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,26,"Ball, LaMelo",1630163,0.111,3.48,0.37,0.48,1.08,0.446,0.2,0.33,0.6,0.28,0.75,0.378
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,35,"Jeffries, DaQuan",1629610,0.063,1.97,0.17,0.28,0.6,0.472,0.17,0.28,0.588,0.12,0.32,0.368
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,8,"Okogie, Josh",1629006,0.019,0.58,0.02,0.03,0.08,0.4,0.02,0.03,0.5,0.02,0.05,0.333
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,13,"Martin, Cody",1628998,0.016,0.52,0.05,0.05,0.18,0.273,0.02,0.1,0.167,0.03,0.08,0.4
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,41,"Bridges, Miles",1628970,0.124,3.88,0.32,0.48,1.22,0.397,0.23,0.45,0.519,0.25,0.77,0.326
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,17,"Micic, Vasilije",203995,0.057,1.78,0.1,0.13,0.47,0.286,0.07,0.27,0.25,0.07,0.2,0.333
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,20,"Nurkić, Jusuf",203994,0.051,1.6,0.17,0.2,0.53,0.375,0.07,0.25,0.267,0.13,0.28,0.471
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,5,"Payton, Elfrid",203901,0.013,0.4,0.02,0.05,0.13,0.375,0.03,0.07,0.5,0.02,0.07,0.25
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,23,"Curry, Seth",203552,0.043,1.33,0.05,0.15,0.5,0.3,0.1,0.27,0.375,0.05,0.23,0.214
+1641733,"Smith Jr., Nick",Charlotte Hornets,1610612766,CHA,received,12,"Gibson, Taj",201959,0.012,0.38,0.0,0.0,0.05,0.0,0.0,0.05,0.0,0.0,0.0,

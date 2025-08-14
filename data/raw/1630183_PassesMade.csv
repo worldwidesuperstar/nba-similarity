@@ -1,0 +1,14 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630183,"McDaniels, Jaden",Minnesota Timberwolves,1610612750,MIN,made,24,"Dillingham, Rob",1642265,0.025,0.73,0.01,0.04,0.09,0.429,0.02,0.05,0.5,0.01,0.04,0.333
+1630183,"McDaniels, Jaden",Minnesota Timberwolves,1610612750,MIN,made,9,"Clark, Jaylen",1641740,0.009,0.27,0.02,0.02,0.05,0.5,0.01,0.04,0.333,0.01,0.01,1.0
+1630183,"McDaniels, Jaden",Minnesota Timberwolves,1610612750,MIN,made,2,"Minott, Josh",1631169,0.001,0.02,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+1630183,"McDaniels, Jaden",Minnesota Timberwolves,1610612750,MIN,made,4,"Garza, Luka",1630568,0.002,0.06,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1630183,"McDaniels, Jaden",Minnesota Timberwolves,1610612750,MIN,made,6,"Shannon Jr., Terrence",1630545,0.009,0.26,0.04,0.06,0.13,0.455,0.05,0.1,0.5,0.01,0.04,0.333
+1630183,"McDaniels, Jaden",Minnesota Timberwolves,1610612750,MIN,made,78,"Edwards, Anthony",1630162,0.237,6.95,0.38,0.76,1.96,0.385,0.28,0.84,0.333,0.48,1.12,0.424
+1630183,"McDaniels, Jaden",Minnesota Timberwolves,1610612750,MIN,made,66,"Reid, Naz",1629675,0.075,2.21,0.28,0.37,0.94,0.39,0.2,0.46,0.421,0.17,0.48,0.359
+1630183,"McDaniels, Jaden",Minnesota Timberwolves,1610612750,MIN,made,62,"Alexander-Walker, Nickeil",1629638,0.12,3.52,0.29,0.33,0.67,0.491,0.2,0.29,0.667,0.13,0.38,0.355
+1630183,"McDaniels, Jaden",Minnesota Timberwolves,1610612750,MIN,made,55,"DiVincenzo, Donte",1628978,0.079,2.32,0.2,0.22,0.5,0.439,0.07,0.15,0.5,0.15,0.35,0.414
+1630183,"McDaniels, Jaden",Minnesota Timberwolves,1610612750,MIN,made,7,"Ingles, Joe",204060,0.007,0.22,0.0,0.0,0.04,0.0,0.0,0.01,0.0,0.0,0.02,0.0
+1630183,"McDaniels, Jaden",Minnesota Timberwolves,1610612750,MIN,made,69,"Randle, Julius",203944,0.151,4.43,0.34,0.54,1.29,0.415,0.44,0.84,0.522,0.1,0.45,0.216
+1630183,"McDaniels, Jaden",Minnesota Timberwolves,1610612750,MIN,made,53,"Gobert, Rudy",203497,0.054,1.57,0.22,0.22,0.5,0.439,0.22,0.5,0.439,0.0,0.0,
+1630183,"McDaniels, Jaden",Minnesota Timberwolves,1610612750,MIN,made,71,"Conley, Mike",201144,0.23,6.74,0.2,0.34,0.76,0.452,0.11,0.26,0.429,0.23,0.5,0.463

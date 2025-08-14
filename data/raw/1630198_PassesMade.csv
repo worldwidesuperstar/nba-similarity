@@ -1,0 +1,18 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630198,"Joe, Isaiah",Oklahoma City Thunder,1610612760,OKC,made,2,"Ducas, Alex",1642505,0.002,0.04,0.01,0.01,0.01,1.0,0.0,0.0,,0.01,0.01,1.0
+1630198,"Joe, Isaiah",Oklahoma City Thunder,1610612760,OKC,made,1,"Leons, Malevy",1642502,0.001,0.01,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+1630198,"Joe, Isaiah",Oklahoma City Thunder,1610612760,OKC,made,10,"Carlson, Branden",1642382,0.016,0.3,0.04,0.04,0.14,0.3,0.01,0.05,0.25,0.03,0.08,0.333
+1630198,"Joe, Isaiah",Oklahoma City Thunder,1610612760,OKC,made,15,"Mitchell, Ajay",1642349,0.02,0.36,0.0,0.04,0.09,0.429,0.04,0.04,1.0,0.0,0.05,0.0
+1630198,"Joe, Isaiah",Oklahoma City Thunder,1610612760,OKC,made,19,"Jones, Dillon",1641794,0.027,0.5,0.05,0.07,0.16,0.417,0.05,0.09,0.571,0.01,0.07,0.2
+1630198,"Joe, Isaiah",Oklahoma City Thunder,1610612760,OKC,made,3,"Flagler, Adam",1641745,0.008,0.15,0.04,0.04,0.07,0.6,0.01,0.01,1.0,0.03,0.05,0.5
+1630198,"Joe, Isaiah",Oklahoma City Thunder,1610612760,OKC,made,32,"Wallace, Cason",1641717,0.054,1.01,0.08,0.08,0.23,0.353,0.0,0.04,0.0,0.08,0.19,0.429
+1630198,"Joe, Isaiah",Oklahoma City Thunder,1610612760,OKC,made,14,"Dieng, Ousmane",1631172,0.02,0.38,0.07,0.07,0.15,0.455,0.04,0.05,0.75,0.03,0.09,0.286
+1630198,"Joe, Isaiah",Oklahoma City Thunder,1610612760,OKC,made,37,"Williams, Jaylin",1631119,0.116,2.18,0.15,0.18,0.35,0.5,0.05,0.12,0.444,0.12,0.23,0.529
+1630198,"Joe, Isaiah",Oklahoma City Thunder,1610612760,OKC,made,54,"Williams, Jalen",1631114,0.113,2.12,0.16,0.32,0.69,0.471,0.27,0.55,0.488,0.05,0.14,0.4
+1630198,"Joe, Isaiah",Oklahoma City Thunder,1610612760,OKC,made,20,"Holmgren, Chet",1631096,0.036,0.68,0.08,0.08,0.26,0.316,0.04,0.18,0.231,0.04,0.08,0.5
+1630198,"Joe, Isaiah",Oklahoma City Thunder,1610612760,OKC,made,41,"Wiggins, Aaron",1630598,0.06,1.12,0.19,0.26,0.54,0.475,0.14,0.27,0.5,0.12,0.27,0.45
+1630198,"Joe, Isaiah",Oklahoma City Thunder,1610612760,OKC,made,42,"Dort, Luguentz",1629652,0.061,1.15,0.16,0.18,0.43,0.406,0.08,0.18,0.462,0.09,0.26,0.368
+1630198,"Joe, Isaiah",Oklahoma City Thunder,1610612760,OKC,made,35,"Williams, Kenrich",1629026,0.062,1.16,0.14,0.16,0.43,0.375,0.08,0.2,0.4,0.08,0.23,0.353
+1630198,"Joe, Isaiah",Oklahoma City Thunder,1610612760,OKC,made,65,"Gilgeous-Alexander, Shai",1628983,0.202,3.78,0.11,0.69,1.46,0.472,0.5,0.96,0.521,0.19,0.5,0.378
+1630198,"Joe, Isaiah",Oklahoma City Thunder,1610612760,OKC,made,46,"Hartenstein, Isaiah",1628392,0.142,2.65,0.16,0.18,0.38,0.464,0.18,0.38,0.464,0.0,0.0,
+1630198,"Joe, Isaiah",Oklahoma City Thunder,1610612760,OKC,made,32,"Caruso, Alex",1627936,0.059,1.11,0.14,0.14,0.39,0.345,0.08,0.15,0.545,0.05,0.24,0.222

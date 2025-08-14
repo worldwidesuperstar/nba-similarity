@@ -1,0 +1,24 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,20,"Edwards, Justin",1642348,0.091,1.47,0.2,0.25,0.52,0.487,0.16,0.25,0.632,0.09,0.27,0.35
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,7,"Reese, Alex",1642024,0.009,0.15,0.05,0.05,0.09,0.571,0.01,0.01,1.0,0.04,0.08,0.5
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,17,"Council IV, Ricky",1641741,0.061,0.99,0.11,0.15,0.43,0.344,0.07,0.2,0.333,0.08,0.23,0.353
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,14,"Bona, Adem",1641737,0.038,0.61,0.17,0.17,0.27,0.65,0.17,0.27,0.65,0.0,0.0,
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,9,"Hood-Schifino, Jalen",1641720,0.04,0.65,0.04,0.08,0.16,0.5,0.04,0.08,0.5,0.04,0.08,0.5
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,2,"Roddy, David",1631223,0.002,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,2,"Wheeler, Phillip",1630762,0.003,0.05,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,4,"Castleton, Colin",1630658,0.006,0.09,0.01,0.01,0.03,0.5,0.01,0.01,1.0,0.0,0.01,0.0
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,1,"Mobley, Isaiah",1630600,0.005,0.08,0.0,0.01,0.04,0.333,0.01,0.04,0.333,0.0,0.0,
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,5,"Bagley, Marcus",1630542,0.01,0.16,0.04,0.04,0.11,0.375,0.03,0.04,0.667,0.01,0.07,0.2
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,12,"Dowtin Jr., Jeff",1630288,0.065,1.05,0.12,0.19,0.21,0.875,0.13,0.16,0.833,0.05,0.05,1.0
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,21,"Butler, Jared",1630215,0.139,2.25,0.11,0.19,0.6,0.311,0.09,0.29,0.318,0.09,0.31,0.304
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,9,"Maxey, Tyrese",1630178,0.078,1.27,0.04,0.11,0.33,0.32,0.05,0.2,0.267,0.05,0.13,0.4
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,4,"Okeke, Chuma",1629643,0.017,0.28,0.03,0.03,0.04,0.667,0.0,0.0,,0.03,0.04,0.667
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,5,"Brissett, Oshae",1629052,0.009,0.15,0.03,0.03,0.07,0.4,0.01,0.01,1.0,0.01,0.05,0.25
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,16,"Walker IV, Lonnie",1629022,0.09,1.45,0.24,0.28,0.64,0.438,0.13,0.25,0.526,0.15,0.39,0.379
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,19,"Yabusele, Guerschon",1627824,0.119,1.92,0.23,0.29,0.72,0.407,0.19,0.43,0.438,0.11,0.29,0.364
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,13,"Oubre Jr., Kelly",1626162,0.064,1.04,0.13,0.15,0.39,0.379,0.12,0.29,0.409,0.03,0.09,0.286
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,5,"Embiid, Joel",203954,0.035,0.56,0.04,0.04,0.23,0.176,0.04,0.19,0.214,0.0,0.04,0.0
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,10,"Drummond, Andre",203083,0.044,0.71,0.08,0.09,0.32,0.292,0.09,0.29,0.318,0.0,0.03,0.0
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,10,"George, Paul",202331,0.058,0.93,0.03,0.09,0.36,0.259,0.05,0.13,0.4,0.04,0.23,0.176
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,2,"Gordon, Eric",201569,0.005,0.08,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+1629656,"Grimes, Quentin",Philadelphia 76ers,1610612755,PHI,made,3,"Lowry, Kyle",200768,0.012,0.19,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,

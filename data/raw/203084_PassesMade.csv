@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203084,"Barnes, Harrison",San Antonio Spurs,1610612759,SAS,made,73,"Castle, Stephon",1642264,0.194,4.98,0.2,0.38,0.98,0.388,0.23,0.62,0.373,0.15,0.35,0.414
+203084,"Barnes, Harrison",San Antonio Spurs,1610612759,SAS,made,45,"Wembanyama, Victor",1641705,0.094,2.41,0.4,0.45,1.11,0.407,0.3,0.7,0.439,0.15,0.41,0.353
+203084,"Barnes, Harrison",San Antonio Spurs,1610612759,SAS,made,38,"Sochan, Jeremy",1631110,0.038,0.98,0.07,0.09,0.26,0.333,0.07,0.16,0.462,0.01,0.1,0.125
+203084,"Barnes, Harrison",San Antonio Spurs,1610612759,SAS,made,26,"Wesley, Blake",1631104,0.031,0.79,0.07,0.07,0.09,0.857,0.02,0.04,0.667,0.05,0.05,1.0
+203084,"Barnes, Harrison",San Antonio Spurs,1610612759,SAS,made,12,"Branham, Malaki",1631103,0.014,0.35,0.0,0.04,0.11,0.333,0.04,0.07,0.5,0.0,0.04,0.0
+203084,"Barnes, Harrison",San Antonio Spurs,1610612759,SAS,made,48,"Champagnie, Julian",1630577,0.053,1.37,0.21,0.23,0.6,0.388,0.1,0.17,0.571,0.13,0.43,0.314
+203084,"Barnes, Harrison",San Antonio Spurs,1610612759,SAS,made,20,"Mamukelashvili, Sandro",1630572,0.013,0.33,0.07,0.07,0.12,0.6,0.05,0.07,0.667,0.02,0.05,0.5
+203084,"Barnes, Harrison",San Antonio Spurs,1610612759,SAS,made,20,"Jones, Tre",1630200,0.04,1.01,0.04,0.06,0.09,0.714,0.05,0.07,0.667,0.01,0.01,1.0
+203084,"Barnes, Harrison",San Antonio Spurs,1610612759,SAS,made,61,"Vassell, Devin",1630170,0.1,2.56,0.3,0.39,0.77,0.508,0.22,0.35,0.621,0.17,0.41,0.412
+203084,"Barnes, Harrison",San Antonio Spurs,1610612759,SAS,made,4,"Bassey, Charles",1629646,0.003,0.07,0.01,0.01,0.02,0.5,0.01,0.02,0.5,0.0,0.0,
+203084,"Barnes, Harrison",San Antonio Spurs,1610612759,SAS,made,41,"Johnson, Keldon",1629640,0.04,1.04,0.09,0.15,0.32,0.462,0.1,0.22,0.444,0.05,0.1,0.5
+203084,"Barnes, Harrison",San Antonio Spurs,1610612759,SAS,made,3,"McLaughlin, Jordan",1629162,0.003,0.07,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+203084,"Barnes, Harrison",San Antonio Spurs,1610612759,SAS,made,13,"Collins, Zach",1628380,0.01,0.27,0.0,0.0,0.1,0.0,0.0,0.06,0.0,0.0,0.04,0.0
+203084,"Barnes, Harrison",San Antonio Spurs,1610612759,SAS,made,17,"Fox, De'Aaron",1628368,0.067,1.72,0.04,0.09,0.39,0.219,0.07,0.28,0.261,0.01,0.11,0.111
+203084,"Barnes, Harrison",San Antonio Spurs,1610612759,SAS,made,13,"Biyombo, Bismack",202687,0.011,0.28,0.01,0.02,0.11,0.222,0.02,0.11,0.222,0.0,0.0,
+203084,"Barnes, Harrison",San Antonio Spurs,1610612759,SAS,made,82,"Paul, Chris",101108,0.288,7.38,0.15,0.44,0.96,0.456,0.18,0.35,0.517,0.26,0.61,0.42

@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,made,44,"Camara, Toumani",1641739,0.088,1.64,0.07,0.07,0.27,0.278,0.04,0.13,0.333,0.03,0.13,0.222
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,made,14,"Rupert, Rayan",1641712,0.02,0.37,0.01,0.01,0.07,0.2,0.01,0.04,0.333,0.0,0.03,0.0
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,made,1,"Moore, Taze",1631386,0.002,0.04,0.0,0.0,0.03,0.0,0.0,0.01,0.0,0.0,0.01,0.0
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,made,1,"Cissoko, Sidy",1631321,0.003,0.06,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,made,1,"Minaya, Justin",1631303,0.001,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,made,22,"Murray, Kris",1631200,0.029,0.55,0.07,0.1,0.24,0.438,0.1,0.15,0.7,0.0,0.09,0.0
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,made,6,"Walker, Jabari",1631133,0.006,0.1,0.01,0.01,0.03,0.5,0.0,0.0,,0.01,0.03,0.5
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,made,50,"Sharpe, Shaedon",1631101,0.159,2.99,0.21,0.39,1.12,0.347,0.27,0.79,0.34,0.12,0.33,0.364
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,made,48,"Henderson, Scoot",1630703,0.182,3.42,0.04,0.27,0.69,0.391,0.19,0.49,0.394,0.07,0.19,0.385
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,made,32,"Banton, Dalano",1630625,0.11,2.06,0.07,0.24,0.6,0.4,0.18,0.46,0.387,0.06,0.13,0.444
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,made,48,"Avdija, Deni",1630166,0.142,2.66,0.19,0.42,0.84,0.5,0.33,0.61,0.537,0.09,0.22,0.4
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,made,11,"Thybulle, Matisse",1629680,0.015,0.28,0.04,0.04,0.1,0.429,0.01,0.06,0.25,0.03,0.04,0.667
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,made,52,"Simons, Anfernee",1629014,0.183,3.43,0.33,0.63,1.22,0.512,0.37,0.61,0.61,0.25,0.61,0.415
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,made,25,"Grant, Jerami",203924,0.06,1.13,0.07,0.13,0.49,0.273,0.09,0.39,0.231,0.04,0.1,0.429

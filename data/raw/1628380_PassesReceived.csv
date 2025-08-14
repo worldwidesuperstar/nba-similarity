@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1628380,"Collins, Zach",Chicago Bulls,1610612741,CHI,received,4,"Young, Jahmir",1642443,0.018,0.19,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1628380,"Collins, Zach",Chicago Bulls,1610612741,CHI,received,16,"Buzelis, Matas",1641824,0.094,1.0,0.2,0.2,0.27,0.765,0.16,0.22,0.714,0.05,0.05,1.0
+1628380,"Collins, Zach",Chicago Bulls,1610612741,CHI,received,2,"Miller, Emanuel",1641801,0.003,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1628380,"Collins, Zach",Chicago Bulls,1610612741,CHI,received,13,"Phillips, Julian",1641763,0.028,0.3,0.03,0.03,0.06,0.5,0.03,0.05,0.667,0.0,0.02,0.0
+1628380,"Collins, Zach",Chicago Bulls,1610612741,CHI,received,19,"Terry, Dalen",1631207,0.09,0.95,0.11,0.11,0.27,0.412,0.11,0.16,0.7,0.0,0.11,0.0
+1628380,"Collins, Zach",Chicago Bulls,1610612741,CHI,received,1,"Liddell, E.J.",1630604,0.001,0.02,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1628380,"Collins, Zach",Chicago Bulls,1610612741,CHI,received,18,"Giddey, Josh",1630581,0.226,2.41,0.33,0.34,0.69,0.5,0.27,0.45,0.586,0.08,0.23,0.333
+1628380,"Collins, Zach",Chicago Bulls,1610612741,CHI,received,2,"Dosunmu, Ayo",1630245,0.016,0.17,0.0,0.0,0.03,0.0,0.0,0.02,0.0,0.0,0.02,0.0
+1628380,"Collins, Zach",Chicago Bulls,1610612741,CHI,received,15,"Jones, Tre",1630200,0.099,1.05,0.11,0.11,0.27,0.412,0.08,0.13,0.625,0.03,0.14,0.222
+1628380,"Collins, Zach",Chicago Bulls,1610612741,CHI,received,1,"Smith, Jalen",1630188,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1628380,"Collins, Zach",Chicago Bulls,1610612741,CHI,received,16,"Williams, Patrick",1630172,0.078,0.83,0.11,0.13,0.28,0.444,0.09,0.2,0.462,0.03,0.08,0.4
+1628380,"Collins, Zach",Chicago Bulls,1610612741,CHI,received,13,"Horton-Tucker, Talen",1629659,0.059,0.63,0.06,0.06,0.11,0.571,0.06,0.11,0.571,0.0,0.0,
+1628380,"Collins, Zach",Chicago Bulls,1610612741,CHI,received,24,"White, Coby",1629632,0.165,1.75,0.14,0.14,0.36,0.391,0.08,0.13,0.625,0.06,0.23,0.267
+1628380,"Collins, Zach",Chicago Bulls,1610612741,CHI,received,17,"Huerter, Kevin",1628989,0.063,0.67,0.08,0.08,0.16,0.5,0.08,0.14,0.556,0.0,0.02,0.0
+1628380,"Collins, Zach",Chicago Bulls,1610612741,CHI,received,7,"Carter, Jevon",1628975,0.029,0.31,0.05,0.05,0.08,0.6,0.02,0.03,0.5,0.03,0.05,0.667
+1628380,"Collins, Zach",Chicago Bulls,1610612741,CHI,received,3,"Ball, Lonzo",1628366,0.029,0.31,0.0,0.0,0.05,0.0,0.0,0.05,0.0,0.0,0.0,

@@ -1,0 +1,19 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630625,"Banton, Dalano",Portland Trail Blazers,1610612757,POR,made,30,"Clingan, Donovan",1642270,0.08,2.16,0.33,0.36,0.64,0.558,0.3,0.52,0.571,0.06,0.12,0.5
+1630625,"Banton, Dalano",Portland Trail Blazers,1610612757,POR,made,22,"Reath, Duop",1641871,0.052,1.42,0.12,0.13,0.43,0.31,0.07,0.19,0.385,0.06,0.24,0.25
+1630625,"Banton, Dalano",Portland Trail Blazers,1610612757,POR,made,32,"Camara, Toumani",1641739,0.078,2.12,0.3,0.36,0.61,0.585,0.18,0.25,0.706,0.18,0.36,0.5
+1630625,"Banton, Dalano",Portland Trail Blazers,1610612757,POR,made,33,"Rupert, Rayan",1641712,0.073,1.99,0.09,0.12,0.42,0.286,0.03,0.22,0.133,0.09,0.19,0.462
+1630625,"Banton, Dalano",Portland Trail Blazers,1610612757,POR,made,1,"Moore, Taze",1631386,0.001,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630625,"Banton, Dalano",Portland Trail Blazers,1610612757,POR,made,2,"Cissoko, Sidy",1631321,0.008,0.22,0.0,0.01,0.07,0.2,0.01,0.03,0.5,0.0,0.04,0.0
+1630625,"Banton, Dalano",Portland Trail Blazers,1610612757,POR,made,8,"Minaya, Justin",1631303,0.01,0.28,0.01,0.01,0.07,0.2,0.01,0.03,0.5,0.0,0.04,0.0
+1630625,"Banton, Dalano",Portland Trail Blazers,1610612757,POR,made,37,"Murray, Kris",1631200,0.049,1.34,0.1,0.16,0.48,0.344,0.13,0.24,0.563,0.03,0.24,0.125
+1630625,"Banton, Dalano",Portland Trail Blazers,1610612757,POR,made,39,"Walker, Jabari",1631133,0.063,1.72,0.21,0.21,0.51,0.412,0.12,0.34,0.348,0.09,0.16,0.545
+1630625,"Banton, Dalano",Portland Trail Blazers,1610612757,POR,made,3,"McGowens, Bryce",1631121,0.004,0.1,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,
+1630625,"Banton, Dalano",Portland Trail Blazers,1610612757,POR,made,49,"Sharpe, Shaedon",1631101,0.16,4.36,0.34,0.54,1.63,0.33,0.39,0.85,0.456,0.15,0.78,0.192
+1630625,"Banton, Dalano",Portland Trail Blazers,1610612757,POR,made,36,"Henderson, Scoot",1630703,0.08,2.16,0.06,0.15,0.63,0.238,0.1,0.31,0.333,0.04,0.31,0.143
+1630625,"Banton, Dalano",Portland Trail Blazers,1610612757,POR,made,40,"Avdija, Deni",1630166,0.131,3.57,0.33,0.42,1.01,0.412,0.27,0.66,0.409,0.15,0.36,0.417
+1630625,"Banton, Dalano",Portland Trail Blazers,1610612757,POR,made,12,"Thybulle, Matisse",1629680,0.028,0.76,0.09,0.09,0.22,0.4,0.03,0.09,0.333,0.06,0.13,0.444
+1630625,"Banton, Dalano",Portland Trail Blazers,1610612757,POR,made,9,"Williams III, Robert",1629057,0.025,0.69,0.07,0.07,0.12,0.625,0.07,0.12,0.625,0.0,0.0,
+1630625,"Banton, Dalano",Portland Trail Blazers,1610612757,POR,made,12,"Ayton, Deandre",1629028,0.021,0.57,0.07,0.07,0.18,0.417,0.07,0.18,0.417,0.0,0.0,
+1630625,"Banton, Dalano",Portland Trail Blazers,1610612757,POR,made,42,"Simons, Anfernee",1629014,0.108,2.93,0.15,0.25,0.91,0.279,0.09,0.34,0.261,0.16,0.57,0.289
+1630625,"Banton, Dalano",Portland Trail Blazers,1610612757,POR,made,21,"Grant, Jerami",203924,0.03,0.81,0.09,0.12,0.31,0.381,0.01,0.13,0.111,0.1,0.18,0.583

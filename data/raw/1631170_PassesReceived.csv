@@ -1,0 +1,21 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,8,"Johnson, Keshad",1642352,0.014,0.33,0.02,0.05,0.06,0.75,0.03,0.05,0.667,0.02,0.02,1.0
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,30,"Ware, Kel'el",1642276,0.059,1.38,0.05,0.17,0.33,0.5,0.17,0.29,0.579,0.0,0.05,0.0
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,2,"Stevens, Isaiah",1641815,0.001,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,22,"Larsson, Pelle",1641796,0.031,0.73,0.05,0.09,0.21,0.429,0.09,0.17,0.545,0.0,0.05,0.0
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,29,"Jović, Nikola",1631107,0.082,1.92,0.18,0.29,0.58,0.5,0.17,0.38,0.44,0.12,0.2,0.615
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,9,"Smith, Dru",1630696,0.025,0.58,0.03,0.06,0.14,0.444,0.06,0.11,0.571,0.0,0.03,0.0
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,13,"Mitchell, Davion",1630558,0.036,0.85,0.05,0.12,0.33,0.364,0.12,0.26,0.471,0.0,0.08,0.0
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,5,"Christopher, Josh",1630528,0.009,0.21,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,48,"Herro, Tyler",1629639,0.159,3.71,0.18,0.29,1.03,0.279,0.23,0.7,0.326,0.06,0.33,0.182
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,35,"Highsmith, Haywood",1629312,0.067,1.58,0.17,0.2,0.53,0.371,0.2,0.39,0.5,0.0,0.14,0.0
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,44,"Robinson, Duncan",1629130,0.076,1.79,0.2,0.33,0.71,0.468,0.26,0.55,0.472,0.08,0.17,0.455
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,5,"Bryant, Thomas",1628418,0.014,0.32,0.0,0.03,0.09,0.333,0.03,0.08,0.4,0.0,0.02,0.0
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,44,"Adebayo, Bam",1628389,0.113,2.65,0.24,0.39,0.74,0.531,0.27,0.5,0.545,0.12,0.24,0.5
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,5,"Richardson, Josh",1626196,0.021,0.5,0.0,0.03,0.12,0.25,0.03,0.11,0.286,0.0,0.02,0.0
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,49,"Rozier, Terry",1626179,0.171,4.0,0.26,0.42,1.14,0.373,0.35,0.86,0.404,0.08,0.27,0.278
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,4,"Wiggins, Andrew",203952,0.005,0.12,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,8,"Anderson, Kyle",203937,0.033,0.77,0.15,0.18,0.26,0.706,0.14,0.2,0.692,0.05,0.06,0.75
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,16,"Butler III, Jimmy",202710,0.027,0.64,0.05,0.08,0.2,0.385,0.05,0.12,0.375,0.03,0.08,0.4
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,19,"Burks, Alec",202692,0.042,0.98,0.03,0.08,0.26,0.294,0.08,0.24,0.313,0.0,0.02,0.0
+1631170,"Jaquez Jr., Jaime",Miami Heat,1610612748,MIA,received,8,"Love, Kevin",201567,0.013,0.3,0.05,0.09,0.12,0.75,0.08,0.09,0.833,0.02,0.03,0.5

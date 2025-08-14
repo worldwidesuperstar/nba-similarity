@@ -1,0 +1,18 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1626220,"O'Neale, Royce",Phoenix Suns,1610612756,PHX,received,25,"Dunn, Ryan",1642346,0.028,0.71,0.04,0.04,0.25,0.158,0.0,0.05,0.0,0.04,0.2,0.2
+1626220,"O'Neale, Royce",Phoenix Suns,1610612756,PHX,received,34,"Ighodaro, Oso",1642345,0.046,1.15,0.09,0.11,0.27,0.4,0.03,0.07,0.4,0.08,0.2,0.4
+1626220,"O'Neale, Royce",Phoenix Suns,1610612756,PHX,received,16,"Gillespie, Collin",1631221,0.026,0.65,0.08,0.08,0.17,0.462,0.0,0.03,0.0,0.08,0.15,0.545
+1626220,"O'Neale, Royce",Phoenix Suns,1610612756,PHX,received,5,"Washington Jr., TyTy",1631102,0.006,0.16,0.0,0.0,0.04,0.0,0.0,0.01,0.0,0.0,0.03,0.0
+1626220,"O'Neale, Royce",Phoenix Suns,1610612756,PHX,received,18,"Richards, Nick",1630208,0.023,0.57,0.0,0.0,0.04,0.0,0.0,0.01,0.0,0.0,0.03,0.0
+1626220,"O'Neale, Royce",Phoenix Suns,1610612756,PHX,received,8,"Bol, Bol",1629626,0.007,0.19,0.0,0.0,0.05,0.0,0.0,0.0,,0.0,0.05,0.0
+1626220,"O'Neale, Royce",Phoenix Suns,1610612756,PHX,received,11,"Okogie, Josh",1629006,0.008,0.2,0.0,0.0,0.03,0.0,0.0,0.01,0.0,0.0,0.01,0.0
+1626220,"O'Neale, Royce",Phoenix Suns,1610612756,PHX,received,7,"Martin, Cody",1628998,0.01,0.24,0.03,0.03,0.05,0.5,0.01,0.01,1.0,0.01,0.04,0.333
+1626220,"O'Neale, Royce",Phoenix Suns,1610612756,PHX,received,44,"Allen, Grayson",1628960,0.062,1.56,0.2,0.21,0.53,0.4,0.05,0.08,0.667,0.16,0.45,0.353
+1626220,"O'Neale, Royce",Phoenix Suns,1610612756,PHX,received,26,"Morris, Monté",1628420,0.044,1.11,0.11,0.11,0.31,0.348,0.07,0.12,0.556,0.04,0.19,0.214
+1626220,"O'Neale, Royce",Phoenix Suns,1610612756,PHX,received,2,"Lee, Damion",1627814,0.001,0.03,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+1626220,"O'Neale, Royce",Phoenix Suns,1610612756,PHX,received,66,"Booker, Devin",1626164,0.192,4.79,0.72,0.73,1.91,0.385,0.09,0.28,0.333,0.64,1.63,0.393
+1626220,"O'Neale, Royce",Phoenix Suns,1610612756,PHX,received,70,"Jones, Tyus",1626145,0.215,5.37,0.69,0.71,1.49,0.473,0.07,0.28,0.238,0.64,1.21,0.527
+1626220,"O'Neale, Royce",Phoenix Suns,1610612756,PHX,received,21,"Nurkić, Jusuf",203994,0.045,1.13,0.04,0.04,0.2,0.2,0.0,0.03,0.0,0.04,0.17,0.231
+1626220,"O'Neale, Royce",Phoenix Suns,1610612756,PHX,received,52,"Plumlee, Mason",203486,0.065,1.61,0.12,0.12,0.31,0.391,0.01,0.04,0.333,0.11,0.27,0.4
+1626220,"O'Neale, Royce",Phoenix Suns,1610612756,PHX,received,46,"Beal, Bradley",203078,0.106,2.65,0.28,0.31,0.69,0.442,0.15,0.2,0.733,0.16,0.49,0.324
+1626220,"O'Neale, Royce",Phoenix Suns,1610612756,PHX,received,53,"Durant, Kevin",201142,0.115,2.87,0.48,0.51,0.92,0.551,0.15,0.21,0.688,0.36,0.71,0.509

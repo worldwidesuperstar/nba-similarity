@@ -1,0 +1,31 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,23,"Edwards, Justin",1642348,0.058,0.97,0.04,0.07,0.34,0.2,0.05,0.21,0.267,0.01,0.14,0.1
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,11,"McCain, Jared",1642272,0.023,0.38,0.05,0.08,0.14,0.6,0.05,0.07,0.8,0.03,0.07,0.4
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,11,"Reese, Alex",1642024,0.018,0.3,0.0,0.0,0.07,0.0,0.0,0.03,0.0,0.0,0.04,0.0
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,1,"Council IV, Ricky",1641741,0.001,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,34,"Bona, Adem",1641737,0.06,1.0,0.05,0.15,0.38,0.393,0.14,0.3,0.455,0.01,0.08,0.167
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,11,"Hood-Schifino, Jalen",1641720,0.047,0.78,0.08,0.11,0.27,0.4,0.08,0.16,0.5,0.03,0.11,0.25
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,1,"Quinones, Lester",1631311,0.001,0.01,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,3,"Nance, Pete",1631250,0.006,0.1,0.01,0.01,0.03,0.5,0.0,0.0,,0.01,0.03,0.5
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,2,"Roddy, David",1631223,0.005,0.08,0.01,0.01,0.03,0.5,0.01,0.03,0.5,0.0,0.0,
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,1,"Wheeler, Phillip",1630762,0.001,0.01,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,4,"Castleton, Colin",1630658,0.01,0.16,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,1,"Mobley, Isaiah",1630600,0.001,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,7,"Bagley, Marcus",1630542,0.016,0.26,0.0,0.0,0.07,0.0,0.0,0.04,0.0,0.0,0.03,0.0
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,25,"Dowtin Jr., Jeff",1630288,0.105,1.75,0.18,0.22,0.71,0.308,0.12,0.27,0.45,0.1,0.44,0.219
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,11,"Martin, KJ",1630231,0.014,0.23,0.01,0.01,0.08,0.167,0.0,0.01,0.0,0.01,0.07,0.2
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,22,"Butler, Jared",1630215,0.087,1.45,0.21,0.23,0.58,0.405,0.16,0.33,0.5,0.07,0.25,0.278
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,36,"Maxey, Tyrese",1630178,0.124,2.07,0.22,0.3,0.78,0.386,0.16,0.42,0.387,0.14,0.36,0.385
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,17,"Grimes, Quentin",1629656,0.061,1.01,0.11,0.15,0.44,0.344,0.07,0.21,0.333,0.08,0.23,0.353
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,5,"Okeke, Chuma",1629643,0.014,0.23,0.03,0.04,0.1,0.429,0.04,0.05,0.75,0.0,0.04,0.0
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,5,"Brissett, Oshae",1629052,0.015,0.25,0.0,0.01,0.05,0.25,0.01,0.04,0.333,0.0,0.01,0.0
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,15,"Walker IV, Lonnie",1629022,0.05,0.84,0.07,0.08,0.27,0.3,0.04,0.14,0.3,0.04,0.14,0.3
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,11,"Martin, Caleb",1628997,0.024,0.4,0.04,0.05,0.14,0.4,0.04,0.07,0.6,0.01,0.07,0.2
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,33,"Yabusele, Guerschon",1627824,0.075,1.26,0.15,0.21,0.56,0.366,0.11,0.3,0.364,0.1,0.26,0.368
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,25,"Oubre Jr., Kelly",1626162,0.056,0.93,0.04,0.1,0.33,0.292,0.07,0.23,0.294,0.03,0.1,0.286
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,6,"Embiid, Joel",203954,0.012,0.21,0.01,0.03,0.08,0.333,0.03,0.05,0.5,0.0,0.03,0.0
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,8,"Drummond, Andre",203083,0.011,0.19,0.01,0.01,0.05,0.25,0.01,0.04,0.333,0.0,0.01,0.0
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,19,"Jackson, Reggie",202704,0.034,0.56,0.03,0.03,0.15,0.182,0.01,0.05,0.25,0.01,0.1,0.143
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,16,"George, Paul",202331,0.021,0.36,0.03,0.03,0.14,0.2,0.01,0.05,0.25,0.01,0.08,0.167
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,16,"Gordon, Eric",201569,0.032,0.53,0.07,0.08,0.29,0.286,0.05,0.15,0.364,0.03,0.14,0.2
+1641741,"Council IV, Ricky",Philadelphia 76ers,1610612755,PHI,received,11,"Lowry, Kyle",200768,0.021,0.36,0.08,0.1,0.21,0.467,0.08,0.15,0.545,0.01,0.05,0.25

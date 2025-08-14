@@ -1,0 +1,18 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631108,"Christie, Max",Dallas Mavericks,1610612742,DAL,received,8,"Prosper, Olivier-Maxence",1641765,0.031,0.38,0.03,0.05,0.13,0.4,0.04,0.06,0.6,0.01,0.06,0.2
+1631108,"Christie, Max",Dallas Mavericks,1610612742,DAL,received,1,"Lively II, Dereck",1641726,0.002,0.03,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+1631108,"Christie, Max",Dallas Mavericks,1610612742,DAL,received,11,"Hardy, Jaden",1630702,0.038,0.47,0.03,0.05,0.15,0.333,0.05,0.1,0.5,0.0,0.05,0.0
+1631108,"Christie, Max",Dallas Mavericks,1610612742,DAL,received,16,"Edwards, Kessler",1630556,0.064,0.79,0.04,0.09,0.19,0.467,0.05,0.1,0.5,0.04,0.09,0.429
+1631108,"Christie, Max",Dallas Mavericks,1610612742,DAL,received,10,"Jones, Kai",1630539,0.042,0.53,0.03,0.04,0.13,0.3,0.03,0.09,0.286,0.01,0.04,0.333
+1631108,"Christie, Max",Dallas Mavericks,1610612742,DAL,received,15,"Williams, Brandon",1630314,0.069,0.86,0.09,0.12,0.26,0.45,0.05,0.12,0.444,0.06,0.14,0.455
+1631108,"Christie, Max",Dallas Mavericks,1610612742,DAL,received,32,"Marshall, Naji",1630230,0.185,2.31,0.23,0.32,0.72,0.446,0.15,0.37,0.414,0.17,0.35,0.481
+1631108,"Christie, Max",Dallas Mavericks,1610612742,DAL,received,8,"Gafford, Daniel",1629655,0.029,0.36,0.01,0.03,0.06,0.4,0.03,0.03,1.0,0.0,0.04,0.0
+1631108,"Christie, Max",Dallas Mavericks,1610612742,DAL,received,3,"Brown, Moses",1629650,0.012,0.15,0.03,0.03,0.03,1.0,0.01,0.01,1.0,0.01,0.01,1.0
+1631108,"Christie, Max",Dallas Mavericks,1610612742,DAL,received,13,"Washington, P.J.",1629023,0.047,0.59,0.04,0.04,0.17,0.231,0.0,0.09,0.0,0.04,0.08,0.5
+1631108,"Christie, Max",Dallas Mavericks,1610612742,DAL,received,10,"Martin, Caleb",1628997,0.024,0.29,0.03,0.03,0.12,0.222,0.01,0.04,0.333,0.01,0.08,0.167
+1631108,"Christie, Max",Dallas Mavericks,1610612742,DAL,received,15,"Exum, Danté",203957,0.072,0.9,0.08,0.13,0.23,0.556,0.08,0.13,0.6,0.05,0.1,0.5
+1631108,"Christie, Max",Dallas Mavericks,1610612742,DAL,received,17,"Powell, Dwight",203939,0.066,0.82,0.08,0.08,0.28,0.273,0.06,0.17,0.385,0.01,0.12,0.111
+1631108,"Christie, Max",Dallas Mavericks,1610612742,DAL,received,31,"Dinwiddie, Spencer",203915,0.174,2.18,0.21,0.24,0.77,0.317,0.12,0.32,0.36,0.13,0.45,0.286
+1631108,"Christie, Max",Dallas Mavericks,1610612742,DAL,received,7,"Davis, Anthony",203076,0.033,0.41,0.08,0.08,0.19,0.4,0.05,0.13,0.4,0.03,0.06,0.4
+1631108,"Christie, Max",Dallas Mavericks,1610612742,DAL,received,17,"Thompson, Klay",202691,0.041,0.51,0.06,0.09,0.23,0.389,0.05,0.09,0.571,0.04,0.14,0.273
+1631108,"Christie, Max",Dallas Mavericks,1610612742,DAL,received,11,"Irving, Kyrie",202681,0.073,0.91,0.12,0.13,0.26,0.5,0.05,0.14,0.364,0.08,0.12,0.667

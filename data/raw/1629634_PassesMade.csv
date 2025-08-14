@@ -1,0 +1,18 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,made,1,"Kawamura, Yuki",1642530,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,made,41,"Wells, Jaylen",1642377,0.064,1.05,0.09,0.16,0.5,0.313,0.14,0.22,0.643,0.02,0.28,0.056
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,made,5,"Spencer, Cam",1642285,0.009,0.14,0.0,0.0,0.03,0.0,0.0,0.02,0.0,0.0,0.02,0.0
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,made,12,"Jackson, GG",1641713,0.023,0.38,0.02,0.05,0.14,0.333,0.03,0.09,0.333,0.02,0.05,0.333
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,made,9,"Williams Jr., Vince",1631246,0.019,0.31,0.02,0.02,0.03,0.5,0.0,0.0,,0.02,0.03,0.5
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,made,30,"LaRavia, Jake",1631222,0.051,0.83,0.03,0.06,0.22,0.286,0.03,0.17,0.182,0.03,0.05,0.667
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,made,8,"Huff, Jay",1630643,0.009,0.14,0.02,0.02,0.05,0.333,0.0,0.0,,0.02,0.05,0.333
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,made,47,"Pippen Jr., Scotty",1630590,0.186,3.03,0.13,0.23,0.56,0.417,0.14,0.39,0.36,0.09,0.17,0.545
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,made,33,"Aldama, Santi",1630583,0.075,1.22,0.16,0.17,0.34,0.5,0.13,0.17,0.727,0.05,0.17,0.273
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,made,49,"Bane, Desmond",1630217,0.198,3.23,0.13,0.31,0.8,0.392,0.2,0.5,0.406,0.11,0.3,0.368
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,made,2,"Stevens, Lamar",1630205,0.003,0.05,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,made,11,"Konchar, John",1629723,0.012,0.2,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,made,35,"Morant, Ja",1629630,0.171,2.8,0.11,0.27,0.7,0.378,0.22,0.55,0.4,0.05,0.16,0.3
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,made,38,"Jackson Jr., Jaren",1628991,0.079,1.28,0.16,0.25,0.53,0.471,0.19,0.38,0.5,0.06,0.16,0.4
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,made,1,"Bagley III, Marvin",1628963,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,made,35,"Kennard, Luke",1628379,0.081,1.33,0.14,0.16,0.33,0.476,0.08,0.14,0.556,0.08,0.19,0.417
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,made,10,"Smart, Marcus",203935,0.018,0.3,0.02,0.02,0.05,0.333,0.0,0.02,0.0,0.02,0.03,0.5

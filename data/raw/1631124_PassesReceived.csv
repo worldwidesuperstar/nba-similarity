@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631124,"Strawther, Julian",Denver Nuggets,1610612743,DEN,received,2,"Jones, Spencer",1642461,0.003,0.06,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1631124,"Strawther, Julian",Denver Nuggets,1610612743,DEN,received,23,"Tyson, Hunter",1641816,0.035,0.69,0.05,0.12,0.22,0.571,0.09,0.17,0.545,0.03,0.05,0.667
+1631124,"Strawther, Julian",Denver Nuggets,1610612743,DEN,received,7,"Hall, PJ",1641790,0.01,0.2,0.02,0.03,0.03,1.0,0.0,0.0,,0.03,0.03,1.0
+1631124,"Strawther, Julian",Denver Nuggets,1610612743,DEN,received,9,"Alexander, Trey",1641725,0.012,0.23,0.02,0.02,0.06,0.25,0.0,0.03,0.0,0.02,0.03,0.5
+1631124,"Strawther, Julian",Denver Nuggets,1610612743,DEN,received,36,"Watson, Peyton",1631212,0.069,1.38,0.06,0.06,0.28,0.222,0.03,0.11,0.286,0.03,0.17,0.182
+1631124,"Strawther, Julian",Denver Nuggets,1610612743,DEN,received,37,"Braun, Christian",1631128,0.064,1.28,0.15,0.15,0.34,0.455,0.06,0.12,0.5,0.09,0.22,0.429
+1631124,"Strawther, Julian",Denver Nuggets,1610612743,DEN,received,22,"Nnaji, Zeke",1630192,0.033,0.66,0.02,0.05,0.23,0.2,0.03,0.11,0.286,0.02,0.12,0.125
+1631124,"Strawther, Julian",Denver Nuggets,1610612743,DEN,received,23,"Pickett, Jalen",1629618,0.06,1.2,0.14,0.14,0.4,0.346,0.06,0.11,0.571,0.08,0.29,0.263
+1631124,"Strawther, Julian",Denver Nuggets,1610612743,DEN,received,33,"Porter Jr., Michael",1629008,0.053,1.06,0.08,0.09,0.29,0.316,0.06,0.15,0.4,0.03,0.14,0.222
+1631124,"Strawther, Julian",Denver Nuggets,1610612743,DEN,received,2,"Čančar, Vlatko",1628427,0.003,0.06,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,
+1631124,"Strawther, Julian",Denver Nuggets,1610612743,DEN,received,45,"Murray, Jamal",1627750,0.141,2.82,0.45,0.51,1.29,0.393,0.2,0.43,0.464,0.31,0.86,0.357
+1631124,"Strawther, Julian",Denver Nuggets,1610612743,DEN,received,55,"Jokić, Nikola",203999,0.219,4.38,0.71,0.72,1.52,0.475,0.43,0.71,0.609,0.29,0.82,0.358
+1631124,"Strawther, Julian",Denver Nuggets,1610612743,DEN,received,11,"Šarić, Dario",203967,0.029,0.58,0.03,0.05,0.25,0.188,0.02,0.12,0.125,0.03,0.12,0.25
+1631124,"Strawther, Julian",Denver Nuggets,1610612743,DEN,received,22,"Gordon, Aaron",203932,0.046,0.92,0.17,0.18,0.45,0.414,0.08,0.18,0.417,0.11,0.26,0.412
+1631124,"Strawther, Julian",Denver Nuggets,1610612743,DEN,received,36,"Jordan, DeAndre",201599,0.077,1.54,0.25,0.31,0.74,0.417,0.25,0.48,0.516,0.06,0.26,0.235
+1631124,"Strawther, Julian",Denver Nuggets,1610612743,DEN,received,52,"Westbrook, Russell",201566,0.145,2.91,0.4,0.45,1.11,0.403,0.22,0.45,0.483,0.23,0.66,0.349

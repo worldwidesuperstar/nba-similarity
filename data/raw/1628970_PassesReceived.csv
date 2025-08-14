@@ -1,0 +1,26 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,23,"Simpson, KJ",1642354,0.088,3.73,0.23,0.39,1.47,0.266,0.25,0.98,0.254,0.14,0.48,0.29
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,26,"Salaün, Tidjane",1642275,0.033,1.39,0.08,0.17,0.58,0.297,0.13,0.28,0.444,0.05,0.3,0.158
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,10,"Baugh, Damion",1641878,0.041,1.73,0.2,0.28,0.67,0.419,0.2,0.52,0.394,0.08,0.16,0.5
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,41,"Smith Jr., Nick",1641733,0.097,4.09,0.34,0.7,1.47,0.479,0.48,0.98,0.492,0.22,0.48,0.452
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,14,"Miller, Brandon",1641706,0.041,1.75,0.19,0.23,0.64,0.366,0.11,0.33,0.333,0.13,0.31,0.4
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,2,"Sims, Jaylen",1631301,0.004,0.16,0.02,0.05,0.06,0.75,0.03,0.03,1.0,0.02,0.03,0.5
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,37,"Diabaté, Moussa",1631217,0.035,1.5,0.08,0.14,0.48,0.29,0.13,0.27,0.471,0.02,0.22,0.071
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,13,"Wong, Isaiah",1631209,0.014,0.61,0.08,0.13,0.27,0.471,0.09,0.17,0.545,0.03,0.09,0.333
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,9,"Moore Jr., Wendell",1631111,0.007,0.31,0.0,0.03,0.08,0.4,0.03,0.08,0.4,0.0,0.0,
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,38,"Williams, Mark",1631109,0.065,2.77,0.34,0.44,1.05,0.418,0.27,0.52,0.515,0.17,0.53,0.324
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,3,"Garrett, Marcus",1630585,0.009,0.39,0.03,0.06,0.13,0.5,0.03,0.03,1.0,0.03,0.09,0.333
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,10,"Mann, Tre",1630544,0.018,0.77,0.09,0.09,0.41,0.231,0.06,0.25,0.25,0.03,0.16,0.2
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,12,"Richards, Nick",1630208,0.009,0.36,0.08,0.08,0.16,0.5,0.02,0.06,0.25,0.06,0.09,0.667
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,3,"Flynn, Malachi",1630201,0.008,0.33,0.05,0.05,0.14,0.333,0.03,0.06,0.5,0.02,0.08,0.2
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,50,"Green, Josh",1630182,0.072,3.06,0.23,0.39,1.16,0.338,0.27,0.58,0.459,0.13,0.58,0.216
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,40,"Ball, LaMelo",1630163,0.192,8.13,1.38,1.67,3.45,0.484,1.16,2.17,0.532,0.52,1.28,0.402
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,9,"Williams, Grant",1629684,0.009,0.39,0.09,0.11,0.17,0.636,0.05,0.08,0.6,0.06,0.09,0.667
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,32,"Jeffries, DaQuan",1629610,0.034,1.44,0.14,0.22,0.47,0.467,0.11,0.27,0.412,0.11,0.2,0.538
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,11,"Okogie, Josh",1629006,0.011,0.47,0.03,0.08,0.2,0.385,0.06,0.16,0.4,0.02,0.05,0.333
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,22,"Martin, Cody",1628998,0.024,1.02,0.08,0.09,0.39,0.24,0.03,0.2,0.154,0.06,0.19,0.333
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,24,"Micic, Vasilije",203995,0.078,3.31,0.17,0.58,1.45,0.398,0.5,0.91,0.552,0.08,0.55,0.143
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,21,"Nurkić, Jusuf",203994,0.034,1.44,0.27,0.33,0.8,0.412,0.23,0.48,0.484,0.09,0.31,0.3
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,6,"Payton, Elfrid",203901,0.015,0.63,0.05,0.05,0.28,0.167,0.02,0.17,0.091,0.03,0.11,0.286
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,36,"Curry, Seth",203552,0.051,2.14,0.2,0.33,0.91,0.362,0.22,0.47,0.467,0.11,0.44,0.25
+1628970,"Bridges, Miles",Charlotte Hornets,1610612766,CHA,received,12,"Gibson, Taj",201959,0.009,0.36,0.02,0.03,0.14,0.222,0.03,0.08,0.4,0.0,0.06,0.0

@@ -1,0 +1,18 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630241,"Merrill, Sam",Cleveland Cavaliers,1610612739,CLE,received,7,"Tyson, Jaylon",1642281,0.009,0.15,0.03,0.03,0.06,0.5,0.01,0.01,1.0,0.01,0.04,0.333
+1630241,"Merrill, Sam",Cleveland Cavaliers,1610612739,CLE,received,13,"Porter Jr., Craig",1641854,0.029,0.49,0.07,0.07,0.17,0.417,0.0,0.0,,0.07,0.17,0.417
+1630241,"Merrill, Sam",Cleveland Cavaliers,1610612739,CLE,received,1,"Travers, Luke",1631247,0.003,0.04,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630241,"Merrill, Sam",Cleveland Cavaliers,1610612739,CLE,received,53,"Mobley, Evan",1630596,0.13,2.17,0.44,0.44,0.94,0.463,0.08,0.13,0.667,0.35,0.82,0.431
+1630241,"Merrill, Sam",Cleveland Cavaliers,1610612739,CLE,received,1,"Thor, JT",1630550,0.005,0.08,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630241,"Merrill, Sam",Cleveland Cavaliers,1610612739,CLE,received,22,"Okoro, Isaac",1630171,0.028,0.46,0.04,0.04,0.13,0.333,0.0,0.0,,0.04,0.13,0.333
+1630241,"Merrill, Sam",Cleveland Cavaliers,1610612739,CLE,received,6,"Green, Javonte",1629750,0.012,0.2,0.01,0.01,0.04,0.333,0.0,0.0,,0.01,0.04,0.333
+1630241,"Merrill, Sam",Cleveland Cavaliers,1610612739,CLE,received,30,"Wade, Dean",1629731,0.051,0.86,0.03,0.03,0.18,0.154,0.0,0.0,,0.03,0.18,0.154
+1630241,"Merrill, Sam",Cleveland Cavaliers,1610612739,CLE,received,49,"Jerome, Ty",1629660,0.132,2.21,0.35,0.35,0.96,0.368,0.04,0.08,0.5,0.31,0.87,0.355
+1630241,"Merrill, Sam",Cleveland Cavaliers,1610612739,CLE,received,57,"Garland, Darius",1629636,0.132,2.21,0.34,0.35,0.76,0.463,0.04,0.08,0.5,0.31,0.68,0.458
+1630241,"Merrill, Sam",Cleveland Cavaliers,1610612739,CLE,received,16,"Hunter, De'Andre",1629631,0.037,0.62,0.06,0.06,0.23,0.25,0.0,0.0,,0.06,0.23,0.25
+1630241,"Merrill, Sam",Cleveland Cavaliers,1610612739,CLE,received,16,"Strus, Max",1629622,0.023,0.38,0.01,0.01,0.04,0.333,0.01,0.01,1.0,0.0,0.03,0.0
+1630241,"Merrill, Sam",Cleveland Cavaliers,1610612739,CLE,received,43,"Allen, Jarrett",1628386,0.076,1.27,0.13,0.14,0.38,0.37,0.07,0.08,0.833,0.07,0.3,0.238
+1630241,"Merrill, Sam",Cleveland Cavaliers,1610612739,CLE,received,54,"Mitchell, Donovan",1628378,0.165,2.76,0.46,0.46,1.25,0.371,0.11,0.2,0.571,0.35,1.06,0.333
+1630241,"Merrill, Sam",Cleveland Cavaliers,1610612739,CLE,received,36,"Niang, Georges",1627777,0.062,1.04,0.14,0.14,0.24,0.588,0.03,0.03,1.0,0.11,0.21,0.533
+1630241,"Merrill, Sam",Cleveland Cavaliers,1610612739,CLE,received,23,"LeVert, Caris",1627747,0.06,1.0,0.14,0.14,0.32,0.435,0.0,0.03,0.0,0.14,0.3,0.476
+1630241,"Merrill, Sam",Cleveland Cavaliers,1610612739,CLE,received,15,"Thompson, Tristan",202684,0.047,0.79,0.06,0.06,0.23,0.25,0.01,0.1,0.143,0.04,0.13,0.333

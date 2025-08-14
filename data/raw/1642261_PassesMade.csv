@@ -1,0 +1,22 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,2,"Olivari, Quincy",1642439,0.003,0.05,0.01,0.01,0.03,0.5,0.0,0.0,,0.01,0.03,0.5
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,15,"James, Bronny",1642355,0.03,0.53,0.04,0.05,0.17,0.308,0.03,0.12,0.222,0.03,0.05,0.5
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,11,"Jemison III, Trey",1641998,0.011,0.19,0.0,0.0,0.05,0.0,0.0,0.05,0.0,0.0,0.0,
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,1,"Hood-Schifino, Jalen",1641720,0.001,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,15,"Koloko, Christian",1631132,0.015,0.26,0.01,0.01,0.04,0.333,0.01,0.04,0.333,0.0,0.0,
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,21,"Christie, Max",1631108,0.027,0.47,0.01,0.03,0.06,0.4,0.01,0.03,0.5,0.01,0.04,0.333
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,15,"Goodwin, Jordan",1630692,0.027,0.46,0.01,0.03,0.08,0.333,0.01,0.04,0.333,0.01,0.04,0.333
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,57,"Reaves, Austin",1630559,0.213,3.68,0.14,0.29,0.82,0.359,0.21,0.54,0.381,0.09,0.28,0.318
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,20,"Hayes, Jaxson",1629637,0.019,0.33,0.04,0.04,0.1,0.375,0.04,0.1,0.375,0.0,0.0,
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,12,"Reddish, Cam",1629629,0.013,0.23,0.0,0.01,0.05,0.25,0.01,0.04,0.333,0.0,0.01,0.0
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,45,"Vincent, Gabe",1629216,0.093,1.62,0.04,0.05,0.14,0.364,0.01,0.03,0.5,0.04,0.12,0.333
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,24,"Hachimura, Rui",1629060,0.044,0.77,0.08,0.09,0.26,0.35,0.05,0.17,0.308,0.04,0.09,0.429
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,15,"Dončić, Luka",1629029,0.05,0.87,0.04,0.08,0.27,0.286,0.06,0.17,0.385,0.01,0.1,0.125
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,11,"Vanderbilt, Jarred",1629020,0.012,0.21,0.01,0.01,0.03,0.5,0.0,0.01,0.0,0.01,0.01,1.0
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,18,"Milton, Shake",1629003,0.048,0.83,0.01,0.01,0.1,0.125,0.0,0.05,0.0,0.01,0.05,0.25
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,14,"Finney-Smith, Dorian",1627827,0.016,0.27,0.08,0.08,0.09,0.857,0.01,0.01,1.0,0.06,0.08,0.833
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,28,"Russell, D'Angelo",1626156,0.096,1.67,0.06,0.13,0.35,0.37,0.09,0.22,0.412,0.04,0.13,0.3
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,4,"Len, Alex",203458,0.008,0.14,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,32,"Davis, Anthony",203076,0.067,1.17,0.14,0.19,0.4,0.484,0.17,0.32,0.52,0.03,0.08,0.333
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,5,"Morris, Markieff",202693,0.007,0.13,0.03,0.03,0.05,0.5,0.03,0.05,0.5,0.0,0.0,
+1642261,"Knecht, Dalton",Los Angeles Lakers,1610612747,LAL,made,58,"James, LeBron",2544,0.197,3.41,0.09,0.24,0.73,0.333,0.19,0.55,0.349,0.05,0.18,0.286

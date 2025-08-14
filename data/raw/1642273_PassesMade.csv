@@ -1,0 +1,23 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,8,"Johnson, AJ",1642358,0.009,0.29,0.01,0.03,0.04,0.667,0.01,0.03,0.5,0.01,0.01,1.0
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,66,"Carrington, Bub",1642267,0.212,7.24,0.28,0.4,1.12,0.355,0.24,0.47,0.5,0.16,0.65,0.25
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,48,"Sarr, Alex",1642259,0.105,3.59,0.4,0.47,1.25,0.376,0.31,0.78,0.396,0.16,0.47,0.344
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,1,"Martin, Jaylen",1641798,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,13,"Vukcevic, Tristan",1641774,0.011,0.38,0.03,0.03,0.1,0.286,0.01,0.03,0.5,0.01,0.07,0.2
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,4,"Jones, Colby",1641732,0.003,0.12,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,50,"Coulibaly, Bilal",1641731,0.107,3.63,0.25,0.34,0.85,0.397,0.26,0.59,0.45,0.07,0.26,0.278
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,3,"Baldwin Jr., Patrick",1631116,0.002,0.07,0.03,0.03,0.04,0.667,0.0,0.0,,0.03,0.04,0.667
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,2,"Davis, Johnny",1631098,0.001,0.04,0.0,0.0,0.03,0.0,0.0,0.01,0.0,0.0,0.01,0.0
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,51,"Kispert, Corey",1630557,0.072,2.44,0.32,0.35,0.88,0.4,0.13,0.28,0.474,0.22,0.6,0.366
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,28,"Champagnie, Justin",1630551,0.025,0.84,0.12,0.12,0.31,0.381,0.01,0.09,0.167,0.1,0.22,0.467
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,1,"Thor, JT",1630550,0.0,0.01,0.01,0.01,0.01,1.0,0.0,0.0,,0.01,0.01,1.0
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,4,"Gill, Anthony",1630264,0.002,0.06,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,18,"Butler, Jared",1630215,0.032,1.09,0.0,0.06,0.16,0.364,0.06,0.12,0.5,0.0,0.04,0.0
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,52,"Poole, Jordan",1629673,0.186,6.32,0.37,0.66,1.62,0.409,0.31,0.74,0.42,0.35,0.88,0.4
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,3,"Bagley III, Marvin",1628963,0.003,0.12,0.01,0.03,0.04,0.667,0.03,0.03,1.0,0.0,0.01,0.0
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,23,"Kuzma, Kyle",1628398,0.03,1.01,0.12,0.15,0.37,0.4,0.13,0.26,0.5,0.01,0.1,0.143
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,19,"Brogdon, Malcolm",1627763,0.051,1.75,0.06,0.13,0.32,0.409,0.09,0.24,0.375,0.04,0.09,0.5
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,15,"Holmes, Richaun",1626158,0.019,0.65,0.13,0.15,0.21,0.714,0.15,0.21,0.714,0.0,0.0,
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,10,"Smart, Marcus",203935,0.019,0.65,0.03,0.04,0.13,0.333,0.01,0.03,0.5,0.03,0.1,0.286
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,12,"Middleton, Khris",203114,0.031,1.06,0.12,0.21,0.51,0.4,0.12,0.26,0.444,0.09,0.25,0.353
+1642273,"George, Kyshawn",Washington Wizards,1610612764,WAS,made,43,"Valančiūnas, Jonas",202685,0.079,2.71,0.19,0.32,0.63,0.512,0.31,0.56,0.553,0.01,0.07,0.2

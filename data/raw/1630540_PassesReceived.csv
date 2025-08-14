@@ -1,0 +1,20 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,5,"Dadiet, Pacôme",1642359,0.008,0.22,0.0,0.02,0.08,0.2,0.02,0.05,0.333,0.0,0.03,0.0
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,11,"Kolek, Tyler",1642278,0.017,0.47,0.08,0.08,0.2,0.385,0.03,0.06,0.5,0.05,0.14,0.333
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,1,"Watson, Anton",1641817,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,1,"McCullar Jr., Kevin",1641755,0.002,0.06,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,3,"Toppin, Jacob",1631210,0.004,0.13,0.0,0.03,0.06,0.5,0.03,0.03,1.0,0.0,0.03,0.0
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,18,"Sims, Jericho",1630579,0.025,0.7,0.06,0.09,0.17,0.545,0.05,0.08,0.6,0.05,0.09,0.5
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,10,"Hukporti, Ariel",1630574,0.011,0.31,0.02,0.05,0.13,0.375,0.05,0.09,0.5,0.0,0.03,0.0
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,3,"Ryan, Matt",1630346,0.003,0.08,0.0,0.02,0.02,1.0,0.0,0.0,,0.02,0.02,1.0
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,40,"Achiuwa, Precious",1630173,0.07,1.97,0.13,0.2,0.56,0.361,0.16,0.31,0.5,0.05,0.25,0.188
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,28,"Shamet, Landry",1629013,0.03,0.86,0.03,0.09,0.23,0.4,0.08,0.14,0.556,0.02,0.09,0.167
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,9,"Robinson, Mitchell",1629011,0.018,0.5,0.02,0.03,0.11,0.286,0.0,0.03,0.0,0.03,0.08,0.4
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,54,"Brunson, Jalen",1628973,0.141,3.97,0.44,0.48,1.59,0.304,0.16,0.5,0.313,0.33,1.09,0.3
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,54,"Bridges, Mikal",1628969,0.138,3.89,0.23,0.38,1.19,0.316,0.13,0.39,0.32,0.25,0.8,0.314
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,55,"Hart, Josh",1628404,0.184,5.2,0.44,0.58,1.47,0.394,0.19,0.59,0.316,0.39,0.88,0.446
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,48,"Anunoby, OG",1628384,0.078,2.2,0.2,0.28,0.63,0.45,0.06,0.23,0.267,0.22,0.39,0.56
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,51,"Payne, Cameron",1626166,0.15,4.22,0.27,0.48,0.91,0.534,0.25,0.42,0.593,0.23,0.48,0.484
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,53,"Towns, Karl-Anthony",1626157,0.116,3.27,0.13,0.27,0.69,0.386,0.19,0.42,0.444,0.08,0.27,0.294
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,3,"Wright, Delon",1626153,0.003,0.09,0.02,0.02,0.02,1.0,0.0,0.0,,0.02,0.02,1.0
+1630540,"McBride, Miles",New York Knicks,1610612752,NYK,received,2,"Tucker, P.J.",200782,0.002,0.06,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,

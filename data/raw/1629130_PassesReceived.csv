@@ -1,0 +1,20 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,2,"Johnson, Keshad",1642352,0.002,0.05,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,38,"Ware, Kel'el",1642276,0.05,1.38,0.12,0.15,0.3,0.5,0.07,0.11,0.625,0.08,0.19,0.429
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,24,"Larsson, Pelle",1641796,0.02,0.54,0.04,0.05,0.16,0.333,0.03,0.05,0.5,0.03,0.11,0.25
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,46,"Jaquez Jr., Jaime",1631170,0.073,2.0,0.19,0.22,0.68,0.32,0.08,0.18,0.462,0.14,0.5,0.27
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,31,"Jović, Nikola",1631107,0.049,1.35,0.14,0.16,0.43,0.375,0.07,0.11,0.625,0.09,0.32,0.292
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,8,"Smith, Dru",1630696,0.009,0.24,0.05,0.05,0.14,0.4,0.01,0.03,0.5,0.04,0.11,0.375
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,20,"Mitchell, Davion",1630558,0.049,1.35,0.23,0.24,0.39,0.621,0.05,0.07,0.8,0.19,0.32,0.583
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,1,"Christopher, Josh",1630528,0.001,0.04,0.01,0.01,0.01,1.0,0.0,0.0,,0.01,0.01,1.0
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,61,"Herro, Tyler",1629639,0.159,4.36,0.53,0.57,1.36,0.416,0.15,0.26,0.579,0.42,1.11,0.378
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,51,"Highsmith, Haywood",1629312,0.064,1.76,0.2,0.23,0.54,0.425,0.07,0.11,0.625,0.16,0.43,0.375
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,4,"Bryant, Thomas",1628418,0.003,0.09,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,67,"Adebayo, Bam",1628389,0.254,6.96,0.88,1.03,2.26,0.455,0.35,0.72,0.491,0.68,1.54,0.439
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,7,"Richardson, Josh",1626196,0.011,0.3,0.0,0.0,0.07,0.0,0.0,0.01,0.0,0.0,0.05,0.0
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,49,"Rozier, Terry",1626179,0.099,2.7,0.31,0.43,0.95,0.457,0.14,0.27,0.5,0.3,0.68,0.44
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,11,"Wiggins, Andrew",203952,0.014,0.38,0.01,0.01,0.12,0.111,0.0,0.01,0.0,0.01,0.11,0.125
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,17,"Anderson, Kyle",203937,0.041,1.14,0.16,0.18,0.36,0.481,0.07,0.15,0.455,0.11,0.22,0.5
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,23,"Butler III, Jimmy",202710,0.067,1.85,0.34,0.35,0.85,0.413,0.14,0.27,0.5,0.22,0.58,0.372
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,20,"Burks, Alec",202692,0.025,0.69,0.08,0.08,0.18,0.462,0.03,0.04,0.667,0.05,0.14,0.4
+1629130,"Robinson, Duncan",Miami Heat,1610612748,MIA,received,8,"Love, Kevin",201567,0.009,0.24,0.0,0.0,0.09,0.0,0.0,0.03,0.0,0.0,0.07,0.0

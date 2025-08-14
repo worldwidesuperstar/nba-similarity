@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1626156,"Russell, D'Angelo",Brooklyn Nets,1610612751,BKN,received,13,"Evbuomwan, Tosan",1641787,0.041,1.05,0.05,0.09,0.29,0.294,0.0,0.05,0.0,0.09,0.24,0.357
+1626156,"Russell, D'Angelo",Brooklyn Nets,1610612751,BKN,received,1,"Beekman, Reece",1641736,0.001,0.02,0.02,0.02,0.02,1.0,0.02,0.02,1.0,0.0,0.0,
+1626156,"Russell, D'Angelo",Brooklyn Nets,1610612751,BKN,received,13,"Clowney, Noah",1641730,0.058,1.5,0.03,0.09,0.36,0.238,0.02,0.12,0.143,0.07,0.24,0.286
+1626156,"Russell, D'Angelo",Brooklyn Nets,1610612751,BKN,received,3,"Whitehead, Dariq",1641727,0.005,0.14,0.02,0.02,0.03,0.5,0.0,0.0,,0.02,0.03,0.5
+1626156,"Russell, D'Angelo",Brooklyn Nets,1610612751,BKN,received,4,"Lewis, Maxwell",1641721,0.006,0.16,0.02,0.02,0.05,0.333,0.0,0.02,0.0,0.02,0.03,0.5
+1626156,"Russell, D'Angelo",Brooklyn Nets,1610612751,BKN,received,16,"Martin, Tyrese",1631213,0.047,1.21,0.05,0.1,0.28,0.375,0.05,0.16,0.333,0.05,0.12,0.429
+1626156,"Russell, D'Angelo",Brooklyn Nets,1610612751,BKN,received,2,"Timme, Drew",1631166,0.005,0.14,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1626156,"Russell, D'Angelo",Brooklyn Nets,1610612751,BKN,received,27,"Wilson, Jalen",1630592,0.092,2.36,0.07,0.09,0.5,0.172,0.02,0.24,0.071,0.07,0.26,0.267
+1626156,"Russell, D'Angelo",Brooklyn Nets,1610612751,BKN,received,15,"Watford, Trendon",1630570,0.06,1.53,0.03,0.09,0.22,0.385,0.03,0.07,0.5,0.05,0.16,0.333
+1626156,"Russell, D'Angelo",Brooklyn Nets,1610612751,BKN,received,5,"Thomas, Cam",1630560,0.029,0.74,0.07,0.1,0.28,0.375,0.05,0.09,0.6,0.05,0.19,0.273
+1626156,"Russell, D'Angelo",Brooklyn Nets,1610612751,BKN,received,29,"Johnson, Keon",1630553,0.138,3.53,0.14,0.24,0.83,0.292,0.12,0.36,0.333,0.12,0.47,0.259
+1626156,"Russell, D'Angelo",Brooklyn Nets,1610612751,BKN,received,23,"Sharpe, Day'Ron",1630549,0.083,2.14,0.1,0.22,0.62,0.361,0.17,0.36,0.476,0.05,0.26,0.2
+1626156,"Russell, D'Angelo",Brooklyn Nets,1610612751,BKN,received,26,"Williams, Ziaire",1630533,0.094,2.41,0.05,0.17,0.41,0.417,0.09,0.16,0.556,0.09,0.26,0.333
+1626156,"Russell, D'Angelo",Brooklyn Nets,1610612751,BKN,received,16,"Johnson, Cameron",1629661,0.081,2.07,0.09,0.17,0.48,0.357,0.05,0.17,0.3,0.12,0.31,0.389
+1626156,"Russell, D'Angelo",Brooklyn Nets,1610612751,BKN,received,27,"Claxton, Nic",1629651,0.247,6.34,0.24,0.48,1.45,0.333,0.33,0.78,0.422,0.16,0.67,0.231
+1626156,"Russell, D'Angelo",Brooklyn Nets,1610612751,BKN,received,4,"Simmons, Ben",1627732,0.013,0.33,0.05,0.07,0.09,0.8,0.05,0.05,1.0,0.02,0.03,0.5

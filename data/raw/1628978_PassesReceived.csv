@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1628978,"DiVincenzo, Donte",Minnesota Timberwolves,1610612750,MIN,received,10,"Dillingham, Rob",1642265,0.017,0.6,0.02,0.06,0.23,0.286,0.03,0.08,0.4,0.03,0.15,0.222
+1628978,"DiVincenzo, Donte",Minnesota Timberwolves,1610612750,MIN,received,14,"Clark, Jaylen",1641740,0.01,0.35,0.06,0.08,0.13,0.625,0.0,0.0,,0.08,0.13,0.625
+1628978,"DiVincenzo, Donte",Minnesota Timberwolves,1610612750,MIN,received,10,"Minott, Josh",1631169,0.009,0.32,0.06,0.06,0.11,0.571,0.02,0.03,0.5,0.05,0.08,0.6
+1628978,"DiVincenzo, Donte",Minnesota Timberwolves,1610612750,MIN,received,4,"Garza, Luka",1630568,0.004,0.15,0.03,0.05,0.06,0.75,0.02,0.02,1.0,0.03,0.05,0.667
+1628978,"DiVincenzo, Donte",Minnesota Timberwolves,1610612750,MIN,received,4,"Shannon Jr., Terrence",1630545,0.003,0.1,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1628978,"DiVincenzo, Donte",Minnesota Timberwolves,1610612750,MIN,received,55,"McDaniels, Jaden",1630183,0.086,3.06,0.26,0.29,0.66,0.439,0.1,0.19,0.5,0.19,0.47,0.414
+1628978,"DiVincenzo, Donte",Minnesota Timberwolves,1610612750,MIN,received,60,"Edwards, Anthony",1630162,0.166,5.92,0.58,0.66,1.6,0.414,0.19,0.45,0.429,0.47,1.15,0.408
+1628978,"DiVincenzo, Donte",Minnesota Timberwolves,1610612750,MIN,received,61,"Reid, Naz",1629675,0.182,6.48,0.34,0.55,1.21,0.453,0.15,0.31,0.474,0.4,0.9,0.446
+1628978,"DiVincenzo, Donte",Minnesota Timberwolves,1610612750,MIN,received,61,"Alexander-Walker, Nickeil",1629638,0.173,6.18,0.47,0.6,1.56,0.381,0.19,0.45,0.429,0.4,1.11,0.362
+1628978,"DiVincenzo, Donte",Minnesota Timberwolves,1610612750,MIN,received,1,"Dozier, PJ",1628408,0.0,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1628978,"DiVincenzo, Donte",Minnesota Timberwolves,1610612750,MIN,received,3,"Ingles, Joe",204060,0.002,0.06,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1628978,"DiVincenzo, Donte",Minnesota Timberwolves,1610612750,MIN,received,59,"Randle, Julius",203944,0.152,5.44,0.71,0.73,1.94,0.375,0.06,0.35,0.182,0.66,1.58,0.418
+1628978,"DiVincenzo, Donte",Minnesota Timberwolves,1610612750,MIN,received,54,"Gobert, Rudy",203497,0.108,3.85,0.18,0.29,0.77,0.375,0.13,0.21,0.615,0.16,0.56,0.286
+1628978,"DiVincenzo, Donte",Minnesota Timberwolves,1610612750,MIN,received,49,"Conley, Mike",201144,0.088,3.13,0.4,0.44,0.95,0.458,0.18,0.32,0.55,0.26,0.63,0.41

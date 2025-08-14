@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629645,"Porter Jr., Kevin",Milwaukee Bucks,1610612749,MIL,received,1,"Livingston, Chris",1641753,0.002,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629645,"Porter Jr., Kevin",Milwaukee Bucks,1610612749,MIL,received,5,"Jackson Jr., Andre",1641748,0.021,0.28,0.01,0.05,0.08,0.667,0.05,0.07,0.8,0.0,0.01,0.0
+1629645,"Porter Jr., Kevin",Milwaukee Bucks,1610612749,MIL,received,26,"Green, AJ",1631260,0.163,2.15,0.0,0.13,0.39,0.345,0.09,0.25,0.368,0.04,0.13,0.3
+1629645,"Porter Jr., Kevin",Milwaukee Bucks,1610612749,MIL,received,1,"Nance, Pete",1631250,0.002,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629645,"Porter Jr., Kevin",Milwaukee Bucks,1610612749,MIL,received,5,"Rollins, Ryan",1631157,0.019,0.25,0.01,0.03,0.09,0.286,0.03,0.07,0.4,0.0,0.03,0.0
+1629645,"Porter Jr., Kevin",Milwaukee Bucks,1610612749,MIL,received,1,"Bouyea, Jamaree",1631123,0.001,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629645,"Porter Jr., Kevin",Milwaukee Bucks,1610612749,MIL,received,14,"Sims, Jericho",1630579,0.085,1.12,0.0,0.12,0.24,0.5,0.08,0.16,0.5,0.04,0.08,0.5
+1629645,"Porter Jr., Kevin",Milwaukee Bucks,1610612749,MIL,received,27,"Trent Jr., Gary",1629018,0.083,1.09,0.05,0.12,0.31,0.391,0.11,0.24,0.444,0.01,0.07,0.2
+1629645,"Porter Jr., Kevin",Milwaukee Bucks,1610612749,MIL,received,28,"Kuzma, Kyle",1628398,0.138,1.81,0.08,0.16,0.48,0.333,0.13,0.39,0.345,0.03,0.09,0.286
+1629645,"Porter Jr., Kevin",Milwaukee Bucks,1610612749,MIL,received,24,"Prince, Taurean",1627752,0.093,1.23,0.03,0.15,0.36,0.407,0.12,0.24,0.5,0.03,0.12,0.222
+1629645,"Porter Jr., Kevin",Milwaukee Bucks,1610612749,MIL,received,7,"Connaughton, Pat",1626192,0.034,0.44,0.0,0.03,0.04,0.667,0.03,0.04,0.667,0.0,0.0,
+1629645,"Porter Jr., Kevin",Milwaukee Bucks,1610612749,MIL,received,5,"Portis, Bobby",1626171,0.047,0.61,0.0,0.07,0.13,0.5,0.04,0.09,0.429,0.03,0.04,0.667
+1629645,"Porter Jr., Kevin",Milwaukee Bucks,1610612749,MIL,received,25,"Antetokounmpo, Giannis",203507,0.169,2.21,0.17,0.25,0.51,0.5,0.12,0.28,0.429,0.13,0.23,0.588
+1629645,"Porter Jr., Kevin",Milwaukee Bucks,1610612749,MIL,received,9,"Lillard, Damian",203081,0.018,0.24,0.04,0.05,0.11,0.5,0.04,0.04,1.0,0.01,0.07,0.2
+1629645,"Porter Jr., Kevin",Milwaukee Bucks,1610612749,MIL,received,23,"Lopez, Brook",201572,0.124,1.63,0.08,0.21,0.45,0.471,0.16,0.31,0.522,0.05,0.15,0.364

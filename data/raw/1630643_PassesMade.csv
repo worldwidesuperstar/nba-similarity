@@ -1,0 +1,20 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,11,"Kawamura, Yuki",1642530,0.034,0.33,0.02,0.03,0.03,1.0,0.0,0.0,,0.03,0.03,1.0
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,20,"Wells, Jaylen",1642377,0.052,0.5,0.08,0.09,0.19,0.5,0.05,0.09,0.5,0.05,0.09,0.5
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,11,"Spencer, Cam",1642285,0.035,0.34,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,3,"Edey, Zach",1641744,0.005,0.05,0.02,0.02,0.03,0.5,0.02,0.03,0.5,0.0,0.0,
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,7,"Jackson, GG",1641713,0.016,0.16,0.0,0.02,0.05,0.333,0.02,0.05,0.333,0.0,0.0,
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,8,"Williams Jr., Vince",1631246,0.039,0.38,0.0,0.0,0.09,0.0,0.0,0.03,0.0,0.0,0.06,0.0
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,31,"LaRavia, Jake",1631222,0.11,1.06,0.13,0.14,0.28,0.5,0.09,0.19,0.5,0.05,0.09,0.5
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,2,"Castleton, Colin",1630658,0.006,0.06,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,43,"Pippen Jr., Scotty",1630590,0.189,1.83,0.05,0.08,0.31,0.25,0.06,0.22,0.286,0.02,0.09,0.167
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,26,"Aldama, Santi",1630583,0.116,1.13,0.11,0.14,0.38,0.375,0.05,0.16,0.3,0.09,0.22,0.429
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,32,"Bane, Desmond",1630217,0.119,1.16,0.09,0.23,0.42,0.556,0.19,0.28,0.667,0.05,0.14,0.333
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,2,"Stevens, Lamar",1630205,0.013,0.13,0.03,0.05,0.08,0.6,0.05,0.08,0.6,0.0,0.0,
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,9,"Konchar, John",1629723,0.021,0.2,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,5,"Clarke, Brandon",1629634,0.011,0.11,0.0,0.0,0.03,0.0,0.0,0.02,0.0,0.0,0.02,0.0
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,17,"Morant, Ja",1629630,0.063,0.61,0.0,0.05,0.16,0.3,0.05,0.14,0.333,0.0,0.02,0.0
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,16,"Jackson Jr., Jaren",1628991,0.039,0.38,0.02,0.05,0.11,0.429,0.05,0.11,0.429,0.0,0.0,
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,1,"Bagley III, Marvin",1628963,0.005,0.05,0.02,0.03,0.03,1.0,0.03,0.03,1.0,0.0,0.0,
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,21,"Kennard, Luke",1628379,0.079,0.77,0.03,0.05,0.17,0.273,0.0,0.0,,0.05,0.17,0.273
+1630643,"Huff, Jay",Memphis Grizzlies,1610612763,MEM,made,13,"Smart, Marcus",203935,0.048,0.47,0.02,0.03,0.08,0.4,0.02,0.03,0.5,0.02,0.05,0.333

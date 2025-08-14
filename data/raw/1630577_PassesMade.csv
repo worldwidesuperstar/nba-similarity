@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630577,"Champagnie, Julian",San Antonio Spurs,1610612759,SAS,made,75,"Castle, Stephon",1642264,0.196,4.4,0.1,0.3,0.91,0.333,0.28,0.67,0.418,0.02,0.24,0.1
+1630577,"Champagnie, Julian",San Antonio Spurs,1610612759,SAS,made,38,"Wembanyama, Victor",1641705,0.084,1.89,0.17,0.26,0.6,0.429,0.21,0.41,0.5,0.05,0.18,0.267
+1630577,"Champagnie, Julian",San Antonio Spurs,1610612759,SAS,made,35,"Sochan, Jeremy",1631110,0.052,1.17,0.17,0.21,0.32,0.654,0.18,0.28,0.652,0.02,0.04,0.667
+1630577,"Champagnie, Julian",San Antonio Spurs,1610612759,SAS,made,33,"Wesley, Blake",1631104,0.067,1.5,0.07,0.09,0.27,0.318,0.07,0.23,0.316,0.01,0.04,0.333
+1630577,"Champagnie, Julian",San Antonio Spurs,1610612759,SAS,made,19,"Branham, Malaki",1631103,0.027,0.61,0.02,0.05,0.17,0.286,0.04,0.12,0.3,0.01,0.05,0.25
+1630577,"Champagnie, Julian",San Antonio Spurs,1610612759,SAS,made,27,"Mamukelashvili, Sandro",1630572,0.028,0.62,0.13,0.15,0.26,0.571,0.09,0.15,0.583,0.06,0.11,0.556
+1630577,"Champagnie, Julian",San Antonio Spurs,1610612759,SAS,made,27,"Jones, Tre",1630200,0.069,1.54,0.05,0.11,0.2,0.563,0.09,0.13,0.636,0.02,0.06,0.4
+1630577,"Champagnie, Julian",San Antonio Spurs,1610612759,SAS,made,45,"Vassell, Devin",1630170,0.058,1.29,0.05,0.2,0.41,0.471,0.15,0.28,0.522,0.05,0.13,0.364
+1630577,"Champagnie, Julian",San Antonio Spurs,1610612759,SAS,made,10,"Bassey, Charles",1629646,0.01,0.23,0.02,0.02,0.1,0.25,0.02,0.1,0.25,0.0,0.0,
+1630577,"Champagnie, Julian",San Antonio Spurs,1610612759,SAS,made,64,"Johnson, Keldon",1629640,0.095,2.13,0.28,0.4,0.82,0.493,0.29,0.55,0.533,0.11,0.27,0.409
+1630577,"Champagnie, Julian",San Antonio Spurs,1610612759,SAS,made,3,"McLaughlin, Jordan",1629162,0.005,0.12,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1630577,"Champagnie, Julian",San Antonio Spurs,1610612759,SAS,made,16,"Collins, Zach",1628380,0.015,0.34,0.06,0.06,0.1,0.625,0.05,0.07,0.667,0.01,0.02,0.5
+1630577,"Champagnie, Julian",San Antonio Spurs,1610612759,SAS,made,17,"Fox, De'Aaron",1628368,0.024,0.55,0.02,0.11,0.17,0.643,0.11,0.17,0.643,0.0,0.0,
+1630577,"Champagnie, Julian",San Antonio Spurs,1610612759,SAS,made,49,"Barnes, Harrison",203084,0.052,1.17,0.11,0.18,0.38,0.484,0.15,0.28,0.522,0.04,0.1,0.375
+1630577,"Champagnie, Julian",San Antonio Spurs,1610612759,SAS,made,12,"Biyombo, Bismack",202687,0.008,0.18,0.04,0.04,0.06,0.6,0.04,0.06,0.6,0.0,0.0,
+1630577,"Champagnie, Julian",San Antonio Spurs,1610612759,SAS,made,68,"Paul, Chris",101108,0.208,4.66,0.05,0.24,0.57,0.426,0.11,0.23,0.474,0.13,0.34,0.393

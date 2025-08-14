@@ -1,0 +1,14 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,received,2,"Peterson, Drew",1641809,0.001,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,received,1,"Walsh, Jordan",1641775,0.002,0.05,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,received,1,"Scheierman, Baylor",1631248,0.001,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,received,21,"Hauser, Sam",1630573,0.034,0.77,0.1,0.1,0.22,0.462,0.07,0.1,0.667,0.03,0.12,0.286
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,received,3,"Tillman, Xavier",1630214,0.003,0.07,0.02,0.02,0.03,0.5,0.0,0.0,,0.02,0.03,0.5
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,received,53,"Pritchard, Payton",1630202,0.159,3.55,0.4,0.45,1.15,0.391,0.27,0.48,0.552,0.18,0.67,0.275
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,received,6,"Queta, Neemias",1629674,0.01,0.22,0.0,0.0,0.07,0.0,0.0,0.03,0.0,0.0,0.03,0.0
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,received,21,"Kornet, Luke",1628436,0.028,0.63,0.15,0.15,0.23,0.643,0.1,0.1,1.0,0.05,0.13,0.375
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,received,53,"White, Derrick",1628401,0.235,5.25,0.33,0.33,1.07,0.313,0.13,0.33,0.4,0.2,0.73,0.273
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,received,52,"Tatum, Jayson",1628369,0.244,5.45,0.85,0.9,2.22,0.406,0.32,0.6,0.528,0.58,1.62,0.361
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,received,40,"Brown, Jaylen",1627759,0.138,3.08,0.55,0.55,1.1,0.5,0.18,0.33,0.55,0.37,0.77,0.478
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,received,17,"Porziņģis, Kristaps",204001,0.03,0.67,0.17,0.17,0.28,0.588,0.03,0.05,0.667,0.13,0.23,0.571
+201143,"Horford, Al",Boston Celtics,1610612738,BOS,received,37,"Holiday, Jrue",201950,0.113,2.53,0.38,0.38,1.03,0.371,0.12,0.27,0.438,0.27,0.77,0.348

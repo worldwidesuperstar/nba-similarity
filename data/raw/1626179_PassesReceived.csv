@@ -1,0 +1,21 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,7,"Johnson, Keshad",1642352,0.009,0.33,0.02,0.02,0.06,0.25,0.02,0.03,0.5,0.0,0.03,0.0
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,30,"Ware, Kel'el",1642276,0.048,1.81,0.06,0.16,0.41,0.385,0.13,0.33,0.381,0.03,0.08,0.4
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,1,"Stevens, Isaiah",1641815,0.0,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,26,"Larsson, Pelle",1641796,0.034,1.3,0.08,0.14,0.36,0.391,0.06,0.13,0.5,0.08,0.23,0.333
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,49,"Jaquez Jr., Jaime",1631170,0.137,5.19,0.39,0.47,1.06,0.441,0.27,0.45,0.586,0.2,0.61,0.333
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,38,"Jović, Nikola",1631107,0.106,4.02,0.23,0.36,1.09,0.329,0.14,0.48,0.29,0.22,0.61,0.359
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,9,"Smith, Dru",1630696,0.015,0.58,0.02,0.05,0.16,0.3,0.03,0.05,0.667,0.02,0.11,0.143
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,8,"Mitchell, Davion",1630558,0.012,0.47,0.02,0.02,0.09,0.167,0.02,0.06,0.25,0.0,0.03,0.0
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,4,"Christopher, Josh",1630528,0.005,0.17,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,52,"Herro, Tyler",1629639,0.154,5.83,0.45,0.64,1.77,0.363,0.33,0.72,0.457,0.31,1.05,0.299
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,45,"Highsmith, Haywood",1629312,0.073,2.75,0.09,0.19,0.66,0.286,0.14,0.34,0.409,0.05,0.31,0.15
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,49,"Robinson, Duncan",1629130,0.064,2.44,0.06,0.19,0.73,0.255,0.14,0.34,0.409,0.05,0.39,0.12
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,6,"Bryant, Thomas",1628418,0.008,0.3,0.02,0.02,0.06,0.25,0.02,0.06,0.25,0.0,0.0,
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,60,"Adebayo, Bam",1628389,0.177,6.72,0.48,0.63,1.69,0.37,0.45,1.08,0.42,0.17,0.61,0.282
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,5,"Richardson, Josh",1626196,0.004,0.14,0.0,0.0,0.05,0.0,0.0,0.03,0.0,0.0,0.02,0.0
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,6,"Wiggins, Andrew",203952,0.008,0.3,0.02,0.02,0.08,0.2,0.0,0.03,0.0,0.02,0.05,0.333
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,13,"Anderson, Kyle",203937,0.031,1.19,0.05,0.13,0.25,0.5,0.06,0.13,0.5,0.06,0.13,0.5
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,20,"Butler III, Jimmy",202710,0.045,1.69,0.19,0.23,0.52,0.455,0.08,0.16,0.5,0.16,0.36,0.435
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,25,"Burks, Alec",202692,0.042,1.61,0.05,0.08,0.27,0.294,0.06,0.17,0.364,0.02,0.09,0.167
+1626179,"Rozier, Terry",Miami Heat,1610612748,MIA,received,15,"Love, Kevin",201567,0.028,1.08,0.05,0.11,0.27,0.412,0.09,0.16,0.6,0.02,0.11,0.143

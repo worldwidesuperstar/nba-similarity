@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1627736,"Beasley, Malik",Detroit Pistons,1610612765,DET,made,1,"Jenkins, Daniss",1642450,0.002,0.04,0.0,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1627736,"Beasley, Malik",Detroit Pistons,1610612765,DET,made,49,"Holland II, Ronald",1641842,0.042,0.87,0.12,0.16,0.39,0.406,0.1,0.27,0.364,0.06,0.12,0.5
+1627736,"Beasley, Malik",Detroit Pistons,1610612765,DET,made,1,"Klintman, Bobi",1641752,0.001,0.01,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1627736,"Beasley, Malik",Detroit Pistons,1610612765,DET,made,33,"Thompson, Ausar",1641709,0.037,0.77,0.07,0.13,0.27,0.5,0.13,0.27,0.5,0.0,0.0,
+1627736,"Beasley, Malik",Detroit Pistons,1610612765,DET,made,41,"Fontecchio, Simone",1631323,0.04,0.84,0.12,0.13,0.39,0.344,0.06,0.15,0.417,0.07,0.24,0.3
+1627736,"Beasley, Malik",Detroit Pistons,1610612765,DET,made,42,"Sasser, Marcus",1631204,0.077,1.6,0.12,0.23,0.44,0.528,0.11,0.27,0.409,0.12,0.17,0.714
+1627736,"Beasley, Malik",Detroit Pistons,1610612765,DET,made,2,"Moore Jr., Wendell",1631111,0.002,0.05,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1627736,"Beasley, Malik",Detroit Pistons,1610612765,DET,made,61,"Duren, Jalen",1631105,0.091,1.9,0.21,0.26,0.46,0.553,0.26,0.46,0.553,0.0,0.0,
+1627736,"Beasley, Malik",Detroit Pistons,1610612765,DET,made,29,"Ivey, Jaden",1631093,0.08,1.67,0.09,0.21,0.5,0.415,0.16,0.33,0.481,0.05,0.17,0.286
+1627736,"Beasley, Malik",Detroit Pistons,1610612765,DET,made,70,"Cunningham, Cade",1630595,0.262,5.45,0.18,0.66,1.59,0.415,0.46,1.02,0.452,0.2,0.56,0.348
+1627736,"Beasley, Malik",Detroit Pistons,1610612765,DET,made,2,"Waters III, Lindy",1630322,0.001,0.02,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+1627736,"Beasley, Malik",Detroit Pistons,1610612765,DET,made,21,"Reed, Paul",1630194,0.029,0.61,0.09,0.09,0.18,0.467,0.09,0.16,0.538,0.0,0.02,0.0
+1627736,"Beasley, Malik",Detroit Pistons,1610612765,DET,made,68,"Stewart, Isaiah",1630191,0.116,2.41,0.28,0.32,0.61,0.52,0.28,0.49,0.575,0.04,0.12,0.3
+1627736,"Beasley, Malik",Detroit Pistons,1610612765,DET,made,46,"Hardaway Jr., Tim",203501,0.049,1.02,0.1,0.11,0.35,0.31,0.02,0.09,0.286,0.09,0.27,0.318
+1627736,"Beasley, Malik",Detroit Pistons,1610612765,DET,made,28,"Schröder, Dennis",203471,0.1,2.09,0.09,0.13,0.5,0.268,0.06,0.26,0.238,0.07,0.24,0.3
+1627736,"Beasley, Malik",Detroit Pistons,1610612765,DET,made,64,"Harris, Tobias",202699,0.07,1.46,0.21,0.32,0.62,0.51,0.21,0.38,0.548,0.11,0.24,0.45

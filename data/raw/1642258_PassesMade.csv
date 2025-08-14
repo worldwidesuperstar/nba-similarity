@@ -1,0 +1,19 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1642258,"Risacher, Zaccharie",Atlanta Hawks,1610612737,ATL,made,7,"Bufkin, Kobe",1641723,0.009,0.17,0.03,0.04,0.07,0.6,0.04,0.05,0.75,0.0,0.01,0.0
+1642258,"Risacher, Zaccharie",Atlanta Hawks,1610612737,ATL,made,18,"Gueye, Mouhamed",1631243,0.021,0.4,0.05,0.05,0.12,0.444,0.03,0.03,1.0,0.03,0.09,0.286
+1642258,"Risacher, Zaccharie",Atlanta Hawks,1610612737,ATL,made,7,"Barlow, Dominick",1631230,0.006,0.11,0.01,0.01,0.03,0.5,0.01,0.03,0.5,0.0,0.0,
+1642258,"Risacher, Zaccharie",Atlanta Hawks,1610612737,ATL,made,10,"Roddy, David",1631223,0.012,0.23,0.04,0.04,0.11,0.375,0.03,0.04,0.667,0.01,0.07,0.2
+1642258,"Risacher, Zaccharie",Atlanta Hawks,1610612737,ATL,made,23,"Wallace, Keaton",1630811,0.05,0.97,0.03,0.05,0.11,0.5,0.03,0.03,1.0,0.03,0.08,0.333
+1642258,"Risacher, Zaccharie",Atlanta Hawks,1610612737,ATL,made,66,"Daniels, Dyson",1630700,0.199,3.87,0.19,0.32,0.77,0.414,0.23,0.53,0.425,0.09,0.24,0.389
+1642258,"Risacher, Zaccharie",Atlanta Hawks,1610612737,ATL,made,31,"Johnson, Jalen",1630552,0.069,1.33,0.12,0.21,0.48,0.444,0.13,0.28,0.476,0.08,0.2,0.4
+1642258,"Risacher, Zaccharie",Atlanta Hawks,1610612737,ATL,made,28,"Krejčí, Vít",1630249,0.061,1.17,0.07,0.07,0.23,0.294,0.01,0.07,0.2,0.05,0.16,0.333
+1642258,"Risacher, Zaccharie",Atlanta Hawks,1610612737,ATL,made,40,"Okongwu, Onyeka",1630168,0.054,1.05,0.16,0.16,0.35,0.462,0.08,0.23,0.353,0.08,0.12,0.667
+1642258,"Risacher, Zaccharie",Atlanta Hawks,1610612737,ATL,made,14,"Mathews, Garrison",1629726,0.014,0.28,0.05,0.05,0.13,0.4,0.0,0.01,0.0,0.05,0.12,0.444
+1642258,"Risacher, Zaccharie",Atlanta Hawks,1610612737,ATL,made,14,"Hunter, De'Andre",1629631,0.014,0.27,0.05,0.08,0.15,0.545,0.04,0.08,0.5,0.04,0.07,0.6
+1642258,"Risacher, Zaccharie",Atlanta Hawks,1610612737,ATL,made,17,"Mann, Terance",1629611,0.023,0.45,0.05,0.09,0.2,0.467,0.07,0.11,0.625,0.03,0.09,0.286
+1642258,"Risacher, Zaccharie",Atlanta Hawks,1610612737,ATL,made,70,"Young, Trae",1629027,0.389,7.53,0.12,0.56,1.76,0.318,0.35,0.95,0.366,0.21,0.81,0.262
+1642258,"Risacher, Zaccharie",Atlanta Hawks,1610612737,ATL,made,9,"Niang, Georges",1627777,0.008,0.15,0.04,0.04,0.08,0.5,0.0,0.0,,0.04,0.08,0.5
+1642258,"Risacher, Zaccharie",Atlanta Hawks,1610612737,ATL,made,17,"LeVert, Caris",1627747,0.023,0.44,0.04,0.11,0.13,0.8,0.08,0.09,0.857,0.03,0.04,0.667
+1642258,"Risacher, Zaccharie",Atlanta Hawks,1610612737,ATL,made,8,"Nance Jr., Larry",1626204,0.011,0.21,0.05,0.05,0.07,0.8,0.03,0.03,1.0,0.03,0.04,0.667
+1642258,"Risacher, Zaccharie",Atlanta Hawks,1610612737,ATL,made,10,"Bogdanović, Bogdan",203992,0.01,0.2,0.03,0.03,0.05,0.5,0.0,0.01,0.0,0.03,0.04,0.667
+1642258,"Risacher, Zaccharie",Atlanta Hawks,1610612737,ATL,made,31,"Capela, Clint",203991,0.028,0.55,0.08,0.08,0.17,0.462,0.08,0.17,0.462,0.0,0.0,

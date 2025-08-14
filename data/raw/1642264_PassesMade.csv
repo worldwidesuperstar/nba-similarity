@@ -1,0 +1,19 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1642264,"Castle, Stephon",San Antonio Spurs,1610612759,SAS,made,45,"Wembanyama, Victor",1641705,0.09,3.36,0.44,0.57,1.27,0.447,0.4,0.79,0.5,0.17,0.48,0.359
+1642264,"Castle, Stephon",San Antonio Spurs,1610612759,SAS,made,2,"Cissoko, Sidy",1631321,0.001,0.04,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642264,"Castle, Stephon",San Antonio Spurs,1610612759,SAS,made,1,"Ingram, Harrison",1631127,0.0,0.01,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1642264,"Castle, Stephon",San Antonio Spurs,1610612759,SAS,made,43,"Sochan, Jeremy",1631110,0.064,2.37,0.3,0.33,0.78,0.429,0.32,0.6,0.531,0.01,0.17,0.071
+1642264,"Castle, Stephon",San Antonio Spurs,1610612759,SAS,made,35,"Wesley, Blake",1631104,0.035,1.32,0.11,0.12,0.46,0.27,0.06,0.23,0.263,0.06,0.22,0.278
+1642264,"Castle, Stephon",San Antonio Spurs,1610612759,SAS,made,17,"Branham, Malaki",1631103,0.022,0.8,0.11,0.17,0.41,0.424,0.12,0.3,0.417,0.05,0.11,0.444
+1642264,"Castle, Stephon",San Antonio Spurs,1610612759,SAS,made,80,"Champagnie, Julian",1630577,0.094,3.49,0.58,0.58,1.47,0.395,0.11,0.26,0.429,0.47,1.21,0.388
+1642264,"Castle, Stephon",San Antonio Spurs,1610612759,SAS,made,35,"Mamukelashvili, Sandro",1630572,0.04,1.51,0.22,0.22,0.6,0.367,0.11,0.2,0.563,0.11,0.41,0.273
+1642264,"Castle, Stephon",San Antonio Spurs,1610612759,SAS,made,24,"Jones, Tre",1630200,0.028,1.04,0.05,0.05,0.15,0.333,0.02,0.09,0.286,0.02,0.06,0.4
+1642264,"Castle, Stephon",San Antonio Spurs,1610612759,SAS,made,63,"Vassell, Devin",1630170,0.115,4.28,0.43,0.67,1.53,0.435,0.28,0.56,0.511,0.38,0.98,0.392
+1642264,"Castle, Stephon",San Antonio Spurs,1610612759,SAS,made,20,"Bassey, Charles",1629646,0.02,0.74,0.2,0.2,0.36,0.552,0.2,0.36,0.552,0.0,0.0,
+1642264,"Castle, Stephon",San Antonio Spurs,1610612759,SAS,made,69,"Johnson, Keldon",1629640,0.102,3.81,0.62,0.77,1.59,0.481,0.53,0.9,0.589,0.23,0.69,0.339
+1642264,"Castle, Stephon",San Antonio Spurs,1610612759,SAS,made,5,"McLaughlin, Jordan",1629162,0.004,0.16,0.01,0.01,0.04,0.333,0.01,0.01,1.0,0.0,0.02,0.0
+1642264,"Castle, Stephon",San Antonio Spurs,1610612759,SAS,made,26,"Collins, Zach",1628380,0.034,1.27,0.11,0.14,0.3,0.458,0.14,0.22,0.611,0.0,0.07,0.0
+1642264,"Castle, Stephon",San Antonio Spurs,1610612759,SAS,made,17,"Fox, De'Aaron",1628368,0.035,1.31,0.02,0.09,0.35,0.25,0.07,0.25,0.3,0.01,0.1,0.125
+1642264,"Castle, Stephon",San Antonio Spurs,1610612759,SAS,made,67,"Barnes, Harrison",203084,0.106,3.96,0.6,0.68,1.47,0.462,0.36,0.74,0.483,0.32,0.73,0.441
+1642264,"Castle, Stephon",San Antonio Spurs,1610612759,SAS,made,20,"Biyombo, Bismack",202687,0.024,0.9,0.11,0.14,0.35,0.393,0.14,0.35,0.393,0.0,0.0,
+1642264,"Castle, Stephon",San Antonio Spurs,1610612759,SAS,made,74,"Paul, Chris",101108,0.185,6.9,0.16,0.33,0.69,0.482,0.1,0.19,0.533,0.23,0.51,0.463

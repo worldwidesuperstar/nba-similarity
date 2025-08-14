@@ -1,0 +1,25 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,21,"Simpson, KJ",1642354,0.066,1.29,0.06,0.07,0.35,0.208,0.04,0.13,0.333,0.03,0.22,0.133
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,25,"Salaün, Tidjane",1642275,0.034,0.66,0.06,0.06,0.25,0.235,0.03,0.09,0.333,0.03,0.16,0.182
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,9,"Baugh, Damion",1641878,0.035,0.68,0.1,0.12,0.21,0.571,0.07,0.13,0.556,0.04,0.07,0.6
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,32,"Smith Jr., Nick",1641733,0.073,1.43,0.12,0.12,0.35,0.333,0.03,0.12,0.25,0.09,0.24,0.375
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,24,"Miller, Brandon",1641706,0.07,1.37,0.16,0.18,0.4,0.444,0.07,0.21,0.357,0.1,0.19,0.538
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,28,"Diabaté, Moussa",1631217,0.036,0.71,0.07,0.07,0.24,0.313,0.01,0.07,0.2,0.06,0.16,0.364
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,11,"Wong, Isaiah",1631209,0.016,0.31,0.04,0.06,0.09,0.667,0.06,0.09,0.667,0.0,0.0,
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,6,"Moore Jr., Wendell",1631111,0.006,0.12,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,32,"Williams, Mark",1631109,0.063,1.22,0.22,0.22,0.5,0.441,0.09,0.24,0.375,0.13,0.26,0.5
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,2,"Garrett, Marcus",1630585,0.004,0.07,0.01,0.03,0.04,0.667,0.01,0.01,1.0,0.01,0.03,0.5
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,8,"Mann, Tre",1630544,0.011,0.22,0.03,0.03,0.06,0.5,0.0,0.01,0.0,0.03,0.04,0.667
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,7,"Richards, Nick",1630208,0.012,0.24,0.01,0.01,0.07,0.2,0.0,0.04,0.0,0.01,0.03,0.5
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,2,"Flynn, Malachi",1630201,0.008,0.16,0.0,0.0,0.04,0.0,0.0,0.0,,0.0,0.04,0.0
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,40,"Ball, LaMelo",1630163,0.17,3.31,0.38,0.41,0.96,0.431,0.15,0.32,0.455,0.26,0.63,0.419
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,12,"Williams, Grant",1629684,0.014,0.26,0.06,0.06,0.1,0.571,0.01,0.03,0.5,0.04,0.07,0.6
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,19,"Jeffries, DaQuan",1629610,0.03,0.59,0.03,0.04,0.19,0.231,0.04,0.12,0.375,0.0,0.07,0.0
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,4,"Okogie, Josh",1629006,0.004,0.07,0.01,0.01,0.04,0.333,0.0,0.01,0.0,0.01,0.03,0.5
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,19,"Martin, Cody",1628998,0.029,0.56,0.04,0.07,0.22,0.333,0.03,0.09,0.333,0.04,0.13,0.333
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,53,"Bridges, Miles",1628970,0.127,2.49,0.31,0.32,0.88,0.367,0.07,0.22,0.333,0.25,0.66,0.378
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,26,"Micic, Vasilije",203995,0.111,2.16,0.22,0.25,0.62,0.405,0.13,0.29,0.45,0.12,0.32,0.364
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,12,"Nurkić, Jusuf",203994,0.026,0.5,0.04,0.06,0.19,0.308,0.04,0.13,0.333,0.01,0.06,0.25
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,4,"Payton, Elfrid",203901,0.015,0.29,0.04,0.04,0.06,0.75,0.03,0.03,1.0,0.01,0.03,0.5
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,23,"Curry, Seth",203552,0.03,0.59,0.06,0.06,0.15,0.4,0.0,0.01,0.0,0.06,0.13,0.444
+1630182,"Green, Josh",Charlotte Hornets,1610612766,CHA,received,8,"Gibson, Taj",201959,0.011,0.22,0.04,0.04,0.07,0.6,0.0,0.01,0.0,0.04,0.06,0.75

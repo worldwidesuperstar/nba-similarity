@@ -1,0 +1,19 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629660,"Jerome, Ty",Cleveland Cavaliers,1610612739,CLE,made,23,"Tyson, Jaylon",1642281,0.026,0.74,0.06,0.06,0.16,0.364,0.03,0.09,0.333,0.03,0.07,0.4
+1629660,"Jerome, Ty",Cleveland Cavaliers,1610612739,CLE,made,21,"Porter Jr., Craig",1641854,0.028,0.79,0.03,0.04,0.17,0.25,0.04,0.14,0.3,0.0,0.03,0.0
+1629660,"Jerome, Ty",Cleveland Cavaliers,1610612739,CLE,made,2,"Bates, Emoni",1641734,0.002,0.06,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+1629660,"Jerome, Ty",Cleveland Cavaliers,1610612739,CLE,made,3,"Travers, Luke",1631247,0.003,0.07,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629660,"Jerome, Ty",Cleveland Cavaliers,1610612739,CLE,made,58,"Mobley, Evan",1630596,0.163,4.59,0.77,0.89,1.73,0.512,0.63,1.21,0.518,0.26,0.51,0.5
+1629660,"Jerome, Ty",Cleveland Cavaliers,1610612739,CLE,made,4,"Thor, JT",1630550,0.004,0.11,0.03,0.04,0.07,0.6,0.03,0.06,0.5,0.01,0.01,1.0
+1629660,"Jerome, Ty",Cleveland Cavaliers,1610612739,CLE,made,49,"Merrill, Sam",1630241,0.08,2.24,0.36,0.36,0.97,0.368,0.04,0.09,0.5,0.31,0.89,0.355
+1629660,"Jerome, Ty",Cleveland Cavaliers,1610612739,CLE,made,31,"Okoro, Isaac",1630171,0.036,1.01,0.21,0.21,0.41,0.517,0.11,0.2,0.571,0.1,0.21,0.467
+1629660,"Jerome, Ty",Cleveland Cavaliers,1610612739,CLE,made,4,"Green, Javonte",1629750,0.005,0.13,0.0,0.0,0.04,0.0,0.0,0.01,0.0,0.0,0.03,0.0
+1629660,"Jerome, Ty",Cleveland Cavaliers,1610612739,CLE,made,42,"Wade, Dean",1629731,0.056,1.59,0.19,0.21,0.53,0.405,0.07,0.13,0.556,0.14,0.4,0.357
+1629660,"Jerome, Ty",Cleveland Cavaliers,1610612739,CLE,made,58,"Garland, Darius",1629636,0.127,3.59,0.26,0.47,1.29,0.367,0.27,0.73,0.373,0.2,0.56,0.359
+1629660,"Jerome, Ty",Cleveland Cavaliers,1610612739,CLE,made,19,"Hunter, De'Andre",1629631,0.041,1.14,0.17,0.21,0.5,0.429,0.13,0.3,0.429,0.09,0.2,0.429
+1629660,"Jerome, Ty",Cleveland Cavaliers,1610612739,CLE,made,27,"Strus, Max",1629622,0.034,0.96,0.14,0.16,0.34,0.458,0.09,0.11,0.75,0.07,0.23,0.313
+1629660,"Jerome, Ty",Cleveland Cavaliers,1610612739,CLE,made,64,"Allen, Jarrett",1628386,0.099,2.8,0.44,0.5,0.89,0.565,0.5,0.87,0.574,0.0,0.01,0.0
+1629660,"Jerome, Ty",Cleveland Cavaliers,1610612739,CLE,made,58,"Mitchell, Donovan",1628378,0.148,4.16,0.3,0.8,2.09,0.384,0.46,1.06,0.432,0.34,1.03,0.333
+1629660,"Jerome, Ty",Cleveland Cavaliers,1610612739,CLE,made,39,"Niang, Georges",1627777,0.079,2.23,0.31,0.36,1.03,0.347,0.19,0.39,0.481,0.17,0.64,0.267
+1629660,"Jerome, Ty",Cleveland Cavaliers,1610612739,CLE,made,23,"LeVert, Caris",1627747,0.038,1.07,0.1,0.2,0.41,0.483,0.16,0.24,0.647,0.04,0.17,0.25
+1629660,"Jerome, Ty",Cleveland Cavaliers,1610612739,CLE,made,21,"Thompson, Tristan",202684,0.031,0.87,0.01,0.03,0.11,0.25,0.03,0.1,0.286,0.0,0.01,0.0

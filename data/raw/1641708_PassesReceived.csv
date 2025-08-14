@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641708,"Thompson, Amen",Houston Rockets,1610612745,HOU,received,34,"Sheppard, Reed",1642263,0.062,2.06,0.07,0.16,0.42,0.379,0.14,0.36,0.4,0.01,0.06,0.25
+1641708,"Thompson, Amen",Houston Rockets,1610612745,HOU,received,24,"Whitmore, Cam",1641715,0.034,1.12,0.07,0.07,0.26,0.278,0.06,0.19,0.308,0.01,0.07,0.2
+1641708,"Thompson, Amen",Houston Rockets,1610612745,HOU,received,1,"Williams, Nate",1631466,0.0,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1641708,"Thompson, Amen",Houston Rockets,1610612745,HOU,received,48,"Eason, Tari",1631106,0.094,3.12,0.23,0.42,0.86,0.492,0.38,0.74,0.51,0.04,0.12,0.375
+1641708,"Thompson, Amen",Houston Rockets,1610612745,HOU,received,39,"Smith Jr., Jabari",1631095,0.066,2.17,0.09,0.17,0.48,0.364,0.14,0.36,0.4,0.03,0.12,0.25
+1641708,"Thompson, Amen",Houston Rockets,1610612745,HOU,received,63,"Sengun, Alperen",1630578,0.166,5.49,0.9,1.22,2.04,0.596,1.17,1.83,0.643,0.04,0.22,0.2
+1641708,"Thompson, Amen",Houston Rockets,1610612745,HOU,received,19,"Tate, Jae'Sean",1630256,0.02,0.65,0.04,0.1,0.19,0.538,0.1,0.17,0.583,0.0,0.01,0.0
+1641708,"Thompson, Amen",Houston Rockets,1610612745,HOU,received,68,"Green, Jalen",1630224,0.187,6.17,0.46,0.65,1.51,0.433,0.62,1.32,0.473,0.03,0.19,0.154
+1641708,"Thompson, Amen",Houston Rockets,1610612745,HOU,received,19,"Landale, Jock",1629111,0.023,0.75,0.09,0.16,0.3,0.524,0.14,0.28,0.526,0.01,0.03,0.5
+1641708,"Thompson, Amen",Houston Rockets,1610612745,HOU,received,33,"Holiday, Aaron",1628988,0.047,1.57,0.13,0.14,0.38,0.385,0.14,0.33,0.435,0.0,0.04,0.0
+1641708,"Thompson, Amen",Houston Rockets,1610612745,HOU,received,54,"Brooks, Dillon",1628415,0.077,2.54,0.22,0.32,0.7,0.458,0.28,0.57,0.487,0.04,0.13,0.333
+1641708,"Thompson, Amen",Houston Rockets,1610612745,HOU,received,51,"VanVleet, Fred",1627832,0.14,4.61,0.57,0.65,1.55,0.421,0.55,1.29,0.427,0.1,0.26,0.389
+1641708,"Thompson, Amen",Houston Rockets,1610612745,HOU,received,44,"Adams, Steven",203500,0.072,2.36,0.2,0.43,0.75,0.577,0.42,0.71,0.592,0.01,0.04,0.333
+1641708,"Thompson, Amen",Houston Rockets,1610612745,HOU,received,15,"Green, Jeff",201145,0.011,0.38,0.03,0.04,0.07,0.6,0.03,0.06,0.5,0.01,0.01,1.0

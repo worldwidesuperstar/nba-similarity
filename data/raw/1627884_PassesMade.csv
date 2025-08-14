@@ -1,0 +1,19 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1627884,"Jones Jr., Derrick",LA Clippers,1610612746,LAC,made,2,"Miller, Jordan",1641757,0.001,0.03,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1627884,"Jones Jr., Derrick",LA Clippers,1610612746,LAC,made,4,"Brown, Kobe",1641738,0.003,0.05,0.0,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1627884,"Jones Jr., Derrick",LA Clippers,1610612746,LAC,made,2,"Jones, Kai",1630539,0.001,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1627884,"Jones Jr., Derrick",LA Clippers,1610612746,LAC,made,2,"Hyland, Bones",1630538,0.006,0.13,0.0,0.01,0.01,1.0,0.0,0.0,,0.01,0.01,1.0
+1627884,"Jones Jr., Derrick",LA Clippers,1610612746,LAC,made,18,"Porter Jr., Kevin",1629645,0.029,0.6,0.04,0.06,0.19,0.333,0.04,0.12,0.333,0.03,0.08,0.333
+1627884,"Jones Jr., Derrick",LA Clippers,1610612746,LAC,made,15,"Mann, Terance",1629611,0.038,0.79,0.01,0.03,0.09,0.286,0.03,0.06,0.4,0.0,0.03,0.0
+1627884,"Jones Jr., Derrick",LA Clippers,1610612746,LAC,made,39,"Coffey, Amir",1629599,0.057,1.18,0.13,0.16,0.35,0.444,0.1,0.19,0.533,0.05,0.16,0.333
+1627884,"Jones Jr., Derrick",LA Clippers,1610612746,LAC,made,5,"Eubanks, Drew",1629234,0.004,0.08,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+1627884,"Jones Jr., Derrick",LA Clippers,1610612746,LAC,made,6,"Bamba, Mo",1628964,0.005,0.1,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0
+1627884,"Jones Jr., Derrick",LA Clippers,1610612746,LAC,made,65,"Zubac, Ivica",1627826,0.114,2.34,0.12,0.19,0.38,0.517,0.19,0.38,0.517,0.0,0.0,
+1627884,"Jones Jr., Derrick",LA Clippers,1610612746,LAC,made,42,"Dunn, Kris",1627739,0.121,2.49,0.04,0.1,0.18,0.571,0.09,0.13,0.7,0.01,0.05,0.25
+1627884,"Jones Jr., Derrick",LA Clippers,1610612746,LAC,made,12,"Simmons, Ben",1627732,0.025,0.51,0.0,0.0,0.04,0.0,0.0,0.04,0.0,0.0,0.0,
+1627884,"Jones Jr., Derrick",LA Clippers,1610612746,LAC,made,42,"Powell, Norman",1626181,0.091,1.87,0.19,0.34,0.75,0.448,0.22,0.48,0.459,0.12,0.27,0.429
+1627884,"Jones Jr., Derrick",LA Clippers,1610612746,LAC,made,22,"Bogdanović, Bogdan",203992,0.045,0.94,0.01,0.04,0.14,0.273,0.01,0.03,0.5,0.03,0.12,0.222
+1627884,"Jones Jr., Derrick",LA Clippers,1610612746,LAC,made,26,"Leonard, Kawhi",202695,0.049,1.01,0.06,0.12,0.35,0.333,0.1,0.29,0.364,0.01,0.06,0.2
+1627884,"Jones Jr., Derrick",LA Clippers,1610612746,LAC,made,1,"Mills, Patty",201988,0.002,0.04,0.0,0.01,0.01,1.0,0.0,0.0,,0.01,0.01,1.0
+1627884,"Jones Jr., Derrick",LA Clippers,1610612746,LAC,made,74,"Harden, James",201935,0.397,8.17,0.13,0.71,1.99,0.359,0.29,0.88,0.324,0.43,1.1,0.388
+1627884,"Jones Jr., Derrick",LA Clippers,1610612746,LAC,made,14,"Batum, Nicolas",201587,0.011,0.23,0.03,0.03,0.04,0.667,0.0,0.0,,0.03,0.04,0.667

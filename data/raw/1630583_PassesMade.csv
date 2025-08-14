@@ -1,0 +1,19 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630583,"Aldama, Santi",Memphis Grizzlies,1610612763,MEM,made,3,"Kawamura, Yuki",1642530,0.004,0.15,0.0,0.02,0.03,0.5,0.02,0.02,1.0,0.0,0.02,0.0
+1630583,"Aldama, Santi",Memphis Grizzlies,1610612763,MEM,made,54,"Wells, Jaylen",1642377,0.056,1.94,0.35,0.45,0.89,0.5,0.25,0.45,0.552,0.2,0.45,0.448
+1630583,"Aldama, Santi",Memphis Grizzlies,1610612763,MEM,made,5,"Spencer, Cam",1642285,0.006,0.22,0.02,0.02,0.03,0.5,0.02,0.03,0.5,0.0,0.0,
+1630583,"Aldama, Santi",Memphis Grizzlies,1610612763,MEM,made,28,"Edey, Zach",1641744,0.029,1.02,0.22,0.25,0.43,0.571,0.18,0.34,0.545,0.06,0.09,0.667
+1630583,"Aldama, Santi",Memphis Grizzlies,1610612763,MEM,made,11,"Jackson, GG",1641713,0.017,0.6,0.08,0.09,0.2,0.462,0.0,0.05,0.0,0.09,0.15,0.6
+1630583,"Aldama, Santi",Memphis Grizzlies,1610612763,MEM,made,16,"Williams Jr., Vince",1631246,0.022,0.77,0.05,0.05,0.11,0.429,0.02,0.05,0.333,0.03,0.06,0.5
+1630583,"Aldama, Santi",Memphis Grizzlies,1610612763,MEM,made,36,"LaRavia, Jake",1631222,0.061,2.14,0.15,0.15,0.35,0.435,0.08,0.22,0.357,0.08,0.14,0.556
+1630583,"Aldama, Santi",Memphis Grizzlies,1610612763,MEM,made,30,"Huff, Jay",1630643,0.03,1.05,0.14,0.14,0.34,0.409,0.03,0.12,0.25,0.11,0.22,0.5
+1630583,"Aldama, Santi",Memphis Grizzlies,1610612763,MEM,made,55,"Pippen Jr., Scotty",1630590,0.193,6.74,0.42,0.66,1.26,0.524,0.51,1.02,0.5,0.15,0.25,0.625
+1630583,"Aldama, Santi",Memphis Grizzlies,1610612763,MEM,made,53,"Bane, Desmond",1630217,0.167,5.83,0.31,0.63,1.52,0.414,0.35,0.94,0.377,0.28,0.58,0.474
+1630583,"Aldama, Santi",Memphis Grizzlies,1610612763,MEM,made,2,"Stevens, Lamar",1630205,0.002,0.08,0.02,0.02,0.02,1.0,0.02,0.02,1.0,0.0,0.0,
+1630583,"Aldama, Santi",Memphis Grizzlies,1610612763,MEM,made,15,"Konchar, John",1629723,0.019,0.66,0.03,0.03,0.09,0.333,0.03,0.03,1.0,0.0,0.06,0.0
+1630583,"Aldama, Santi",Memphis Grizzlies,1610612763,MEM,made,31,"Clarke, Brandon",1629634,0.038,1.31,0.17,0.18,0.32,0.571,0.18,0.29,0.632,0.0,0.03,0.0
+1630583,"Aldama, Santi",Memphis Grizzlies,1610612763,MEM,made,42,"Morant, Ja",1629630,0.147,5.14,0.23,0.68,1.74,0.389,0.54,1.23,0.438,0.14,0.51,0.273
+1630583,"Aldama, Santi",Memphis Grizzlies,1610612763,MEM,made,49,"Jackson Jr., Jaren",1628991,0.083,2.89,0.42,0.57,1.48,0.385,0.38,0.89,0.431,0.18,0.58,0.316
+1630583,"Aldama, Santi",Memphis Grizzlies,1610612763,MEM,made,1,"Bagley III, Marvin",1628963,0.0,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630583,"Aldama, Santi",Memphis Grizzlies,1610612763,MEM,made,46,"Kennard, Luke",1628379,0.085,2.95,0.18,0.2,0.48,0.419,0.09,0.18,0.5,0.11,0.29,0.368
+1630583,"Aldama, Santi",Memphis Grizzlies,1610612763,MEM,made,17,"Smart, Marcus",203935,0.039,1.35,0.08,0.14,0.35,0.391,0.09,0.18,0.5,0.05,0.17,0.273

@@ -1,0 +1,23 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,17,"Edwards, Justin",1642348,0.119,2.28,0.13,0.18,0.48,0.379,0.1,0.22,0.462,0.08,0.27,0.313
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,13,"Reese, Alex",1642024,0.053,1.02,0.0,0.05,0.2,0.25,0.03,0.13,0.25,0.02,0.07,0.25
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,24,"Council IV, Ricky",1641741,0.092,1.77,0.13,0.27,0.57,0.471,0.1,0.27,0.375,0.17,0.3,0.556
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,18,"Bona, Adem",1641737,0.093,1.78,0.1,0.18,0.45,0.407,0.13,0.33,0.4,0.05,0.12,0.429
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,8,"Hood-Schifino, Jalen",1641720,0.03,0.57,0.0,0.02,0.08,0.2,0.02,0.05,0.333,0.0,0.03,0.0
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,2,"Roddy, David",1631223,0.003,0.07,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,2,"Wheeler, Phillip",1630762,0.003,0.05,0.02,0.02,0.02,1.0,0.02,0.02,1.0,0.0,0.0,
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,4,"Castleton, Colin",1630658,0.009,0.17,0.0,0.0,0.05,0.0,0.0,0.0,,0.0,0.05,0.0
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,1,"Mobley, Isaiah",1630600,0.003,0.05,0.02,0.02,0.03,0.5,0.0,0.02,0.0,0.02,0.02,1.0
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,9,"Bagley, Marcus",1630542,0.048,0.92,0.12,0.18,0.3,0.611,0.13,0.2,0.667,0.05,0.1,0.5
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,11,"Dowtin Jr., Jeff",1630288,0.032,0.62,0.02,0.05,0.13,0.375,0.02,0.07,0.25,0.03,0.07,0.5
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,3,"Maxey, Tyrese",1630178,0.006,0.12,0.0,0.0,0.05,0.0,0.0,0.02,0.0,0.0,0.03,0.0
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,21,"Grimes, Quentin",1629656,0.147,2.82,0.13,0.23,0.75,0.311,0.12,0.37,0.318,0.12,0.38,0.304
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,5,"Okeke, Chuma",1629643,0.034,0.65,0.02,0.07,0.2,0.333,0.05,0.1,0.5,0.02,0.1,0.167
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,6,"Brissett, Oshae",1629052,0.053,1.02,0.02,0.1,0.22,0.462,0.07,0.17,0.4,0.03,0.05,0.667
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,16,"Walker IV, Lonnie",1629022,0.088,1.68,0.1,0.13,0.3,0.444,0.08,0.17,0.5,0.05,0.13,0.375
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,15,"Yabusele, Guerschon",1627824,0.101,1.93,0.08,0.27,0.53,0.5,0.22,0.33,0.65,0.05,0.2,0.25
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,9,"Oubre Jr., Kelly",1626162,0.032,0.62,0.03,0.03,0.08,0.4,0.02,0.05,0.333,0.02,0.03,0.5
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,3,"Embiid, Joel",203954,0.011,0.22,0.0,0.0,0.05,0.0,0.0,0.02,0.0,0.0,0.03,0.0
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,5,"Drummond, Andre",203083,0.015,0.28,0.02,0.02,0.05,0.333,0.0,0.02,0.0,0.02,0.03,0.5
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,5,"George, Paul",202331,0.018,0.35,0.0,0.02,0.05,0.333,0.02,0.03,0.5,0.0,0.02,0.0
+1630215,"Butler, Jared",Philadelphia 76ers,1610612755,PHI,received,2,"Lowry, Kyle",200768,0.008,0.15,0.02,0.02,0.05,0.333,0.02,0.05,0.333,0.0,0.0,

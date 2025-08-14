@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+201950,"Holiday, Jrue",Boston Celtics,1610612738,BOS,received,1,"Peterson, Drew",1641809,0.001,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+201950,"Holiday, Jrue",Boston Celtics,1610612738,BOS,received,3,"Walsh, Jordan",1641775,0.001,0.05,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+201950,"Holiday, Jrue",Boston Celtics,1610612738,BOS,received,3,"Scheierman, Baylor",1631248,0.002,0.08,0.03,0.03,0.05,0.667,0.03,0.03,1.0,0.0,0.02,0.0
+201950,"Holiday, Jrue",Boston Celtics,1610612738,BOS,received,33,"Hauser, Sam",1630573,0.044,1.48,0.1,0.11,0.24,0.467,0.06,0.1,0.667,0.05,0.15,0.333
+201950,"Holiday, Jrue",Boston Celtics,1610612738,BOS,received,2,"Springer, Jaden",1630531,0.001,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+201950,"Holiday, Jrue",Boston Celtics,1610612738,BOS,received,10,"Tillman, Xavier",1630214,0.011,0.37,0.0,0.05,0.08,0.6,0.02,0.03,0.5,0.03,0.05,0.667
+201950,"Holiday, Jrue",Boston Celtics,1610612738,BOS,received,51,"Pritchard, Payton",1630202,0.105,3.55,0.26,0.47,1.16,0.403,0.39,0.73,0.533,0.08,0.44,0.185
+201950,"Holiday, Jrue",Boston Celtics,1610612738,BOS,received,17,"Queta, Neemias",1629674,0.017,0.58,0.02,0.06,0.11,0.571,0.05,0.06,0.75,0.02,0.05,0.333
+201950,"Holiday, Jrue",Boston Celtics,1610612738,BOS,received,1,"Craig, Torrey",1628470,0.002,0.06,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+201950,"Holiday, Jrue",Boston Celtics,1610612738,BOS,received,24,"Kornet, Luke",1628436,0.029,1.0,0.11,0.13,0.24,0.533,0.06,0.08,0.8,0.06,0.16,0.4
+201950,"Holiday, Jrue",Boston Celtics,1610612738,BOS,received,57,"White, Derrick",1628401,0.233,7.92,0.5,0.71,1.82,0.389,0.37,0.89,0.418,0.34,0.94,0.362
+201950,"Holiday, Jrue",Boston Celtics,1610612738,BOS,received,56,"Tatum, Jayson",1628369,0.258,8.76,0.65,0.89,2.27,0.39,0.5,1.13,0.443,0.39,1.15,0.338
+201950,"Holiday, Jrue",Boston Celtics,1610612738,BOS,received,49,"Brown, Jaylen",1627759,0.102,3.45,0.42,0.5,1.08,0.463,0.24,0.4,0.6,0.26,0.68,0.381
+201950,"Holiday, Jrue",Boston Celtics,1610612738,BOS,received,36,"Porziņģis, Kristaps",204001,0.083,2.82,0.16,0.26,0.69,0.372,0.16,0.31,0.526,0.1,0.39,0.25
+201950,"Holiday, Jrue",Boston Celtics,1610612738,BOS,received,43,"Horford, Al",201143,0.11,3.74,0.35,0.52,0.97,0.533,0.16,0.35,0.455,0.35,0.61,0.579

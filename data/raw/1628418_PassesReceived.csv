@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1628418,"Bryant, Thomas",Indiana Pacers,1610612754,IND,received,5,"Dennis, RayJ",1642484,0.011,0.14,0.02,0.02,0.02,1.0,0.02,0.02,1.0,0.0,0.0,
+1628418,"Bryant, Thomas",Indiana Pacers,1610612754,IND,received,1,"Freeman, Enrique",1642402,0.004,0.05,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1628418,"Bryant, Thomas",Indiana Pacers,1610612754,IND,received,8,"Furphy, Johnny",1642277,0.014,0.17,0.0,0.02,0.06,0.25,0.0,0.02,0.0,0.02,0.05,0.333
+1628418,"Bryant, Thomas",Indiana Pacers,1610612754,IND,received,26,"Sheppard, Ben",1641767,0.073,0.88,0.08,0.09,0.2,0.462,0.08,0.11,0.714,0.02,0.09,0.167
+1628418,"Bryant, Thomas",Indiana Pacers,1610612754,IND,received,30,"Walker, Jarace",1641716,0.085,1.02,0.26,0.26,0.42,0.607,0.12,0.18,0.667,0.14,0.24,0.563
+1628418,"Bryant, Thomas",Indiana Pacers,1610612754,IND,received,6,"Jackson, Quenton",1631245,0.016,0.2,0.0,0.0,0.05,0.0,0.0,0.03,0.0,0.0,0.02,0.0
+1628418,"Bryant, Thomas",Indiana Pacers,1610612754,IND,received,30,"Mathurin, Bennedict",1631097,0.082,0.98,0.08,0.09,0.3,0.3,0.08,0.15,0.5,0.02,0.15,0.1
+1628418,"Bryant, Thomas",Indiana Pacers,1610612754,IND,received,15,"Nesmith, Aaron",1630174,0.037,0.44,0.05,0.06,0.15,0.4,0.03,0.06,0.5,0.03,0.09,0.333
+1628418,"Bryant, Thomas",Indiana Pacers,1610612754,IND,received,35,"Haliburton, Tyrese",1630169,0.18,2.15,0.32,0.32,0.76,0.42,0.18,0.36,0.5,0.14,0.39,0.346
+1628418,"Bryant, Thomas",Indiana Pacers,1610612754,IND,received,25,"Toppin, Obi",1630167,0.049,0.59,0.09,0.09,0.26,0.353,0.08,0.18,0.417,0.02,0.08,0.2
+1628418,"Bryant, Thomas",Indiana Pacers,1610612754,IND,received,38,"Nembhard, Andrew",1629614,0.13,1.56,0.2,0.21,0.42,0.5,0.18,0.23,0.8,0.03,0.2,0.154
+1628418,"Bryant, Thomas",Indiana Pacers,1610612754,IND,received,1,"Bryant, Thomas",1628418,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1628418,"Bryant, Thomas",Indiana Pacers,1610612754,IND,received,27,"Siakam, Pascal",1627783,0.059,0.71,0.24,0.24,0.41,0.593,0.18,0.26,0.706,0.06,0.15,0.4
+1628418,"Bryant, Thomas",Indiana Pacers,1610612754,IND,received,46,"McConnell, T.J.",204456,0.254,3.05,0.41,0.41,0.83,0.491,0.23,0.3,0.75,0.18,0.53,0.343
+1628418,"Bryant, Thomas",Indiana Pacers,1610612754,IND,received,2,"Johnson, James",201949,0.004,0.05,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,

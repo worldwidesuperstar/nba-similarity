@@ -1,0 +1,23 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,10,"Johnson, AJ",1642358,0.014,0.54,0.06,0.09,0.25,0.353,0.07,0.16,0.455,0.01,0.09,0.167
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,49,"George, Kyshawn",1642273,0.094,3.68,0.19,0.25,1.06,0.236,0.1,0.37,0.28,0.15,0.69,0.213
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,67,"Carrington, Bub",1642267,0.136,5.35,0.4,0.49,1.24,0.393,0.24,0.49,0.485,0.25,0.75,0.333
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,54,"Sarr, Alex",1642259,0.184,7.22,0.94,1.04,2.84,0.368,0.68,1.54,0.438,0.37,1.29,0.284
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,4,"Martin, Jaylen",1641798,0.002,0.09,0.01,0.01,0.03,0.5,0.01,0.01,1.0,0.0,0.01,0.0
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,9,"Vukcevic, Tristan",1641774,0.012,0.49,0.12,0.12,0.24,0.5,0.12,0.18,0.667,0.0,0.06,0.0
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,4,"Jones, Colby",1641732,0.003,0.1,0.01,0.01,0.03,0.5,0.0,0.01,0.0,0.01,0.01,1.0
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,49,"Coulibaly, Bilal",1641731,0.156,6.12,0.56,0.74,1.94,0.379,0.53,1.15,0.462,0.21,0.79,0.259
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,1,"Baldwin Jr., Patrick",1631116,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,7,"Davis, Johnny",1631098,0.005,0.21,0.06,0.06,0.07,0.8,0.04,0.04,1.0,0.01,0.03,0.5
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,47,"Kispert, Corey",1630557,0.08,3.16,0.51,0.53,1.4,0.379,0.28,0.62,0.452,0.25,0.78,0.321
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,35,"Champagnie, Justin",1630551,0.04,1.57,0.31,0.34,0.69,0.489,0.24,0.34,0.696,0.1,0.35,0.292
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,2,"Thor, JT",1630550,0.001,0.03,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,4,"Gill, Anthony",1630264,0.002,0.09,0.0,0.0,0.04,0.0,0.0,0.01,0.0,0.0,0.03,0.0
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,11,"Butler, Jared",1630215,0.01,0.38,0.04,0.09,0.1,0.857,0.09,0.1,0.857,0.0,0.0,
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,7,"Bagley III, Marvin",1628963,0.004,0.18,0.03,0.03,0.06,0.5,0.01,0.04,0.333,0.01,0.01,1.0
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,26,"Kuzma, Kyle",1628398,0.064,2.5,0.49,0.6,1.37,0.441,0.43,0.85,0.5,0.18,0.51,0.343
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,15,"Brogdon, Malcolm",1627763,0.031,1.21,0.1,0.18,0.32,0.545,0.15,0.24,0.625,0.03,0.09,0.333
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,18,"Holmes, Richaun",1626158,0.029,1.13,0.13,0.16,0.29,0.55,0.16,0.28,0.579,0.0,0.01,0.0
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,3,"Smart, Marcus",203935,0.002,0.07,0.03,0.03,0.04,0.667,0.0,0.0,,0.03,0.04,0.667
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,11,"Middleton, Khris",203114,0.033,1.29,0.1,0.13,0.37,0.36,0.1,0.21,0.5,0.03,0.16,0.182
+1629673,"Poole, Jordan",Washington Wizards,1610612764,WAS,made,41,"Valančiūnas, Jonas",202685,0.098,3.85,0.37,0.44,1.06,0.417,0.43,1.0,0.426,0.01,0.06,0.25

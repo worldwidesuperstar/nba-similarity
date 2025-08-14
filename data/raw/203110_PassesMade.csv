@@ -1,0 +1,20 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,31,"Post, Quinten",1642366,0.029,1.56,0.24,0.25,0.6,0.415,0.09,0.16,0.545,0.16,0.44,0.367
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,1,"Rowe, Jackson",1642050,0.001,0.03,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,48,"Podziemski, Brandin",1641764,0.133,7.26,0.35,0.5,1.35,0.37,0.28,0.68,0.413,0.22,0.68,0.326
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,31,"Jackson-Davis, Trayce",1631218,0.036,1.99,0.31,0.32,0.53,0.611,0.32,0.53,0.611,0.0,0.0,
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,22,"Santos, Gui",1630611,0.012,0.65,0.12,0.12,0.21,0.571,0.09,0.1,0.857,0.03,0.1,0.286
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,51,"Moody, Moses",1630541,0.059,3.19,0.34,0.38,1.15,0.333,0.25,0.62,0.405,0.13,0.53,0.25
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,20,"Waters III, Lindy",1630322,0.028,1.5,0.24,0.28,0.49,0.576,0.16,0.22,0.733,0.12,0.26,0.444
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,9,"Spencer, Pat",1630311,0.007,0.37,0.01,0.01,0.03,0.5,0.01,0.03,0.5,0.0,0.0,
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,40,"Kuminga, Jonathan",1630228,0.049,2.69,0.35,0.51,1.15,0.449,0.49,0.96,0.508,0.03,0.19,0.154
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,2,"Melton, De'Anthony",1629001,0.007,0.38,0.01,0.01,0.09,0.167,0.01,0.03,0.5,0.0,0.06,0.0
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,1,"Knox II, Kevin",1628995,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,40,"Payton II, Gary",1627780,0.028,1.53,0.18,0.19,0.44,0.433,0.18,0.34,0.522,0.01,0.1,0.143
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,57,"Hield, Buddy",1627741,0.069,3.78,0.49,0.56,1.51,0.369,0.24,0.47,0.5,0.32,1.04,0.31
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,9,"Looney, Kevon",1626172,0.005,0.28,0.03,0.03,0.07,0.4,0.03,0.07,0.4,0.0,0.0,
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,30,"Wiggins, Andrew",203952,0.061,3.29,0.4,0.53,1.57,0.336,0.34,1.03,0.329,0.19,0.54,0.351
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,14,"Anderson, Kyle",203937,0.013,0.71,0.06,0.07,0.18,0.417,0.07,0.15,0.5,0.0,0.03,0.0
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,12,"Schröder, Dennis",203471,0.037,2.0,0.04,0.15,0.32,0.455,0.09,0.19,0.462,0.06,0.13,0.444
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,30,"Butler III, Jimmy",202710,0.13,7.07,0.63,0.82,2.15,0.384,0.71,1.81,0.39,0.12,0.34,0.348
+203110,"Green, Draymond",Golden State Warriors,1610612744,GSW,made,59,"Curry, Stephen",201939,0.297,16.15,1.84,2.46,5.31,0.463,1.1,2.12,0.521,1.35,3.19,0.424

@@ -1,0 +1,13 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1627777,"Niang, Georges",Atlanta Hawks,1610612737,ATL,received,9,"Risacher, Zaccharie",1642258,0.019,0.14,0.04,0.04,0.08,0.5,0.0,0.0,,0.04,0.08,0.5
+1627777,"Niang, Georges",Atlanta Hawks,1610612737,ATL,received,2,"Gueye, Mouhamed",1631243,0.007,0.05,0.0,0.0,0.04,0.0,0.0,0.01,0.0,0.0,0.03,0.0
+1627777,"Niang, Georges",Atlanta Hawks,1610612737,ATL,received,8,"Barlow, Dominick",1631230,0.019,0.14,0.0,0.0,0.04,0.0,0.0,0.0,,0.0,0.04,0.0
+1627777,"Niang, Georges",Atlanta Hawks,1610612737,ATL,received,2,"Wallace, Keaton",1630811,0.019,0.14,0.01,0.01,0.08,0.167,0.0,0.03,0.0,0.01,0.05,0.25
+1627777,"Niang, Georges",Atlanta Hawks,1610612737,ATL,received,24,"Daniels, Dyson",1630700,0.159,1.15,0.19,0.19,0.41,0.469,0.08,0.14,0.545,0.11,0.27,0.429
+1627777,"Niang, Georges",Atlanta Hawks,1610612737,ATL,received,9,"Krejčí, Vít",1630249,0.031,0.23,0.13,0.13,0.2,0.625,0.04,0.08,0.5,0.09,0.13,0.7
+1627777,"Niang, Georges",Atlanta Hawks,1610612737,ATL,received,20,"Okongwu, Onyeka",1630168,0.08,0.58,0.1,0.13,0.24,0.526,0.05,0.08,0.667,0.08,0.16,0.462
+1627777,"Niang, Georges",Atlanta Hawks,1610612737,ATL,received,21,"Mann, Terance",1629611,0.07,0.51,0.11,0.11,0.24,0.474,0.04,0.09,0.429,0.08,0.15,0.5
+1627777,"Niang, Georges",Atlanta Hawks,1610612737,ATL,received,27,"Young, Trae",1629027,0.451,3.28,0.66,0.7,1.62,0.43,0.27,0.51,0.525,0.43,1.11,0.386
+1627777,"Niang, Georges",Atlanta Hawks,1610612737,ATL,received,21,"LeVert, Caris",1627747,0.125,0.91,0.16,0.16,0.48,0.342,0.05,0.16,0.308,0.11,0.32,0.36
+1627777,"Niang, Georges",Atlanta Hawks,1610612737,ATL,received,1,"Nance Jr., Larry",1626204,0.002,0.01,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+1627777,"Niang, Georges",Atlanta Hawks,1610612737,ATL,received,7,"Capela, Clint",203991,0.017,0.13,0.01,0.03,0.03,1.0,0.01,0.01,1.0,0.01,0.01,1.0

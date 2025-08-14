@@ -1,0 +1,13 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,made,18,"Dillingham, Rob",1642265,0.035,1.15,0.0,0.08,0.18,0.462,0.07,0.14,0.5,0.01,0.04,0.333
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,made,9,"Clark, Jaylen",1641740,0.004,0.14,0.0,0.01,0.07,0.2,0.01,0.07,0.2,0.0,0.0,
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,made,3,"Minott, Josh",1631169,0.001,0.04,0.01,0.01,0.04,0.333,0.0,0.01,0.0,0.01,0.03,0.5
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,made,1,"Shannon Jr., Terrence",1630545,0.001,0.04,0.03,0.03,0.03,1.0,0.03,0.03,1.0,0.0,0.0,
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,made,61,"McDaniels, Jaden",1630183,0.08,2.63,0.44,0.5,0.86,0.581,0.38,0.61,0.614,0.13,0.25,0.5
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,made,70,"Edwards, Anthony",1630162,0.265,8.64,0.36,1.11,2.94,0.377,0.56,1.57,0.354,0.56,1.38,0.404
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,made,51,"Reid, Naz",1629675,0.04,1.31,0.11,0.14,0.47,0.294,0.07,0.24,0.294,0.07,0.24,0.294
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,made,68,"Alexander-Walker, Nickeil",1629638,0.146,4.75,0.21,0.33,0.74,0.453,0.19,0.39,0.5,0.14,0.35,0.4
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,made,54,"DiVincenzo, Donte",1628978,0.102,3.32,0.15,0.25,0.67,0.375,0.11,0.18,0.615,0.14,0.49,0.286
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,made,9,"Ingles, Joe",204060,0.011,0.38,0.01,0.01,0.01,1.0,0.0,0.0,,0.01,0.01,1.0
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,made,60,"Randle, Julius",203944,0.081,2.64,0.13,0.28,0.57,0.488,0.19,0.39,0.5,0.08,0.18,0.462
+203497,"Gobert, Rudy",Minnesota Timberwolves,1610612750,MIN,made,63,"Conley, Mike",201144,0.233,7.58,0.29,0.35,1.08,0.321,0.11,0.39,0.286,0.24,0.69,0.34

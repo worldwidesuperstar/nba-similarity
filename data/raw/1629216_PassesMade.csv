@@ -1,0 +1,23 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,2,"Olivari, Quincy",1642439,0.002,0.04,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,3,"Traore, Armel",1642422,0.003,0.07,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,3,"James, Bronny",1642355,0.004,0.08,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,42,"Knecht, Dalton",1642261,0.067,1.46,0.21,0.21,0.46,0.455,0.07,0.11,0.625,0.14,0.35,0.4
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,6,"Jemison III, Trey",1641998,0.006,0.13,0.04,0.04,0.04,1.0,0.04,0.04,1.0,0.0,0.0,
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,3,"Lewis, Maxwell",1641721,0.003,0.06,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,16,"Koloko, Christian",1631132,0.016,0.35,0.03,0.03,0.06,0.5,0.03,0.06,0.5,0.0,0.0,
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,27,"Christie, Max",1631108,0.053,1.17,0.1,0.14,0.36,0.385,0.06,0.15,0.364,0.08,0.21,0.4
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,19,"Goodwin, Jordan",1630692,0.029,0.64,0.06,0.06,0.1,0.571,0.01,0.03,0.5,0.04,0.07,0.6
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,56,"Reaves, Austin",1630559,0.155,3.4,0.17,0.31,0.76,0.4,0.19,0.39,0.5,0.11,0.38,0.296
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,28,"Hayes, Jaxson",1629637,0.043,0.94,0.11,0.11,0.19,0.571,0.11,0.19,0.571,0.0,0.0,
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,9,"Reddish, Cam",1629629,0.008,0.18,0.01,0.01,0.07,0.2,0.01,0.03,0.5,0.0,0.04,0.0
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,37,"Hachimura, Rui",1629060,0.051,1.11,0.07,0.11,0.33,0.333,0.08,0.22,0.375,0.03,0.11,0.25
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,27,"Dončić, Luka",1629029,0.136,2.97,0.14,0.46,1.18,0.388,0.26,0.71,0.373,0.19,0.47,0.412
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,19,"Vanderbilt, Jarred",1629020,0.015,0.32,0.01,0.01,0.07,0.2,0.0,0.03,0.0,0.01,0.04,0.333
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,3,"Milton, Shake",1629003,0.004,0.1,0.01,0.01,0.03,0.5,0.01,0.03,0.5,0.0,0.0,
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,30,"Finney-Smith, Dorian",1627827,0.045,0.99,0.14,0.14,0.29,0.476,0.04,0.07,0.6,0.1,0.22,0.438
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,23,"Russell, D'Angelo",1626156,0.062,1.35,0.01,0.11,0.28,0.4,0.07,0.11,0.625,0.04,0.17,0.25
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,2,"Len, Alex",203458,0.004,0.08,0.01,0.01,0.03,0.5,0.01,0.03,0.5,0.0,0.0,
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,30,"Davis, Anthony",203076,0.096,2.1,0.15,0.26,0.75,0.352,0.26,0.68,0.388,0.0,0.07,0.0
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,2,"Morris, Markieff",202693,0.003,0.07,0.01,0.01,0.03,0.5,0.0,0.0,,0.01,0.03,0.5
+1629216,"Vincent, Gabe",Los Angeles Lakers,1610612747,LAL,made,59,"James, LeBron",2544,0.196,4.29,0.07,0.49,1.07,0.455,0.38,0.69,0.54,0.11,0.38,0.296

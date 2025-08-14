@@ -1,0 +1,19 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1626181,"Powell, Norman",Charlotte Hornets,1610612746,CHA,received,1,"Green, Josh",1630182,0.0,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1626181,"Powell, Norman",LA Clippers,1610612746,LAC,received,4,"Miller, Jordan",1641757,0.003,0.1,0.0,0.0,0.05,0.0,0.0,0.05,0.0,0.0,0.0,
+1626181,"Powell, Norman",LA Clippers,1610612746,LAC,received,5,"Brown, Kobe",1641738,0.003,0.12,0.03,0.03,0.05,0.667,0.02,0.02,1.0,0.02,0.03,0.5
+1626181,"Powell, Norman",LA Clippers,1610612746,LAC,received,4,"Jones, Kai",1630539,0.003,0.12,0.0,0.0,0.05,0.0,0.0,0.05,0.0,0.0,0.0,
+1626181,"Powell, Norman",LA Clippers,1610612746,LAC,received,2,"Hyland, Bones",1630538,0.003,0.12,0.0,0.02,0.05,0.333,0.02,0.02,1.0,0.0,0.03,0.0
+1626181,"Powell, Norman",LA Clippers,1610612746,LAC,received,31,"Porter Jr., Kevin",1629645,0.07,2.37,0.42,0.62,1.13,0.544,0.45,0.72,0.628,0.17,0.42,0.4
+1626181,"Powell, Norman",LA Clippers,1610612746,LAC,received,21,"Mann, Terance",1629611,0.026,0.87,0.07,0.12,0.38,0.304,0.05,0.18,0.273,0.07,0.2,0.333
+1626181,"Powell, Norman",LA Clippers,1610612746,LAC,received,30,"Coffey, Amir",1629599,0.031,1.05,0.15,0.18,0.42,0.44,0.12,0.22,0.538,0.07,0.2,0.333
+1626181,"Powell, Norman",LA Clippers,1610612746,LAC,received,1,"Eubanks, Drew",1629234,0.0,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1626181,"Powell, Norman",LA Clippers,1610612746,LAC,received,10,"Bamba, Mo",1628964,0.013,0.45,0.03,0.05,0.2,0.25,0.03,0.13,0.25,0.02,0.07,0.25
+1626181,"Powell, Norman",LA Clippers,1610612746,LAC,received,42,"Jones Jr., Derrick",1627884,0.071,2.4,0.25,0.43,0.97,0.448,0.28,0.62,0.459,0.15,0.35,0.429
+1626181,"Powell, Norman",LA Clippers,1610612746,LAC,received,59,"Zubac, Ivica",1627826,0.174,5.92,0.77,1.17,2.95,0.395,0.82,1.8,0.454,0.35,1.15,0.304
+1626181,"Powell, Norman",LA Clippers,1610612746,LAC,received,53,"Dunn, Kris",1627739,0.153,5.2,0.87,1.2,2.47,0.486,0.53,1.17,0.457,0.67,1.3,0.513
+1626181,"Powell, Norman",LA Clippers,1610612746,LAC,received,9,"Simmons, Ben",1627732,0.019,0.63,0.12,0.17,0.37,0.455,0.12,0.22,0.538,0.05,0.15,0.333
+1626181,"Powell, Norman",LA Clippers,1610612746,LAC,received,13,"Bogdanović, Bogdan",203992,0.02,0.68,0.08,0.17,0.33,0.5,0.12,0.23,0.5,0.05,0.1,0.5
+1626181,"Powell, Norman",LA Clippers,1610612746,LAC,received,25,"Leonard, Kawhi",202695,0.043,1.47,0.25,0.32,0.83,0.38,0.2,0.5,0.4,0.12,0.33,0.35
+1626181,"Powell, Norman",LA Clippers,1610612746,LAC,received,58,"Harden, James",201935,0.314,10.65,1.9,2.27,5.33,0.425,1.28,2.95,0.435,0.98,2.38,0.413
+1626181,"Powell, Norman",LA Clippers,1610612746,LAC,received,37,"Batum, Nicolas",201587,0.052,1.75,0.2,0.4,0.75,0.533,0.23,0.45,0.519,0.17,0.3,0.556

@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203081,"Lillard, Damian",Milwaukee Bucks,1610612749,MIL,received,1,"Smith, Tyler",1641890,0.0,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+203081,"Lillard, Damian",Milwaukee Bucks,1610612749,MIL,received,41,"Jackson Jr., Andre",1641748,0.067,4.71,0.16,0.41,1.34,0.308,0.16,0.5,0.31,0.26,0.84,0.306
+203081,"Lillard, Damian",Milwaukee Bucks,1610612749,MIL,received,46,"Green, AJ",1631260,0.086,6.02,0.21,0.72,1.74,0.416,0.45,0.93,0.481,0.28,0.81,0.34
+203081,"Lillard, Damian",Milwaukee Bucks,1610612749,MIL,received,7,"Rollins, Ryan",1631157,0.005,0.34,0.02,0.05,0.07,0.75,0.03,0.05,0.667,0.02,0.02,1.0
+203081,"Lillard, Damian",Milwaukee Bucks,1610612749,MIL,received,3,"Beauchamp, MarJon",1630699,0.001,0.09,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,
+203081,"Lillard, Damian",Milwaukee Bucks,1610612749,MIL,received,11,"Sims, Jericho",1630579,0.014,1.0,0.02,0.16,0.38,0.409,0.1,0.21,0.5,0.05,0.17,0.3
+203081,"Lillard, Damian",Milwaukee Bucks,1610612749,MIL,received,9,"Porter Jr., Kevin",1629645,0.007,0.5,0.02,0.02,0.12,0.143,0.0,0.07,0.0,0.02,0.05,0.333
+203081,"Lillard, Damian",Milwaukee Bucks,1610612749,MIL,received,50,"Trent Jr., Gary",1629018,0.061,4.26,0.12,0.43,1.12,0.385,0.24,0.57,0.424,0.19,0.55,0.344
+203081,"Lillard, Damian",Milwaukee Bucks,1610612749,MIL,received,16,"Kuzma, Kyle",1628398,0.036,2.5,0.07,0.17,0.5,0.345,0.07,0.26,0.267,0.1,0.24,0.429
+203081,"Lillard, Damian",Milwaukee Bucks,1610612749,MIL,received,58,"Prince, Taurean",1627752,0.12,8.41,0.29,1.02,2.21,0.461,0.59,1.02,0.576,0.43,1.19,0.362
+203081,"Lillard, Damian",Milwaukee Bucks,1610612749,MIL,received,23,"Connaughton, Pat",1626192,0.034,2.4,0.05,0.17,0.52,0.333,0.09,0.34,0.25,0.09,0.17,0.5
+203081,"Lillard, Damian",Milwaukee Bucks,1610612749,MIL,received,39,"Portis, Bobby",1626171,0.124,8.71,0.17,0.98,2.02,0.487,0.71,1.28,0.554,0.28,0.74,0.372
+203081,"Lillard, Damian",Milwaukee Bucks,1610612749,MIL,received,5,"Wright, Delon",1626153,0.005,0.34,0.0,0.05,0.14,0.375,0.03,0.07,0.5,0.02,0.07,0.25
+203081,"Lillard, Damian",Milwaukee Bucks,1610612749,MIL,received,51,"Antetokounmpo, Giannis",203507,0.232,16.28,0.91,1.71,4.22,0.404,0.78,1.76,0.441,0.93,2.47,0.378
+203081,"Lillard, Damian",Milwaukee Bucks,1610612749,MIL,received,19,"Middleton, Khris",203114,0.039,2.72,0.17,0.31,0.74,0.419,0.16,0.34,0.45,0.16,0.4,0.391
+203081,"Lillard, Damian",Milwaukee Bucks,1610612749,MIL,received,58,"Lopez, Brook",201572,0.167,11.72,0.41,1.07,3.07,0.348,0.57,1.53,0.371,0.5,1.53,0.326

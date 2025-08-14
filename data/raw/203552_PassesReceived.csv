@@ -1,0 +1,25 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,24,"Simpson, KJ",1642354,0.089,1.34,0.16,0.19,0.46,0.419,0.1,0.24,0.438,0.09,0.22,0.4
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,28,"Salaün, Tidjane",1642275,0.066,1.0,0.12,0.16,0.28,0.579,0.12,0.19,0.615,0.04,0.09,0.5
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,9,"Baugh, Damion",1641878,0.032,0.49,0.04,0.07,0.18,0.417,0.03,0.07,0.4,0.04,0.1,0.429
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,21,"Smith Jr., Nick",1641733,0.048,0.72,0.09,0.1,0.21,0.5,0.04,0.09,0.5,0.06,0.12,0.5
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,5,"Miller, Brandon",1641706,0.006,0.09,0.01,0.03,0.06,0.5,0.03,0.03,1.0,0.0,0.03,0.0
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,1,"Sims, Jaylen",1631301,0.003,0.04,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,30,"Diabaté, Moussa",1631217,0.06,0.9,0.1,0.16,0.34,0.478,0.1,0.21,0.5,0.06,0.13,0.444
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,8,"Wong, Isaiah",1631209,0.02,0.31,0.03,0.03,0.1,0.286,0.01,0.04,0.333,0.01,0.06,0.25
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,8,"Moore Jr., Wendell",1631111,0.016,0.24,0.0,0.0,0.06,0.0,0.0,0.03,0.0,0.0,0.03,0.0
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,26,"Williams, Mark",1631109,0.071,1.07,0.09,0.18,0.37,0.48,0.09,0.18,0.5,0.09,0.19,0.462
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,3,"Garrett, Marcus",1630585,0.008,0.12,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,8,"Mann, Tre",1630544,0.018,0.26,0.0,0.01,0.1,0.143,0.0,0.06,0.0,0.01,0.04,0.333
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,9,"Richards, Nick",1630208,0.02,0.31,0.03,0.06,0.12,0.5,0.03,0.07,0.4,0.03,0.04,0.667
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,22,"Green, Josh",1630182,0.041,0.62,0.07,0.09,0.22,0.4,0.03,0.1,0.286,0.06,0.12,0.5
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,27,"Ball, LaMelo",1630163,0.116,1.75,0.24,0.24,0.56,0.421,0.03,0.18,0.167,0.21,0.38,0.538
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,9,"Williams, Grant",1629684,0.019,0.28,0.03,0.04,0.06,0.75,0.01,0.01,1.0,0.03,0.04,0.667
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,20,"Jeffries, DaQuan",1629610,0.036,0.54,0.04,0.06,0.16,0.364,0.03,0.07,0.4,0.03,0.09,0.333
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,9,"Okogie, Josh",1629006,0.019,0.28,0.01,0.01,0.06,0.25,0.01,0.04,0.333,0.0,0.01,0.0
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,17,"Martin, Cody",1628998,0.034,0.51,0.06,0.07,0.15,0.5,0.04,0.09,0.5,0.03,0.06,0.5
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,37,"Bridges, Miles",1628970,0.116,1.75,0.16,0.25,0.6,0.415,0.13,0.25,0.529,0.12,0.35,0.333
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,18,"Micic, Vasilije",203995,0.069,1.04,0.15,0.16,0.24,0.688,0.07,0.1,0.714,0.09,0.13,0.667
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,18,"Nurkić, Jusuf",203994,0.063,0.96,0.18,0.21,0.4,0.519,0.09,0.18,0.5,0.12,0.22,0.533
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,4,"Payton, Elfrid",203901,0.01,0.15,0.01,0.01,0.03,0.5,0.0,0.01,0.0,0.01,0.01,1.0
+203552,"Curry, Seth",Charlotte Hornets,1610612766,CHA,received,12,"Gibson, Taj",201959,0.02,0.31,0.09,0.09,0.15,0.6,0.06,0.07,0.8,0.03,0.07,0.4

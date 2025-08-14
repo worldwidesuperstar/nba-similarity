@@ -1,0 +1,23 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,1,"Gortman, Jazian",1641789,0.002,0.06,0.01,0.01,0.04,0.333,0.01,0.01,1.0,0.0,0.03,0.0
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,16,"Prosper, Olivier-Maxence",1641765,0.019,0.47,0.08,0.1,0.25,0.389,0.03,0.08,0.333,0.07,0.17,0.417
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,31,"Lively II, Dereck",1641726,0.081,1.97,0.33,0.42,0.97,0.429,0.19,0.44,0.438,0.22,0.53,0.421
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,20,"Christie, Max",1631108,0.044,1.07,0.28,0.35,0.65,0.532,0.14,0.26,0.526,0.21,0.39,0.536
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,21,"Hardy, Jaden",1630702,0.024,0.58,0.14,0.14,0.28,0.5,0.0,0.01,0.0,0.14,0.26,0.526
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,16,"Edwards, Kessler",1630556,0.036,0.89,0.15,0.18,0.44,0.406,0.07,0.15,0.455,0.11,0.29,0.381
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,6,"Jones, Kai",1630539,0.012,0.31,0.06,0.07,0.21,0.333,0.04,0.08,0.5,0.03,0.13,0.222
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,13,"Williams, Brandon",1630314,0.026,0.63,0.08,0.08,0.18,0.462,0.03,0.06,0.5,0.06,0.13,0.444
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,1,"Kelley, Kylor",1630283,0.002,0.06,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,45,"Marshall, Naji",1630230,0.094,2.29,0.43,0.47,1.18,0.4,0.11,0.36,0.308,0.36,0.82,0.441
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,20,"Grimes, Quentin",1629656,0.023,0.57,0.11,0.13,0.33,0.375,0.03,0.08,0.333,0.1,0.25,0.389
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,42,"Gafford, Daniel",1629655,0.067,1.65,0.17,0.18,0.68,0.265,0.1,0.43,0.226,0.08,0.25,0.333
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,3,"Brown, Moses",1629650,0.003,0.08,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,21,"Dončić, Luka",1629029,0.096,2.36,0.57,0.6,1.22,0.489,0.18,0.36,0.5,0.42,0.86,0.484
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,47,"Washington, P.J.",1629023,0.081,1.99,0.31,0.33,0.93,0.358,0.11,0.25,0.444,0.22,0.68,0.327
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,7,"Martin, Caleb",1628997,0.009,0.21,0.04,0.06,0.13,0.444,0.03,0.04,0.667,0.03,0.08,0.333
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,16,"Kleber, Maxi",1628467,0.022,0.53,0.1,0.11,0.28,0.4,0.06,0.11,0.5,0.06,0.17,0.333
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,15,"Exum, Danté",203957,0.04,0.97,0.17,0.18,0.46,0.394,0.1,0.24,0.412,0.08,0.22,0.375
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,19,"Powell, Dwight",203939,0.026,0.64,0.14,0.15,0.29,0.524,0.1,0.18,0.538,0.06,0.11,0.5
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,59,"Dinwiddie, Spencer",203915,0.144,3.53,0.54,0.63,1.44,0.433,0.25,0.51,0.486,0.38,0.93,0.403
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,9,"Davis, Anthony",203076,0.016,0.39,0.07,0.1,0.19,0.5,0.06,0.07,0.8,0.04,0.13,0.333
+202691,"Thompson, Klay",Dallas Mavericks,1610612742,DAL,received,44,"Irving, Kyrie",202681,0.133,3.25,0.44,0.51,1.67,0.308,0.22,0.63,0.356,0.29,1.04,0.28

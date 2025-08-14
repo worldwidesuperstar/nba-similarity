@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629611,"Mann, Terance",Atlanta Hawks,1610612737,ATL,received,17,"Risacher, Zaccharie",1642258,0.065,0.51,0.06,0.1,0.22,0.467,0.07,0.12,0.625,0.03,0.1,0.286
+1629611,"Mann, Terance",Atlanta Hawks,1610612737,ATL,received,1,"Plowden, Daeqwon",1631342,0.002,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629611,"Mann, Terance",Atlanta Hawks,1610612737,ATL,received,13,"Gueye, Mouhamed",1631243,0.034,0.27,0.03,0.09,0.18,0.5,0.07,0.12,0.625,0.01,0.06,0.25
+1629611,"Mann, Terance",Atlanta Hawks,1610612737,ATL,received,11,"Barlow, Dominick",1631230,0.04,0.31,0.06,0.07,0.18,0.417,0.06,0.1,0.571,0.01,0.07,0.2
+1629611,"Mann, Terance",Atlanta Hawks,1610612737,ATL,received,1,"Toppin, Jacob",1631210,0.002,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629611,"Mann, Terance",Atlanta Hawks,1610612737,ATL,received,5,"Wallace, Keaton",1630811,0.046,0.36,0.09,0.1,0.18,0.583,0.1,0.15,0.7,0.0,0.03,0.0
+1629611,"Mann, Terance",Atlanta Hawks,1610612737,ATL,received,25,"Daniels, Dyson",1630700,0.17,1.33,0.13,0.21,0.37,0.56,0.16,0.27,0.611,0.04,0.1,0.429
+1629611,"Mann, Terance",Atlanta Hawks,1610612737,ATL,received,17,"Krejčí, Vít",1630249,0.086,0.67,0.12,0.15,0.22,0.667,0.07,0.13,0.556,0.07,0.09,0.833
+1629611,"Mann, Terance",Atlanta Hawks,1610612737,ATL,received,24,"Okongwu, Onyeka",1630168,0.078,0.61,0.06,0.07,0.21,0.357,0.04,0.09,0.5,0.03,0.12,0.25
+1629611,"Mann, Terance",Atlanta Hawks,1610612737,ATL,received,1,"Mathews, Garrison",1629726,0.006,0.04,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629611,"Mann, Terance",Atlanta Hawks,1610612737,ATL,received,28,"Young, Trae",1629027,0.242,1.9,0.31,0.36,0.75,0.48,0.22,0.39,0.577,0.13,0.36,0.375
+1629611,"Mann, Terance",Atlanta Hawks,1610612737,ATL,received,19,"Niang, Georges",1627777,0.086,0.67,0.13,0.18,0.31,0.571,0.1,0.18,0.583,0.07,0.13,0.556
+1629611,"Mann, Terance",Atlanta Hawks,1610612737,ATL,received,21,"LeVert, Caris",1627747,0.103,0.81,0.07,0.12,0.31,0.381,0.06,0.1,0.571,0.06,0.21,0.286
+1629611,"Mann, Terance",Atlanta Hawks,1610612737,ATL,received,1,"Nance Jr., Larry",1626204,0.002,0.01,0.01,0.01,0.01,1.0,0.0,0.0,,0.01,0.01,1.0
+1629611,"Mann, Terance",Atlanta Hawks,1610612737,ATL,received,10,"Capela, Clint",203991,0.038,0.3,0.03,0.06,0.07,0.8,0.04,0.06,0.75,0.01,0.01,1.0

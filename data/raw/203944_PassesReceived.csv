@@ -1,0 +1,14 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203944,"Randle, Julius",Minnesota Timberwolves,1610612750,MIN,received,17,"Dillingham, Rob",1642265,0.017,0.77,0.06,0.13,0.33,0.391,0.12,0.26,0.444,0.01,0.07,0.2
+203944,"Randle, Julius",Minnesota Timberwolves,1610612750,MIN,received,11,"Clark, Jaylen",1641740,0.006,0.25,0.03,0.03,0.09,0.333,0.03,0.04,0.667,0.0,0.04,0.0
+203944,"Randle, Julius",Minnesota Timberwolves,1610612750,MIN,received,11,"Minott, Josh",1631169,0.004,0.19,0.03,0.03,0.06,0.5,0.0,0.03,0.0,0.03,0.03,1.0
+203944,"Randle, Julius",Minnesota Timberwolves,1610612750,MIN,received,2,"Shannon Jr., Terrence",1630545,0.001,0.03,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,
+203944,"Randle, Julius",Minnesota Timberwolves,1610612750,MIN,received,69,"McDaniels, Jaden",1630183,0.12,5.26,0.41,0.64,1.54,0.415,0.52,1.0,0.522,0.12,0.54,0.216
+203944,"Randle, Julius",Minnesota Timberwolves,1610612750,MIN,received,69,"Edwards, Anthony",1630162,0.254,11.14,0.86,1.43,3.83,0.375,1.0,2.48,0.404,0.43,1.35,0.323
+203944,"Randle, Julius",Minnesota Timberwolves,1610612750,MIN,received,61,"Reid, Naz",1629675,0.057,2.51,0.19,0.3,0.64,0.477,0.22,0.46,0.469,0.09,0.17,0.5
+203944,"Randle, Julius",Minnesota Timberwolves,1610612750,MIN,received,66,"Alexander-Walker, Nickeil",1629638,0.114,5.03,0.43,0.68,1.61,0.423,0.48,1.07,0.446,0.2,0.54,0.378
+203944,"Randle, Julius",Minnesota Timberwolves,1610612750,MIN,received,60,"DiVincenzo, Donte",1628978,0.146,6.42,0.72,1.04,2.17,0.48,0.84,1.59,0.527,0.2,0.58,0.35
+203944,"Randle, Julius",Minnesota Timberwolves,1610612750,MIN,received,8,"Ingles, Joe",204060,0.006,0.25,0.07,0.09,0.1,0.857,0.07,0.09,0.833,0.01,0.01,1.0
+203944,"Randle, Julius",Minnesota Timberwolves,1610612750,MIN,received,1,"Randle, Julius",203944,0.0,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+203944,"Randle, Julius",Minnesota Timberwolves,1610612750,MIN,received,60,"Gobert, Rudy",203497,0.063,2.75,0.13,0.29,0.59,0.488,0.2,0.41,0.5,0.09,0.19,0.462
+203944,"Randle, Julius",Minnesota Timberwolves,1610612750,MIN,received,62,"Conley, Mike",201144,0.212,9.32,0.64,1.06,2.78,0.38,0.7,1.75,0.397,0.36,1.03,0.352

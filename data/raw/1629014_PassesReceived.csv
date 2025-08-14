@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629014,"Simons, Anfernee",Portland Trail Blazers,1610612757,POR,received,52,"Clingan, Donovan",1642270,0.061,3.29,0.31,0.6,1.17,0.512,0.36,0.59,0.61,0.24,0.59,0.415
+1629014,"Simons, Anfernee",Portland Trail Blazers,1610612757,POR,received,18,"Reath, Duop",1641871,0.018,0.97,0.03,0.14,0.39,0.37,0.07,0.19,0.385,0.07,0.2,0.357
+1629014,"Simons, Anfernee",Portland Trail Blazers,1610612757,POR,received,67,"Camara, Toumani",1641739,0.153,8.24,0.4,0.89,2.41,0.367,0.4,1.1,0.364,0.49,1.31,0.37
+1629014,"Simons, Anfernee",Portland Trail Blazers,1610612757,POR,received,6,"Rupert, Rayan",1641712,0.002,0.09,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+1629014,"Simons, Anfernee",Portland Trail Blazers,1610612757,POR,received,30,"Murray, Kris",1631200,0.021,1.14,0.09,0.2,0.39,0.519,0.11,0.21,0.533,0.09,0.17,0.5
+1629014,"Simons, Anfernee",Portland Trail Blazers,1610612757,POR,received,22,"Walker, Jabari",1631133,0.017,0.9,0.0,0.04,0.21,0.2,0.03,0.1,0.286,0.01,0.11,0.125
+1629014,"Simons, Anfernee",Portland Trail Blazers,1610612757,POR,received,62,"Sharpe, Shaedon",1631101,0.132,7.13,0.29,0.86,2.14,0.4,0.44,1.1,0.403,0.41,1.04,0.397
+1629014,"Simons, Anfernee",Portland Trail Blazers,1610612757,POR,received,60,"Henderson, Scoot",1630703,0.102,5.5,0.41,0.7,1.73,0.405,0.36,0.73,0.49,0.34,1.0,0.343
+1629014,"Simons, Anfernee",Portland Trail Blazers,1610612757,POR,received,42,"Banton, Dalano",1630625,0.052,2.8,0.14,0.24,0.87,0.279,0.09,0.33,0.261,0.16,0.54,0.289
+1629014,"Simons, Anfernee",Portland Trail Blazers,1610612757,POR,received,62,"Avdija, Deni",1630166,0.231,12.46,0.57,1.54,3.8,0.406,0.81,1.81,0.449,0.73,1.99,0.367
+1629014,"Simons, Anfernee",Portland Trail Blazers,1610612757,POR,received,6,"Thybulle, Matisse",1629680,0.008,0.41,0.06,0.1,0.13,0.778,0.06,0.09,0.667,0.04,0.04,1.0
+1629014,"Simons, Anfernee",Portland Trail Blazers,1610612757,POR,received,16,"Williams III, Robert",1629057,0.017,0.93,0.0,0.07,0.27,0.263,0.04,0.14,0.3,0.03,0.13,0.222
+1629014,"Simons, Anfernee",Portland Trail Blazers,1610612757,POR,received,39,"Ayton, Deandre",1629028,0.1,5.39,0.07,0.41,1.31,0.315,0.29,0.77,0.37,0.13,0.54,0.237
+1629014,"Simons, Anfernee",Portland Trail Blazers,1610612757,POR,received,43,"Grant, Jerami",203924,0.085,4.6,0.2,0.6,1.21,0.494,0.34,0.59,0.585,0.26,0.63,0.409

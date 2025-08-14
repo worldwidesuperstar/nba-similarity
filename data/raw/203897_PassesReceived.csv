@@ -1,0 +1,14 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203897,"LaVine, Zach",Sacramento Kings,1610612758,SAC,received,4,"Jones, Isaac",1642403,0.004,0.09,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+203897,"LaVine, Zach",Sacramento Kings,1610612758,SAC,received,1,"Crawford, Isaiah",1642384,0.001,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+203897,"LaVine, Zach",Sacramento Kings,1610612758,SAC,received,13,"Carter, Devin",1642269,0.03,0.66,0.03,0.07,0.19,0.357,0.04,0.14,0.3,0.03,0.05,0.5
+203897,"LaVine, Zach",Sacramento Kings,1610612758,SAC,received,18,"LaRavia, Jake",1631222,0.047,1.04,0.09,0.19,0.31,0.609,0.08,0.14,0.6,0.11,0.18,0.615
+203897,"LaVine, Zach",Sacramento Kings,1610612758,SAC,received,32,"Ellis, Keon",1631165,0.146,3.23,0.14,0.32,0.72,0.453,0.22,0.39,0.552,0.11,0.32,0.333
+203897,"LaVine, Zach",Sacramento Kings,1610612758,SAC,received,29,"Murray, Keegan",1631099,0.094,2.07,0.14,0.27,0.55,0.488,0.19,0.39,0.483,0.08,0.16,0.5
+203897,"LaVine, Zach",Sacramento Kings,1610612758,SAC,received,21,"Monk, Malik",1628370,0.106,2.34,0.27,0.36,0.82,0.443,0.19,0.43,0.438,0.18,0.39,0.448
+203897,"LaVine, Zach",Sacramento Kings,1610612758,SAC,received,14,"Fultz, Markelle",1628365,0.023,0.5,0.03,0.11,0.18,0.615,0.08,0.11,0.75,0.03,0.07,0.4
+203897,"LaVine, Zach",Sacramento Kings,1610612758,SAC,received,23,"Sabonis, Domantas",1627734,0.22,4.85,0.47,0.68,1.61,0.42,0.43,0.88,0.492,0.24,0.73,0.333
+203897,"LaVine, Zach",Sacramento Kings,1610612758,SAC,received,25,"Lyles, Trey",1626168,0.081,1.78,0.08,0.22,0.55,0.39,0.15,0.31,0.478,0.07,0.24,0.278
+203897,"LaVine, Zach",Sacramento Kings,1610612758,SAC,received,2,"McDermott, Doug",203926,0.004,0.08,0.01,0.03,0.04,0.667,0.01,0.03,0.5,0.01,0.01,1.0
+203897,"LaVine, Zach",Sacramento Kings,1610612758,SAC,received,30,"Valančiūnas, Jonas",202685,0.103,2.28,0.23,0.32,0.61,0.533,0.24,0.43,0.563,0.08,0.18,0.462
+203897,"LaVine, Zach",Sacramento Kings,1610612758,SAC,received,32,"DeRozan, DeMar",201942,0.143,3.15,0.45,0.72,1.41,0.51,0.31,0.72,0.434,0.41,0.69,0.588

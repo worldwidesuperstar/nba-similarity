@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,received,1,"Jones, Isaac",1642403,0.007,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,received,1,"Crawford, Isaiah",1642384,0.004,0.02,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,received,6,"Carter, Devin",1642269,0.04,0.17,0.08,0.08,0.09,0.833,0.03,0.05,0.667,0.05,0.05,1.0
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,received,17,"Ellis, Keon",1631165,0.117,0.48,0.03,0.03,0.21,0.143,0.0,0.08,0.0,0.03,0.14,0.222
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,received,4,"Murray, Keegan",1631099,0.044,0.18,0.02,0.02,0.06,0.25,0.0,0.03,0.0,0.02,0.03,0.5
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,received,11,"Monk, Malik",1628370,0.147,0.61,0.02,0.03,0.12,0.25,0.02,0.03,0.5,0.02,0.09,0.167
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,received,11,"Fultz, Markelle",1628365,0.092,0.38,0.05,0.05,0.15,0.3,0.02,0.05,0.333,0.03,0.11,0.286
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,received,1,"Labissiere, Skal",1627746,0.004,0.02,0.02,0.02,0.02,1.0,0.0,0.0,,0.02,0.02,1.0
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,received,6,"Sabonis, Domantas",1627734,0.066,0.27,0.02,0.02,0.03,0.5,0.02,0.03,0.5,0.0,0.0,
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,received,10,"Lyles, Trey",1626168,0.066,0.27,0.08,0.08,0.09,0.833,0.05,0.05,1.0,0.03,0.05,0.667
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,received,1,"McDermott, Doug",203926,0.004,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,received,16,"LaVine, Zach",203897,0.158,0.65,0.05,0.08,0.23,0.333,0.03,0.09,0.333,0.05,0.14,0.333
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,received,13,"Valančiūnas, Jonas",202685,0.114,0.47,0.05,0.08,0.14,0.556,0.05,0.09,0.5,0.03,0.05,0.667
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,received,14,"DeRozan, DeMar",201942,0.139,0.58,0.03,0.03,0.15,0.2,0.02,0.06,0.25,0.02,0.09,0.167

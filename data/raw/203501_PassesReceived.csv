@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203501,"Hardaway Jr., Tim",Detroit Pistons,1610612765,DET,received,26,"Holland II, Ronald",1641842,0.024,0.51,0.09,0.1,0.19,0.533,0.04,0.04,1.0,0.06,0.16,0.417
+203501,"Hardaway Jr., Tim",Detroit Pistons,1610612765,DET,received,47,"Thompson, Ausar",1641709,0.081,1.7,0.31,0.31,0.94,0.333,0.12,0.23,0.5,0.19,0.7,0.278
+203501,"Hardaway Jr., Tim",Detroit Pistons,1610612765,DET,received,17,"Fontecchio, Simone",1631323,0.014,0.29,0.01,0.01,0.06,0.2,0.01,0.01,1.0,0.0,0.05,0.0
+203501,"Hardaway Jr., Tim",Detroit Pistons,1610612765,DET,received,29,"Sasser, Marcus",1631204,0.044,0.92,0.12,0.14,0.4,0.355,0.08,0.17,0.462,0.06,0.23,0.278
+203501,"Hardaway Jr., Tim",Detroit Pistons,1610612765,DET,received,2,"Moore Jr., Wendell",1631111,0.003,0.06,0.03,0.03,0.04,0.667,0.0,0.0,,0.03,0.04,0.667
+203501,"Hardaway Jr., Tim",Detroit Pistons,1610612765,DET,received,66,"Duren, Jalen",1631105,0.103,2.17,0.31,0.34,1.0,0.338,0.17,0.42,0.406,0.17,0.58,0.289
+203501,"Hardaway Jr., Tim",Detroit Pistons,1610612765,DET,received,27,"Ivey, Jaden",1631093,0.07,1.48,0.21,0.22,0.55,0.405,0.05,0.14,0.364,0.17,0.4,0.419
+203501,"Hardaway Jr., Tim",Detroit Pistons,1610612765,DET,received,66,"Cunningham, Cade",1630595,0.356,7.52,1.22,1.25,3.09,0.403,0.42,0.95,0.438,0.83,2.14,0.388
+203501,"Hardaway Jr., Tim",Detroit Pistons,1610612765,DET,received,2,"Waters III, Lindy",1630322,0.002,0.04,0.01,0.01,0.03,0.5,0.0,0.01,0.0,0.01,0.01,1.0
+203501,"Hardaway Jr., Tim",Detroit Pistons,1610612765,DET,received,11,"Reed, Paul",1630194,0.01,0.22,0.01,0.01,0.04,0.333,0.01,0.04,0.333,0.0,0.0,
+203501,"Hardaway Jr., Tim",Detroit Pistons,1610612765,DET,received,33,"Stewart, Isaiah",1630191,0.041,0.86,0.06,0.09,0.31,0.292,0.05,0.13,0.4,0.04,0.18,0.214
+203501,"Hardaway Jr., Tim",Detroit Pistons,1610612765,DET,received,46,"Beasley, Malik",1627736,0.052,1.09,0.1,0.12,0.38,0.31,0.03,0.09,0.286,0.09,0.29,0.318
+203501,"Hardaway Jr., Tim",Detroit Pistons,1610612765,DET,received,17,"Schröder, Dennis",203471,0.066,1.39,0.22,0.29,0.68,0.423,0.13,0.26,0.5,0.16,0.42,0.375
+203501,"Hardaway Jr., Tim",Detroit Pistons,1610612765,DET,received,63,"Harris, Tobias",202699,0.136,2.87,0.44,0.51,1.29,0.394,0.22,0.55,0.405,0.29,0.74,0.386

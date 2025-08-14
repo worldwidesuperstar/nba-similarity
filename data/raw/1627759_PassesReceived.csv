@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1627759,"Brown, Jaylen",Boston Celtics,1610612738,BOS,received,3,"Peterson, Drew",1641809,0.001,0.06,0.0,0.0,0.03,0.0,0.0,0.02,0.0,0.0,0.02,0.0
+1627759,"Brown, Jaylen",Boston Celtics,1610612738,BOS,received,5,"Walsh, Jordan",1641775,0.003,0.13,0.0,0.02,0.06,0.25,0.02,0.03,0.5,0.0,0.03,0.0
+1627759,"Brown, Jaylen",Boston Celtics,1610612738,BOS,received,2,"Scheierman, Baylor",1631248,0.001,0.06,0.02,0.02,0.03,0.5,0.0,0.02,0.0,0.02,0.02,1.0
+1627759,"Brown, Jaylen",Boston Celtics,1610612738,BOS,received,36,"Hauser, Sam",1630573,0.037,1.62,0.1,0.21,0.65,0.317,0.17,0.48,0.367,0.03,0.17,0.182
+1627759,"Brown, Jaylen",Boston Celtics,1610612738,BOS,received,3,"Springer, Jaden",1630531,0.002,0.1,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1627759,"Brown, Jaylen",Boston Celtics,1610612738,BOS,received,7,"Tillman, Xavier",1630214,0.007,0.29,0.0,0.02,0.08,0.2,0.02,0.06,0.25,0.0,0.02,0.0
+1627759,"Brown, Jaylen",Boston Celtics,1610612738,BOS,received,59,"Pritchard, Payton",1630202,0.136,5.92,0.4,0.9,2.46,0.368,0.71,1.71,0.417,0.19,0.75,0.255
+1627759,"Brown, Jaylen",Boston Celtics,1610612738,BOS,received,26,"Queta, Neemias",1629674,0.024,1.03,0.08,0.22,0.44,0.5,0.21,0.37,0.565,0.02,0.08,0.2
+1627759,"Brown, Jaylen",Boston Celtics,1610612738,BOS,received,2,"Craig, Torrey",1628470,0.001,0.03,0.0,0.02,0.03,0.5,0.02,0.02,1.0,0.0,0.02,0.0
+1627759,"Brown, Jaylen",Boston Celtics,1610612738,BOS,received,41,"Kornet, Luke",1628436,0.042,1.83,0.17,0.33,0.71,0.467,0.24,0.49,0.484,0.1,0.22,0.429
+1627759,"Brown, Jaylen",Boston Celtics,1610612738,BOS,received,60,"White, Derrick",1628401,0.306,13.3,1.0,1.87,4.63,0.404,1.51,3.41,0.442,0.37,1.22,0.299
+1627759,"Brown, Jaylen",Boston Celtics,1610612738,BOS,received,55,"Tatum, Jayson",1628369,0.189,8.21,1.03,1.65,3.59,0.46,1.14,2.21,0.518,0.51,1.38,0.368
+1627759,"Brown, Jaylen",Boston Celtics,1610612738,BOS,received,31,"Porziņģis, Kristaps",204001,0.054,2.33,0.21,0.32,0.86,0.37,0.24,0.63,0.375,0.08,0.22,0.357
+1627759,"Brown, Jaylen",Boston Celtics,1610612738,BOS,received,48,"Holiday, Jrue",201950,0.125,5.43,0.49,0.97,2.44,0.396,0.71,1.7,0.421,0.25,0.75,0.34
+1627759,"Brown, Jaylen",Boston Celtics,1610612738,BOS,received,41,"Horford, Al",201143,0.072,3.11,0.25,0.65,1.43,0.456,0.43,0.94,0.458,0.22,0.49,0.452

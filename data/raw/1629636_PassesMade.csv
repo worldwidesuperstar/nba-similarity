@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629636,"Garland, Darius",Cleveland Cavaliers,1610612739,CLE,made,10,"Tyson, Jaylon",1642281,0.005,0.2,0.03,0.03,0.03,1.0,0.01,0.01,1.0,0.01,0.01,1.0
+1629636,"Garland, Darius",Cleveland Cavaliers,1610612739,CLE,made,21,"Porter Jr., Craig",1641854,0.015,0.64,0.09,0.11,0.16,0.667,0.07,0.08,0.833,0.04,0.08,0.5
+1629636,"Garland, Darius",Cleveland Cavaliers,1610612739,CLE,made,1,"Bates, Emoni",1641734,0.0,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629636,"Garland, Darius",Cleveland Cavaliers,1610612739,CLE,made,66,"Mobley, Evan",1630596,0.146,6.16,1.01,1.19,2.29,0.517,0.97,1.76,0.553,0.21,0.53,0.4
+1629636,"Garland, Darius",Cleveland Cavaliers,1610612739,CLE,made,57,"Merrill, Sam",1630241,0.05,2.09,0.32,0.33,0.72,0.463,0.04,0.08,0.5,0.29,0.64,0.458
+1629636,"Garland, Darius",Cleveland Cavaliers,1610612739,CLE,made,44,"Okoro, Isaac",1630171,0.053,2.24,0.33,0.36,0.89,0.403,0.21,0.45,0.471,0.15,0.44,0.333
+1629636,"Garland, Darius",Cleveland Cavaliers,1610612739,CLE,made,9,"Green, Javonte",1629750,0.005,0.2,0.08,0.08,0.12,0.667,0.04,0.07,0.6,0.04,0.05,0.75
+1629636,"Garland, Darius",Cleveland Cavaliers,1610612739,CLE,made,51,"Wade, Dean",1629731,0.066,2.79,0.29,0.29,0.92,0.319,0.08,0.13,0.6,0.21,0.79,0.271
+1629636,"Garland, Darius",Cleveland Cavaliers,1610612739,CLE,made,58,"Jerome, Ty",1629660,0.067,2.84,0.41,0.6,1.03,0.584,0.43,0.69,0.615,0.17,0.33,0.52
+1629636,"Garland, Darius",Cleveland Cavaliers,1610612739,CLE,made,23,"Hunter, De'Andre",1629631,0.027,1.13,0.32,0.39,0.75,0.518,0.24,0.45,0.529,0.15,0.29,0.5
+1629636,"Garland, Darius",Cleveland Cavaliers,1610612739,CLE,made,46,"Strus, Max",1629622,0.111,4.65,0.63,0.65,1.44,0.454,0.2,0.36,0.556,0.45,1.08,0.42
+1629636,"Garland, Darius",Cleveland Cavaliers,1610612739,CLE,made,75,"Allen, Jarrett",1628386,0.213,8.99,1.84,1.88,3.19,0.59,1.88,3.16,0.595,0.0,0.03,0.0
+1629636,"Garland, Darius",Cleveland Cavaliers,1610612739,CLE,made,66,"Mitchell, Donovan",1628378,0.142,5.96,0.63,1.03,2.6,0.395,0.49,1.21,0.407,0.53,1.39,0.385
+1629636,"Garland, Darius",Cleveland Cavaliers,1610612739,CLE,made,42,"Niang, Georges",1627777,0.04,1.68,0.47,0.48,0.77,0.621,0.21,0.29,0.727,0.27,0.48,0.556
+1629636,"Garland, Darius",Cleveland Cavaliers,1610612739,CLE,made,38,"LeVert, Caris",1627747,0.059,2.49,0.31,0.37,0.81,0.459,0.19,0.4,0.467,0.19,0.41,0.452
+1629636,"Garland, Darius",Cleveland Cavaliers,1610612739,CLE,made,1,"Thompson, Tristan",202684,0.0,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,

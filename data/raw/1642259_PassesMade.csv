@@ -1,0 +1,22 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,19,"Johnson, AJ",1642358,0.043,1.52,0.07,0.12,0.37,0.32,0.06,0.18,0.333,0.06,0.19,0.308
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,48,"George, Kyshawn",1642273,0.089,3.15,0.24,0.34,0.9,0.383,0.21,0.45,0.467,0.13,0.45,0.3
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,66,"Carrington, Bub",1642267,0.237,8.36,0.36,0.63,1.48,0.424,0.45,0.79,0.566,0.18,0.69,0.261
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,6,"Martin, Jaylen",1641798,0.004,0.15,0.01,0.03,0.06,0.5,0.01,0.04,0.333,0.01,0.01,1.0
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,6,"Vukcevic, Tristan",1641774,0.004,0.13,0.04,0.06,0.07,0.8,0.04,0.04,1.0,0.01,0.03,0.5
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,10,"Jones, Colby",1641732,0.012,0.42,0.06,0.06,0.09,0.667,0.04,0.04,1.0,0.01,0.04,0.333
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,45,"Coulibaly, Bilal",1641731,0.133,4.7,0.36,0.54,1.37,0.391,0.46,1.0,0.463,0.07,0.37,0.2
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,1,"Baldwin Jr., Patrick",1631116,0.0,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,3,"Davis, Johnny",1631098,0.001,0.04,0.01,0.01,0.01,1.0,0.0,0.0,,0.01,0.01,1.0
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,36,"Kispert, Corey",1630557,0.03,1.06,0.12,0.15,0.34,0.435,0.09,0.16,0.545,0.06,0.18,0.333
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,29,"Champagnie, Justin",1630551,0.03,1.06,0.18,0.19,0.31,0.619,0.12,0.21,0.571,0.07,0.1,0.714
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,2,"Thor, JT",1630550,0.002,0.07,0.0,0.0,0.06,0.0,0.0,0.01,0.0,0.0,0.04,0.0
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,5,"Gill, Anthony",1630264,0.003,0.1,0.03,0.03,0.03,1.0,0.01,0.01,1.0,0.01,0.01,1.0
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,10,"Butler, Jared",1630215,0.014,0.48,0.03,0.06,0.1,0.571,0.03,0.07,0.4,0.03,0.03,1.0
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,54,"Poole, Jordan",1629673,0.26,9.18,0.52,1.06,2.78,0.382,0.6,1.43,0.417,0.46,1.34,0.344
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,1,"Bagley III, Marvin",1628963,0.0,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,24,"Kuzma, Kyle",1628398,0.041,1.45,0.19,0.3,0.67,0.444,0.24,0.49,0.485,0.06,0.18,0.333
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,16,"Brogdon, Malcolm",1627763,0.055,1.94,0.09,0.16,0.57,0.289,0.13,0.43,0.31,0.03,0.13,0.222
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,6,"Smart, Marcus",203935,0.006,0.21,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,12,"Middleton, Khris",203114,0.033,1.18,0.04,0.09,0.31,0.286,0.07,0.22,0.333,0.01,0.09,0.167
+1642259,"Sarr, Alex",Washington Wizards,1610612764,WAS,made,4,"Valančiūnas, Jonas",202685,0.002,0.07,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,

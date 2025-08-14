@@ -1,0 +1,20 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,3,"Johnson, AJ",1642358,0.008,0.18,0.0,0.02,0.05,0.333,0.02,0.02,1.0,0.0,0.03,0.0
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,54,"George, Kyshawn",1642273,0.115,2.64,0.3,0.33,0.7,0.465,0.08,0.2,0.417,0.25,0.51,0.484
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,60,"Carrington, Bub",1642267,0.206,4.72,0.18,0.3,0.74,0.4,0.16,0.3,0.556,0.13,0.44,0.296
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,35,"Sarr, Alex",1642259,0.047,1.07,0.1,0.11,0.43,0.269,0.07,0.26,0.25,0.05,0.16,0.3
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,8,"Vukcevic, Tristan",1641774,0.02,0.46,0.11,0.11,0.2,0.583,0.08,0.15,0.556,0.03,0.05,0.667
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,46,"Coulibaly, Bilal",1641731,0.092,2.1,0.15,0.18,0.41,0.44,0.16,0.28,0.588,0.02,0.13,0.125
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,1,"Baldwin Jr., Patrick",1631116,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,2,"Davis, Johnny",1631098,0.001,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,19,"Champagnie, Justin",1630551,0.027,0.61,0.05,0.05,0.21,0.231,0.0,0.05,0.0,0.05,0.16,0.3
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,6,"Gill, Anthony",1630264,0.006,0.15,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,16,"Butler, Jared",1630215,0.047,1.08,0.08,0.16,0.33,0.5,0.11,0.23,0.5,0.05,0.1,0.5
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,49,"Poole, Jordan",1629673,0.145,3.31,0.11,0.38,1.02,0.371,0.13,0.43,0.308,0.25,0.59,0.417
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,3,"Bagley III, Marvin",1628963,0.003,0.07,0.02,0.02,0.03,0.5,0.02,0.03,0.5,0.0,0.0,
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,28,"Kuzma, Kyle",1628398,0.045,1.03,0.11,0.21,0.44,0.481,0.15,0.31,0.474,0.07,0.13,0.5
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,21,"Brogdon, Malcolm",1627763,0.075,1.7,0.05,0.21,0.44,0.481,0.2,0.36,0.545,0.02,0.08,0.2
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,16,"Holmes, Richaun",1626158,0.034,0.77,0.08,0.08,0.21,0.385,0.08,0.21,0.385,0.0,0.0,
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,9,"Smart, Marcus",203935,0.039,0.9,0.1,0.15,0.34,0.429,0.1,0.2,0.5,0.05,0.15,0.333
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,2,"Middleton, Khris",203114,0.001,0.03,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1630557,"Kispert, Corey",Washington Wizards,1610612764,WAS,made,38,"Valančiūnas, Jonas",202685,0.087,2.0,0.25,0.36,0.52,0.688,0.34,0.51,0.677,0.02,0.02,1.0

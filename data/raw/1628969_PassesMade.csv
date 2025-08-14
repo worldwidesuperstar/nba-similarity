@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1628969,"Bridges, Mikal",New York Knicks,1610612752,NYK,made,1,"Dadiet, Pacôme",1642359,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1628969,"Bridges, Mikal",New York Knicks,1610612752,NYK,made,13,"Kolek, Tyler",1642278,0.018,0.67,0.02,0.02,0.1,0.25,0.0,0.02,0.0,0.02,0.07,0.333
+1628969,"Bridges, Mikal",New York Knicks,1610612752,NYK,made,17,"Sims, Jericho",1630579,0.012,0.45,0.04,0.04,0.06,0.6,0.04,0.06,0.6,0.0,0.0,
+1628969,"Bridges, Mikal",New York Knicks,1610612752,NYK,made,8,"Hukporti, Ariel",1630574,0.005,0.17,0.02,0.02,0.02,1.0,0.02,0.02,1.0,0.0,0.0,
+1628969,"Bridges, Mikal",New York Knicks,1610612752,NYK,made,54,"McBride, Miles",1630540,0.083,3.04,0.18,0.29,0.93,0.316,0.1,0.3,0.32,0.2,0.62,0.314
+1628969,"Bridges, Mikal",New York Knicks,1610612752,NYK,made,41,"Achiuwa, Precious",1630173,0.039,1.44,0.18,0.22,0.45,0.486,0.2,0.41,0.471,0.02,0.04,0.667
+1628969,"Bridges, Mikal",New York Knicks,1610612752,NYK,made,24,"Shamet, Landry",1629013,0.018,0.67,0.21,0.21,0.38,0.548,0.1,0.15,0.667,0.11,0.23,0.474
+1628969,"Bridges, Mikal",New York Knicks,1610612752,NYK,made,13,"Robinson, Mitchell",1629011,0.012,0.43,0.04,0.04,0.06,0.6,0.04,0.06,0.6,0.0,0.0,
+1628969,"Bridges, Mikal",New York Knicks,1610612752,NYK,made,64,"Brunson, Jalen",1628973,0.259,9.51,0.46,1.1,2.7,0.407,0.8,1.88,0.429,0.29,0.82,0.358
+1628969,"Bridges, Mikal",New York Knicks,1610612752,NYK,made,76,"Hart, Josh",1628404,0.178,6.51,0.71,0.82,1.74,0.469,0.61,1.01,0.602,0.21,0.73,0.283
+1628969,"Bridges, Mikal",New York Knicks,1610612752,NYK,made,72,"Anunoby, OG",1628384,0.132,4.83,0.82,0.95,2.37,0.402,0.5,1.2,0.418,0.45,1.17,0.385
+1628969,"Bridges, Mikal",New York Knicks,1610612752,NYK,made,59,"Payne, Cameron",1626166,0.082,3.0,0.2,0.29,0.73,0.4,0.12,0.26,0.476,0.17,0.48,0.359
+1628969,"Bridges, Mikal",New York Knicks,1610612752,NYK,made,71,"Towns, Karl-Anthony",1626157,0.141,5.18,0.78,1.02,2.39,0.429,0.74,1.68,0.442,0.28,0.71,0.397
+1628969,"Bridges, Mikal",New York Knicks,1610612752,NYK,made,6,"Wright, Delon",1626153,0.02,0.74,0.02,0.02,0.07,0.333,0.0,0.0,,0.02,0.07,0.333
+1628969,"Bridges, Mikal",New York Knicks,1610612752,NYK,made,1,"Tucker, P.J.",200782,0.0,0.01,0.01,0.01,0.01,1.0,0.0,0.0,,0.01,0.01,1.0

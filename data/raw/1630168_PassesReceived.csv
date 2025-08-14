@@ -1,0 +1,19 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630168,"Okongwu, Onyeka",Atlanta Hawks,1610612737,ATL,received,40,"Risacher, Zaccharie",1642258,0.044,1.07,0.16,0.16,0.35,0.462,0.08,0.23,0.353,0.08,0.12,0.667
+1630168,"Okongwu, Onyeka",Atlanta Hawks,1610612737,ATL,received,9,"Bufkin, Kobe",1641723,0.012,0.3,0.05,0.05,0.08,0.667,0.05,0.05,1.0,0.0,0.03,0.0
+1630168,"Okongwu, Onyeka",Atlanta Hawks,1610612737,ATL,received,1,"Plowden, Daeqwon",1631342,0.002,0.04,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+1630168,"Okongwu, Onyeka",Atlanta Hawks,1610612737,ATL,received,13,"Gueye, Mouhamed",1631243,0.014,0.35,0.07,0.08,0.16,0.5,0.04,0.09,0.429,0.04,0.07,0.6
+1630168,"Okongwu, Onyeka",Atlanta Hawks,1610612737,ATL,received,1,"Barlow, Dominick",1631230,0.001,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630168,"Okongwu, Onyeka",Atlanta Hawks,1610612737,ATL,received,10,"Roddy, David",1631223,0.01,0.24,0.05,0.05,0.11,0.5,0.03,0.04,0.667,0.03,0.07,0.4
+1630168,"Okongwu, Onyeka",Atlanta Hawks,1610612737,ATL,received,18,"Wallace, Keaton",1630811,0.037,0.91,0.07,0.07,0.16,0.417,0.04,0.09,0.429,0.03,0.07,0.4
+1630168,"Okongwu, Onyeka",Atlanta Hawks,1610612737,ATL,received,68,"Daniels, Dyson",1630700,0.28,6.88,0.68,0.74,1.72,0.433,0.61,1.09,0.556,0.14,0.62,0.217
+1630168,"Okongwu, Onyeka",Atlanta Hawks,1610612737,ATL,received,29,"Johnson, Jalen",1630552,0.065,1.59,0.39,0.39,0.73,0.537,0.34,0.54,0.625,0.05,0.19,0.286
+1630168,"Okongwu, Onyeka",Atlanta Hawks,1610612737,ATL,received,37,"Krejčí, Vít",1630249,0.061,1.5,0.23,0.23,0.42,0.548,0.19,0.31,0.609,0.04,0.11,0.375
+1630168,"Okongwu, Onyeka",Atlanta Hawks,1610612737,ATL,received,25,"Mathews, Garrison",1629726,0.026,0.64,0.12,0.12,0.2,0.6,0.12,0.2,0.6,0.0,0.0,
+1630168,"Okongwu, Onyeka",Atlanta Hawks,1610612737,ATL,received,23,"Hunter, De'Andre",1629631,0.024,0.58,0.15,0.15,0.24,0.611,0.11,0.18,0.615,0.04,0.07,0.6
+1630168,"Okongwu, Onyeka",Atlanta Hawks,1610612737,ATL,received,23,"Mann, Terance",1629611,0.021,0.51,0.07,0.07,0.15,0.455,0.03,0.07,0.4,0.04,0.08,0.5
+1630168,"Okongwu, Onyeka",Atlanta Hawks,1610612737,ATL,received,70,"Young, Trae",1629027,0.309,7.57,1.7,1.78,3.2,0.557,1.65,2.84,0.581,0.14,0.36,0.37
+1630168,"Okongwu, Onyeka",Atlanta Hawks,1610612737,ATL,received,19,"Niang, Georges",1627777,0.02,0.5,0.08,0.08,0.22,0.375,0.08,0.2,0.4,0.0,0.01,0.0
+1630168,"Okongwu, Onyeka",Atlanta Hawks,1610612737,ATL,received,22,"LeVert, Caris",1627747,0.036,0.89,0.2,0.22,0.47,0.457,0.2,0.35,0.577,0.01,0.12,0.111
+1630168,"Okongwu, Onyeka",Atlanta Hawks,1610612737,ATL,received,5,"Nance Jr., Larry",1626204,0.005,0.12,0.01,0.01,0.01,1.0,0.0,0.0,,0.01,0.01,1.0
+1630168,"Okongwu, Onyeka",Atlanta Hawks,1610612737,ATL,received,19,"Bogdanović, Bogdan",203992,0.034,0.82,0.14,0.14,0.32,0.417,0.14,0.26,0.526,0.0,0.07,0.0

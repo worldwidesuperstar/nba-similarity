@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+202685,"Valančiūnas, Jonas",Sacramento Kings,1610612758,SAC,received,3,"Jones, Isaac",1642403,0.007,0.05,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+202685,"Valančiūnas, Jonas",Sacramento Kings,1610612758,SAC,received,13,"Carter, Devin",1642269,0.065,0.46,0.02,0.02,0.07,0.333,0.02,0.07,0.333,0.0,0.0,
+202685,"Valančiūnas, Jonas",Sacramento Kings,1610612758,SAC,received,14,"LaRavia, Jake",1631222,0.062,0.43,0.0,0.0,0.02,0.0,0.0,0.01,0.0,0.0,0.01,0.0
+202685,"Valančiūnas, Jonas",Sacramento Kings,1610612758,SAC,received,25,"Ellis, Keon",1631165,0.139,0.98,0.05,0.06,0.12,0.5,0.06,0.12,0.5,0.0,0.0,
+202685,"Valančiūnas, Jonas",Sacramento Kings,1610612758,SAC,received,17,"Murray, Keegan",1631099,0.076,0.53,0.04,0.11,0.2,0.563,0.11,0.2,0.563,0.0,0.0,
+202685,"Valančiūnas, Jonas",Sacramento Kings,1610612758,SAC,received,1,"Davis, Terence",1629056,0.004,0.02,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+202685,"Valančiūnas, Jonas",Sacramento Kings,1610612758,SAC,received,21,"Monk, Malik",1628370,0.156,1.1,0.19,0.19,0.35,0.536,0.19,0.35,0.536,0.0,0.0,
+202685,"Valančiūnas, Jonas",Sacramento Kings,1610612758,SAC,received,8,"Fultz, Markelle",1628365,0.033,0.23,0.01,0.01,0.02,0.5,0.01,0.01,1.0,0.0,0.01,0.0
+202685,"Valančiūnas, Jonas",Sacramento Kings,1610612758,SAC,received,2,"Sabonis, Domantas",1627734,0.005,0.04,0.02,0.02,0.02,1.0,0.02,0.02,1.0,0.0,0.0,
+202685,"Valančiūnas, Jonas",Sacramento Kings,1610612758,SAC,received,16,"Lyles, Trey",1626168,0.053,0.37,0.02,0.07,0.11,0.667,0.07,0.11,0.667,0.0,0.0,
+202685,"Valančiūnas, Jonas",Sacramento Kings,1610612758,SAC,received,3,"McDermott, Doug",203926,0.012,0.09,0.02,0.02,0.05,0.5,0.02,0.05,0.5,0.0,0.0,
+202685,"Valančiūnas, Jonas",Sacramento Kings,1610612758,SAC,received,27,"LaVine, Zach",203897,0.246,1.73,0.2,0.26,0.59,0.438,0.26,0.57,0.457,0.0,0.02,0.0
+202685,"Valančiūnas, Jonas",Sacramento Kings,1610612758,SAC,received,1,"Crowder, Jae",203109,0.002,0.01,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+202685,"Valančiūnas, Jonas",Sacramento Kings,1610612758,SAC,received,24,"DeRozan, DeMar",201942,0.141,0.99,0.19,0.21,0.48,0.436,0.2,0.41,0.485,0.01,0.07,0.167

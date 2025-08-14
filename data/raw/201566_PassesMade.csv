@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+201566,"Westbrook, Russell",Denver Nuggets,1610612743,DEN,made,3,"Jones, Spencer",1642461,0.004,0.16,0.05,0.05,0.13,0.4,0.05,0.09,0.571,0.0,0.04,0.0
+201566,"Westbrook, Russell",Denver Nuggets,1610612743,DEN,made,12,"Tyson, Hunter",1641816,0.013,0.53,0.08,0.08,0.25,0.316,0.05,0.12,0.444,0.03,0.13,0.2
+201566,"Westbrook, Russell",Denver Nuggets,1610612743,DEN,made,4,"Alexander, Trey",1641725,0.004,0.16,0.0,0.0,0.05,0.0,0.0,0.03,0.0,0.0,0.03,0.0
+201566,"Westbrook, Russell",Denver Nuggets,1610612743,DEN,made,56,"Watson, Peyton",1631212,0.078,3.23,0.56,0.57,1.31,0.439,0.43,0.97,0.438,0.15,0.33,0.44
+201566,"Westbrook, Russell",Denver Nuggets,1610612743,DEN,made,65,"Braun, Christian",1631128,0.096,3.97,0.79,0.89,1.61,0.554,0.79,1.32,0.596,0.11,0.29,0.364
+201566,"Westbrook, Russell",Denver Nuggets,1610612743,DEN,made,52,"Strawther, Julian",1631124,0.061,2.52,0.35,0.39,0.96,0.403,0.19,0.39,0.483,0.2,0.57,0.349
+201566,"Westbrook, Russell",Denver Nuggets,1610612743,DEN,made,22,"Nnaji, Zeke",1630192,0.019,0.8,0.16,0.16,0.35,0.462,0.13,0.25,0.526,0.03,0.09,0.286
+201566,"Westbrook, Russell",Denver Nuggets,1610612743,DEN,made,13,"Pickett, Jalen",1629618,0.016,0.65,0.05,0.05,0.17,0.308,0.01,0.04,0.333,0.04,0.13,0.3
+201566,"Westbrook, Russell",Denver Nuggets,1610612743,DEN,made,70,"Porter Jr., Michael",1629008,0.107,4.43,0.96,1.07,2.04,0.523,0.83,1.31,0.633,0.24,0.73,0.327
+201566,"Westbrook, Russell",Denver Nuggets,1610612743,DEN,made,9,"Čančar, Vlatko",1628427,0.012,0.49,0.0,0.01,0.05,0.25,0.01,0.01,1.0,0.0,0.04,0.0
+201566,"Westbrook, Russell",Denver Nuggets,1610612743,DEN,made,57,"Murray, Jamal",1627750,0.14,5.76,0.45,0.8,1.6,0.5,0.47,0.99,0.473,0.33,0.61,0.543
+201566,"Westbrook, Russell",Denver Nuggets,1610612743,DEN,made,63,"Jokić, Nikola",203999,0.332,13.67,1.93,2.27,4.32,0.525,2.0,3.56,0.562,0.27,0.76,0.351
+201566,"Westbrook, Russell",Denver Nuggets,1610612743,DEN,made,12,"Šarić, Dario",203967,0.013,0.53,0.04,0.04,0.2,0.2,0.03,0.12,0.222,0.01,0.08,0.167
+201566,"Westbrook, Russell",Denver Nuggets,1610612743,DEN,made,42,"Gordon, Aaron",203932,0.063,2.61,0.29,0.44,1.0,0.44,0.39,0.77,0.5,0.05,0.23,0.235
+201566,"Westbrook, Russell",Denver Nuggets,1610612743,DEN,made,34,"Jordan, DeAndre",201599,0.04,1.67,0.28,0.28,0.44,0.636,0.28,0.44,0.636,0.0,0.0,

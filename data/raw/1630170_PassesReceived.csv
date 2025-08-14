@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630170,"Vassell, Devin",San Antonio Spurs,1610612759,SAS,received,63,"Castle, Stephon",1642264,0.147,5.42,0.55,0.84,1.94,0.435,0.36,0.7,0.511,0.48,1.23,0.392
+1630170,"Vassell, Devin",San Antonio Spurs,1610612759,SAS,received,35,"Wembanyama, Victor",1641705,0.082,3.03,0.41,0.52,1.14,0.452,0.31,0.61,0.513,0.2,0.53,0.382
+1630170,"Vassell, Devin",San Antonio Spurs,1610612759,SAS,received,40,"Sochan, Jeremy",1631110,0.077,2.83,0.31,0.36,0.98,0.365,0.28,0.64,0.439,0.08,0.34,0.227
+1630170,"Vassell, Devin",San Antonio Spurs,1610612759,SAS,received,21,"Wesley, Blake",1631104,0.028,1.03,0.06,0.11,0.3,0.368,0.08,0.22,0.357,0.03,0.08,0.4
+1630170,"Vassell, Devin",San Antonio Spurs,1610612759,SAS,received,3,"Branham, Malaki",1631103,0.002,0.06,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1630170,"Vassell, Devin",San Antonio Spurs,1610612759,SAS,received,45,"Champagnie, Julian",1630577,0.045,1.66,0.06,0.25,0.53,0.471,0.19,0.36,0.522,0.06,0.17,0.364
+1630170,"Vassell, Devin",San Antonio Spurs,1610612759,SAS,received,21,"Mamukelashvili, Sandro",1630572,0.015,0.55,0.0,0.0,0.16,0.0,0.0,0.08,0.0,0.0,0.08,0.0
+1630170,"Vassell, Devin",San Antonio Spurs,1610612759,SAS,received,17,"Jones, Tre",1630200,0.043,1.58,0.2,0.27,0.59,0.447,0.08,0.23,0.333,0.19,0.36,0.522
+1630170,"Vassell, Devin",San Antonio Spurs,1610612759,SAS,received,17,"Bassey, Charles",1629646,0.018,0.67,0.05,0.06,0.25,0.25,0.06,0.2,0.308,0.0,0.05,0.0
+1630170,"Vassell, Devin",San Antonio Spurs,1610612759,SAS,received,51,"Johnson, Keldon",1629640,0.069,2.56,0.27,0.39,0.94,0.417,0.22,0.47,0.467,0.17,0.47,0.367
+1630170,"Vassell, Devin",San Antonio Spurs,1610612759,SAS,received,1,"McLaughlin, Jordan",1629162,0.001,0.03,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1630170,"Vassell, Devin",San Antonio Spurs,1610612759,SAS,received,14,"Collins, Zach",1628380,0.031,1.16,0.27,0.36,0.59,0.605,0.34,0.5,0.688,0.02,0.09,0.167
+1630170,"Vassell, Devin",San Antonio Spurs,1610612759,SAS,received,17,"Fox, De'Aaron",1628368,0.061,2.25,0.16,0.25,0.88,0.286,0.13,0.41,0.308,0.13,0.47,0.267
+1630170,"Vassell, Devin",San Antonio Spurs,1610612759,SAS,received,61,"Barnes, Harrison",203084,0.089,3.28,0.39,0.5,0.98,0.508,0.28,0.45,0.621,0.22,0.53,0.412
+1630170,"Vassell, Devin",San Antonio Spurs,1610612759,SAS,received,23,"Biyombo, Bismack",202687,0.042,1.56,0.23,0.42,0.61,0.692,0.34,0.47,0.733,0.08,0.14,0.556
+1630170,"Vassell, Devin",San Antonio Spurs,1610612759,SAS,received,64,"Paul, Chris",101108,0.25,9.22,1.19,1.45,3.73,0.389,0.73,1.69,0.435,0.72,2.05,0.351

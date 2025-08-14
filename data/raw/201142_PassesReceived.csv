@@ -1,0 +1,18 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+201142,"Durant, Kevin",Phoenix Suns,1610612756,PHX,received,36,"Dunn, Ryan",1642346,0.034,1.61,0.11,0.27,0.58,0.472,0.23,0.4,0.56,0.05,0.18,0.273
+201142,"Durant, Kevin",Phoenix Suns,1610612756,PHX,received,26,"Ighodaro, Oso",1642345,0.028,1.32,0.1,0.18,0.45,0.393,0.15,0.4,0.36,0.03,0.05,0.667
+201142,"Durant, Kevin",Phoenix Suns,1610612756,PHX,received,17,"Gillespie, Collin",1631221,0.038,1.81,0.21,0.4,0.61,0.658,0.27,0.44,0.63,0.13,0.18,0.727
+201142,"Durant, Kevin",Phoenix Suns,1610612756,PHX,received,2,"Washington Jr., TyTy",1631102,0.007,0.34,0.06,0.08,0.11,0.714,0.08,0.11,0.714,0.0,0.0,
+201142,"Durant, Kevin",Phoenix Suns,1610612756,PHX,received,28,"Richards, Nick",1630208,0.034,1.63,0.06,0.16,0.48,0.333,0.15,0.39,0.375,0.02,0.1,0.167
+201142,"Durant, Kevin",Phoenix Suns,1610612756,PHX,received,12,"Bol, Bol",1629626,0.014,0.65,0.08,0.13,0.19,0.667,0.08,0.13,0.625,0.05,0.06,0.75
+201142,"Durant, Kevin",Phoenix Suns,1610612756,PHX,received,6,"Okogie, Josh",1629006,0.005,0.23,0.0,0.02,0.08,0.2,0.02,0.06,0.25,0.0,0.02,0.0
+201142,"Durant, Kevin",Phoenix Suns,1610612756,PHX,received,6,"Martin, Cody",1628998,0.005,0.23,0.03,0.03,0.08,0.4,0.02,0.05,0.333,0.02,0.03,0.5
+201142,"Durant, Kevin",Phoenix Suns,1610612756,PHX,received,43,"Allen, Grayson",1628960,0.064,3.03,0.24,0.42,1.08,0.388,0.32,0.76,0.426,0.1,0.32,0.3
+201142,"Durant, Kevin",Phoenix Suns,1610612756,PHX,received,24,"Morris, Monté",1628420,0.044,2.08,0.15,0.35,0.9,0.393,0.31,0.69,0.442,0.05,0.21,0.231
+201142,"Durant, Kevin",Phoenix Suns,1610612756,PHX,received,1,"Lee, Damion",1627814,0.001,0.03,0.02,0.02,0.03,0.5,0.02,0.03,0.5,0.0,0.0,
+201142,"Durant, Kevin",Phoenix Suns,1610612756,PHX,received,52,"O'Neale, Royce",1626220,0.093,4.4,0.39,0.85,1.77,0.482,0.73,1.21,0.6,0.13,0.56,0.229
+201142,"Durant, Kevin",Phoenix Suns,1610612756,PHX,received,56,"Booker, Devin",1626164,0.191,9.08,1.6,2.13,4.23,0.504,1.21,2.45,0.493,0.92,1.77,0.518
+201142,"Durant, Kevin",Phoenix Suns,1610612756,PHX,received,61,"Jones, Tyus",1626145,0.216,10.29,1.23,1.98,4.48,0.442,1.35,3.05,0.444,0.63,1.44,0.438
+201142,"Durant, Kevin",Phoenix Suns,1610612756,PHX,received,20,"Nurkić, Jusuf",203994,0.04,1.89,0.05,0.18,0.44,0.407,0.15,0.32,0.45,0.03,0.11,0.286
+201142,"Durant, Kevin",Phoenix Suns,1610612756,PHX,received,47,"Plumlee, Mason",203486,0.059,2.81,0.29,0.44,0.87,0.5,0.37,0.63,0.59,0.06,0.24,0.267
+201142,"Durant, Kevin",Phoenix Suns,1610612756,PHX,received,41,"Beal, Bradley",203078,0.129,6.13,0.68,1.27,2.6,0.491,0.97,1.94,0.5,0.31,0.66,0.463

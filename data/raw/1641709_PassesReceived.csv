@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641709,"Thompson, Ausar",Detroit Pistons,1610612765,DET,received,16,"Holland II, Ronald",1641842,0.017,0.36,0.02,0.02,0.03,0.5,0.02,0.02,1.0,0.0,0.02,0.0
+1641709,"Thompson, Ausar",Detroit Pistons,1610612765,DET,received,16,"Fontecchio, Simone",1631323,0.022,0.47,0.02,0.03,0.12,0.286,0.03,0.1,0.333,0.0,0.02,0.0
+1641709,"Thompson, Ausar",Detroit Pistons,1610612765,DET,received,26,"Sasser, Marcus",1631204,0.051,1.08,0.12,0.17,0.31,0.556,0.14,0.24,0.571,0.03,0.07,0.5
+1641709,"Thompson, Ausar",Detroit Pistons,1610612765,DET,received,3,"Moore Jr., Wendell",1631111,0.005,0.1,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1641709,"Thompson, Ausar",Detroit Pistons,1610612765,DET,received,55,"Duren, Jalen",1631105,0.183,3.86,0.46,0.58,1.17,0.493,0.56,1.1,0.508,0.02,0.07,0.25
+1641709,"Thompson, Ausar",Detroit Pistons,1610612765,DET,received,10,"Ivey, Jaden",1631093,0.027,0.58,0.03,0.07,0.2,0.333,0.05,0.14,0.375,0.02,0.07,0.25
+1641709,"Thompson, Ausar",Detroit Pistons,1610612765,DET,received,49,"Cunningham, Cade",1630595,0.316,6.69,1.2,1.32,2.61,0.506,1.24,2.27,0.545,0.08,0.34,0.25
+1641709,"Thompson, Ausar",Detroit Pistons,1610612765,DET,received,2,"Waters III, Lindy",1630322,0.008,0.17,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1641709,"Thompson, Ausar",Detroit Pistons,1610612765,DET,received,14,"Reed, Paul",1630194,0.018,0.39,0.07,0.1,0.15,0.667,0.1,0.14,0.75,0.0,0.02,0.0
+1641709,"Thompson, Ausar",Detroit Pistons,1610612765,DET,received,18,"Stewart, Isaiah",1630191,0.03,0.64,0.08,0.1,0.17,0.6,0.1,0.14,0.75,0.0,0.03,0.0
+1641709,"Thompson, Ausar",Detroit Pistons,1610612765,DET,received,33,"Beasley, Malik",1627736,0.05,1.07,0.1,0.19,0.37,0.5,0.19,0.37,0.5,0.0,0.0,
+1641709,"Thompson, Ausar",Detroit Pistons,1610612765,DET,received,43,"Hardaway Jr., Tim",203501,0.084,1.78,0.27,0.29,0.68,0.425,0.29,0.64,0.447,0.0,0.03,0.0
+1641709,"Thompson, Ausar",Detroit Pistons,1610612765,DET,received,16,"Schröder, Dennis",203471,0.079,1.68,0.1,0.19,0.51,0.367,0.17,0.47,0.357,0.02,0.03,0.5
+1641709,"Thompson, Ausar",Detroit Pistons,1610612765,DET,received,41,"Harris, Tobias",202699,0.108,2.29,0.19,0.27,0.63,0.432,0.25,0.53,0.484,0.02,0.1,0.167

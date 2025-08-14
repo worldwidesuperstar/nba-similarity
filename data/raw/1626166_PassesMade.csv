@@ -1,0 +1,20 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,7,"Dadiet, Pacôme",1642359,0.01,0.25,0.01,0.01,0.08,0.167,0.0,0.04,0.0,0.01,0.04,0.333
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,10,"Kolek, Tyler",1642278,0.017,0.42,0.07,0.08,0.13,0.667,0.03,0.04,0.667,0.06,0.08,0.667
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,1,"Watson, Anton",1641817,0.001,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,2,"McCullar Jr., Kevin",1641755,0.005,0.11,0.01,0.01,0.04,0.333,0.01,0.03,0.5,0.0,0.01,0.0
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,1,"Toppin, Jacob",1631210,0.001,0.01,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,10,"Sims, Jericho",1630579,0.018,0.44,0.04,0.04,0.04,1.0,0.04,0.04,1.0,0.0,0.0,
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,7,"Hukporti, Ariel",1630574,0.011,0.26,0.04,0.04,0.04,1.0,0.04,0.04,1.0,0.0,0.0,
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,51,"McBride, Miles",1630540,0.155,3.75,0.24,0.43,0.81,0.534,0.22,0.38,0.593,0.21,0.43,0.484
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,3,"Ryan, Matt",1630346,0.003,0.07,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,41,"Achiuwa, Precious",1630173,0.064,1.56,0.18,0.22,0.58,0.381,0.22,0.51,0.432,0.0,0.07,0.0
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,39,"Shamet, Landry",1629013,0.067,1.61,0.22,0.24,0.51,0.459,0.11,0.17,0.667,0.13,0.35,0.36
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,7,"Robinson, Mitchell",1629011,0.006,0.15,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,18,"Brunson, Jalen",1628973,0.034,0.83,0.04,0.1,0.19,0.5,0.07,0.14,0.5,0.03,0.06,0.5
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,62,"Bridges, Mikal",1628969,0.175,4.24,0.44,0.6,1.18,0.506,0.47,0.79,0.596,0.13,0.39,0.321
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,55,"Hart, Josh",1628404,0.137,3.32,0.17,0.24,0.53,0.447,0.17,0.29,0.571,0.07,0.24,0.294
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,52,"Anunoby, OG",1628384,0.087,2.1,0.38,0.4,0.82,0.492,0.22,0.42,0.533,0.18,0.4,0.448
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,61,"Towns, Karl-Anthony",1626157,0.201,4.86,0.9,1.17,2.42,0.483,0.9,1.79,0.504,0.26,0.63,0.422
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,4,"Wright, Delon",1626153,0.005,0.13,0.0,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1626166,"Payne, Cameron",New York Knicks,1610612752,NYK,made,1,"Tucker, P.J.",200782,0.002,0.06,0.01,0.01,0.03,0.5,0.0,0.0,,0.01,0.03,0.5

@@ -1,0 +1,18 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,received,1,"Kawamura, Yuki",1642530,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,received,28,"Wells, Jaylen",1642377,0.051,0.72,0.13,0.13,0.2,0.615,0.13,0.16,0.8,0.0,0.05,0.0
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,received,5,"Spencer, Cam",1642285,0.008,0.11,0.03,0.03,0.05,0.667,0.03,0.05,0.667,0.0,0.0,
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,received,1,"Edey, Zach",1641744,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,received,12,"Jackson, GG",1641713,0.024,0.34,0.06,0.06,0.14,0.444,0.06,0.14,0.444,0.0,0.0,
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,received,12,"Williams Jr., Vince",1631246,0.027,0.38,0.06,0.06,0.17,0.364,0.06,0.17,0.364,0.0,0.0,
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,received,27,"LaRavia, Jake",1631222,0.064,0.91,0.23,0.23,0.36,0.652,0.23,0.36,0.652,0.0,0.0,
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,received,5,"Huff, Jay",1630643,0.008,0.11,0.0,0.0,0.03,0.0,0.0,0.02,0.0,0.0,0.02,0.0
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,received,47,"Pippen Jr., Scotty",1630590,0.184,2.59,0.55,0.59,1.11,0.535,0.59,1.05,0.567,0.0,0.06,0.0
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,received,31,"Aldama, Santi",1630583,0.094,1.33,0.17,0.19,0.33,0.571,0.19,0.3,0.632,0.0,0.03,0.0
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,received,47,"Bane, Desmond",1630217,0.208,2.92,0.47,0.5,0.92,0.542,0.5,0.89,0.561,0.0,0.03,0.0
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,received,2,"Stevens, Lamar",1630205,0.002,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,received,8,"Konchar, John",1629723,0.013,0.19,0.03,0.03,0.05,0.667,0.03,0.05,0.667,0.0,0.0,
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,received,35,"Morant, Ja",1629630,0.132,1.86,0.59,0.61,1.0,0.609,0.61,0.98,0.619,0.0,0.02,0.0
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,received,35,"Jackson Jr., Jaren",1628991,0.072,1.02,0.11,0.13,0.2,0.615,0.11,0.16,0.7,0.02,0.05,0.333
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,received,34,"Kennard, Luke",1628379,0.09,1.27,0.2,0.22,0.47,0.467,0.22,0.45,0.483,0.0,0.02,0.0
+1629634,"Clarke, Brandon",Memphis Grizzlies,1610612763,MEM,received,10,"Smart, Marcus",203935,0.02,0.28,0.09,0.09,0.17,0.545,0.09,0.17,0.545,0.0,0.0,

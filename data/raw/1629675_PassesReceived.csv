@@ -1,0 +1,14 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629675,"Reid, Naz",Minnesota Timberwolves,1610612750,MIN,received,28,"Dillingham, Rob",1642265,0.064,1.86,0.34,0.4,0.81,0.492,0.16,0.33,0.5,0.24,0.49,0.487
+1629675,"Reid, Naz",Minnesota Timberwolves,1610612750,MIN,received,19,"Clark, Jaylen",1641740,0.013,0.38,0.04,0.05,0.11,0.444,0.04,0.05,0.75,0.01,0.06,0.2
+1629675,"Reid, Naz",Minnesota Timberwolves,1610612750,MIN,received,15,"Minott, Josh",1631169,0.009,0.26,0.05,0.05,0.08,0.667,0.04,0.06,0.6,0.01,0.01,1.0
+1629675,"Reid, Naz",Minnesota Timberwolves,1610612750,MIN,received,5,"Garza, Luka",1630568,0.003,0.08,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+1629675,"Reid, Naz",Minnesota Timberwolves,1610612750,MIN,received,10,"Shannon Jr., Terrence",1630545,0.013,0.38,0.06,0.06,0.16,0.385,0.05,0.1,0.5,0.01,0.06,0.2
+1629675,"Reid, Naz",Minnesota Timberwolves,1610612750,MIN,received,66,"McDaniels, Jaden",1630183,0.078,2.26,0.29,0.38,0.96,0.39,0.2,0.48,0.421,0.18,0.49,0.359
+1629675,"Reid, Naz",Minnesota Timberwolves,1610612750,MIN,received,75,"Edwards, Anthony",1630162,0.188,5.45,0.71,0.89,2.11,0.42,0.49,0.91,0.534,0.4,1.2,0.333
+1629675,"Reid, Naz",Minnesota Timberwolves,1610612750,MIN,received,80,"Alexander-Walker, Nickeil",1629638,0.194,5.64,0.71,0.86,2.08,0.416,0.56,1.24,0.455,0.3,0.84,0.358
+1629675,"Reid, Naz",Minnesota Timberwolves,1610612750,MIN,received,60,"DiVincenzo, Donte",1628978,0.154,4.48,0.5,0.63,1.56,0.4,0.43,0.84,0.507,0.2,0.73,0.276
+1629675,"Reid, Naz",Minnesota Timberwolves,1610612750,MIN,received,9,"Ingles, Joe",204060,0.013,0.39,0.05,0.06,0.15,0.417,0.04,0.09,0.429,0.03,0.06,0.4
+1629675,"Reid, Naz",Minnesota Timberwolves,1610612750,MIN,received,55,"Randle, Julius",203944,0.082,2.39,0.53,0.6,1.21,0.495,0.25,0.49,0.513,0.35,0.73,0.483
+1629675,"Reid, Naz",Minnesota Timberwolves,1610612750,MIN,received,51,"Gobert, Rudy",203497,0.04,1.18,0.1,0.13,0.43,0.294,0.06,0.21,0.294,0.06,0.21,0.294
+1629675,"Reid, Naz",Minnesota Timberwolves,1610612750,MIN,received,62,"Conley, Mike",201144,0.149,4.31,0.65,0.75,1.61,0.465,0.39,0.81,0.477,0.36,0.8,0.453

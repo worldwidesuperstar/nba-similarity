@@ -1,0 +1,22 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,4,"Traore, Armel",1642422,0.002,0.1,0.01,0.01,0.07,0.2,0.01,0.04,0.333,0.0,0.03,0.0
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,2,"James, Bronny",1642355,0.002,0.11,0.0,0.0,0.04,0.0,0.0,0.01,0.0,0.0,0.03,0.0
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,62,"Knecht, Dalton",1642261,0.06,3.44,0.61,0.63,1.6,0.393,0.34,0.56,0.615,0.29,1.04,0.274
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,6,"Jemison III, Trey",1641998,0.003,0.17,0.03,0.03,0.07,0.4,0.03,0.07,0.4,0.0,0.0,
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,1,"Hood-Schifino, Jalen",1641720,0.0,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,15,"Koloko, Christian",1631132,0.008,0.47,0.07,0.07,0.14,0.5,0.07,0.14,0.5,0.0,0.0,
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,37,"Christie, Max",1631108,0.053,3.04,0.46,0.47,1.31,0.359,0.31,0.66,0.478,0.16,0.66,0.239
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,17,"Goodwin, Jordan",1630692,0.013,0.76,0.06,0.07,0.19,0.385,0.03,0.07,0.4,0.04,0.11,0.375
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,64,"Reaves, Austin",1630559,0.281,16.1,1.5,2.13,4.77,0.446,1.09,2.09,0.521,1.04,2.69,0.388
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,49,"Hayes, Jaxson",1629637,0.049,2.79,0.73,0.74,1.21,0.612,0.74,1.2,0.619,0.0,0.01,0.0
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,22,"Reddish, Cam",1629629,0.014,0.8,0.13,0.13,0.36,0.36,0.09,0.21,0.4,0.04,0.14,0.3
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,61,"Vincent, Gabe",1629216,0.073,4.16,0.5,0.59,1.51,0.387,0.24,0.47,0.515,0.34,1.04,0.329
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,55,"Hachimura, Rui",1629060,0.106,6.06,1.46,1.54,3.09,0.5,1.07,1.84,0.581,0.47,1.24,0.379
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,23,"Dončić, Luka",1629029,0.071,4.06,0.24,0.57,1.44,0.396,0.29,0.79,0.364,0.29,0.66,0.435
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,27,"Vanderbilt, Jarred",1629020,0.016,0.93,0.2,0.2,0.41,0.483,0.19,0.36,0.52,0.01,0.06,0.25
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,13,"Milton, Shake",1629003,0.012,0.67,0.06,0.06,0.19,0.308,0.01,0.07,0.2,0.04,0.11,0.375
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,36,"Finney-Smith, Dorian",1627827,0.046,2.63,0.39,0.39,0.89,0.435,0.16,0.21,0.733,0.23,0.67,0.34
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,26,"Russell, D'Angelo",1626156,0.066,3.79,0.31,0.47,1.2,0.393,0.27,0.6,0.452,0.2,0.6,0.333
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,1,"Len, Alex",203458,0.0,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,39,"Davis, Anthony",203076,0.125,7.14,1.43,1.54,2.91,0.529,1.39,2.41,0.574,0.16,0.5,0.314
+2544,"James, LeBron",Los Angeles Lakers,1610612747,LAL,made,1,"Conley, Mike",201144,0.0,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,

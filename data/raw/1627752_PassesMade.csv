@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1627752,"Prince, Taurean",Milwaukee Bucks,1610612749,MIL,made,1,"Smith, Tyler",1641890,0.001,0.01,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1627752,"Prince, Taurean",Milwaukee Bucks,1610612749,MIL,made,1,"Livingston, Chris",1641753,0.002,0.04,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1627752,"Prince, Taurean",Milwaukee Bucks,1610612749,MIL,made,30,"Jackson Jr., Andre",1641748,0.029,0.65,0.16,0.18,0.26,0.667,0.09,0.11,0.778,0.09,0.15,0.583
+1627752,"Prince, Taurean",Milwaukee Bucks,1610612749,MIL,made,36,"Green, AJ",1631260,0.037,0.83,0.13,0.14,0.33,0.423,0.03,0.08,0.333,0.11,0.25,0.45
+1627752,"Prince, Taurean",Milwaukee Bucks,1610612749,MIL,made,26,"Rollins, Ryan",1631157,0.052,1.16,0.05,0.1,0.26,0.381,0.06,0.15,0.417,0.04,0.11,0.333
+1627752,"Prince, Taurean",Milwaukee Bucks,1610612749,MIL,made,4,"Sims, Jericho",1630579,0.003,0.06,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1627752,"Prince, Taurean",Milwaukee Bucks,1610612749,MIL,made,24,"Porter Jr., Kevin",1629645,0.051,1.15,0.03,0.14,0.34,0.407,0.11,0.23,0.5,0.03,0.11,0.222
+1627752,"Prince, Taurean",Milwaukee Bucks,1610612749,MIL,made,47,"Trent Jr., Gary",1629018,0.055,1.24,0.14,0.18,0.55,0.318,0.04,0.15,0.25,0.14,0.4,0.344
+1627752,"Prince, Taurean",Milwaukee Bucks,1610612749,MIL,made,28,"Kuzma, Kyle",1628398,0.034,0.78,0.15,0.16,0.45,0.361,0.14,0.26,0.524,0.03,0.19,0.133
+1627752,"Prince, Taurean",Milwaukee Bucks,1610612749,MIL,made,8,"Connaughton, Pat",1626192,0.011,0.25,0.03,0.03,0.06,0.4,0.0,0.0,,0.03,0.06,0.4
+1627752,"Prince, Taurean",Milwaukee Bucks,1610612749,MIL,made,36,"Portis, Bobby",1626171,0.053,1.19,0.14,0.24,0.51,0.463,0.21,0.43,0.5,0.03,0.09,0.286
+1627752,"Prince, Taurean",Milwaukee Bucks,1610612749,MIL,made,20,"Wright, Delon",1626153,0.032,0.71,0.03,0.03,0.06,0.4,0.0,0.01,0.0,0.03,0.05,0.5
+1627752,"Prince, Taurean",Milwaukee Bucks,1610612749,MIL,made,66,"Antetokounmpo, Giannis",203507,0.261,5.88,0.51,0.99,2.0,0.494,0.95,1.93,0.494,0.04,0.08,0.5
+1627752,"Prince, Taurean",Milwaukee Bucks,1610612749,MIL,made,8,"Middleton, Khris",203114,0.009,0.2,0.03,0.05,0.06,0.8,0.04,0.04,1.0,0.01,0.03,0.5
+1627752,"Prince, Taurean",Milwaukee Bucks,1610612749,MIL,made,58,"Lillard, Damian",203081,0.271,6.1,0.21,0.74,1.6,0.461,0.43,0.74,0.576,0.31,0.86,0.362
+1627752,"Prince, Taurean",Milwaukee Bucks,1610612749,MIL,made,69,"Lopez, Brook",201572,0.1,2.25,0.33,0.35,0.76,0.459,0.28,0.44,0.629,0.08,0.33,0.231

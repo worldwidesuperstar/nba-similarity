@@ -1,0 +1,19 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641731,"Coulibaly, Bilal",Washington Wizards,1610612764,WAS,received,2,"Johnson, AJ",1642358,0.002,0.07,0.02,0.02,0.07,0.25,0.02,0.03,0.5,0.0,0.03,0.0
+1641731,"Coulibaly, Bilal",Washington Wizards,1610612764,WAS,received,50,"George, Kyshawn",1642273,0.111,4.19,0.29,0.39,0.98,0.397,0.31,0.68,0.45,0.08,0.31,0.278
+1641731,"Coulibaly, Bilal",Washington Wizards,1610612764,WAS,received,58,"Carrington, Bub",1642267,0.212,7.95,0.41,0.63,1.86,0.336,0.44,1.08,0.406,0.19,0.78,0.239
+1641731,"Coulibaly, Bilal",Washington Wizards,1610612764,WAS,received,45,"Sarr, Alex",1642259,0.142,5.34,0.41,0.61,1.56,0.391,0.53,1.14,0.463,0.08,0.42,0.2
+1641731,"Coulibaly, Bilal",Washington Wizards,1610612764,WAS,received,6,"Vukcevic, Tristan",1641774,0.01,0.37,0.05,0.07,0.08,0.8,0.03,0.05,0.667,0.03,0.03,1.0
+1641731,"Coulibaly, Bilal",Washington Wizards,1610612764,WAS,received,5,"Davis, Johnny",1631098,0.005,0.19,0.0,0.0,0.07,0.0,0.0,0.07,0.0,0.0,0.0,
+1641731,"Coulibaly, Bilal",Washington Wizards,1610612764,WAS,received,46,"Kispert, Corey",1630557,0.058,2.17,0.15,0.19,0.42,0.44,0.17,0.29,0.588,0.02,0.14,0.125
+1641731,"Coulibaly, Bilal",Washington Wizards,1610612764,WAS,received,25,"Champagnie, Justin",1630551,0.04,1.49,0.0,0.05,0.31,0.167,0.03,0.22,0.154,0.02,0.08,0.2
+1641731,"Coulibaly, Bilal",Washington Wizards,1610612764,WAS,received,12,"Butler, Jared",1630215,0.013,0.49,0.05,0.1,0.19,0.545,0.07,0.15,0.444,0.03,0.03,1.0
+1641731,"Coulibaly, Bilal",Washington Wizards,1610612764,WAS,received,49,"Poole, Jordan",1629673,0.188,7.05,0.64,0.85,2.24,0.379,0.61,1.32,0.462,0.24,0.92,0.259
+1641731,"Coulibaly, Bilal",Washington Wizards,1610612764,WAS,received,1,"McDaniels, Jalen",1629667,0.0,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1641731,"Coulibaly, Bilal",Washington Wizards,1610612764,WAS,received,7,"Bagley III, Marvin",1628963,0.006,0.22,0.02,0.02,0.07,0.25,0.02,0.05,0.333,0.0,0.02,0.0
+1641731,"Coulibaly, Bilal",Washington Wizards,1610612764,WAS,received,26,"Kuzma, Kyle",1628398,0.05,1.86,0.17,0.22,0.64,0.342,0.12,0.29,0.412,0.1,0.36,0.286
+1641731,"Coulibaly, Bilal",Washington Wizards,1610612764,WAS,received,17,"Brogdon, Malcolm",1627763,0.043,1.63,0.08,0.12,0.46,0.259,0.07,0.25,0.267,0.05,0.2,0.25
+1641731,"Coulibaly, Bilal",Washington Wizards,1610612764,WAS,received,16,"Holmes, Richaun",1626158,0.026,0.98,0.05,0.12,0.29,0.412,0.07,0.22,0.308,0.05,0.07,0.75
+1641731,"Coulibaly, Bilal",Washington Wizards,1610612764,WAS,received,6,"Smart, Marcus",203935,0.004,0.14,0.02,0.02,0.05,0.333,0.02,0.03,0.5,0.0,0.02,0.0
+1641731,"Coulibaly, Bilal",Washington Wizards,1610612764,WAS,received,7,"Middleton, Khris",203114,0.017,0.64,0.14,0.17,0.32,0.526,0.12,0.19,0.636,0.05,0.14,0.375
+1641731,"Coulibaly, Bilal",Washington Wizards,1610612764,WAS,received,40,"Valančiūnas, Jonas",202685,0.074,2.76,0.2,0.31,0.83,0.367,0.2,0.61,0.333,0.1,0.22,0.462

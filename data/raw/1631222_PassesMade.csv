@@ -1,0 +1,13 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,made,1,"Jones, Isaac",1642403,0.003,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,made,7,"Carter, Devin",1642269,0.047,0.27,0.02,0.02,0.03,0.5,0.02,0.02,1.0,0.0,0.02,0.0
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,made,15,"Ellis, Keon",1631165,0.127,0.74,0.03,0.03,0.14,0.222,0.02,0.03,0.5,0.02,0.11,0.143
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,made,7,"Murray, Keegan",1631099,0.044,0.26,0.03,0.03,0.09,0.333,0.02,0.02,1.0,0.02,0.08,0.2
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,made,11,"Monk, Malik",1628370,0.171,1.0,0.02,0.09,0.26,0.353,0.06,0.09,0.667,0.03,0.17,0.182
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,made,10,"Fultz, Markelle",1628365,0.062,0.36,0.02,0.03,0.06,0.5,0.02,0.03,0.5,0.02,0.03,0.5
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,made,1,"Labissiere, Skal",1627746,0.003,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,made,5,"Sabonis, Domantas",1627734,0.047,0.27,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,made,14,"Lyles, Trey",1626168,0.083,0.48,0.09,0.11,0.15,0.7,0.06,0.09,0.667,0.05,0.06,0.75
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,made,18,"LaVine, Zach",203897,0.199,1.17,0.11,0.21,0.35,0.609,0.09,0.15,0.6,0.12,0.2,0.615
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,made,14,"Valančiūnas, Jonas",202685,0.09,0.53,0.0,0.0,0.03,0.0,0.0,0.02,0.0,0.0,0.02,0.0
+1631222,"LaRavia, Jake",Sacramento Kings,1610612758,SAC,made,16,"DeRozan, DeMar",201942,0.127,0.74,0.08,0.15,0.29,0.526,0.14,0.21,0.643,0.02,0.08,0.2

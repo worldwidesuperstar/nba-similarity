@@ -1,0 +1,18 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641710,"Black, Anthony",Orlando Magic,1610612753,ORL,received,60,"da Silva, Tristan",1641783,0.072,2.82,0.09,0.13,0.41,0.313,0.12,0.31,0.375,0.01,0.1,0.125
+1641710,"Black, Anthony",Orlando Magic,1610612753,ORL,received,39,"Howard, Jett",1641724,0.037,1.44,0.05,0.13,0.35,0.37,0.09,0.22,0.412,0.04,0.13,0.3
+1641710,"Black, Anthony",Orlando Magic,1610612753,ORL,received,2,"Black, Anthony",1641710,0.001,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1641710,"Black, Anthony",Orlando Magic,1610612753,ORL,received,34,"Houstan, Caleb",1631216,0.049,1.91,0.0,0.04,0.35,0.111,0.04,0.32,0.12,0.0,0.03,0.0
+1641710,"Black, Anthony",Orlando Magic,1610612753,ORL,received,46,"Banchero, Paolo",1631094,0.104,4.05,0.24,0.28,0.73,0.386,0.22,0.53,0.415,0.06,0.21,0.313
+1641710,"Black, Anthony",Orlando Magic,1610612753,ORL,received,1,"McClung, Mac",1630644,0.001,0.05,0.01,0.01,0.03,0.5,0.01,0.03,0.5,0.0,0.0,
+1641710,"Black, Anthony",Orlando Magic,1610612753,ORL,received,28,"Suggs, Jalen",1630591,0.061,2.37,0.08,0.13,0.36,0.357,0.06,0.21,0.313,0.06,0.15,0.417
+1641710,"Black, Anthony",Orlando Magic,1610612753,ORL,received,58,"Wagner, Franz",1630532,0.123,4.79,0.45,0.54,1.35,0.4,0.36,0.68,0.528,0.18,0.67,0.269
+1641710,"Black, Anthony",Orlando Magic,1610612753,ORL,received,15,"Queen, Trevelin",1630243,0.019,0.74,0.01,0.04,0.15,0.25,0.04,0.14,0.273,0.0,0.01,0.0
+1641710,"Black, Anthony",Orlando Magic,1610612753,ORL,received,40,"Anthony, Cole",1630175,0.066,2.56,0.13,0.21,0.58,0.356,0.14,0.36,0.393,0.06,0.22,0.294
+1641710,"Black, Anthony",Orlando Magic,1610612753,ORL,received,53,"Bitadze, Goga",1629048,0.091,3.54,0.18,0.29,0.71,0.418,0.19,0.49,0.395,0.1,0.22,0.471
+1641710,"Black, Anthony",Orlando Magic,1610612753,ORL,received,30,"Wagner, Moritz",1629021,0.058,2.26,0.09,0.17,0.51,0.325,0.14,0.37,0.379,0.03,0.14,0.182
+1641710,"Black, Anthony",Orlando Magic,1610612753,ORL,received,46,"Carter Jr., Wendell",1628976,0.058,2.27,0.15,0.23,0.56,0.409,0.18,0.44,0.412,0.05,0.13,0.4
+1641710,"Black, Anthony",Orlando Magic,1610612753,ORL,received,64,"Isaac, Jonathan",1628371,0.118,4.62,0.06,0.27,0.65,0.412,0.22,0.51,0.425,0.05,0.14,0.364
+1641710,"Black, Anthony",Orlando Magic,1610612753,ORL,received,36,"Harris, Gary",203914,0.037,1.46,0.04,0.13,0.35,0.37,0.09,0.23,0.389,0.04,0.12,0.333
+1641710,"Black, Anthony",Orlando Magic,1610612753,ORL,received,65,"Caldwell-Pope, Kentavious",203484,0.085,3.32,0.15,0.27,0.73,0.368,0.21,0.55,0.372,0.06,0.18,0.357
+1641710,"Black, Anthony",Orlando Magic,1610612753,ORL,received,15,"Joseph, Cory",202709,0.021,0.81,0.04,0.13,0.19,0.667,0.1,0.14,0.727,0.03,0.05,0.5

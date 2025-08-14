@@ -1,0 +1,19 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1627827,"Finney-Smith, Dorian",Los Angeles Lakers,1610612747,LAL,made,3,"James, Bronny",1642355,0.004,0.08,0.0,0.02,0.03,0.5,0.02,0.02,1.0,0.0,0.02,0.0
+1627827,"Finney-Smith, Dorian",Los Angeles Lakers,1610612747,LAL,made,13,"Knecht, Dalton",1642261,0.019,0.33,0.06,0.08,0.14,0.556,0.0,0.02,0.0,0.08,0.13,0.625
+1627827,"Finney-Smith, Dorian",Los Angeles Lakers,1610612747,LAL,made,3,"Jemison III, Trey",1641998,0.004,0.06,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1627827,"Finney-Smith, Dorian",Los Angeles Lakers,1610612747,LAL,made,1,"Koloko, Christian",1631132,0.002,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1627827,"Finney-Smith, Dorian",Los Angeles Lakers,1610612747,LAL,made,12,"Christie, Max",1631108,0.024,0.43,0.02,0.02,0.1,0.167,0.0,0.05,0.0,0.02,0.05,0.333
+1627827,"Finney-Smith, Dorian",Los Angeles Lakers,1610612747,LAL,made,13,"Goodwin, Jordan",1630692,0.026,0.46,0.02,0.03,0.11,0.286,0.02,0.05,0.333,0.02,0.06,0.25
+1627827,"Finney-Smith, Dorian",Los Angeles Lakers,1610612747,LAL,made,41,"Reaves, Austin",1630559,0.29,5.22,0.13,0.27,0.83,0.327,0.13,0.46,0.276,0.14,0.37,0.391
+1627827,"Finney-Smith, Dorian",Los Angeles Lakers,1610612747,LAL,made,17,"Hayes, Jaxson",1629637,0.021,0.38,0.05,0.05,0.08,0.6,0.05,0.08,0.6,0.0,0.0,
+1627827,"Finney-Smith, Dorian",Los Angeles Lakers,1610612747,LAL,made,1,"Reddish, Cam",1629629,0.001,0.02,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1627827,"Finney-Smith, Dorian",Los Angeles Lakers,1610612747,LAL,made,34,"Vincent, Gabe",1629216,0.097,1.75,0.11,0.17,0.38,0.458,0.03,0.05,0.667,0.14,0.33,0.429
+1627827,"Finney-Smith, Dorian",Los Angeles Lakers,1610612747,LAL,made,19,"Hachimura, Rui",1629060,0.033,0.59,0.1,0.11,0.17,0.636,0.06,0.13,0.5,0.05,0.05,1.0
+1627827,"Finney-Smith, Dorian",Los Angeles Lakers,1610612747,LAL,made,26,"Dončić, Luka",1629029,0.215,3.87,0.17,0.49,1.41,0.348,0.24,0.76,0.313,0.25,0.65,0.39
+1627827,"Finney-Smith, Dorian",Los Angeles Lakers,1610612747,LAL,made,8,"Vanderbilt, Jarred",1629020,0.008,0.14,0.03,0.03,0.08,0.4,0.03,0.05,0.667,0.0,0.03,0.0
+1627827,"Finney-Smith, Dorian",Los Angeles Lakers,1610612747,LAL,made,10,"Milton, Shake",1629003,0.026,0.46,0.0,0.0,0.06,0.0,0.0,0.05,0.0,0.0,0.02,0.0
+1627827,"Finney-Smith, Dorian",Los Angeles Lakers,1610612747,LAL,made,1,"Len, Alex",203458,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1627827,"Finney-Smith, Dorian",Los Angeles Lakers,1610612747,LAL,made,10,"Davis, Anthony",203076,0.023,0.41,0.03,0.06,0.17,0.364,0.05,0.14,0.333,0.02,0.03,0.5
+1627827,"Finney-Smith, Dorian",Los Angeles Lakers,1610612747,LAL,made,1,"Morris, Markieff",202693,0.001,0.02,0.02,0.02,0.02,1.0,0.0,0.0,,0.02,0.02,1.0
+1627827,"Finney-Smith, Dorian",Los Angeles Lakers,1610612747,LAL,made,38,"James, LeBron",2544,0.207,3.73,0.19,0.52,1.19,0.44,0.41,0.78,0.531,0.11,0.41,0.269

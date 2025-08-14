@@ -1,0 +1,14 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630558,"Mitchell, Davion",Miami Heat,1610612748,MIA,received,28,"Ware, Kel'el",1642276,0.148,3.03,0.03,0.14,0.31,0.435,0.12,0.24,0.5,0.01,0.07,0.2
+1630558,"Mitchell, Davion",Miami Heat,1610612748,MIA,received,14,"Larsson, Pelle",1641796,0.046,0.93,0.01,0.04,0.18,0.231,0.03,0.14,0.2,0.01,0.04,0.333
+1630558,"Mitchell, Davion",Miami Heat,1610612748,MIA,received,14,"Jaquez Jr., Jaime",1631170,0.046,0.95,0.03,0.12,0.2,0.6,0.08,0.14,0.6,0.04,0.07,0.6
+1630558,"Mitchell, Davion",Miami Heat,1610612748,MIA,received,5,"Jović, Nikola",1631107,0.02,0.41,0.01,0.01,0.03,0.5,0.01,0.03,0.5,0.0,0.0,
+1630558,"Mitchell, Davion",Miami Heat,1610612748,MIA,received,26,"Herro, Tyler",1629639,0.179,3.66,0.2,0.28,0.62,0.457,0.08,0.19,0.429,0.2,0.43,0.469
+1630558,"Mitchell, Davion",Miami Heat,1610612748,MIA,received,23,"Highsmith, Haywood",1629312,0.116,2.36,0.11,0.23,0.43,0.531,0.16,0.32,0.5,0.07,0.11,0.625
+1630558,"Mitchell, Davion",Miami Heat,1610612748,MIA,received,20,"Robinson, Duncan",1629130,0.056,1.14,0.01,0.07,0.12,0.556,0.07,0.11,0.625,0.0,0.01,0.0
+1630558,"Mitchell, Davion",Miami Heat,1610612748,MIA,received,27,"Adebayo, Bam",1628389,0.137,2.8,0.12,0.2,0.47,0.429,0.12,0.26,0.474,0.08,0.22,0.375
+1630558,"Mitchell, Davion",Miami Heat,1610612748,MIA,received,8,"Rozier, Terry",1626179,0.021,0.43,0.01,0.01,0.04,0.333,0.0,0.03,0.0,0.01,0.01,1.0
+1630558,"Mitchell, Davion",Miami Heat,1610612748,MIA,received,16,"Wiggins, Andrew",203952,0.056,1.15,0.09,0.16,0.28,0.571,0.09,0.14,0.7,0.07,0.15,0.455
+1630558,"Mitchell, Davion",Miami Heat,1610612748,MIA,received,18,"Anderson, Kyle",203937,0.087,1.78,0.05,0.08,0.23,0.353,0.03,0.11,0.25,0.05,0.12,0.444
+1630558,"Mitchell, Davion",Miami Heat,1610612748,MIA,received,20,"Burks, Alec",202692,0.073,1.49,0.0,0.04,0.12,0.333,0.04,0.11,0.375,0.0,0.01,0.0
+1630558,"Mitchell, Davion",Miami Heat,1610612748,MIA,received,3,"Love, Kevin",201567,0.015,0.31,0.01,0.03,0.04,0.667,0.01,0.03,0.5,0.01,0.01,1.0

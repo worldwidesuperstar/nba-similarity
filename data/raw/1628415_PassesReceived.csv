@@ -1,0 +1,14 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1628415,"Brooks, Dillon",Houston Rockets,1610612745,HOU,received,13,"Sheppard, Reed",1642263,0.011,0.29,0.03,0.03,0.09,0.286,0.01,0.05,0.25,0.01,0.04,0.333
+1628415,"Brooks, Dillon",Houston Rockets,1610612745,HOU,received,13,"Whitmore, Cam",1641715,0.01,0.27,0.05,0.07,0.16,0.417,0.03,0.11,0.25,0.04,0.05,0.75
+1628415,"Brooks, Dillon",Houston Rockets,1610612745,HOU,received,56,"Thompson, Amen",1641708,0.114,2.93,0.61,0.69,1.44,0.481,0.25,0.56,0.452,0.44,0.88,0.5
+1628415,"Brooks, Dillon",Houston Rockets,1610612745,HOU,received,40,"Eason, Tari",1631106,0.047,1.2,0.16,0.2,0.44,0.455,0.05,0.11,0.5,0.15,0.33,0.44
+1628415,"Brooks, Dillon",Houston Rockets,1610612745,HOU,received,49,"Smith Jr., Jabari",1631095,0.059,1.53,0.11,0.16,0.48,0.333,0.05,0.21,0.25,0.11,0.27,0.4
+1628415,"Brooks, Dillon",Houston Rockets,1610612745,HOU,received,72,"Sengun, Alperen",1630578,0.2,5.16,0.87,1.07,2.68,0.398,0.57,1.27,0.453,0.49,1.41,0.349
+1628415,"Brooks, Dillon",Houston Rockets,1610612745,HOU,received,16,"Tate, Jae'Sean",1630256,0.016,0.41,0.05,0.05,0.13,0.4,0.01,0.07,0.2,0.04,0.07,0.6
+1628415,"Brooks, Dillon",Houston Rockets,1610612745,HOU,received,74,"Green, Jalen",1630224,0.242,6.25,0.72,1.0,2.71,0.369,0.47,1.19,0.393,0.53,1.52,0.351
+1628415,"Brooks, Dillon",Houston Rockets,1610612745,HOU,received,10,"Landale, Jock",1629111,0.007,0.19,0.01,0.03,0.09,0.286,0.01,0.04,0.333,0.01,0.05,0.25
+1628415,"Brooks, Dillon",Houston Rockets,1610612745,HOU,received,18,"Holiday, Aaron",1628988,0.024,0.63,0.09,0.11,0.28,0.381,0.04,0.11,0.375,0.07,0.17,0.385
+1628415,"Brooks, Dillon",Houston Rockets,1610612745,HOU,received,56,"VanVleet, Fred",1627832,0.219,5.65,0.67,1.0,2.33,0.429,0.53,1.12,0.476,0.47,1.21,0.385
+1628415,"Brooks, Dillon",Houston Rockets,1610612745,HOU,received,34,"Adams, Steven",203500,0.043,1.11,0.15,0.27,0.57,0.465,0.17,0.41,0.419,0.09,0.16,0.583
+1628415,"Brooks, Dillon",Houston Rockets,1610612745,HOU,received,8,"Green, Jeff",201145,0.007,0.17,0.03,0.04,0.11,0.375,0.04,0.07,0.6,0.0,0.04,0.0

@@ -1,0 +1,20 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,1,"Johnson, Keshad",1642352,0.001,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,26,"Ware, Kel'el",1642276,0.024,0.51,0.12,0.12,0.18,0.692,0.09,0.12,0.778,0.03,0.05,0.5
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,19,"Larsson, Pelle",1641796,0.028,0.59,0.04,0.07,0.15,0.455,0.05,0.08,0.667,0.01,0.07,0.2
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,35,"Jaquez Jr., Jaime",1631170,0.066,1.41,0.15,0.18,0.47,0.371,0.18,0.35,0.5,0.0,0.12,0.0
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,20,"Jović, Nikola",1631107,0.03,0.64,0.07,0.09,0.19,0.5,0.04,0.08,0.5,0.05,0.11,0.5
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,10,"Smith, Dru",1630696,0.013,0.27,0.0,0.03,0.05,0.5,0.03,0.03,1.0,0.0,0.03,0.0
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,23,"Mitchell, Davion",1630558,0.112,2.36,0.11,0.23,0.43,0.531,0.16,0.32,0.5,0.07,0.11,0.625
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,2,"Christopher, Josh",1630528,0.001,0.03,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,68,"Herro, Tyler",1629639,0.238,5.05,0.31,0.66,1.43,0.462,0.38,0.74,0.509,0.28,0.69,0.412
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,51,"Robinson, Duncan",1629130,0.083,1.76,0.2,0.23,0.54,0.425,0.07,0.11,0.625,0.16,0.43,0.375
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,1,"Bryant, Thomas",1628418,0.001,0.03,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,65,"Adebayo, Bam",1628389,0.145,3.07,0.23,0.36,0.89,0.409,0.32,0.81,0.4,0.04,0.08,0.5
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,4,"Richardson, Josh",1626196,0.005,0.11,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,45,"Rozier, Terry",1626179,0.112,2.38,0.08,0.16,0.57,0.286,0.12,0.3,0.409,0.04,0.27,0.15
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,9,"Wiggins, Andrew",203952,0.017,0.35,0.07,0.11,0.12,0.889,0.05,0.05,1.0,0.05,0.07,0.8
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,12,"Anderson, Kyle",203937,0.027,0.58,0.01,0.05,0.14,0.4,0.04,0.09,0.429,0.01,0.04,0.333
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,20,"Butler III, Jimmy",202710,0.042,0.89,0.01,0.09,0.24,0.389,0.09,0.22,0.438,0.0,0.03,0.0
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,21,"Burks, Alec",202692,0.035,0.74,0.07,0.08,0.2,0.4,0.03,0.07,0.4,0.05,0.14,0.4
+1629312,"Highsmith, Haywood",Miami Heat,1610612748,MIA,made,15,"Love, Kevin",201567,0.02,0.42,0.03,0.03,0.19,0.143,0.0,0.04,0.0,0.03,0.15,0.182

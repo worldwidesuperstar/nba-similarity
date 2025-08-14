@@ -1,6 +1,6 @@
 from nba_api.stats.endpoints import (
     leagueleaders, playerdashboardbygeneralsplits, shotchartdetail, playerdashptshots,
-    leaguehustlestatsplayer, leaguedashplayerclutch, playerdashptpassing, assisttracker
+    leaguehustlestatsplayer, leaguedashplayerclutch, playerdashptpass, assisttracker
 )
 import pandas as pd
 import time
@@ -18,6 +18,7 @@ def fetch_top_200_pp48(season='2024-25'):
 
     top200.to_csv('data/raw/top200_per.csv', index=False)
     print('saved top 200 players by PTS/48 to CSV.')
+
     return top200
 
 def fetch_save_advanced_data(df, season='2024-25', delay=5):
@@ -123,6 +124,122 @@ def fetch_save_shot_tracking_data(df, season='2024-25', delay=8):
         
         time.sleep(delay)
 
+def retry_fetch_hustle_stats(season, max_retries=3, pause=5):
+    for attempt in range(max_retries):
+        try:
+            hustle = leaguehustlestatsplayer.LeagueHustleStatsPlayer(
+                per_mode_time='Per36',
+                season=season,
+                season_type_all_star='Regular Season'
+            )
+            df = hustle.get_data_frames()[0]
+            return df
+        except Exception as e:
+            wait = pause * (attempt + 1)
+            print(f"timeout/error for hustle stats on attempt {attempt+1}. retrying in {wait} seconds...")
+            time.sleep(wait)
+    print(f"failed to fetch hustle stats after {max_retries} attempts.")
+    return None
+
+def retry_fetch_clutch_stats(season, max_retries=3, pause=5):
+    for attempt in range(max_retries):
+        try:
+            clutch = leaguedashplayerclutch.LeagueDashPlayerClutch(
+                ahead_behind='Ahead or Behind',
+                clutch_time='Last 5 Minutes',
+                measure_type_detailed_defense='Base',
+                per_mode_detailed='Per36',
+                season=season,
+                season_type_all_star='Regular Season'
+            )
+            df = clutch.get_data_frames()[0]
+            return df
+        except Exception as e:
+            wait = pause * (attempt + 1)
+            print(f"timeout/error for clutch stats on attempt {attempt+1}. retrying in {wait} seconds...")
+            time.sleep(wait)
+    print(f"failed to fetch clutch stats after {max_retries} attempts.")
+    return None
+
+def retry_fetch_passing_data(player_id, team_id, season, max_retries=3, pause=5):
+    for attempt in range(max_retries):
+        try:
+            passing = playerdashptpass.PlayerDashPtPass(
+                player_id=player_id,
+                team_id=team_id,
+                season=season,
+                season_type_all_star='Regular Season',
+                per_mode_simple='PerGame'
+            )
+            dataframes = passing.get_data_frames()
+            return dataframes
+        except Exception as e:
+            wait = pause * (attempt + 1)
+            print(f"timeout/error for {player_id} passing data on attempt {attempt+1}. retrying in {wait} seconds...")
+            time.sleep(wait)
+    print(f"failed to fetch passing data for {player_id} after {max_retries} attempts.")
+    return None
+
+def retry_fetch_assist_tracker(season, max_retries=3, pause=5):
+    for attempt in range(max_retries):
+        try:
+            assist = assisttracker.AssistTracker(
+                per_mode_simple_nullable='PerGame',
+                season_nullable=season,
+                season_type_all_star_nullable='Regular Season'
+            )
+            df = assist.get_data_frames()[0]
+            return df
+        except Exception as e:
+            wait = pause * (attempt + 1)
+            print(f"timeout/error for assist tracker on attempt {attempt+1}. retrying in {wait} seconds...")
+            time.sleep(wait)
+    print(f"failed to fetch assist tracker after {max_retries} attempts.")
+    return None
+
+def fetch_save_basketball_iq_data(season='2024-25'):
+    # fetch league hustle stats
+
+    hustle_data = retry_fetch_hustle_stats(season)
+    if hustle_data is not None:
+        hustle_data.to_csv('data/raw/league_hustle_stats.csv', index=False)
+        print("saved league hustle stats.")
+    
+    # fetch league clutch stats  
+    clutch_data = retry_fetch_clutch_stats(season)
+    if clutch_data is not None:
+        clutch_data.to_csv('data/raw/league_clutch_stats.csv', index=False)
+        print("saved league clutch stats.")
+    
+    # fetch league assist tracker
+    assist_data = retry_fetch_assist_tracker(season)
+    if assist_data is not None:
+        assist_data.to_csv('data/raw/league_assist_tracker.csv', index=False)
+        print("saved league assist tracker.")
+
+def fetch_save_passing_data(df, season='2024-25', delay=8):
+    for idx, row in df.iterrows():
+        player_id = row['PLAYER_ID']
+        team_id = row['TEAM_ID']
+        player_name = row['PLAYER']
+        
+        passing_data = retry_fetch_passing_data(player_id, team_id, season)
+        
+        if passing_data:
+            # Save each dataframe with actual endpoint dataset names
+            dataframe_names = [
+                'PassesMade',
+                'PassesReceived'
+            ]
+            
+            for i, df_pass in enumerate(passing_data):
+                if not df_pass.empty and i < len(dataframe_names):
+                    filename = f'data/raw/{player_id}_{dataframe_names[i]}.csv'
+                    df_pass.to_csv(filename, index=False)
+                    print(f"saved {dataframe_names[i]} for {player_name}.")
+        
+        time.sleep(delay)
+
 if __name__ == "__main__":
     top200 = fetch_top_200_pp48()
     
@@ -130,3 +247,7 @@ if __name__ == "__main__":
     # fetch_save_advanced_data(top200)
     
     # fetch_save_shot_tracking_data(top200)
+    
+    # 8/14 added new endpoints
+    # fetch_save_basketball_iq_data()
+    fetch_save_passing_data(top200)

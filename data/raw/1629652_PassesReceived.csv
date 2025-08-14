@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629652,"Dort, Luguentz",Oklahoma City Thunder,1610612760,OKC,received,14,"Mitchell, Ajay",1642349,0.014,0.27,0.03,0.03,0.08,0.333,0.01,0.04,0.333,0.01,0.04,0.333
+1629652,"Dort, Luguentz",Oklahoma City Thunder,1610612760,OKC,received,8,"Jones, Dillon",1641794,0.009,0.18,0.01,0.01,0.06,0.25,0.0,0.01,0.0,0.01,0.04,0.333
+1629652,"Dort, Luguentz",Oklahoma City Thunder,1610612760,OKC,received,1,"Flagler, Adam",1641745,0.001,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629652,"Dort, Luguentz",Oklahoma City Thunder,1610612760,OKC,received,57,"Wallace, Cason",1641717,0.109,2.15,0.39,0.45,1.03,0.438,0.17,0.39,0.429,0.28,0.63,0.444
+1629652,"Dort, Luguentz",Oklahoma City Thunder,1610612760,OKC,received,8,"Dieng, Ousmane",1631172,0.006,0.13,0.03,0.03,0.06,0.5,0.01,0.03,0.5,0.01,0.03,0.5
+1629652,"Dort, Luguentz",Oklahoma City Thunder,1610612760,OKC,received,27,"Williams, Jaylin",1631119,0.046,0.92,0.1,0.1,0.27,0.368,0.03,0.04,0.667,0.07,0.23,0.313
+1629652,"Dort, Luguentz",Oklahoma City Thunder,1610612760,OKC,received,63,"Williams, Jalen",1631114,0.211,4.17,0.55,0.61,1.75,0.347,0.07,0.35,0.2,0.54,1.39,0.384
+1629652,"Dort, Luguentz",Oklahoma City Thunder,1610612760,OKC,received,22,"Holmgren, Chet",1631096,0.041,0.8,0.1,0.11,0.23,0.5,0.07,0.1,0.714,0.04,0.13,0.333
+1629652,"Dort, Luguentz",Oklahoma City Thunder,1610612760,OKC,received,36,"Wiggins, Aaron",1630598,0.051,1.01,0.18,0.2,0.39,0.5,0.07,0.08,0.833,0.13,0.31,0.409
+1629652,"Dort, Luguentz",Oklahoma City Thunder,1610612760,OKC,received,42,"Joe, Isaiah",1630198,0.06,1.2,0.17,0.18,0.45,0.406,0.08,0.18,0.462,0.1,0.27,0.368
+1629652,"Dort, Luguentz",Oklahoma City Thunder,1610612760,OKC,received,31,"Williams, Kenrich",1629026,0.042,0.83,0.14,0.14,0.31,0.455,0.03,0.11,0.25,0.11,0.2,0.571
+1629652,"Dort, Luguentz",Oklahoma City Thunder,1610612760,OKC,received,69,"Gilgeous-Alexander, Shai",1628983,0.271,5.37,1.04,1.07,2.46,0.434,0.24,0.59,0.405,0.83,1.87,0.444
+1629652,"Dort, Luguentz",Oklahoma City Thunder,1610612760,OKC,received,46,"Hartenstein, Isaiah",1628392,0.1,1.97,0.21,0.27,0.63,0.422,0.14,0.24,0.588,0.13,0.39,0.321
+1629652,"Dort, Luguentz",Oklahoma City Thunder,1610612760,OKC,received,33,"Caruso, Alex",1627936,0.038,0.76,0.15,0.18,0.37,0.5,0.08,0.18,0.462,0.1,0.18,0.538

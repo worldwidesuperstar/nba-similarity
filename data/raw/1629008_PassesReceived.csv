@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629008,"Porter Jr., Michael",Denver Nuggets,1610612743,DEN,received,1,"Jones, Spencer",1642461,0.0,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629008,"Porter Jr., Michael",Denver Nuggets,1610612743,DEN,received,6,"Tyson, Hunter",1641816,0.004,0.1,0.01,0.01,0.03,0.5,0.01,0.01,1.0,0.0,0.01,0.0
+1629008,"Porter Jr., Michael",Denver Nuggets,1610612743,DEN,received,1,"Alexander, Trey",1641725,0.001,0.04,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1629008,"Porter Jr., Michael",Denver Nuggets,1610612743,DEN,received,41,"Watson, Peyton",1631212,0.046,1.32,0.21,0.25,0.56,0.442,0.16,0.27,0.571,0.09,0.29,0.318
+1629008,"Porter Jr., Michael",Denver Nuggets,1610612743,DEN,received,67,"Braun, Christian",1631128,0.084,2.42,0.47,0.48,1.04,0.463,0.3,0.55,0.548,0.18,0.49,0.368
+1629008,"Porter Jr., Michael",Denver Nuggets,1610612743,DEN,received,37,"Strawther, Julian",1631124,0.028,0.79,0.14,0.17,0.39,0.433,0.06,0.14,0.455,0.1,0.25,0.421
+1629008,"Porter Jr., Michael",Denver Nuggets,1610612743,DEN,received,16,"Nnaji, Zeke",1630192,0.01,0.3,0.08,0.08,0.18,0.429,0.03,0.05,0.5,0.05,0.13,0.4
+1629008,"Porter Jr., Michael",Denver Nuggets,1610612743,DEN,received,20,"Pickett, Jalen",1629618,0.028,0.81,0.12,0.13,0.3,0.435,0.04,0.12,0.333,0.09,0.18,0.5
+1629008,"Porter Jr., Michael",Denver Nuggets,1610612743,DEN,received,6,"Čančar, Vlatko",1628427,0.005,0.16,0.0,0.0,0.1,0.0,0.0,0.01,0.0,0.0,0.09,0.0
+1629008,"Porter Jr., Michael",Denver Nuggets,1610612743,DEN,received,62,"Murray, Jamal",1627750,0.143,4.08,0.86,0.95,1.88,0.503,0.47,0.78,0.6,0.48,1.1,0.435
+1629008,"Porter Jr., Michael",Denver Nuggets,1610612743,DEN,received,66,"Jokić, Nikola",203999,0.36,10.3,2.01,2.23,4.53,0.493,1.18,2.38,0.497,1.05,2.16,0.488
+1629008,"Porter Jr., Michael",Denver Nuggets,1610612743,DEN,received,9,"Šarić, Dario",203967,0.015,0.44,0.06,0.06,0.17,0.385,0.06,0.1,0.625,0.0,0.06,0.0
+1629008,"Porter Jr., Michael",Denver Nuggets,1610612743,DEN,received,44,"Gordon, Aaron",203932,0.096,2.74,0.47,0.48,1.1,0.435,0.31,0.55,0.571,0.17,0.56,0.302
+1629008,"Porter Jr., Michael",Denver Nuggets,1610612743,DEN,received,26,"Jordan, DeAndre",201599,0.027,0.78,0.12,0.13,0.4,0.323,0.12,0.23,0.5,0.01,0.17,0.077
+1629008,"Porter Jr., Michael",Denver Nuggets,1610612743,DEN,received,70,"Westbrook, Russell",201566,0.151,4.31,0.94,1.04,1.99,0.523,0.81,1.27,0.633,0.23,0.71,0.327

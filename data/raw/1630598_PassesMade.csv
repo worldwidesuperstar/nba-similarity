@@ -1,0 +1,18 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630598,"Wiggins, Aaron",Oklahoma City Thunder,1610612760,OKC,made,5,"Ducas, Alex",1642505,0.006,0.13,0.03,0.03,0.04,0.667,0.0,0.0,,0.03,0.04,0.667
+1630598,"Wiggins, Aaron",Oklahoma City Thunder,1610612760,OKC,made,1,"Leons, Malevy",1642502,0.002,0.05,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+1630598,"Wiggins, Aaron",Oklahoma City Thunder,1610612760,OKC,made,11,"Carlson, Branden",1642382,0.019,0.41,0.09,0.09,0.2,0.467,0.03,0.03,1.0,0.07,0.17,0.385
+1630598,"Wiggins, Aaron",Oklahoma City Thunder,1610612760,OKC,made,26,"Mitchell, Ajay",1642349,0.048,1.03,0.07,0.09,0.21,0.438,0.07,0.13,0.5,0.03,0.08,0.333
+1630598,"Wiggins, Aaron",Oklahoma City Thunder,1610612760,OKC,made,14,"Jones, Dillon",1641794,0.02,0.42,0.05,0.05,0.14,0.364,0.05,0.09,0.571,0.0,0.05,0.0
+1630598,"Wiggins, Aaron",Oklahoma City Thunder,1610612760,OKC,made,9,"Flagler, Adam",1641745,0.011,0.22,0.01,0.01,0.12,0.111,0.0,0.05,0.0,0.01,0.07,0.2
+1630598,"Wiggins, Aaron",Oklahoma City Thunder,1610612760,OKC,made,46,"Wallace, Cason",1641717,0.061,1.29,0.07,0.17,0.42,0.406,0.16,0.26,0.6,0.01,0.16,0.083
+1630598,"Wiggins, Aaron",Oklahoma City Thunder,1610612760,OKC,made,19,"Dieng, Ousmane",1631172,0.027,0.58,0.09,0.09,0.16,0.583,0.03,0.05,0.5,0.07,0.11,0.625
+1630598,"Wiggins, Aaron",Oklahoma City Thunder,1610612760,OKC,made,32,"Williams, Jaylin",1631119,0.077,1.63,0.11,0.12,0.36,0.333,0.03,0.11,0.25,0.09,0.25,0.368
+1630598,"Wiggins, Aaron",Oklahoma City Thunder,1610612760,OKC,made,64,"Williams, Jalen",1631114,0.2,4.25,0.16,0.45,1.29,0.347,0.38,0.95,0.403,0.07,0.34,0.192
+1630598,"Wiggins, Aaron",Oklahoma City Thunder,1610612760,OKC,made,19,"Holmgren, Chet",1631096,0.031,0.66,0.13,0.14,0.25,0.579,0.09,0.18,0.5,0.05,0.07,0.8
+1630598,"Wiggins, Aaron",Oklahoma City Thunder,1610612760,OKC,made,35,"Joe, Isaiah",1630198,0.054,1.16,0.2,0.22,0.41,0.548,0.03,0.08,0.333,0.2,0.33,0.6
+1630598,"Wiggins, Aaron",Oklahoma City Thunder,1610612760,OKC,made,36,"Dort, Luguentz",1629652,0.045,0.95,0.17,0.18,0.37,0.5,0.07,0.08,0.833,0.12,0.29,0.409
+1630598,"Wiggins, Aaron",Oklahoma City Thunder,1610612760,OKC,made,37,"Williams, Kenrich",1629026,0.053,1.13,0.16,0.18,0.38,0.483,0.09,0.17,0.538,0.09,0.21,0.438
+1630598,"Wiggins, Aaron",Oklahoma City Thunder,1610612760,OKC,made,66,"Gilgeous-Alexander, Shai",1628983,0.217,4.62,0.22,0.8,1.58,0.508,0.63,1.16,0.545,0.17,0.42,0.406
+1630598,"Wiggins, Aaron",Oklahoma City Thunder,1610612760,OKC,made,44,"Hartenstein, Isaiah",1628392,0.077,1.63,0.09,0.09,0.33,0.28,0.09,0.3,0.304,0.0,0.03,0.0
+1630598,"Wiggins, Aaron",Oklahoma City Thunder,1610612760,OKC,made,33,"Caruso, Alex",1627936,0.051,1.09,0.12,0.12,0.21,0.563,0.09,0.12,0.778,0.03,0.09,0.286

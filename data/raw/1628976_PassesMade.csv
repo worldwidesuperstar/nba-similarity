@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1628976,"Carter Jr., Wendell",Orlando Magic,1610612753,ORL,made,37,"da Silva, Tristan",1641783,0.047,1.19,0.22,0.24,0.51,0.457,0.18,0.35,0.5,0.06,0.16,0.364
+1628976,"Carter Jr., Wendell",Orlando Magic,1610612753,ORL,made,21,"Howard, Jett",1641724,0.031,0.78,0.07,0.1,0.28,0.368,0.04,0.15,0.3,0.06,0.13,0.444
+1628976,"Carter Jr., Wendell",Orlando Magic,1610612753,ORL,made,46,"Black, Anthony",1641710,0.103,2.6,0.18,0.26,0.65,0.409,0.21,0.5,0.412,0.06,0.15,0.4
+1628976,"Carter Jr., Wendell",Orlando Magic,1610612753,ORL,made,17,"Houstan, Caleb",1631216,0.017,0.43,0.03,0.03,0.15,0.2,0.0,0.01,0.0,0.03,0.13,0.222
+1628976,"Carter Jr., Wendell",Orlando Magic,1610612753,ORL,made,46,"Banchero, Paolo",1631094,0.165,4.16,0.29,0.69,1.68,0.412,0.46,1.06,0.431,0.24,0.62,0.381
+1628976,"Carter Jr., Wendell",Orlando Magic,1610612753,ORL,made,23,"Suggs, Jalen",1630591,0.092,2.32,0.07,0.29,0.72,0.408,0.16,0.41,0.393,0.13,0.31,0.429
+1628976,"Carter Jr., Wendell",Orlando Magic,1610612753,ORL,made,47,"Wagner, Franz",1630532,0.172,4.34,0.35,0.66,1.4,0.474,0.56,1.03,0.543,0.1,0.37,0.28
+1628976,"Carter Jr., Wendell",Orlando Magic,1610612753,ORL,made,13,"Queen, Trevelin",1630243,0.022,0.54,0.03,0.03,0.15,0.2,0.01,0.13,0.111,0.01,0.01,1.0
+1628976,"Carter Jr., Wendell",Orlando Magic,1610612753,ORL,made,43,"Anthony, Cole",1630175,0.127,3.21,0.12,0.32,0.78,0.415,0.22,0.51,0.429,0.1,0.26,0.389
+1628976,"Carter Jr., Wendell",Orlando Magic,1610612753,ORL,made,10,"Bitadze, Goga",1629048,0.013,0.34,0.1,0.1,0.18,0.583,0.1,0.16,0.636,0.0,0.01,0.0
+1628976,"Carter Jr., Wendell",Orlando Magic,1610612753,ORL,made,2,"Wagner, Moritz",1629021,0.001,0.03,0.01,0.01,0.03,0.5,0.01,0.01,1.0,0.0,0.01,0.0
+1628976,"Carter Jr., Wendell",Orlando Magic,1610612753,ORL,made,16,"Isaac, Jonathan",1628371,0.016,0.41,0.09,0.09,0.19,0.462,0.07,0.13,0.556,0.01,0.06,0.25
+1628976,"Carter Jr., Wendell",Orlando Magic,1610612753,ORL,made,20,"Harris, Gary",203914,0.02,0.5,0.03,0.03,0.12,0.25,0.01,0.06,0.25,0.01,0.06,0.25
+1628976,"Carter Jr., Wendell",Orlando Magic,1610612753,ORL,made,58,"Caldwell-Pope, Kentavious",203484,0.111,2.81,0.31,0.38,0.84,0.456,0.26,0.46,0.581,0.12,0.38,0.308
+1628976,"Carter Jr., Wendell",Orlando Magic,1610612753,ORL,made,30,"Joseph, Cory",202709,0.062,1.56,0.07,0.07,0.16,0.455,0.03,0.06,0.5,0.04,0.1,0.429

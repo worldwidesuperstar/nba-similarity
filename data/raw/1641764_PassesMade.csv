@@ -1,0 +1,20 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,30,"Post, Quinten",1642366,0.046,1.98,0.22,0.22,0.48,0.452,0.09,0.2,0.462,0.13,0.28,0.444
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,3,"Rowe, Jackson",1642050,0.004,0.16,0.02,0.02,0.08,0.2,0.0,0.02,0.0,0.02,0.06,0.25
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,27,"Jackson-Davis, Trayce",1631218,0.038,1.66,0.14,0.16,0.3,0.526,0.16,0.3,0.526,0.0,0.0,
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,29,"Santos, Gui",1630611,0.026,1.11,0.08,0.08,0.19,0.417,0.03,0.06,0.5,0.05,0.13,0.375
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,55,"Moody, Moses",1630541,0.085,3.67,0.39,0.44,1.31,0.333,0.22,0.48,0.452,0.22,0.83,0.264
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,20,"Waters III, Lindy",1630322,0.029,1.27,0.11,0.11,0.34,0.318,0.02,0.05,0.333,0.09,0.3,0.316
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,6,"Spencer, Pat",1630311,0.004,0.19,0.02,0.02,0.03,0.5,0.02,0.02,1.0,0.0,0.02,0.0
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,36,"Kuminga, Jonathan",1630228,0.079,3.42,0.39,0.55,1.5,0.365,0.39,1.03,0.379,0.16,0.47,0.333
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,5,"Melton, De'Anthony",1629001,0.012,0.53,0.03,0.03,0.09,0.333,0.0,0.02,0.0,0.03,0.08,0.4
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,4,"Knox II, Kevin",1628995,0.006,0.27,0.03,0.03,0.05,0.667,0.02,0.02,1.0,0.02,0.03,0.5
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,29,"Payton II, Gary",1627780,0.026,1.13,0.17,0.17,0.38,0.458,0.13,0.16,0.8,0.05,0.22,0.214
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,57,"Hield, Buddy",1627741,0.099,4.28,0.34,0.48,1.45,0.333,0.16,0.41,0.385,0.33,1.05,0.313
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,53,"Looney, Kevon",1626172,0.077,3.33,0.11,0.14,0.36,0.391,0.14,0.34,0.409,0.0,0.02,0.0
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,26,"Wiggins, Andrew",203952,0.042,1.8,0.14,0.22,0.66,0.333,0.09,0.41,0.231,0.13,0.25,0.5
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,24,"Anderson, Kyle",203937,0.038,1.64,0.09,0.11,0.31,0.35,0.03,0.14,0.222,0.08,0.17,0.455
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,12,"Schröder, Dennis",203471,0.033,1.41,0.09,0.09,0.23,0.4,0.03,0.09,0.333,0.06,0.14,0.444
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,47,"Green, Draymond",203110,0.155,6.69,0.41,0.45,1.13,0.403,0.25,0.56,0.444,0.2,0.56,0.361
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,24,"Butler III, Jimmy",202710,0.105,4.53,0.34,0.41,0.92,0.441,0.34,0.75,0.458,0.06,0.17,0.364
+1641764,"Podziemski, Brandin",Golden State Warriors,1610612744,GSW,made,47,"Curry, Stephen",201939,0.097,4.19,0.31,0.42,1.45,0.29,0.13,0.44,0.286,0.3,1.02,0.292

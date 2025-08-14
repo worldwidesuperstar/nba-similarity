@@ -1,0 +1,20 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,28,"Post, Quinten",1642366,0.035,1.97,0.13,0.26,0.44,0.581,0.11,0.16,0.727,0.14,0.29,0.5
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,1,"Rowe, Jackson",1642050,0.001,0.04,0.03,0.03,0.03,1.0,0.0,0.0,,0.03,0.03,1.0
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,47,"Podziemski, Brandin",1641764,0.067,3.83,0.29,0.39,1.33,0.29,0.11,0.4,0.286,0.27,0.93,0.292
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,36,"Jackson-Davis, Trayce",1631218,0.047,2.7,0.19,0.31,0.73,0.431,0.14,0.33,0.435,0.17,0.4,0.429
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,35,"Santos, Gui",1630611,0.051,2.9,0.27,0.37,0.81,0.456,0.24,0.44,0.548,0.13,0.37,0.346
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,45,"Moody, Moses",1630541,0.031,1.76,0.19,0.27,0.56,0.487,0.11,0.23,0.5,0.16,0.33,0.478
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,21,"Waters III, Lindy",1630322,0.017,0.96,0.0,0.07,0.23,0.313,0.03,0.07,0.4,0.04,0.16,0.273
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,4,"Spencer, Pat",1630311,0.005,0.27,0.0,0.01,0.06,0.25,0.01,0.04,0.333,0.0,0.01,0.0
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,32,"Kuminga, Jonathan",1630228,0.048,2.76,0.17,0.33,0.86,0.383,0.17,0.36,0.48,0.16,0.5,0.314
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,3,"Melton, De'Anthony",1629001,0.005,0.27,0.04,0.06,0.07,0.8,0.04,0.06,0.75,0.01,0.01,1.0
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,2,"Knox II, Kevin",1628995,0.002,0.1,0.0,0.03,0.03,1.0,0.0,0.0,,0.03,0.03,1.0
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,51,"Payton II, Gary",1627780,0.076,4.34,0.16,0.39,1.19,0.325,0.19,0.46,0.406,0.2,0.73,0.275
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,67,"Hield, Buddy",1627741,0.093,5.31,0.27,0.64,1.67,0.385,0.31,0.7,0.449,0.33,0.97,0.338
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,61,"Looney, Kevon",1626172,0.076,4.34,0.3,0.67,1.56,0.431,0.3,0.74,0.404,0.37,0.81,0.456
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,37,"Wiggins, Andrew",203952,0.051,2.91,0.24,0.39,0.83,0.466,0.11,0.26,0.444,0.27,0.57,0.475
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,22,"Anderson, Kyle",203937,0.025,1.4,0.19,0.23,0.46,0.5,0.07,0.17,0.417,0.16,0.29,0.55
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,20,"Schröder, Dennis",203471,0.039,2.23,0.16,0.2,0.6,0.333,0.09,0.23,0.375,0.11,0.37,0.308
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,59,"Green, Draymond",203110,0.275,15.69,1.79,2.39,5.16,0.463,1.07,2.06,0.521,1.31,3.1,0.424
+201939,"Curry, Stephen",Golden State Warriors,1610612744,GSW,received,27,"Butler III, Jimmy",202710,0.058,3.33,0.46,0.59,1.23,0.477,0.24,0.4,0.607,0.34,0.83,0.414

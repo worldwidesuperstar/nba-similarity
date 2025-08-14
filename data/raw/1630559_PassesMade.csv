@@ -1,0 +1,20 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,1,"James, Bronny",1642355,0.0,0.03,0.01,0.01,0.01,1.0,0.0,0.0,,0.01,0.01,1.0
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,55,"Knecht, Dalton",1642261,0.061,3.52,0.55,0.58,1.19,0.483,0.26,0.42,0.613,0.32,0.77,0.411
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,6,"Jemison III, Trey",1641998,0.002,0.14,0.04,0.04,0.08,0.5,0.04,0.08,0.5,0.0,0.0,
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,15,"Koloko, Christian",1631132,0.011,0.62,0.1,0.1,0.15,0.636,0.1,0.15,0.636,0.0,0.0,
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,36,"Christie, Max",1631108,0.053,3.08,0.36,0.4,0.88,0.453,0.1,0.26,0.368,0.3,0.62,0.489
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,20,"Goodwin, Jordan",1630692,0.02,1.15,0.08,0.1,0.25,0.389,0.05,0.1,0.571,0.04,0.15,0.273
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,41,"Hayes, Jaxson",1629637,0.034,1.99,0.3,0.3,0.48,0.629,0.3,0.48,0.629,0.0,0.0,
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,23,"Reddish, Cam",1629629,0.015,0.88,0.07,0.07,0.21,0.333,0.03,0.07,0.4,0.04,0.14,0.3
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,56,"Vincent, Gabe",1629216,0.051,2.92,0.26,0.29,0.63,0.457,0.07,0.1,0.714,0.22,0.53,0.41
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,53,"Hachimura, Rui",1629060,0.075,4.32,0.74,0.84,1.92,0.436,0.56,1.12,0.5,0.27,0.79,0.345
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,26,"Dončić, Luka",1629029,0.097,5.59,0.25,0.63,1.75,0.359,0.48,1.12,0.427,0.15,0.63,0.239
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,29,"Vanderbilt, Jarred",1629020,0.023,1.3,0.12,0.12,0.42,0.29,0.12,0.37,0.333,0.0,0.05,0.0
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,11,"Milton, Shake",1629003,0.009,0.49,0.04,0.07,0.14,0.5,0.05,0.1,0.571,0.01,0.04,0.333
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,40,"Finney-Smith, Dorian",1627827,0.059,3.41,0.32,0.32,0.9,0.348,0.11,0.21,0.533,0.21,0.7,0.294
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,25,"Russell, D'Angelo",1626156,0.047,2.74,0.16,0.21,0.67,0.306,0.11,0.19,0.571,0.1,0.48,0.2
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,5,"Len, Alex",203458,0.003,0.18,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,37,"Davis, Anthony",203076,0.152,8.78,0.95,1.32,3.01,0.436,1.19,2.64,0.451,0.12,0.37,0.333
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,3,"Morris, Markieff",202693,0.004,0.21,0.0,0.01,0.1,0.143,0.01,0.04,0.333,0.0,0.05,0.0
+1630559,"Reaves, Austin",Los Angeles Lakers,1610612747,LAL,made,64,"James, LeBron",2544,0.284,16.41,1.4,2.22,4.55,0.488,1.75,3.22,0.545,0.47,1.33,0.351

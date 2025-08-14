@@ -1,0 +1,14 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,received,39,"Camara, Toumani",1641739,0.093,1.34,0.13,0.13,0.31,0.429,0.13,0.28,0.474,0.0,0.03,0.0
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,received,10,"Rupert, Rayan",1641712,0.016,0.22,0.0,0.01,0.07,0.2,0.01,0.04,0.333,0.0,0.03,0.0
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,received,1,"Moore, Taze",1631386,0.006,0.09,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,received,2,"Cissoko, Sidy",1631321,0.003,0.04,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,received,19,"Murray, Kris",1631200,0.027,0.39,0.12,0.13,0.21,0.643,0.12,0.19,0.615,0.01,0.01,1.0
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,received,6,"Walker, Jabari",1631133,0.007,0.1,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,received,41,"Sharpe, Shaedon",1631101,0.104,1.51,0.09,0.09,0.33,0.273,0.09,0.27,0.333,0.0,0.06,0.0
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,received,48,"Henderson, Scoot",1630703,0.212,3.06,0.39,0.39,0.66,0.591,0.28,0.43,0.655,0.1,0.22,0.467
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,received,30,"Banton, Dalano",1630625,0.15,2.16,0.33,0.36,0.64,0.558,0.3,0.52,0.571,0.06,0.12,0.5
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,received,41,"Avdija, Deni",1630166,0.16,2.31,0.4,0.45,0.82,0.545,0.43,0.7,0.617,0.01,0.12,0.125
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,received,6,"Thybulle, Matisse",1629680,0.019,0.27,0.0,0.0,0.01,0.0,0.0,0.01,0.0,0.0,0.0,
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,received,48,"Simons, Anfernee",1629014,0.164,2.37,0.13,0.16,0.34,0.478,0.16,0.3,0.55,0.0,0.04,0.0
+1642270,"Clingan, Donovan",Portland Trail Blazers,1610612757,POR,received,22,"Grant, Jerami",203924,0.038,0.55,0.09,0.09,0.22,0.4,0.07,0.16,0.455,0.01,0.06,0.25

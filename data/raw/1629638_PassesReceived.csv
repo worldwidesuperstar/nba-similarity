@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629638,"Alexander-Walker, Nickeil",Minnesota Timberwolves,1610612750,MIN,received,28,"Dillingham, Rob",1642265,0.044,1.48,0.17,0.18,0.5,0.366,0.07,0.17,0.429,0.11,0.33,0.333
+1629638,"Alexander-Walker, Nickeil",Minnesota Timberwolves,1610612750,MIN,received,24,"Clark, Jaylen",1641740,0.016,0.54,0.07,0.09,0.16,0.538,0.06,0.09,0.714,0.02,0.07,0.333
+1629638,"Alexander-Walker, Nickeil",Minnesota Timberwolves,1610612750,MIN,received,15,"Minott, Josh",1631169,0.009,0.32,0.02,0.02,0.07,0.333,0.0,0.01,0.0,0.02,0.06,0.4
+1629638,"Alexander-Walker, Nickeil",Minnesota Timberwolves,1610612750,MIN,received,1,"Miller, Leonard",1631159,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629638,"Alexander-Walker, Nickeil",Minnesota Timberwolves,1610612750,MIN,received,15,"Garza, Luka",1630568,0.013,0.45,0.01,0.01,0.07,0.167,0.0,0.02,0.0,0.01,0.05,0.25
+1629638,"Alexander-Walker, Nickeil",Minnesota Timberwolves,1610612750,MIN,received,13,"Shannon Jr., Terrence",1630545,0.012,0.4,0.05,0.05,0.18,0.267,0.01,0.04,0.333,0.04,0.15,0.25
+1629638,"Alexander-Walker, Nickeil",Minnesota Timberwolves,1610612750,MIN,received,62,"McDaniels, Jaden",1630183,0.105,3.52,0.29,0.33,0.67,0.491,0.2,0.29,0.667,0.13,0.38,0.355
+1629638,"Alexander-Walker, Nickeil",Minnesota Timberwolves,1610612750,MIN,received,77,"Edwards, Anthony",1630162,0.142,4.77,0.39,0.44,1.11,0.396,0.16,0.3,0.52,0.28,0.8,0.348
+1629638,"Alexander-Walker, Nickeil",Minnesota Timberwolves,1610612750,MIN,received,79,"Reid, Naz",1629675,0.198,6.66,0.43,0.54,1.1,0.489,0.24,0.5,0.488,0.29,0.6,0.49
+1629638,"Alexander-Walker, Nickeil",Minnesota Timberwolves,1610612750,MIN,received,60,"DiVincenzo, Donte",1628978,0.138,4.62,0.39,0.44,0.99,0.444,0.21,0.51,0.405,0.23,0.48,0.487
+1629638,"Alexander-Walker, Nickeil",Minnesota Timberwolves,1610612750,MIN,received,1,"Dozier, PJ",1628408,0.0,0.01,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629638,"Alexander-Walker, Nickeil",Minnesota Timberwolves,1610612750,MIN,received,9,"Ingles, Joe",204060,0.009,0.3,0.04,0.04,0.1,0.375,0.02,0.06,0.4,0.01,0.04,0.333
+1629638,"Alexander-Walker, Nickeil",Minnesota Timberwolves,1610612750,MIN,received,65,"Randle, Julius",203944,0.107,3.6,0.3,0.33,0.91,0.36,0.09,0.22,0.389,0.24,0.7,0.351
+1629638,"Alexander-Walker, Nickeil",Minnesota Timberwolves,1610612750,MIN,received,68,"Gobert, Rudy",203497,0.124,4.17,0.18,0.29,0.65,0.453,0.17,0.34,0.5,0.12,0.3,0.4
+1629638,"Alexander-Walker, Nickeil",Minnesota Timberwolves,1610612750,MIN,received,51,"Conley, Mike",201144,0.081,2.73,0.29,0.33,0.82,0.403,0.15,0.33,0.444,0.18,0.49,0.375

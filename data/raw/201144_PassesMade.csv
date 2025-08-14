@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+201144,"Conley, Mike",Minnesota Timberwolves,1610612750,MIN,made,7,"Dillingham, Rob",1642265,0.007,0.3,0.01,0.03,0.07,0.4,0.03,0.06,0.5,0.0,0.01,0.0
+201144,"Conley, Mike",Minnesota Timberwolves,1610612750,MIN,made,13,"Clark, Jaylen",1641740,0.009,0.39,0.08,0.08,0.18,0.462,0.04,0.07,0.6,0.04,0.11,0.375
+201144,"Conley, Mike",Minnesota Timberwolves,1610612750,MIN,made,4,"Minott, Josh",1631169,0.001,0.06,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+201144,"Conley, Mike",Minnesota Timberwolves,1610612750,MIN,made,1,"Miller, Leonard",1631159,0.0,0.01,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+201144,"Conley, Mike",Minnesota Timberwolves,1610612750,MIN,made,4,"Garza, Luka",1630568,0.002,0.08,0.01,0.01,0.06,0.25,0.01,0.04,0.333,0.0,0.01,0.0
+201144,"Conley, Mike",Minnesota Timberwolves,1610612750,MIN,made,5,"Shannon Jr., Terrence",1630545,0.005,0.2,0.01,0.03,0.06,0.5,0.03,0.06,0.5,0.0,0.0,
+201144,"Conley, Mike",Minnesota Timberwolves,1610612750,MIN,made,71,"McDaniels, Jaden",1630183,0.125,5.24,0.76,0.9,1.8,0.5,0.63,1.18,0.536,0.27,0.62,0.432
+201144,"Conley, Mike",Minnesota Timberwolves,1610612750,MIN,made,68,"Edwards, Anthony",1630162,0.248,10.38,0.86,1.45,3.35,0.433,0.87,1.8,0.484,0.58,1.55,0.373
+201144,"Conley, Mike",Minnesota Timberwolves,1610612750,MIN,made,62,"Reid, Naz",1629675,0.116,4.86,0.73,0.85,1.82,0.465,0.44,0.92,0.477,0.41,0.9,0.453
+201144,"Conley, Mike",Minnesota Timberwolves,1610612750,MIN,made,51,"Alexander-Walker, Nickeil",1629638,0.075,3.15,0.34,0.38,0.94,0.403,0.17,0.38,0.444,0.21,0.56,0.375
+201144,"Conley, Mike",Minnesota Timberwolves,1610612750,MIN,made,49,"DiVincenzo, Donte",1628978,0.065,2.73,0.35,0.38,0.83,0.458,0.15,0.28,0.55,0.23,0.55,0.41
+201144,"Conley, Mike",Minnesota Timberwolves,1610612750,MIN,made,1,"Ingles, Joe",204060,0.001,0.04,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+201144,"Conley, Mike",Minnesota Timberwolves,1610612750,MIN,made,62,"Randle, Julius",203944,0.216,9.06,0.62,1.03,2.7,0.38,0.68,1.7,0.397,0.35,1.0,0.352
+201144,"Conley, Mike",Minnesota Timberwolves,1610612750,MIN,made,63,"Gobert, Rudy",203497,0.128,5.34,0.69,0.72,1.23,0.586,0.72,1.23,0.586,0.0,0.0,

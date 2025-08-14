@@ -1,0 +1,24 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,17,"Johnson, AJ",1642358,0.079,1.68,0.03,0.08,0.32,0.25,0.06,0.15,0.444,0.02,0.18,0.091
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,26,"George, Kyshawn",1642273,0.049,1.03,0.02,0.03,0.18,0.182,0.02,0.06,0.25,0.02,0.11,0.143
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,51,"Carrington, Bub",1642267,0.28,5.94,0.19,0.35,0.92,0.386,0.18,0.45,0.393,0.18,0.47,0.379
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,32,"Sarr, Alex",1642259,0.075,1.6,0.11,0.15,0.53,0.273,0.1,0.29,0.333,0.05,0.24,0.2
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,4,"Martin, Jaylen",1641798,0.008,0.18,0.03,0.03,0.06,0.5,0.03,0.06,0.5,0.0,0.0,
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,18,"Vukcevic, Tristan",1641774,0.026,0.55,0.11,0.13,0.27,0.471,0.08,0.23,0.357,0.05,0.05,1.0
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,9,"Jones, Colby",1641732,0.021,0.45,0.02,0.03,0.15,0.222,0.03,0.1,0.333,0.0,0.05,0.0
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,25,"Coulibaly, Bilal",1641731,0.067,1.42,0.0,0.05,0.29,0.167,0.03,0.21,0.154,0.02,0.08,0.2
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,3,"Baldwin Jr., Patrick",1631116,0.003,0.06,0.03,0.03,0.03,1.0,0.02,0.02,1.0,0.02,0.02,1.0
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,4,"Davis, Johnny",1631098,0.005,0.1,0.02,0.02,0.06,0.25,0.02,0.06,0.25,0.0,0.0,
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,24,"Kispert, Corey",1630557,0.03,0.63,0.05,0.08,0.13,0.625,0.05,0.1,0.5,0.03,0.03,1.0
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,3,"Thor, JT",1630550,0.006,0.13,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,8,"Gill, Anthony",1630264,0.009,0.19,0.03,0.03,0.08,0.4,0.02,0.05,0.333,0.02,0.03,0.5
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,17,"Butler, Jared",1630215,0.063,1.34,0.08,0.21,0.37,0.565,0.15,0.29,0.5,0.06,0.08,0.8
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,35,"Poole, Jordan",1629673,0.148,3.13,0.06,0.29,0.79,0.367,0.11,0.24,0.467,0.18,0.55,0.324
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,1,"McDaniels, Jalen",1629667,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,2,"Bagley III, Marvin",1628963,0.004,0.08,0.0,0.02,0.02,1.0,0.02,0.02,1.0,0.0,0.0,
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,6,"Kuzma, Kyle",1628398,0.01,0.21,0.03,0.03,0.08,0.4,0.03,0.05,0.667,0.0,0.03,0.0
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,12,"Brogdon, Malcolm",1627763,0.04,0.84,0.03,0.05,0.16,0.3,0.03,0.08,0.4,0.02,0.08,0.2
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,15,"Holmes, Richaun",1626158,0.019,0.4,0.05,0.05,0.08,0.6,0.05,0.08,0.6,0.0,0.0,
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,11,"Smart, Marcus",203935,0.032,0.68,0.03,0.1,0.16,0.6,0.08,0.15,0.556,0.02,0.02,1.0
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,5,"Middleton, Khris",203114,0.009,0.19,0.0,0.0,0.03,0.0,0.0,0.02,0.0,0.0,0.02,0.0
+1630551,"Champagnie, Justin",Washington Wizards,1610612764,WAS,made,9,"Valančiūnas, Jonas",202685,0.017,0.35,0.03,0.05,0.11,0.429,0.05,0.08,0.6,0.0,0.03,0.0

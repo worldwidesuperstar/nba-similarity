@@ -1,0 +1,24 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,3,"Gortman, Jazian",1641789,0.001,0.05,0.01,0.01,0.01,1.0,0.0,0.0,,0.01,0.01,1.0
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,31,"Prosper, Olivier-Maxence",1641765,0.03,1.05,0.1,0.1,0.34,0.296,0.05,0.24,0.211,0.05,0.1,0.5
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,26,"Lively II, Dereck",1641726,0.036,1.24,0.19,0.19,0.35,0.536,0.19,0.35,0.536,0.0,0.0,
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,31,"Christie, Max",1631108,0.062,2.15,0.2,0.24,0.76,0.317,0.11,0.32,0.36,0.13,0.44,0.286
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,43,"Hardy, Jaden",1630702,0.052,1.81,0.23,0.34,0.78,0.435,0.18,0.41,0.438,0.16,0.38,0.433
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,21,"Edwards, Kessler",1630556,0.023,0.81,0.13,0.13,0.23,0.556,0.06,0.09,0.714,0.06,0.14,0.455
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,11,"Jones, Kai",1630539,0.019,0.66,0.2,0.24,0.3,0.792,0.24,0.29,0.826,0.0,0.01,0.0
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,16,"Williams, Brandon",1630314,0.024,0.82,0.13,0.15,0.25,0.6,0.08,0.14,0.545,0.08,0.11,0.667
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,3,"Kelley, Kylor",1630283,0.001,0.05,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,60,"Marshall, Naji",1630230,0.138,4.81,0.62,0.87,1.86,0.469,0.66,1.28,0.515,0.22,0.58,0.37
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,39,"Grimes, Quentin",1629656,0.062,2.15,0.24,0.35,0.75,0.475,0.2,0.3,0.667,0.15,0.44,0.343
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,46,"Gafford, Daniel",1629655,0.074,2.57,0.41,0.43,0.8,0.54,0.43,0.8,0.54,0.0,0.0,
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,2,"Brown, Moses",1629650,0.001,0.04,0.03,0.03,0.03,1.0,0.03,0.03,1.0,0.0,0.0,
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,17,"Dončić, Luka",1629029,0.038,1.34,0.09,0.22,0.59,0.362,0.15,0.38,0.4,0.06,0.22,0.294
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,47,"Washington, P.J.",1629023,0.109,3.82,0.62,0.81,1.71,0.474,0.48,1.03,0.469,0.33,0.68,0.481
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,12,"Martin, Caleb",1628997,0.014,0.49,0.0,0.05,0.15,0.333,0.05,0.1,0.5,0.0,0.05,0.0
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,26,"Kleber, Maxi",1628467,0.031,1.09,0.05,0.05,0.28,0.182,0.01,0.13,0.1,0.04,0.15,0.25
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,11,"Exum, Danté",203957,0.015,0.52,0.06,0.09,0.16,0.538,0.08,0.14,0.545,0.01,0.03,0.5
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,25,"Powell, Dwight",203939,0.02,0.7,0.05,0.05,0.1,0.5,0.04,0.09,0.429,0.01,0.01,1.0
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,8,"Davis, Anthony",203076,0.042,1.47,0.19,0.27,0.67,0.396,0.25,0.57,0.444,0.01,0.1,0.125
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,4,"Morris, Markieff",202693,0.004,0.13,0.0,0.0,0.06,0.0,0.0,0.03,0.0,0.0,0.04,0.0
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,59,"Thompson, Klay",202691,0.092,3.22,0.49,0.57,1.32,0.433,0.23,0.47,0.486,0.34,0.85,0.403
+203915,"Dinwiddie, Spencer",Dallas Mavericks,1610612742,DAL,made,45,"Irving, Kyrie",202681,0.113,3.95,0.35,0.7,1.81,0.385,0.38,0.92,0.411,0.32,0.89,0.357

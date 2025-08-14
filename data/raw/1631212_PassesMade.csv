@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631212,"Watson, Peyton",Denver Nuggets,1610612743,DEN,made,7,"Tyson, Hunter",1641816,0.009,0.19,0.0,0.04,0.1,0.429,0.03,0.04,0.667,0.01,0.06,0.25
+1631212,"Watson, Peyton",Denver Nuggets,1610612743,DEN,made,2,"Alexander, Trey",1641725,0.002,0.04,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+1631212,"Watson, Peyton",Denver Nuggets,1610612743,DEN,made,45,"Braun, Christian",1631128,0.082,1.78,0.21,0.25,0.31,0.81,0.19,0.22,0.867,0.06,0.09,0.667
+1631212,"Watson, Peyton",Denver Nuggets,1610612743,DEN,made,36,"Strawther, Julian",1631124,0.061,1.32,0.06,0.06,0.26,0.222,0.03,0.1,0.286,0.03,0.16,0.182
+1631212,"Watson, Peyton",Denver Nuggets,1610612743,DEN,made,9,"Nnaji, Zeke",1630192,0.007,0.16,0.03,0.03,0.07,0.4,0.03,0.06,0.5,0.0,0.01,0.0
+1631212,"Watson, Peyton",Denver Nuggets,1610612743,DEN,made,18,"Pickett, Jalen",1629618,0.036,0.79,0.01,0.03,0.1,0.286,0.01,0.03,0.5,0.01,0.07,0.2
+1631212,"Watson, Peyton",Denver Nuggets,1610612743,DEN,made,41,"Porter Jr., Michael",1629008,0.069,1.5,0.24,0.28,0.63,0.442,0.18,0.31,0.571,0.1,0.32,0.318
+1631212,"Watson, Peyton",Denver Nuggets,1610612743,DEN,made,3,"Čančar, Vlatko",1628427,0.003,0.07,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631212,"Watson, Peyton",Denver Nuggets,1610612743,DEN,made,51,"Murray, Jamal",1627750,0.198,4.32,0.13,0.46,0.94,0.484,0.29,0.62,0.476,0.16,0.32,0.5
+1631212,"Watson, Peyton",Denver Nuggets,1610612743,DEN,made,51,"Jokić, Nikola",203999,0.198,4.32,0.41,0.5,0.82,0.607,0.41,0.62,0.667,0.09,0.21,0.429
+1631212,"Watson, Peyton",Denver Nuggets,1610612743,DEN,made,7,"Šarić, Dario",203967,0.021,0.46,0.0,0.01,0.09,0.167,0.01,0.06,0.25,0.0,0.03,0.0
+1631212,"Watson, Peyton",Denver Nuggets,1610612743,DEN,made,22,"Gordon, Aaron",203932,0.05,1.09,0.07,0.1,0.28,0.368,0.04,0.15,0.3,0.06,0.13,0.444
+1631212,"Watson, Peyton",Denver Nuggets,1610612743,DEN,made,23,"Jordan, DeAndre",201599,0.034,0.75,0.09,0.09,0.13,0.667,0.09,0.13,0.667,0.0,0.0,
+1631212,"Watson, Peyton",Denver Nuggets,1610612743,DEN,made,64,"Westbrook, Russell",201566,0.23,5.01,0.13,0.34,0.88,0.383,0.24,0.68,0.348,0.1,0.21,0.5

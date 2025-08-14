@@ -1,0 +1,20 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,2,"Kawamura, Yuki",1642530,0.005,0.12,0.02,0.03,0.03,1.0,0.02,0.02,1.0,0.02,0.02,1.0
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,41,"Wells, Jaylen",1642377,0.048,1.29,0.17,0.2,0.31,0.65,0.11,0.17,0.636,0.09,0.14,0.667
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,8,"Spencer, Cam",1642285,0.014,0.38,0.05,0.05,0.12,0.375,0.02,0.03,0.5,0.03,0.09,0.333
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,35,"Edey, Zach",1641744,0.066,1.78,0.2,0.28,0.45,0.621,0.17,0.25,0.688,0.11,0.2,0.538
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,15,"Jackson, GG",1641713,0.018,0.48,0.0,0.02,0.05,0.333,0.02,0.03,0.5,0.0,0.02,0.0
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,17,"Williams Jr., Vince",1631246,0.035,0.95,0.06,0.09,0.2,0.462,0.08,0.11,0.714,0.02,0.09,0.167
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,28,"LaRavia, Jake",1631222,0.059,1.6,0.17,0.2,0.46,0.433,0.06,0.18,0.333,0.14,0.28,0.5
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,1,"Castleton, Colin",1630658,0.001,0.02,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,21,"Huff, Jay",1630643,0.028,0.75,0.03,0.05,0.17,0.273,0.0,0.0,,0.05,0.17,0.273
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,49,"Pippen Jr., Scotty",1630590,0.137,3.68,0.48,0.55,1.06,0.522,0.18,0.37,0.5,0.37,0.69,0.533
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,46,"Aldama, Santi",1630583,0.11,2.95,0.18,0.2,0.48,0.419,0.09,0.18,0.5,0.11,0.29,0.368
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,47,"Bane, Desmond",1630217,0.177,4.77,0.4,0.49,1.02,0.485,0.2,0.43,0.464,0.29,0.58,0.5
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,5,"Stevens, Lamar",1630205,0.005,0.14,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,23,"Konchar, John",1629723,0.049,1.32,0.06,0.11,0.34,0.318,0.05,0.14,0.333,0.06,0.2,0.308
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,35,"Clarke, Brandon",1629634,0.049,1.31,0.14,0.15,0.32,0.476,0.08,0.14,0.556,0.08,0.18,0.417
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,29,"Morant, Ja",1629630,0.07,1.89,0.11,0.12,0.35,0.348,0.05,0.12,0.375,0.08,0.23,0.333
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,54,"Jackson Jr., Jaren",1628991,0.11,2.95,0.25,0.28,0.71,0.391,0.06,0.14,0.444,0.22,0.57,0.378
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,1,"Kennard, Luke",1628379,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1628379,"Kennard, Luke",Memphis Grizzlies,1610612763,MEM,received,9,"Smart, Marcus",203935,0.018,0.48,0.08,0.08,0.17,0.455,0.02,0.05,0.333,0.06,0.12,0.5

@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+101108,"Paul, Chris",San Antonio Spurs,1610612759,SAS,received,74,"Castle, Stephon",1642264,0.139,6.82,0.16,0.33,0.68,0.482,0.1,0.18,0.533,0.23,0.5,0.463
+101108,"Paul, Chris",San Antonio Spurs,1610612759,SAS,received,46,"Wembanyama, Victor",1641705,0.112,5.52,0.21,0.37,0.88,0.417,0.15,0.32,0.462,0.22,0.56,0.391
+101108,"Paul, Chris",San Antonio Spurs,1610612759,SAS,received,51,"Sochan, Jeremy",1631110,0.093,4.56,0.21,0.33,0.73,0.45,0.1,0.26,0.381,0.23,0.48,0.487
+101108,"Paul, Chris",San Antonio Spurs,1610612759,SAS,received,21,"Wesley, Blake",1631104,0.013,0.65,0.0,0.01,0.07,0.167,0.01,0.04,0.333,0.0,0.04,0.0
+101108,"Paul, Chris",San Antonio Spurs,1610612759,SAS,received,12,"Branham, Malaki",1631103,0.01,0.49,0.02,0.04,0.07,0.5,0.01,0.02,0.5,0.02,0.05,0.5
+101108,"Paul, Chris",San Antonio Spurs,1610612759,SAS,received,68,"Champagnie, Julian",1630577,0.095,4.66,0.05,0.24,0.57,0.426,0.11,0.23,0.474,0.13,0.34,0.393
+101108,"Paul, Chris",San Antonio Spurs,1610612759,SAS,received,35,"Mamukelashvili, Sandro",1630572,0.031,1.54,0.05,0.06,0.22,0.278,0.04,0.05,0.75,0.02,0.17,0.143
+101108,"Paul, Chris",San Antonio Spurs,1610612759,SAS,received,15,"Jones, Tre",1630200,0.014,0.7,0.01,0.02,0.05,0.5,0.0,0.0,,0.02,0.05,0.5
+101108,"Paul, Chris",San Antonio Spurs,1610612759,SAS,received,64,"Vassell, Devin",1630170,0.132,6.46,0.1,0.4,0.9,0.446,0.24,0.4,0.606,0.16,0.5,0.317
+101108,"Paul, Chris",San Antonio Spurs,1610612759,SAS,received,18,"Bassey, Charles",1629646,0.019,0.94,0.0,0.07,0.15,0.5,0.04,0.06,0.6,0.04,0.09,0.429
+101108,"Paul, Chris",San Antonio Spurs,1610612759,SAS,received,74,"Johnson, Keldon",1629640,0.084,4.13,0.02,0.2,0.56,0.348,0.11,0.17,0.643,0.09,0.39,0.219
+101108,"Paul, Chris",San Antonio Spurs,1610612759,SAS,received,3,"McLaughlin, Jordan",1629162,0.001,0.06,0.0,0.01,0.02,0.5,0.0,0.0,,0.01,0.02,0.5
+101108,"Paul, Chris",San Antonio Spurs,1610612759,SAS,received,21,"Collins, Zach",1628380,0.018,0.89,0.01,0.02,0.11,0.222,0.0,0.06,0.0,0.02,0.05,0.5
+101108,"Paul, Chris",San Antonio Spurs,1610612759,SAS,received,17,"Fox, De'Aaron",1628368,0.044,2.18,0.1,0.16,0.38,0.419,0.05,0.11,0.444,0.11,0.27,0.409
+101108,"Paul, Chris",San Antonio Spurs,1610612759,SAS,received,82,"Barnes, Harrison",203084,0.15,7.38,0.15,0.44,0.96,0.456,0.18,0.35,0.517,0.26,0.61,0.42
+101108,"Paul, Chris",San Antonio Spurs,1610612759,SAS,received,27,"Biyombo, Bismack",202687,0.044,2.16,0.05,0.15,0.33,0.444,0.12,0.2,0.625,0.02,0.13,0.182

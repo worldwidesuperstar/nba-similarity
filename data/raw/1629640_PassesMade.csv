@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629640,"Johnson, Keldon",San Antonio Spurs,1610612759,SAS,made,74,"Castle, Stephon",1642264,0.223,5.66,0.19,0.44,1.44,0.306,0.35,1.05,0.333,0.09,0.39,0.233
+1629640,"Johnson, Keldon",San Antonio Spurs,1610612759,SAS,made,35,"Wembanyama, Victor",1641705,0.044,1.13,0.08,0.14,0.52,0.275,0.08,0.23,0.333,0.06,0.29,0.227
+1629640,"Johnson, Keldon",San Antonio Spurs,1610612759,SAS,made,43,"Sochan, Jeremy",1631110,0.065,1.66,0.25,0.26,0.56,0.465,0.21,0.42,0.5,0.05,0.14,0.364
+1629640,"Johnson, Keldon",San Antonio Spurs,1610612759,SAS,made,34,"Wesley, Blake",1631104,0.066,1.68,0.06,0.08,0.22,0.353,0.05,0.16,0.333,0.03,0.06,0.4
+1629640,"Johnson, Keldon",San Antonio Spurs,1610612759,SAS,made,12,"Branham, Malaki",1631103,0.023,0.58,0.04,0.06,0.12,0.556,0.01,0.05,0.25,0.05,0.06,0.8
+1629640,"Johnson, Keldon",San Antonio Spurs,1610612759,SAS,made,61,"Champagnie, Julian",1630577,0.071,1.81,0.32,0.34,0.68,0.5,0.08,0.12,0.667,0.26,0.56,0.465
+1629640,"Johnson, Keldon",San Antonio Spurs,1610612759,SAS,made,23,"Mamukelashvili, Sandro",1630572,0.029,0.74,0.09,0.1,0.3,0.348,0.05,0.12,0.444,0.05,0.18,0.286
+1629640,"Johnson, Keldon",San Antonio Spurs,1610612759,SAS,made,27,"Jones, Tre",1630200,0.102,2.6,0.05,0.09,0.23,0.389,0.06,0.18,0.357,0.03,0.05,0.5
+1629640,"Johnson, Keldon",San Antonio Spurs,1610612759,SAS,made,51,"Vassell, Devin",1630170,0.084,2.13,0.22,0.32,0.78,0.417,0.18,0.39,0.467,0.14,0.39,0.367
+1629640,"Johnson, Keldon",San Antonio Spurs,1610612759,SAS,made,13,"Bassey, Charles",1629646,0.012,0.3,0.1,0.1,0.18,0.571,0.1,0.18,0.571,0.0,0.0,
+1629640,"Johnson, Keldon",San Antonio Spurs,1610612759,SAS,made,1,"McLaughlin, Jordan",1629162,0.002,0.04,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629640,"Johnson, Keldon",San Antonio Spurs,1610612759,SAS,made,21,"Collins, Zach",1628380,0.021,0.55,0.04,0.04,0.12,0.333,0.01,0.06,0.2,0.03,0.05,0.5
+1629640,"Johnson, Keldon",San Antonio Spurs,1610612759,SAS,made,17,"Fox, De'Aaron",1628368,0.046,1.18,0.06,0.09,0.26,0.35,0.06,0.18,0.357,0.03,0.08,0.333
+1629640,"Johnson, Keldon",San Antonio Spurs,1610612759,SAS,made,36,"Barnes, Harrison",203084,0.032,0.82,0.09,0.12,0.32,0.36,0.05,0.13,0.4,0.06,0.19,0.333
+1629640,"Johnson, Keldon",San Antonio Spurs,1610612759,SAS,made,7,"Biyombo, Bismack",202687,0.006,0.14,0.0,0.0,0.05,0.0,0.0,0.05,0.0,0.0,0.0,
+1629640,"Johnson, Keldon",San Antonio Spurs,1610612759,SAS,made,74,"Paul, Chris",101108,0.173,4.4,0.03,0.21,0.6,0.348,0.12,0.18,0.643,0.09,0.42,0.219

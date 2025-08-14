@@ -1,0 +1,21 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,12,"Reeves, Antonio",1641810,0.017,0.41,0.04,0.04,0.16,0.25,0.03,0.11,0.25,0.01,0.05,0.25
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,29,"Hawkins, Jordan",1641722,0.046,1.08,0.05,0.14,0.42,0.323,0.11,0.29,0.381,0.03,0.14,0.2
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,2,"Quinones, Lester",1631311,0.003,0.08,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,10,"Cain, Jamal",1631288,0.009,0.21,0.04,0.04,0.11,0.375,0.0,0.04,0.0,0.04,0.07,0.6
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,4,"Matković, Karlo",1631255,0.003,0.07,0.0,0.0,0.05,0.0,0.0,0.03,0.0,0.0,0.03,0.0
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,5,"Brooks Jr., Keion",1631232,0.008,0.19,0.04,0.04,0.11,0.375,0.04,0.08,0.5,0.0,0.03,0.0
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,42,"Alvarado, Jose",1630631,0.113,2.67,0.08,0.18,0.44,0.406,0.11,0.25,0.444,0.07,0.19,0.357
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,46,"Murphy III, Trey",1630530,0.115,2.71,0.14,0.23,0.74,0.315,0.15,0.4,0.379,0.08,0.34,0.24
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,17,"Jones, Herbert",1630529,0.041,0.97,0.04,0.1,0.18,0.538,0.1,0.14,0.7,0.0,0.04,0.0
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,25,"Boston, Brandon",1630527,0.048,1.14,0.01,0.04,0.22,0.188,0.03,0.11,0.25,0.01,0.11,0.125
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,16,"Robinson-Earl, Jeremiah",1630526,0.016,0.38,0.11,0.11,0.15,0.727,0.05,0.1,0.571,0.05,0.05,1.0
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,30,"Green, Javonte",1629750,0.034,0.81,0.04,0.05,0.19,0.286,0.05,0.14,0.4,0.0,0.05,0.0
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,6,"Nowell, Jaylen",1629669,0.009,0.22,0.0,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,27,"Williamson, Zion",1629627,0.064,1.51,0.08,0.19,0.4,0.483,0.19,0.37,0.519,0.0,0.03,0.0
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,14,"Brown, Bruce",1628971,0.038,0.89,0.05,0.11,0.23,0.471,0.08,0.19,0.429,0.03,0.04,0.667
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,29,"Murray, Dejounte",1627749,0.158,3.73,0.16,0.26,0.81,0.322,0.15,0.58,0.262,0.11,0.23,0.471
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,16,"Ingram, Brandon",1627742,0.053,1.25,0.15,0.25,0.42,0.581,0.18,0.26,0.684,0.07,0.16,0.417
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,10,"Payton, Elfrid",203901,0.026,0.62,0.0,0.01,0.05,0.25,0.01,0.05,0.25,0.0,0.0,
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,17,"Olynyk, Kelly",203482,0.035,0.82,0.04,0.07,0.18,0.385,0.04,0.14,0.3,0.03,0.04,0.667
+1642274,"Missi, Yves",New Orleans Pelicans,1610612740,NOP,made,51,"McCollum, CJ",203468,0.165,3.89,0.27,0.49,1.18,0.419,0.27,0.67,0.408,0.22,0.51,0.432

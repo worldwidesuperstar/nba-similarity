@@ -1,0 +1,22 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,22,"Edwards, Justin",1642348,0.037,1.27,0.05,0.12,0.33,0.35,0.08,0.18,0.455,0.03,0.15,0.222
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,19,"McCain, Jared",1642272,0.035,1.2,0.1,0.12,0.35,0.333,0.05,0.18,0.273,0.07,0.17,0.4
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,25,"Council IV, Ricky",1641741,0.033,1.13,0.05,0.12,0.4,0.292,0.08,0.28,0.294,0.03,0.12,0.286
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,20,"Bona, Adem",1641737,0.019,0.67,0.07,0.07,0.12,0.571,0.07,0.12,0.571,0.0,0.0,
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,1,"Quinones, Lester",1631311,0.001,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,3,"Nance, Pete",1631250,0.002,0.08,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,1,"Roddy, David",1631223,0.001,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,14,"Dowtin Jr., Jeff",1630288,0.024,0.82,0.02,0.07,0.13,0.5,0.07,0.13,0.5,0.0,0.0,
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,13,"Martin, KJ",1630231,0.011,0.38,0.03,0.03,0.13,0.25,0.03,0.1,0.333,0.0,0.03,0.0
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,9,"Butler, Jared",1630215,0.018,0.62,0.03,0.03,0.08,0.4,0.02,0.05,0.333,0.02,0.03,0.5
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,48,"Maxey, Tyrese",1630178,0.341,11.8,0.38,1.25,3.17,0.395,0.78,1.9,0.412,0.47,1.27,0.368
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,13,"Grimes, Quentin",1629656,0.034,1.17,0.05,0.07,0.17,0.4,0.02,0.07,0.25,0.05,0.1,0.5
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,4,"Walker IV, Lonnie",1629022,0.009,0.3,0.05,0.05,0.08,0.6,0.02,0.05,0.333,0.03,0.03,1.0
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,26,"Martin, Caleb",1628997,0.044,1.53,0.07,0.08,0.25,0.333,0.05,0.1,0.5,0.03,0.15,0.222
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,50,"Yabusele, Guerschon",1627824,0.092,3.17,0.25,0.27,0.68,0.39,0.17,0.37,0.455,0.1,0.32,0.316
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,17,"Embiid, Joel",203954,0.039,1.33,0.07,0.17,0.53,0.313,0.12,0.38,0.304,0.05,0.15,0.333
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,28,"Drummond, Andre",203083,0.034,1.17,0.2,0.2,0.42,0.48,0.2,0.38,0.522,0.0,0.03,0.0
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,21,"Jackson, Reggie",202704,0.037,1.27,0.03,0.07,0.25,0.267,0.03,0.08,0.4,0.03,0.17,0.2
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,37,"George, Paul",202331,0.1,3.47,0.18,0.35,0.92,0.382,0.18,0.5,0.367,0.17,0.42,0.4
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,22,"Gordon, Eric",201569,0.041,1.42,0.13,0.15,0.4,0.375,0.07,0.18,0.364,0.08,0.22,0.385
+1626162,"Oubre Jr., Kelly",Philadelphia 76ers,1610612755,PHI,made,26,"Lowry, Kyle",200768,0.051,1.75,0.03,0.08,0.23,0.357,0.02,0.1,0.167,0.07,0.13,0.5

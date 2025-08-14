@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630596,"Mobley, Evan",Cleveland Cavaliers,1610612739,CLE,received,7,"Tyson, Jaylon",1642281,0.007,0.21,0.04,0.06,0.11,0.5,0.06,0.11,0.5,0.0,0.0,
+1630596,"Mobley, Evan",Cleveland Cavaliers,1610612739,CLE,received,17,"Porter Jr., Craig",1641854,0.023,0.72,0.13,0.14,0.27,0.526,0.11,0.18,0.615,0.03,0.08,0.333
+1630596,"Mobley, Evan",Cleveland Cavaliers,1610612739,CLE,received,51,"Merrill, Sam",1630241,0.053,1.65,0.27,0.39,0.69,0.571,0.34,0.55,0.615,0.06,0.14,0.4
+1630596,"Mobley, Evan",Cleveland Cavaliers,1610612739,CLE,received,36,"Okoro, Isaac",1630171,0.038,1.2,0.14,0.17,0.37,0.462,0.17,0.28,0.6,0.0,0.08,0.0
+1630596,"Mobley, Evan",Cleveland Cavaliers,1610612739,CLE,received,4,"Green, Javonte",1629750,0.002,0.06,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630596,"Mobley, Evan",Cleveland Cavaliers,1610612739,CLE,received,32,"Wade, Dean",1629731,0.031,0.97,0.03,0.08,0.23,0.375,0.07,0.14,0.5,0.01,0.08,0.167
+1630596,"Mobley, Evan",Cleveland Cavaliers,1610612739,CLE,received,58,"Jerome, Ty",1629660,0.145,4.52,0.76,0.87,1.7,0.512,0.62,1.2,0.518,0.25,0.51,0.5
+1630596,"Mobley, Evan",Cleveland Cavaliers,1610612739,CLE,received,66,"Garland, Darius",1629636,0.208,6.51,1.07,1.25,2.42,0.517,1.03,1.86,0.553,0.23,0.56,0.4
+1630596,"Mobley, Evan",Cleveland Cavaliers,1610612739,CLE,received,21,"Hunter, De'Andre",1629631,0.02,0.63,0.13,0.14,0.31,0.455,0.1,0.18,0.538,0.04,0.13,0.333
+1630596,"Mobley, Evan",Cleveland Cavaliers,1610612739,CLE,received,41,"Strus, Max",1629622,0.074,2.32,0.32,0.45,0.96,0.471,0.44,0.82,0.534,0.01,0.14,0.1
+1630596,"Mobley, Evan",Cleveland Cavaliers,1610612739,CLE,received,55,"Allen, Jarrett",1628386,0.055,1.73,0.37,0.42,0.83,0.508,0.28,0.51,0.556,0.14,0.32,0.435
+1630596,"Mobley, Evan",Cleveland Cavaliers,1610612739,CLE,received,62,"Mitchell, Donovan",1628378,0.24,7.49,1.15,1.52,3.25,0.468,1.23,2.39,0.512,0.3,0.86,0.344
+1630596,"Mobley, Evan",Cleveland Cavaliers,1610612739,CLE,received,42,"Niang, Georges",1627777,0.045,1.39,0.15,0.18,0.49,0.371,0.17,0.41,0.414,0.01,0.08,0.167
+1630596,"Mobley, Evan",Cleveland Cavaliers,1610612739,CLE,received,35,"LeVert, Caris",1627747,0.059,1.83,0.3,0.35,0.7,0.5,0.27,0.55,0.487,0.08,0.15,0.545

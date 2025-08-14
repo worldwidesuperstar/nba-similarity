@@ -1,0 +1,23 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,1,"Gortman, Jazian",1641789,0.001,0.03,0.0,0.0,0.01,0.0,0.0,0.0,,0.0,0.01,0.0
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,12,"Prosper, Olivier-Maxence",1641765,0.014,0.45,0.04,0.04,0.1,0.429,0.04,0.09,0.5,0.0,0.01,0.0
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,26,"Lively II, Dereck",1641726,0.038,1.26,0.12,0.12,0.23,0.5,0.12,0.23,0.5,0.0,0.0,
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,32,"Christie, Max",1631108,0.08,2.61,0.26,0.36,0.81,0.446,0.17,0.42,0.414,0.19,0.39,0.481
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,37,"Hardy, Jaden",1630702,0.059,1.94,0.1,0.22,0.71,0.306,0.13,0.38,0.346,0.09,0.33,0.261
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,19,"Edwards, Kessler",1630556,0.017,0.57,0.1,0.1,0.22,0.467,0.04,0.1,0.429,0.06,0.12,0.5
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,11,"Jones, Kai",1630539,0.017,0.55,0.12,0.12,0.14,0.8,0.1,0.13,0.778,0.01,0.01,1.0
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,16,"Williams, Brandon",1630314,0.042,1.39,0.06,0.14,0.3,0.476,0.1,0.17,0.583,0.04,0.13,0.333
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,3,"Kelley, Kylor",1630283,0.001,0.04,0.01,0.01,0.01,1.0,0.01,0.01,1.0,0.0,0.0,
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,27,"Grimes, Quentin",1629656,0.038,1.23,0.13,0.17,0.48,0.364,0.06,0.14,0.4,0.12,0.33,0.348
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,38,"Gafford, Daniel",1629655,0.052,1.7,0.35,0.39,0.57,0.692,0.39,0.57,0.692,0.0,0.0,
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,3,"Brown, Moses",1629650,0.006,0.2,0.07,0.07,0.13,0.556,0.07,0.13,0.556,0.0,0.0,
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,17,"Dončić, Luka",1629029,0.06,1.96,0.12,0.22,0.59,0.366,0.14,0.35,0.417,0.07,0.25,0.294
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,39,"Washington, P.J.",1629023,0.078,2.57,0.23,0.38,1.06,0.356,0.26,0.74,0.353,0.12,0.32,0.364
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,11,"Martin, Caleb",1628997,0.017,0.57,0.04,0.04,0.16,0.273,0.01,0.13,0.111,0.03,0.03,1.0
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,17,"Kleber, Maxi",1628467,0.019,0.62,0.07,0.07,0.1,0.714,0.04,0.07,0.6,0.03,0.03,1.0
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,19,"Exum, Danté",203957,0.038,1.23,0.06,0.09,0.2,0.429,0.06,0.13,0.444,0.03,0.07,0.4
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,30,"Powell, Dwight",203939,0.024,0.78,0.06,0.06,0.1,0.571,0.06,0.09,0.667,0.0,0.01,0.0
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,59,"Dinwiddie, Spencer",203915,0.164,5.36,0.17,0.57,1.45,0.39,0.39,0.77,0.509,0.17,0.68,0.255
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,9,"Davis, Anthony",203076,0.025,0.81,0.1,0.14,0.29,0.5,0.14,0.28,0.526,0.0,0.01,0.0
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,45,"Thompson, Klay",202691,0.073,2.39,0.45,0.49,1.23,0.4,0.12,0.38,0.308,0.38,0.86,0.441
+1630230,"Marshall, Naji",Dallas Mavericks,1610612742,DAL,made,40,"Irving, Kyrie",202681,0.137,4.49,0.33,0.81,1.71,0.475,0.51,0.99,0.515,0.3,0.72,0.42
