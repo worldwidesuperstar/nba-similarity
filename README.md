@@ -18,31 +18,29 @@ For my study, I wanted to quantify basketball IQ according to "soft skills" that
 
 ## Statpoints
 
-1. **Assist-to-Turnover Ratio** - Measures decision-making quality under pressure and ability to create opportunities while minimizing mistakes.
+1. **Assist-to-Turnover Ratio** - Shows decision-making and risk aversion.
 
-2. **Late Clock Efficiency** - Shows composure and smart shot selection when forced to make quick decisions under time pressure.
+2. **Late Clock Efficiency** - Shows composure and smart shot selection under time pressure.
 
-3. **Clutch AST/TOV Ratio** - Indicates decision-making quality in high-pressure, game-deciding moments.
+3. **Clutch AST/TOV Ratio** - Indicates decision-making in high-pressure, game-deciding moments.
 
-4. **Effective Field Goal %** - Demonstrates smart shot selection and recognition of good scoring opportunities.
+4. **Effective Field Goal %** - Demonstrates ability to recognize and consistently capitalize on scoring opportunities.
 
-5. **Deflections per 36** - Shows anticipation skills and ability to read offensive patterns before they develop.
+5. **Deflections per 36** - Shows anticipation and ability to read plays before they happen.
 
-6. **Screen Assists per 36** - Indicates understanding of how to create opportunities for teammates through intelligent positioning.
+6. **Screen Assists per 36** - Indicates ability to run plays and strong teammate awareness.
 
-7. **Quick Decision Efficiency** - Measures basketball instincts and pattern recognition when forced to decide in under 2 seconds.
+7. **Quick Decision Efficiency** - Evaluates efficiency on shots taken very briefly after reciving the ball, indicating quick decision-making.
 
 8. **Loose Balls Recovered per 36** - Shows anticipation, positioning awareness, and effort on 50/50 plays.
 
-9. **Defensive Discipline (Shooting Foul Rate)** - Shows ability to contest shots without fouling.
+9. **Shooting Foul Rate** - Shows ability to contest shots without fouling.
 
-10. **Successful Box Outs per 36** - Demonstrates positioning intelligence and effectiveness in creating rebounding opportunities.
+10. **Box Out Success Rate** - Shows smart positioning and situational awareness.
 
-11. **Charges Drawn per 36** - Shows willingness to take calculated risks for defensive advantage.
+11. **Charges Drawn per 36** - Shows ability to read plays and have good positioning.
 
-12. **Road Performance Maintenance** - Measures ability to maintain performance levels in challenging away environments.
-
-13. **Personalized Shot Selection Intelligence** - Evaluates whether a player takes the best shots for their specific skillset rather than league-average optimal shots.
+12. **Smart Shot Selection** - Shows a player's understanding of what shots they are best/most efficient at.
 
 ## Endpoints
 
@@ -58,3 +56,8 @@ nba-api was used for all data collection/exploration. Endpoints used include:
 -   assisttracker
 
 ## Overall IQ Metric
+
+For each IQ statpoint, players are ranked by percentile and are placed on an IQ
+curve according to their average composite percentile relative to other players.
+
+Plan: average IQ around 100, standard deviation of 15.
