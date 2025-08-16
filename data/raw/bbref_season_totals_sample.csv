@@ -1,0 +1,11 @@
+slug,name,positions,age,team,games_played,games_started,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,points
+doncilu01,Luka Dončić,[<Position.POINT_GUARD: 'POINT GUARD'>],24,Team.DALLAS_MAVERICKS,70,70,2624,804,1652,284,744,478,608,59,588,686,99,38,282,149,2370
+gilgesh01,Shai Gilgeous-Alexander,[<Position.POINT_GUARD: 'POINT GUARD'>],25,Team.OKLAHOMA_CITY_THUNDER,75,75,2553,796,1487,95,269,567,649,65,350,465,150,67,162,184,2254
+antetgi01,Giannis Antetokounmpo,[<Position.POWER_FORWARD: 'POWER FORWARD'>],29,Team.MILWAUKEE_BUCKS,73,73,2567,837,1369,34,124,514,782,196,645,476,87,79,250,210,2222
+brunsja01,Jalen Brunson,[<Position.POINT_GUARD: 'POINT GUARD'>],27,Team.NEW_YORK_KNICKS,77,77,2726,790,1648,211,526,421,497,43,235,519,70,13,186,144,2212
+jokicni01,Nikola Jokić,[<Position.CENTER: 'CENTER'>],28,Team.DENVER_NUGGETS,79,79,2737,822,1411,83,231,358,438,223,753,708,108,68,237,194,2085
+edwaran01,Anthony Edwards,[<Position.SHOOTING_GUARD: 'SHOOTING GUARD'>],22,Team.MINNESOTA_TIMBERWOLVES,79,78,2770,718,1558,190,532,423,506,52,378,405,101,42,241,141,2049
+duranke01,Kevin Durant,[<Position.POWER_FORWARD: 'POWER FORWARD'>],35,Team.PHOENIX_SUNS,75,75,2791,751,1436,168,407,362,423,41,454,378,69,91,244,133,2032
+tatumja01,Jayson Tatum,[<Position.POWER_FORWARD: 'POWER FORWARD'>],25,Team.BOSTON_CELTICS,74,74,2645,672,1426,229,609,414,497,67,534,364,75,43,188,145,1987
+foxde01,De'Aaron Fox,[<Position.POINT_GUARD: 'POINT GUARD'>],26,Team.SACRAMENTO_KINGS,74,74,2659,720,1549,214,580,312,423,67,273,418,150,31,194,193,1966
+curryst01,Stephen Curry,[<Position.POINT_GUARD: 'POINT GUARD'>],35,Team.GOLDEN_STATE_WARRIORS,74,74,2421,650,1445,357,876,299,324,37,293,379,54,28,210,117,1956
