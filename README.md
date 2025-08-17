@@ -41,7 +41,7 @@ For my study, I wanted to quantify basketball IQ according to "soft skills" that
 
 5. **Deflections per 36** - Shows anticipation and ability to read plays before they happen.
 
-6. **Screen Assists per 36** - Indicates ability to run plays and strong teammate awareness.
+6. **Screen Assists per 36** - Indicates ability to run plays and strong teammate awareness. Percentiles based on position.
 
 Percentiles based on position.
 
@@ -51,7 +51,7 @@ Percentiles based on position.
 
 9. **Shooting Foul Rate** - Shows ability to contest shots without fouling.
 
-10. **Box Out Success Rate** - Shows smart positioning and situational awareness.
+~~10. **Box Out Success Rate** - Shows smart positioning and situational awareness. Percentiles based on position.~~
 
 Percentiles based on position.
 
