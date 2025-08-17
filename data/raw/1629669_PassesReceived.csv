@@ -1,0 +1,13 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,received,6,"Missi, Yves",1642274,0.062,2.0,0.0,0.13,0.13,1.0,0.13,0.13,1.0,0.0,0.0,
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,received,8,"Jemison III, Trey",1641998,0.143,4.63,0.13,0.25,0.88,0.286,0.13,0.25,0.5,0.13,0.63,0.2
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,received,4,"Reeves, Antonio",1641810,0.046,1.5,0.0,0.0,0.25,0.0,0.0,0.13,0.0,0.0,0.13,0.0
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,received,5,"Cain, Jamal",1631288,0.085,2.75,0.13,0.25,1.0,0.25,0.13,0.63,0.2,0.13,0.38,0.333
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,received,1,"Matković, Karlo",1631255,0.008,0.25,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,received,1,"Alvarado, Jose",1630631,0.008,0.25,0.0,0.0,0.13,0.0,0.0,0.13,0.0,0.0,0.0,
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,received,4,"Murphy III, Trey",1630530,0.097,3.13,0.25,0.38,0.75,0.5,0.25,0.63,0.4,0.13,0.13,1.0
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,received,7,"Boston, Brandon",1630527,0.174,5.63,0.75,1.25,3.0,0.417,0.75,1.88,0.4,0.5,1.13,0.444
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,received,7,"Robinson-Earl, Jeremiah",1630526,0.174,5.63,0.0,0.13,0.75,0.167,0.13,0.63,0.2,0.0,0.13,0.0
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,received,7,"Green, Javonte",1629750,0.077,2.5,0.0,0.0,0.5,0.0,0.0,0.38,0.0,0.0,0.13,0.0
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,received,1,"Theis, Daniel",1628464,0.012,0.38,0.0,0.13,0.25,0.5,0.13,0.13,1.0,0.0,0.13,0.0
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,received,7,"Ingram, Brandon",1627742,0.116,3.75,0.38,0.5,1.5,0.333,0.38,0.88,0.429,0.13,0.63,0.2

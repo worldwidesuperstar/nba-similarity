@@ -1,0 +1,23 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,21,"Salaün, Tidjane",1642275,0.081,3.06,0.22,0.28,0.81,0.345,0.14,0.42,0.333,0.14,0.39,0.357
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,5,"Baugh, Damion",1641878,0.015,0.56,0.06,0.06,0.11,0.5,0.03,0.03,1.0,0.03,0.08,0.333
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,28,"Smith Jr., Nick",1641733,0.12,4.56,0.36,0.72,1.75,0.413,0.36,0.72,0.5,0.36,1.03,0.351
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,9,"Miller, Brandon",1641706,0.043,1.61,0.17,0.22,0.67,0.333,0.08,0.25,0.333,0.14,0.42,0.333
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,4,"Sims, Jaylen",1631301,0.014,0.53,0.03,0.03,0.11,0.25,0.0,0.06,0.0,0.03,0.06,0.5
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,24,"Diabaté, Moussa",1631217,0.059,2.22,0.19,0.28,0.56,0.5,0.28,0.56,0.5,0.0,0.0,
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,6,"Wong, Isaiah",1631209,0.019,0.72,0.06,0.08,0.19,0.429,0.03,0.14,0.2,0.06,0.06,1.0
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,1,"Rhoden, Jared",1631197,0.004,0.14,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,6,"Moore Jr., Wendell",1631111,0.019,0.72,0.03,0.06,0.14,0.4,0.03,0.03,1.0,0.03,0.11,0.25
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,19,"Williams, Mark",1631109,0.067,2.53,0.31,0.31,0.58,0.524,0.31,0.58,0.524,0.0,0.0,
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,7,"Richards, Nick",1630208,0.02,0.75,0.08,0.08,0.19,0.429,0.08,0.19,0.429,0.0,0.0,
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,21,"Green, Josh",1630182,0.065,2.44,0.11,0.14,0.67,0.208,0.08,0.25,0.333,0.06,0.42,0.133
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,3,"Ball, LaMelo",1630163,0.007,0.25,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,22,"Jeffries, DaQuan",1629610,0.068,2.58,0.28,0.33,0.78,0.429,0.19,0.33,0.583,0.14,0.44,0.313
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,11,"Okogie, Josh",1629006,0.036,1.36,0.06,0.08,0.42,0.2,0.06,0.19,0.286,0.03,0.22,0.125
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,9,"Martin, Cody",1628998,0.028,1.06,0.08,0.11,0.25,0.444,0.08,0.14,0.6,0.03,0.11,0.25
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,23,"Bridges, Miles",1628970,0.175,6.64,0.42,0.69,2.61,0.266,0.44,1.75,0.254,0.25,0.86,0.29
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,7,"Micic, Vasilije",203995,0.012,0.44,0.03,0.03,0.11,0.25,0.03,0.08,0.333,0.0,0.03,0.0
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,12,"Nurkić, Jusuf",203994,0.061,2.31,0.22,0.31,0.75,0.407,0.22,0.58,0.381,0.08,0.17,0.5
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,1,"Payton, Elfrid",203901,0.001,0.06,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,24,"Curry, Seth",203552,0.067,2.53,0.31,0.36,0.86,0.419,0.19,0.44,0.438,0.17,0.42,0.4
+1642354,"Simpson, KJ",Charlotte Hornets,1610612766,CHA,made,15,"Gibson, Taj",201959,0.021,0.81,0.11,0.11,0.25,0.444,0.11,0.25,0.444,0.0,0.0,

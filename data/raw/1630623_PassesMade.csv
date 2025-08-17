@@ -1,0 +1,12 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630623,"Etienne, Tyson",Brooklyn Nets,1610612751,BKN,made,7,"Evbuomwan, Tosan",1641787,0.158,4.14,0.14,0.14,0.57,0.25,0.0,0.43,0.0,0.14,0.14,1.0
+1630623,"Etienne, Tyson",Brooklyn Nets,1610612751,BKN,made,6,"Beekman, Reece",1641736,0.093,2.43,0.0,0.14,0.71,0.2,0.14,0.43,0.333,0.0,0.29,0.0
+1630623,"Etienne, Tyson",Brooklyn Nets,1610612751,BKN,made,4,"Whitehead, Dariq",1641727,0.082,2.14,0.43,0.43,0.86,0.5,0.0,0.0,,0.43,0.86,0.5
+1630623,"Etienne, Tyson",Brooklyn Nets,1610612751,BKN,made,6,"Lewis, Maxwell",1641721,0.082,2.14,0.29,0.29,0.71,0.4,0.14,0.43,0.333,0.14,0.29,0.5
+1630623,"Etienne, Tyson",Brooklyn Nets,1610612751,BKN,made,2,"Martin, Tyrese",1631213,0.049,1.29,0.0,0.0,0.43,0.0,0.0,0.0,,0.0,0.43,0.0
+1630623,"Etienne, Tyson",Brooklyn Nets,1610612751,BKN,made,7,"Timme, Drew",1631166,0.273,7.14,0.43,0.43,1.57,0.273,0.14,0.71,0.2,0.29,0.86,0.333
+1630623,"Etienne, Tyson",Brooklyn Nets,1610612751,BKN,made,4,"Wilson, Jalen",1630592,0.055,1.43,0.0,0.0,0.57,0.0,0.0,0.29,0.0,0.0,0.29,0.0
+1630623,"Etienne, Tyson",Brooklyn Nets,1610612751,BKN,made,6,"Watford, Trendon",1630570,0.082,2.14,0.14,0.14,0.57,0.25,0.14,0.57,0.25,0.0,0.0,
+1630623,"Etienne, Tyson",Brooklyn Nets,1610612751,BKN,made,5,"Johnson, Keon",1630553,0.071,1.86,0.29,0.29,0.43,0.667,0.0,0.0,,0.29,0.43,0.667
+1630623,"Etienne, Tyson",Brooklyn Nets,1610612751,BKN,made,2,"Williams, Ziaire",1630533,0.011,0.29,0.0,0.0,0.14,0.0,0.0,0.14,0.0,0.0,0.0,
+1630623,"Etienne, Tyson",Brooklyn Nets,1610612751,BKN,made,3,"Claxton, Nic",1629651,0.044,1.14,0.0,0.14,0.14,1.0,0.14,0.14,1.0,0.0,0.0,

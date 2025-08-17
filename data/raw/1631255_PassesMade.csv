@@ -1,0 +1,20 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,3,"Missi, Yves",1642274,0.004,0.07,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,20,"Reeves, Antonio",1641810,0.058,1.0,0.17,0.24,0.5,0.476,0.1,0.21,0.444,0.14,0.29,0.5
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,27,"Hawkins, Jordan",1641722,0.102,1.76,0.05,0.1,0.4,0.235,0.02,0.14,0.167,0.07,0.26,0.273
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,4,"Quinones, Lester",1631311,0.014,0.24,0.02,0.02,0.1,0.25,0.0,0.02,0.0,0.02,0.07,0.333
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,12,"Cain, Jamal",1631288,0.027,0.48,0.1,0.14,0.19,0.75,0.1,0.12,0.8,0.05,0.07,0.667
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,7,"Brooks Jr., Keion",1631232,0.029,0.5,0.05,0.05,0.14,0.333,0.02,0.1,0.25,0.02,0.05,0.5
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,28,"Alvarado, Jose",1630631,0.134,2.33,0.14,0.21,0.57,0.375,0.14,0.36,0.4,0.07,0.21,0.333
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,21,"Murphy III, Trey",1630530,0.118,2.05,0.17,0.29,0.6,0.48,0.19,0.38,0.5,0.1,0.21,0.444
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,4,"Boston, Brandon",1630527,0.016,0.29,0.0,0.02,0.07,0.333,0.02,0.05,0.5,0.0,0.02,0.0
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,20,"Robinson-Earl, Jeremiah",1630526,0.047,0.81,0.12,0.14,0.29,0.5,0.1,0.17,0.571,0.05,0.12,0.4
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,5,"Green, Javonte",1629750,0.012,0.21,0.05,0.05,0.07,0.667,0.02,0.02,1.0,0.02,0.05,0.5
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,1,"Nowell, Jaylen",1629669,0.003,0.05,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,17,"Williamson, Zion",1629627,0.078,1.36,0.05,0.33,0.52,0.636,0.33,0.52,0.636,0.0,0.0,
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,16,"Brown, Bruce",1628971,0.075,1.31,0.02,0.05,0.21,0.222,0.02,0.17,0.143,0.02,0.05,0.5
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,1,"Bamba, Mo",1628964,0.001,0.02,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,2,"Murray, Dejounte",1627749,0.005,0.1,0.0,0.0,0.05,0.0,0.0,0.02,0.0,0.0,0.02,0.0
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,11,"Payton, Elfrid",203901,0.122,2.12,0.02,0.05,0.19,0.25,0.05,0.19,0.25,0.0,0.0,
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,12,"Olynyk, Kelly",203482,0.049,0.86,0.02,0.05,0.1,0.5,0.02,0.07,0.333,0.02,0.02,1.0
+1631255,"Matković, Karlo",New Orleans Pelicans,1610612740,NOP,made,20,"McCollum, CJ",203468,0.104,1.81,0.12,0.36,0.69,0.517,0.24,0.33,0.714,0.12,0.36,0.333

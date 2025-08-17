@@ -1,0 +1,12 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630165,"Hayes, Killian",Brooklyn Nets,1610612751,BKN,made,1,"Beekman, Reece",1641736,0.003,0.17,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630165,"Hayes, Killian",Brooklyn Nets,1610612751,BKN,made,2,"Lewis, Maxwell",1641721,0.014,0.67,0.17,0.17,0.67,0.25,0.0,0.17,0.0,0.17,0.5,0.333
+1630165,"Hayes, Killian",Brooklyn Nets,1610612751,BKN,made,5,"Martin, Tyrese",1631213,0.034,1.67,0.17,0.33,0.67,0.5,0.17,0.17,1.0,0.17,0.5,0.333
+1630165,"Hayes, Killian",Brooklyn Nets,1610612751,BKN,made,6,"Wilson, Jalen",1630592,0.068,3.33,0.17,0.17,0.67,0.25,0.0,0.33,0.0,0.17,0.33,0.5
+1630165,"Hayes, Killian",Brooklyn Nets,1610612751,BKN,made,5,"Watford, Trendon",1630570,0.027,1.33,0.17,0.17,0.33,0.5,0.17,0.33,0.5,0.0,0.0,
+1630165,"Hayes, Killian",Brooklyn Nets,1610612751,BKN,made,1,"Thomas, Cam",1630560,0.024,1.17,0.17,0.17,0.33,0.5,0.17,0.33,0.5,0.0,0.0,
+1630165,"Hayes, Killian",Brooklyn Nets,1610612751,BKN,made,6,"Johnson, Keon",1630553,0.16,7.83,0.83,1.0,2.33,0.429,0.67,1.17,0.571,0.33,1.17,0.286
+1630165,"Hayes, Killian",Brooklyn Nets,1610612751,BKN,made,5,"Sharpe, Day'Ron",1630549,0.116,5.67,0.17,0.17,0.83,0.2,0.17,0.83,0.2,0.0,0.0,
+1630165,"Hayes, Killian",Brooklyn Nets,1610612751,BKN,made,6,"Williams, Ziaire",1630533,0.105,5.17,0.83,0.83,1.83,0.455,0.17,0.5,0.333,0.67,1.33,0.5
+1630165,"Hayes, Killian",Brooklyn Nets,1610612751,BKN,made,6,"Johnson, Cameron",1629661,0.221,10.83,1.5,1.67,3.67,0.455,1.0,1.67,0.6,0.67,2.0,0.333
+1630165,"Hayes, Killian",Brooklyn Nets,1610612751,BKN,made,5,"Claxton, Nic",1629651,0.228,11.17,1.0,1.0,2.17,0.462,1.0,2.0,0.5,0.0,0.17,0.0

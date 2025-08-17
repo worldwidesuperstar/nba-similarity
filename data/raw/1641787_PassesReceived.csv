@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641787,"Evbuomwan, Tosan",Brooklyn Nets,1610612751,BKN,received,19,"Beekman, Reece",1641736,0.124,2.82,0.39,0.43,0.86,0.5,0.29,0.46,0.615,0.14,0.39,0.364
+1641787,"Evbuomwan, Tosan",Brooklyn Nets,1610612751,BKN,received,4,"Clowney, Noah",1641730,0.013,0.29,0.0,0.04,0.11,0.333,0.04,0.07,0.5,0.0,0.04,0.0
+1641787,"Evbuomwan, Tosan",Brooklyn Nets,1610612751,BKN,received,8,"Whitehead, Dariq",1641727,0.034,0.79,0.07,0.11,0.21,0.5,0.11,0.11,1.0,0.0,0.11,0.0
+1641787,"Evbuomwan, Tosan",Brooklyn Nets,1610612751,BKN,received,6,"Lewis, Maxwell",1641721,0.022,0.5,0.04,0.07,0.21,0.333,0.04,0.11,0.333,0.04,0.11,0.333
+1641787,"Evbuomwan, Tosan",Brooklyn Nets,1610612751,BKN,received,21,"Martin, Tyrese",1631213,0.113,2.57,0.11,0.18,0.71,0.25,0.11,0.43,0.25,0.07,0.29,0.25
+1641787,"Evbuomwan, Tosan",Brooklyn Nets,1610612751,BKN,received,7,"Timme, Drew",1631166,0.038,0.86,0.18,0.21,0.39,0.545,0.14,0.29,0.5,0.07,0.11,0.667
+1641787,"Evbuomwan, Tosan",Brooklyn Nets,1610612751,BKN,received,7,"Etienne, Tyson",1630623,0.045,1.04,0.04,0.04,0.14,0.25,0.0,0.11,0.0,0.04,0.04,1.0
+1641787,"Evbuomwan, Tosan",Brooklyn Nets,1610612751,BKN,received,23,"Wilson, Jalen",1630592,0.127,2.89,0.21,0.32,1.21,0.265,0.21,0.71,0.3,0.11,0.5,0.214
+1641787,"Evbuomwan, Tosan",Brooklyn Nets,1610612751,BKN,received,12,"Watford, Trendon",1630570,0.078,1.79,0.21,0.25,0.61,0.412,0.14,0.36,0.4,0.11,0.25,0.429
+1641787,"Evbuomwan, Tosan",Brooklyn Nets,1610612751,BKN,received,20,"Johnson, Keon",1630553,0.08,1.82,0.11,0.18,0.64,0.278,0.14,0.36,0.4,0.04,0.29,0.125
+1641787,"Evbuomwan, Tosan",Brooklyn Nets,1610612751,BKN,received,17,"Sharpe, Day'Ron",1630549,0.094,2.14,0.32,0.43,0.68,0.632,0.39,0.54,0.733,0.04,0.14,0.25
+1641787,"Evbuomwan, Tosan",Brooklyn Nets,1610612751,BKN,received,13,"Williams, Ziaire",1630533,0.031,0.71,0.07,0.11,0.29,0.375,0.11,0.29,0.375,0.0,0.0,
+1641787,"Evbuomwan, Tosan",Brooklyn Nets,1610612751,BKN,received,3,"Johnson, Cameron",1629661,0.008,0.18,0.0,0.0,0.07,0.0,0.0,0.04,0.0,0.0,0.04,0.0
+1641787,"Evbuomwan, Tosan",Brooklyn Nets,1610612751,BKN,received,17,"Claxton, Nic",1629651,0.056,1.29,0.07,0.07,0.46,0.154,0.07,0.39,0.182,0.0,0.07,0.0
+1641787,"Evbuomwan, Tosan",Brooklyn Nets,1610612751,BKN,received,6,"Simmons, Ben",1627732,0.044,1.0,0.21,0.25,0.5,0.5,0.14,0.32,0.444,0.11,0.18,0.6
+1641787,"Evbuomwan, Tosan",Brooklyn Nets,1610612751,BKN,received,13,"Russell, D'Angelo",1626156,0.092,2.11,0.21,0.32,0.93,0.346,0.21,0.68,0.316,0.11,0.25,0.429

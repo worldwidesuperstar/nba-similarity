@@ -1,0 +1,12 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631131,"Tshiebwe, Oscar",Utah Jazz,1610612762,UTA,received,10,"Collier, Isaiah",1642268,0.168,1.93,0.21,0.21,0.57,0.375,0.21,0.57,0.375,0.0,0.0,
+1631131,"Tshiebwe, Oscar",Utah Jazz,1610612762,UTA,received,1,"Williams, Cody",1642262,0.019,0.21,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631131,"Tshiebwe, Oscar",Utah Jazz,1610612762,UTA,received,12,"Sensabaugh, Brice",1641729,0.137,1.57,0.43,0.43,0.64,0.667,0.43,0.64,0.667,0.0,0.0,
+1631131,"Tshiebwe, Oscar",Utah Jazz,1610612762,UTA,received,11,"George, Keyonte",1641718,0.292,3.36,0.36,0.5,0.93,0.538,0.5,0.93,0.538,0.0,0.0,
+1631131,"Tshiebwe, Oscar",Utah Jazz,1610612762,UTA,received,5,"Potter, Micah",1630695,0.043,0.5,0.07,0.14,0.29,0.5,0.14,0.29,0.5,0.0,0.0,
+1631131,"Tshiebwe, Oscar",Utah Jazz,1610612762,UTA,received,4,"Juzang, Johnny",1630548,0.05,0.57,0.0,0.0,0.29,0.0,0.0,0.29,0.0,0.0,0.0,
+1631131,"Tshiebwe, Oscar",Utah Jazz,1610612762,UTA,received,4,"Springer, Jaden",1630531,0.05,0.57,0.29,0.29,0.36,0.8,0.29,0.36,0.8,0.0,0.0,
+1631131,"Tshiebwe, Oscar",Utah Jazz,1610612762,UTA,received,2,"Martin, KJ",1630231,0.012,0.14,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631131,"Tshiebwe, Oscar",Utah Jazz,1610612762,UTA,received,8,"Sexton, Collin",1629012,0.081,0.93,0.21,0.21,0.57,0.375,0.21,0.57,0.375,0.0,0.0,
+1631131,"Tshiebwe, Oscar",Utah Jazz,1610612762,UTA,received,8,"Mykhailiuk, Svi",1629004,0.143,1.64,0.21,0.29,0.71,0.4,0.29,0.71,0.4,0.0,0.0,
+1631131,"Tshiebwe, Oscar",Utah Jazz,1610612762,UTA,received,1,"Clarkson, Jordan",203903,0.006,0.07,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,

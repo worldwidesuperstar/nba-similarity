@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,received,11,"Salaün, Tidjane",1642275,0.119,4.54,0.15,0.62,1.0,0.615,0.54,0.85,0.636,0.08,0.15,0.5
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,received,2,"Smith Jr., Nick",1641733,0.016,0.62,0.0,0.0,0.08,0.0,0.0,0.08,0.0,0.0,0.0,
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,received,8,"Miller, Brandon",1641706,0.113,4.31,0.08,0.31,1.08,0.286,0.23,0.85,0.273,0.08,0.23,0.333
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,received,10,"Diabaté, Moussa",1631217,0.077,2.92,0.15,0.23,0.92,0.25,0.08,0.69,0.111,0.15,0.23,0.667
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,received,1,"Rhoden, Jared",1631197,0.004,0.15,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,received,5,"Richards, Nick",1630208,0.034,1.31,0.08,0.15,0.38,0.4,0.08,0.23,0.333,0.08,0.15,0.5
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,received,8,"Green, Josh",1630182,0.049,1.85,0.15,0.31,0.77,0.4,0.23,0.54,0.429,0.08,0.23,0.333
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,received,12,"Ball, LaMelo",1630163,0.121,4.62,0.31,0.69,1.23,0.563,0.46,0.77,0.6,0.23,0.46,0.5
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,received,13,"Williams, Grant",1629684,0.123,4.69,0.31,0.85,1.77,0.478,0.54,0.85,0.636,0.31,0.92,0.333
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,received,12,"Martin, Cody",1628998,0.17,6.46,0.31,0.92,2.08,0.444,0.46,1.0,0.462,0.46,1.08,0.429
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,received,10,"Bridges, Miles",1628970,0.089,3.38,0.0,0.31,0.69,0.444,0.31,0.54,0.571,0.0,0.15,0.0
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,received,3,"Micic, Vasilije",203995,0.04,1.54,0.0,0.08,0.77,0.1,0.0,0.46,0.0,0.08,0.31,0.25
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,received,9,"Curry, Seth",203552,0.04,1.54,0.08,0.31,1.08,0.286,0.15,0.69,0.222,0.15,0.38,0.4
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,received,1,"Gibson, Taj",201959,0.002,0.08,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,

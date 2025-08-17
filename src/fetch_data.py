@@ -1,43 +1,62 @@
 from nba_api.stats.endpoints import (
-    leagueleaders, playerdashboardbygeneralsplits, shotchartdetail, playerdashptshots,
+    leaguedashplayerstats, playerdashboardbygeneralsplits, shotchartdetail, playerdashptshots,
     leaguehustlestatsplayer, leaguedashplayerclutch, playerdashptpass, assisttracker
 )
 
 import pandas as pd
 import time
+import os
 
-def fetch_top_200_pp48(season='2024-25'):
-    # fetch top 200 in PPG
-    leaders = leagueleaders.LeagueLeaders(
-        stat_category_abbreviation='PTS',
+def fetch_top_300_ppg(season='2024-25'):
+
+    player_stats = leaguedashplayerstats.LeagueDashPlayerStats(
+        league_id_nullable='00',
         season=season,
-        per_mode48='PerGame'
+        season_type_all_star='Regular Season',
+        per_mode_detailed='PerGame'
     )
 
-    df = leaders.get_data_frames()[0]
-    top200 = df.head(200)
+    df = player_stats.get_data_frames()[0]
+    top300 = df.nlargest(300, 'PTS')
 
-    top200.to_csv('../dat/top200_per.csv', index=False)
-    print('saved top 200 players by PPG to CSV.')
-    print(df.head(30))
+    top300.to_csv('data/top300_per.csv', index=False)
+    print('saved top 300 players by PPG to CSV.')
 
-    return top200
+    return top300
 
 def fetch_save_advanced_data(df, season='2024-25', delay=5):
     for idx, row in df.iterrows():
         # get player
         player_id = row['PLAYER_ID']
-        player_name = row['PLAYER']
+        player_name = row['PLAYER_NAME']
 
-        general_data=retry_fetch_dashboard(player_id, season)
-        general_data.to_csv(f'../data/raw/{player_id}_general_splits.csv', index=False)
-        print("saved general splits for ",player_name, ".")
+        general_splits_path = f'data/raw/{player_id}_general_splits.csv'
+        shot_data_path = f'data/raw/{player_id}_shot_data.csv'
+        
+        # check if general splits data already exists
+        fetched_data = False
+        if not os.path.exists(general_splits_path):
+            general_data=retry_fetch_dashboard(player_id, season)
+            if general_data is not None:
+                general_data.to_csv(general_splits_path, index=False)
+                print(f"saved general splits for {player_name}.")
+                fetched_data = True
+        else:
+            print(f"general splits for {player_name} already exists, skipping.")
 
-        shot_data=retry_fetch_shotchart(player_id, season)
-        shot_data.to_csv(f'../data/raw/{player_id}_shot_data.csv', index=False)
-        print("saved shot data for ",player_name, ".") 
+        # check if shot data already exists
+        if not os.path.exists(shot_data_path):
+            shot_data=retry_fetch_shotchart(player_id, season)
+            if shot_data is not None:
+                shot_data.to_csv(shot_data_path, index=False)
+                print(f"saved shot data for {player_name}.") 
+                fetched_data = True
+        else:
+            print(f"shot data for {player_name} already exists, skipping.")
 
-        time.sleep(delay)
+        # only sleep if we actually fetched data
+        if fetched_data:
+            time.sleep(delay)
 
 def retry_fetch_dashboard(player_id, season, max_retries=5, pause=5):
     for attempt in range(max_retries):
@@ -59,7 +78,7 @@ def retry_fetch_dashboard(player_id, season, max_retries=5, pause=5):
 def retry_fetch_shotchart(player_id, season, max_retries=5, pause=5):
     for attempt in range(max_retries):
         try:
-            shots=shotchartdetail.ShotChartDetail(
+            shots = shotchartdetail.ShotChartDetail(
                 team_id=0,
                 player_id=player_id,
                 season_type_all_star='Regular Season',
@@ -74,10 +93,7 @@ def retry_fetch_shotchart(player_id, season, max_retries=5, pause=5):
     print(f"failed to fetch data for {player_id} after {max_retries} attempts.")
     return None
 
-def retry_fetch_shot_tracking(player_id, team_id, season, max_retries=3, pause=5):
-    """
-    Fetch shot tracking data for MBTI analysis
-    """
+def retry_fetch_shot_tracking(player_name, player_id, team_id, season, max_retries=3, pause=5):
     for attempt in range(max_retries):
         try:
             shot_tracking = playerdashptshots.PlayerDashPtShots(
@@ -85,52 +101,60 @@ def retry_fetch_shot_tracking(player_id, team_id, season, max_retries=3, pause=5
                 team_id=team_id,
                 season=season,
                 season_type_all_star='Regular Season',
-                per_mode_simple='Per36',
+                per_mode_simple='PerGame', # per36 not available
             )
+            print(f"saved shot tracking data for {player_name}")
             dataframes = shot_tracking.get_data_frames()
             return dataframes
         except Exception as e:
             if attempt == max_retries - 1:
-                print(f"  Shot tracking: FAILED - {str(e)[:100]}...")
+                print(f"failed to fetch shot tracking for {player_name}")
                 return None
             time.sleep(pause)
     return None
 
-def fetch_save_shot_tracking_data(df, season='2024-25', delay=8):
+def fetch_save_shot_tracking_data(df, season='2024-25', delay=2):
     
     for idx, row in df.iterrows():
         player_id = row['PLAYER_ID']
         team_id = row['TEAM_ID']
-        player_name = row['PLAYER']
+        player_name = row['PLAYER_NAME']
         
-        print(f"\nfetching shot tracking for {player_name}...")
+        dataframe_names = [
+            'ClosestDefender10ftPlusShooting',
+            'ClosestDefenderShooting', 
+            'DribbleShooting',
+            'GeneralShooting',
+            'Overall',
+            'ShotClockShooting',
+            'TouchTimeShooting'
+        ]
         
-        tracking_data = retry_fetch_shot_tracking(player_id, team_id, season)
+        # check if any shot tracking files are missing
+        missing_files = []
+        for name in dataframe_names:
+            filepath = f'data/raw/{player_id}_{name}.csv'
+            if not os.path.exists(filepath):
+                missing_files.append(name)
         
-        if tracking_data:
-
-            dataframe_names = [
-                'ClosestDefender10ftPlusShooting',
-                'ClosestDefenderShooting', 
-                'DribbleShooting',
-                'GeneralShooting',
-                'Overall',
-                'ShotClockShooting',
-                'TouchTimeShooting'
-            ]
+        if missing_files:
+            tracking_data = retry_fetch_shot_tracking(player_name, player_id, team_id, season)
             
-            for i, df_track in enumerate(tracking_data):
-                if not df_track.empty and i < len(dataframe_names):
-                    filename = f'data/raw/{player_id}_{dataframe_names[i]}.csv'
-                    df_track.to_csv(filename, index=False)
-        
-        time.sleep(delay)
+            if tracking_data:
+                for i, df_track in enumerate(tracking_data):
+                    if not df_track.empty and i < len(dataframe_names):
+                        filename = f'data/raw/{player_id}_{dataframe_names[i]}.csv'
+                        df_track.to_csv(filename, index=False)
+            # only sleep if we actually fetched data
+            time.sleep(delay)
+        else:
+            print(f"shot tracking data for {player_name} already exists, skipping.")
 
 def retry_fetch_hustle_stats(season, max_retries=3, pause=5):
     for attempt in range(max_retries):
         try:
             hustle = leaguehustlestatsplayer.LeagueHustleStatsPlayer(
-                per_mode_time='Per36',
+                per_mode_time='PerGame',
                 season=season,
                 season_type_all_star='Regular Season'
             )
@@ -150,7 +174,7 @@ def retry_fetch_clutch_stats(season, max_retries=3, pause=5):
                 ahead_behind='Ahead or Behind',
                 clutch_time='Last 5 Minutes',
                 measure_type_detailed_defense='Base',
-                per_mode_detailed='Per36',
+                per_mode_detailed='PerGame',
                 season=season,
                 season_type_all_star='Regular Season'
             )
@@ -199,149 +223,77 @@ def retry_fetch_assist_tracker(season, max_retries=3, pause=5):
     print(f"failed to fetch assist tracker after {max_retries} attempts.")
     return None
 
-def fetch_jimmy_butler_data(season='2024-25'):
-    """Manually fetch Jimmy Butler's data since he's not in top 200 PPG but has high basketball IQ."""
-    
-    # Jimmy Butler's player ID and team ID (Miami Heat)
-    jimmy_butler_id = 202710
-    miami_heat_id = 1610612748
-    player_name = "Jimmy Butler"
-    
-    print(f"Fetching data for {player_name} (ID: {jimmy_butler_id})...")
-    
-    try:
-        # Fetch general splits data
-        general_data = retry_fetch_dashboard(jimmy_butler_id, season)
-        if general_data is not None:
-            general_data.to_csv(f'../data/raw/{jimmy_butler_id}_general_splits.csv', index=False)
-            print(f"Saved general splits for {player_name}")
-        
-        # Fetch shot chart data
-        shot_data = retry_fetch_shotchart(jimmy_butler_id, season)
-        if shot_data is not None:
-            shot_data.to_csv(f'../data/raw/{jimmy_butler_id}_shot_data.csv', index=False)
-            print(f"Saved shot data for {player_name}")
-        
-        # Fetch shot tracking data
-        tracking_data = retry_fetch_shot_tracking(jimmy_butler_id, miami_heat_id, season)
-        if tracking_data:
-            dataframe_names = [
-                'ClosestDefender10ftPlusShooting',
-                'ClosestDefenderShooting', 
-                'DribbleShooting',
-                'GeneralShooting',
-                'Overall',
-                'ShotClockShooting',
-                'TouchTimeShooting'
-            ]
-            
-            for i, df_track in enumerate(tracking_data):
-                if not df_track.empty and i < len(dataframe_names):
-                    filename = f'../data/raw/{jimmy_butler_id}_{dataframe_names[i]}.csv'
-                    df_track.to_csv(filename, index=False)
-                    print(f"Saved {dataframe_names[i]} for {player_name}")
-        
-        # Fetch passing data
-        passing_data = retry_fetch_passing_data(jimmy_butler_id, miami_heat_id, season)
-        if passing_data:
-            dataframe_names = ['PassesMade', 'PassesReceived']
-            
-            for i, df_pass in enumerate(passing_data):
-                if not df_pass.empty and i < len(dataframe_names):
-                    filename = f'../data/raw/{jimmy_butler_id}_{dataframe_names[i]}.csv'
-                    df_pass.to_csv(filename, index=False)
-                    print(f"Saved {dataframe_names[i]} for {player_name}")
-        
-        print(f"Successfully fetched all data for {player_name}")
-        
-        # Add Jimmy Butler to top200 CSV if not already there
-        try:
-            top200_df = pd.read_csv('../data/raw/top200_per.csv')
-            
-            # Check if Jimmy Butler is already in the data
-            if jimmy_butler_id not in top200_df['PLAYER_ID'].values:
-                # Get his basic stats from league leaders (he should be in top 400 or so)
-                leaders = leagueleaders.LeagueLeaders(
-                    stat_category_abbreviation='PTS',
-                    season=season,
-                    per_mode48='PerGame'
-                )
-                all_players_df = leaders.get_data_frames()[0]
-                
-                jimmy_stats = all_players_df[all_players_df['PLAYER_ID'] == jimmy_butler_id]
-                if not jimmy_stats.empty:
-                    # Add Jimmy to our top200 dataset
-                    updated_top200 = pd.concat([top200_df, jimmy_stats], ignore_index=True)
-                    updated_top200.to_csv('../data/raw/top200_per.csv', index=False)
-                    print(f"Added {player_name} to top200 dataset")
-                else:
-                    print(f"Could not find {player_name} in league leaders")
-            else:
-                print(f"{player_name} already in top200 dataset")
-                
-        except Exception as e:
-            print(f"Error updating top200 with Jimmy Butler: {e}")
-        
-    except Exception as e:
-        print(f"Error fetching data for {player_name}: {e}")
-
 def fetch_save_basketball_iq_data(season='2024-25'):
     # fetch league hustle stats
-
-    hustle_data = retry_fetch_hustle_stats(season)
-    if hustle_data is not None:
-        hustle_data.to_csv('../data/raw/league_hustle_stats.csv', index=False)
-        print("saved league hustle stats.")
+    hustle_path = 'data/raw/league_hustle_stats.csv'
+    if not os.path.exists(hustle_path):
+        hustle_data = retry_fetch_hustle_stats(season)
+        if hustle_data is not None:
+            hustle_data.to_csv(hustle_path, index=False)
+            print("saved league hustle stats.")
+    else:
+        print("league hustle stats already exists, skipping.")
     
     # fetch league clutch stats  
-    clutch_data = retry_fetch_clutch_stats(season)
-    if clutch_data is not None:
-        clutch_data.to_csv('../data/raw/league_clutch_stats.csv', index=False)
-        print("saved league clutch stats.")
+    clutch_path = 'data/raw/league_clutch_stats.csv'
+    if not os.path.exists(clutch_path):
+        clutch_data = retry_fetch_clutch_stats(season)
+        if clutch_data is not None:
+            clutch_data.to_csv(clutch_path, index=False)
+            print("saved league clutch stats.")
+    else:
+        print("league clutch stats already exists, skipping.")
     
     # fetch league assist tracker
-    assist_data = retry_fetch_assist_tracker(season)
-    if assist_data is not None:
-        assist_data.to_csv('../data/raw/league_assist_tracker.csv', index=False)
-        print("saved league assist tracker.")
+    assist_path = 'data/raw/league_assist_tracker.csv'
+    if not os.path.exists(assist_path):
+        assist_data = retry_fetch_assist_tracker(season)
+        if assist_data is not None:
+            assist_data.to_csv(assist_path, index=False)
+            print("saved league assist tracker.")
+    else:
+        print("league assist tracker already exists, skipping.")
 
 def fetch_save_passing_data(df, season='2024-25', delay=8):
     for idx, row in df.iterrows():
         player_id = row['PLAYER_ID']
         team_id = row['TEAM_ID']
-        player_name = row['PLAYER']
+        player_name = row['PLAYER_NAME']
         
-        passing_data = retry_fetch_passing_data(player_id, team_id, season)
+        dataframe_names = [
+            'PassesMade',
+            'PassesReceived'
+        ]
         
-        if passing_data:
-            # Save each dataframe with actual endpoint dataset names
-            dataframe_names = [
-                'PassesMade',
-                'PassesReceived'
-            ]
+        # check if any passing files are missing
+        missing_files = []
+        for name in dataframe_names:
+            filepath = f'data/raw/{player_id}_{name}.csv'
+            if not os.path.exists(filepath):
+                missing_files.append(name)
+        
+        if missing_files:
+            passing_data = retry_fetch_passing_data(player_id, team_id, season)
             
-            for i, df_pass in enumerate(passing_data):
-                if not df_pass.empty and i < len(dataframe_names):
-                    filename = f'../data/raw/{player_id}_{dataframe_names[i]}.csv'
-                    df_pass.to_csv(filename, index=False)
-                    print(f"saved {dataframe_names[i]} for {player_name}.")
-        
-        time.sleep(delay)
+            if passing_data:
+                for i, df_pass in enumerate(passing_data):
+                    if not df_pass.empty and i < len(dataframe_names):
+                        filename = f'data/raw/{player_id}_{dataframe_names[i]}.csv'
+                        df_pass.to_csv(filename, index=False)
+                        print(f"saved {dataframe_names[i]} for {player_name}.")
+            # only sleep if we actually fetched data
+            time.sleep(delay)
+        else:
+            print(f"passing data for {player_name} already exists, skipping.")
 
 if __name__ == "__main__":
-    # top200 = fetch_top_200_pp48()
+    top300 = fetch_top_300_ppg()
     
-    # Uncomment the line below to fetch basic shot chart data for all 200 players
-    # fetch_save_advanced_data(top200)
+    fetch_save_advanced_data(top300)
     
-    # fetch_save_shot_tracking_data(top200)
+    fetch_save_shot_tracking_data(top300)
     
     # 8/14 added new endpoints
-    # fetch_save_basketball_iq_data()
-    # fetch_save_passing_data(top200)
+    fetch_save_basketball_iq_data()
+    fetch_save_passing_data(top300)
     
-    # Fetch Jimmy Butler's data since he's known for high basketball IQ
-    # Uncomment the line below to fetch Jimmy Butler's data
-    fetch_jimmy_butler_data()
-
-    print("data already collected no overwriting")

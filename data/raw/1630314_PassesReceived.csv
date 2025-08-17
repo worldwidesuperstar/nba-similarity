@@ -1,0 +1,23 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,3,"Gortman, Jazian",1641789,0.008,0.18,0.03,0.03,0.03,1.0,0.03,0.03,1.0,0.0,0.0,
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,15,"Prosper, Olivier-Maxence",1641765,0.047,1.03,0.09,0.09,0.18,0.5,0.06,0.15,0.4,0.03,0.03,1.0
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,2,"Lively II, Dereck",1641726,0.007,0.15,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,15,"Christie, Max",1631108,0.101,2.24,0.09,0.27,0.64,0.429,0.18,0.55,0.333,0.09,0.09,1.0
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,14,"Hardy, Jaden",1630702,0.056,1.24,0.09,0.15,0.33,0.455,0.15,0.27,0.556,0.0,0.06,0.0
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,17,"Edwards, Kessler",1630556,0.101,2.24,0.06,0.24,0.52,0.471,0.21,0.36,0.583,0.03,0.15,0.2
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,4,"Jones, Kai",1630539,0.016,0.36,0.03,0.09,0.12,0.75,0.09,0.09,1.0,0.0,0.03,0.0
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,3,"Kelley, Kylor",1630283,0.018,0.39,0.0,0.0,0.06,0.0,0.0,0.0,,0.0,0.06,0.0
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,16,"Marshall, Naji",1630230,0.132,2.91,0.12,0.3,0.64,0.476,0.21,0.36,0.583,0.09,0.27,0.333
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,12,"Grimes, Quentin",1629656,0.042,0.94,0.09,0.09,0.15,0.6,0.03,0.06,0.5,0.06,0.09,0.667
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,6,"Gafford, Daniel",1629655,0.026,0.58,0.03,0.06,0.09,0.667,0.03,0.06,0.5,0.03,0.03,1.0
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,1,"Brown, Moses",1629650,0.001,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,9,"Washington, P.J.",1629023,0.063,1.39,0.03,0.09,0.21,0.429,0.09,0.18,0.5,0.0,0.03,0.0
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,6,"Martin, Caleb",1628997,0.038,0.85,0.09,0.12,0.18,0.667,0.06,0.06,1.0,0.06,0.12,0.5
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,3,"Kleber, Maxi",1628467,0.016,0.36,0.0,0.03,0.12,0.25,0.03,0.09,0.333,0.0,0.03,0.0
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,5,"Exum, Danté",203957,0.011,0.24,0.0,0.0,0.12,0.0,0.0,0.06,0.0,0.0,0.06,0.0
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,16,"Powell, Dwight",203939,0.119,2.64,0.12,0.45,1.0,0.455,0.39,0.82,0.481,0.06,0.18,0.333
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,16,"Dinwiddie, Spencer",203915,0.089,1.97,0.3,0.36,0.61,0.6,0.18,0.33,0.545,0.18,0.27,0.667
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,4,"Davis, Anthony",203076,0.034,0.76,0.0,0.0,0.09,0.0,0.0,0.09,0.0,0.0,0.0,
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,4,"Morris, Markieff",202693,0.011,0.24,0.0,0.03,0.06,0.5,0.03,0.06,0.5,0.0,0.0,
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,14,"Thompson, Klay",202691,0.055,1.21,0.09,0.21,0.52,0.412,0.18,0.36,0.5,0.03,0.15,0.2
+1630314,"Williams, Brandon",Dallas Mavericks,1610612742,DAL,received,2,"Irving, Kyrie",202681,0.007,0.15,0.0,0.03,0.06,0.5,0.0,0.03,0.0,0.03,0.03,1.0

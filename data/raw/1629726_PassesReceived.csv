@@ -1,0 +1,20 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,14,"Risacher, Zaccharie",1642258,0.03,0.45,0.09,0.09,0.21,0.4,0.0,0.02,0.0,0.09,0.19,0.444
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,1,"Bufkin, Kobe",1641723,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,2,"Plowden, Daeqwon",1631342,0.008,0.13,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,2,"Gueye, Mouhamed",1631243,0.004,0.06,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,6,"Barlow, Dominick",1631230,0.008,0.13,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,18,"Roddy, David",1631223,0.056,0.85,0.11,0.11,0.21,0.5,0.02,0.06,0.333,0.09,0.15,0.571
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,1,"Toppin, Jacob",1631210,0.004,0.06,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,20,"Wallace, Keaton",1630811,0.113,1.7,0.17,0.17,0.55,0.308,0.02,0.13,0.167,0.15,0.43,0.35
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,28,"Daniels, Dyson",1630700,0.079,1.19,0.17,0.17,0.51,0.333,0.04,0.11,0.4,0.13,0.4,0.316
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,20,"Johnson, Jalen",1630552,0.103,1.55,0.3,0.3,0.68,0.438,0.04,0.15,0.286,0.26,0.53,0.48
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,23,"Krejčí, Vít",1630249,0.1,1.51,0.23,0.23,0.66,0.355,0.06,0.09,0.75,0.17,0.57,0.296
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,24,"Okongwu, Onyeka",1630168,0.073,1.11,0.06,0.06,0.26,0.25,0.0,0.09,0.0,0.06,0.17,0.375
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,11,"Hunter, De'Andre",1629631,0.023,0.34,0.06,0.06,0.13,0.5,0.02,0.04,0.5,0.04,0.09,0.5
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,2,"Mann, Terance",1629611,0.004,0.06,0.04,0.04,0.06,0.667,0.0,0.02,0.0,0.04,0.04,1.0
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,37,"Young, Trae",1629027,0.293,4.43,0.68,0.68,1.91,0.356,0.06,0.3,0.214,0.62,1.62,0.382
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,1,"LeVert, Caris",1627747,0.003,0.04,0.02,0.02,0.02,1.0,0.0,0.0,,0.02,0.02,1.0
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,12,"Nance Jr., Larry",1626204,0.044,0.66,0.09,0.09,0.26,0.333,0.0,0.06,0.0,0.09,0.19,0.444
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,5,"Bogdanović, Bogdan",203992,0.016,0.23,0.02,0.02,0.13,0.167,0.02,0.02,1.0,0.0,0.11,0.0
+1629726,"Mathews, Garrison",Atlanta Hawks,1610612737,ATL,received,17,"Capela, Clint",203991,0.037,0.55,0.02,0.02,0.13,0.167,0.0,0.0,,0.02,0.13,0.167

@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203482,"Olynyk, Kelly",New Orleans Pelicans,1610612740,NOP,received,17,"Missi, Yves",1642274,0.101,1.36,0.07,0.11,0.3,0.385,0.07,0.23,0.3,0.05,0.07,0.667
+203482,"Olynyk, Kelly",New Orleans Pelicans,1610612740,NOP,received,8,"Reeves, Antonio",1641810,0.034,0.45,0.0,0.0,0.05,0.0,0.0,0.02,0.0,0.0,0.02,0.0
+203482,"Olynyk, Kelly",New Orleans Pelicans,1610612740,NOP,received,13,"Hawkins, Jordan",1641722,0.061,0.82,0.05,0.09,0.14,0.667,0.09,0.11,0.8,0.0,0.02,0.0
+203482,"Olynyk, Kelly",New Orleans Pelicans,1610612740,NOP,received,1,"Quinones, Lester",1631311,0.007,0.09,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+203482,"Olynyk, Kelly",New Orleans Pelicans,1610612740,NOP,received,3,"Cain, Jamal",1631288,0.005,0.07,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+203482,"Olynyk, Kelly",New Orleans Pelicans,1610612740,NOP,received,12,"Matković, Karlo",1631255,0.061,0.82,0.02,0.05,0.09,0.5,0.02,0.07,0.333,0.02,0.02,1.0
+203482,"Olynyk, Kelly",New Orleans Pelicans,1610612740,NOP,received,5,"Brooks Jr., Keion",1631232,0.01,0.14,0.0,0.0,0.07,0.0,0.0,0.05,0.0,0.0,0.02,0.0
+203482,"Olynyk, Kelly",New Orleans Pelicans,1610612740,NOP,received,19,"Alvarado, Jose",1630631,0.241,3.25,0.2,0.25,0.64,0.393,0.16,0.45,0.35,0.09,0.18,0.5
+203482,"Olynyk, Kelly",New Orleans Pelicans,1610612740,NOP,received,10,"Murphy III, Trey",1630530,0.081,1.09,0.09,0.14,0.36,0.375,0.14,0.3,0.462,0.0,0.07,0.0
+203482,"Olynyk, Kelly",New Orleans Pelicans,1610612740,NOP,received,4,"Robinson-Earl, Jeremiah",1630526,0.017,0.23,0.0,0.02,0.02,1.0,0.02,0.02,1.0,0.0,0.0,
+203482,"Olynyk, Kelly",New Orleans Pelicans,1610612740,NOP,received,9,"Williamson, Zion",1629627,0.081,1.09,0.11,0.16,0.5,0.318,0.14,0.36,0.375,0.02,0.14,0.167
+203482,"Olynyk, Kelly",New Orleans Pelicans,1610612740,NOP,received,16,"Brown, Bruce",1628971,0.157,2.11,0.14,0.23,0.59,0.385,0.2,0.45,0.45,0.02,0.14,0.167
+203482,"Olynyk, Kelly",New Orleans Pelicans,1610612740,NOP,received,6,"Payton, Elfrid",203901,0.037,0.5,0.09,0.11,0.18,0.625,0.09,0.16,0.571,0.02,0.02,1.0
+203482,"Olynyk, Kelly",New Orleans Pelicans,1610612740,NOP,received,12,"McCollum, CJ",203468,0.108,1.45,0.2,0.2,0.27,0.75,0.14,0.2,0.667,0.07,0.07,1.0

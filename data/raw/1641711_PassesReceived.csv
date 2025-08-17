@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641711,"Dick, Gradey",Toronto Raptors,1610612761,TOR,received,9,"Battle, Jamison",1642419,0.009,0.24,0.02,0.02,0.09,0.2,0.02,0.04,0.5,0.0,0.06,0.0
+1641711,"Dick, Gradey",Toronto Raptors,1610612761,TOR,received,24,"Mogbo, Jonathan",1642367,0.04,1.11,0.22,0.24,0.48,0.5,0.11,0.19,0.6,0.13,0.3,0.438
+1641711,"Dick, Gradey",Toronto Raptors,1610612761,TOR,received,42,"Shead, Jamal",1642347,0.135,3.72,0.74,0.76,1.74,0.436,0.28,0.85,0.326,0.48,0.89,0.542
+1641711,"Dick, Gradey",Toronto Raptors,1610612761,TOR,received,14,"Walter, Ja'Kobe",1642266,0.018,0.5,0.04,0.06,0.17,0.333,0.04,0.11,0.333,0.02,0.06,0.333
+1641711,"Dick, Gradey",Toronto Raptors,1610612761,TOR,received,8,"Robinson, Orlando",1631115,0.011,0.3,0.06,0.06,0.17,0.333,0.02,0.07,0.25,0.04,0.09,0.4
+1641711,"Dick, Gradey",Toronto Raptors,1610612761,TOR,received,40,"Barnes, Scottie",1630567,0.146,4.02,0.5,0.54,1.54,0.349,0.24,0.63,0.382,0.3,0.91,0.327
+1641711,"Dick, Gradey",Toronto Raptors,1610612761,TOR,received,33,"Mitchell, Davion",1630558,0.172,4.74,0.7,0.8,1.98,0.402,0.48,0.94,0.51,0.31,1.04,0.304
+1641711,"Dick, Gradey",Toronto Raptors,1610612761,TOR,received,41,"Agbaji, Ochai",1630534,0.081,2.24,0.35,0.39,1.19,0.328,0.17,0.54,0.31,0.22,0.65,0.343
+1641711,"Dick, Gradey",Toronto Raptors,1610612761,TOR,received,22,"Quickley, Immanuel",1630193,0.063,1.74,0.19,0.22,0.7,0.316,0.17,0.39,0.429,0.06,0.31,0.176
+1641711,"Dick, Gradey",Toronto Raptors,1610612761,TOR,received,38,"Barrett, RJ",1629628,0.157,4.33,0.83,0.91,2.06,0.441,0.46,1.02,0.455,0.44,1.04,0.429
+1641711,"Dick, Gradey",Toronto Raptors,1610612761,TOR,received,7,"Fernando, Bruno",1628981,0.006,0.17,0.02,0.02,0.06,0.333,0.0,0.0,,0.02,0.06,0.333
+1641711,"Dick, Gradey",Toronto Raptors,1610612761,TOR,received,8,"Brown, Bruce",1628971,0.009,0.26,0.06,0.06,0.11,0.5,0.06,0.09,0.6,0.0,0.02,0.0
+1641711,"Dick, Gradey",Toronto Raptors,1610612761,TOR,received,17,"Boucher, Chris",1628449,0.014,0.39,0.02,0.02,0.15,0.125,0.02,0.11,0.167,0.0,0.04,0.0
+1641711,"Dick, Gradey",Toronto Raptors,1610612761,TOR,received,37,"Poeltl, Jakob",1627751,0.105,2.89,0.33,0.41,1.44,0.282,0.37,0.98,0.377,0.04,0.46,0.08
+1641711,"Dick, Gradey",Toronto Raptors,1610612761,TOR,received,15,"Olynyk, Kelly",203482,0.028,0.78,0.11,0.13,0.3,0.438,0.11,0.22,0.5,0.02,0.07,0.25
+1641711,"Dick, Gradey",Toronto Raptors,1610612761,TOR,received,3,"Temple, Garrett",202066,0.003,0.09,0.04,0.04,0.04,1.0,0.0,0.0,,0.04,0.04,1.0

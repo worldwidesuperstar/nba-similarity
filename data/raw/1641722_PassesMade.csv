@@ -1,0 +1,22 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,27,"Missi, Yves",1642274,0.038,0.82,0.07,0.09,0.29,0.313,0.09,0.29,0.313,0.0,0.0,
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,2,"Jemison III, Trey",1641998,0.002,0.04,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,12,"Reeves, Antonio",1641810,0.018,0.39,0.04,0.04,0.07,0.5,0.0,0.02,0.0,0.04,0.05,0.667
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,5,"Cain, Jamal",1631288,0.007,0.14,0.02,0.02,0.02,1.0,0.0,0.0,,0.02,0.02,1.0
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,22,"Matković, Karlo",1631255,0.044,0.95,0.14,0.16,0.29,0.563,0.14,0.21,0.667,0.02,0.07,0.25
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,3,"Brooks Jr., Keion",1631232,0.005,0.11,0.02,0.02,0.02,1.0,0.02,0.02,1.0,0.0,0.0,
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,42,"Alvarado, Jose",1630631,0.195,4.2,0.11,0.27,0.7,0.385,0.16,0.32,0.5,0.11,0.38,0.286
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,35,"Murphy III, Trey",1630530,0.091,1.96,0.05,0.14,0.57,0.25,0.13,0.36,0.35,0.02,0.21,0.083
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,8,"Jones, Herbert",1630529,0.012,0.25,0.04,0.04,0.07,0.5,0.02,0.04,0.5,0.02,0.04,0.5
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,20,"Boston, Brandon",1630527,0.054,1.16,0.05,0.16,0.32,0.5,0.11,0.2,0.545,0.05,0.13,0.429
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,24,"Robinson-Earl, Jeremiah",1630526,0.038,0.82,0.09,0.09,0.27,0.333,0.04,0.13,0.286,0.05,0.14,0.375
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,23,"Green, Javonte",1629750,0.032,0.7,0.07,0.07,0.13,0.571,0.05,0.07,0.75,0.02,0.05,0.333
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,27,"Williamson, Zion",1629627,0.112,2.41,0.13,0.27,0.77,0.349,0.23,0.73,0.317,0.04,0.04,1.0
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,14,"Brown, Bruce",1628971,0.047,1.0,0.07,0.09,0.25,0.357,0.04,0.14,0.25,0.05,0.11,0.5
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,2,"Bamba, Mo",1628964,0.004,0.09,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,17,"Theis, Daniel",1628464,0.031,0.66,0.05,0.05,0.07,0.75,0.04,0.04,1.0,0.02,0.04,0.5
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,20,"Murray, Dejounte",1627749,0.067,1.43,0.07,0.13,0.5,0.25,0.13,0.32,0.389,0.0,0.18,0.0
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,9,"Ingram, Brandon",1627742,0.044,0.95,0.02,0.07,0.2,0.364,0.04,0.11,0.333,0.04,0.09,0.4
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,5,"Payton, Elfrid",203901,0.022,0.46,0.02,0.02,0.05,0.333,0.02,0.05,0.333,0.0,0.0,
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,13,"Olynyk, Kelly",203482,0.03,0.64,0.04,0.07,0.11,0.667,0.07,0.09,0.8,0.0,0.02,0.0
+1641722,"Hawkins, Jordan",New Orleans Pelicans,1610612740,NOP,made,34,"McCollum, CJ",203468,0.107,2.3,0.11,0.27,0.71,0.375,0.16,0.45,0.36,0.11,0.27,0.4

@@ -1,0 +1,20 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,4,"Simpson, KJ",1642354,0.034,1.33,0.0,0.0,0.27,0.0,0.0,0.13,0.0,0.0,0.13,0.0
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,11,"Salaün, Tidjane",1642275,0.081,3.2,0.4,0.47,0.8,0.583,0.07,0.07,1.0,0.4,0.73,0.545
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,12,"Smith Jr., Nick",1641733,0.133,5.27,0.33,0.6,1.47,0.409,0.27,0.67,0.4,0.33,0.8,0.417
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,3,"Sims, Jaylen",1631301,0.023,0.93,0.07,0.07,0.2,0.333,0.07,0.13,0.5,0.0,0.07,0.0
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,11,"Diabaté, Moussa",1631217,0.104,4.13,0.33,0.33,0.73,0.455,0.33,0.73,0.455,0.0,0.0,
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,1,"Wong, Isaiah",1631209,0.013,0.53,0.0,0.13,0.2,0.667,0.13,0.2,0.667,0.0,0.0,
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,7,"Moore Jr., Wendell",1631111,0.052,2.07,0.27,0.27,0.6,0.444,0.2,0.27,0.75,0.07,0.33,0.2
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,7,"Williams, Mark",1631109,0.039,1.53,0.2,0.2,0.27,0.75,0.2,0.27,0.75,0.0,0.0,
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,1,"Garrett, Marcus",1630585,0.005,0.2,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,2,"Flynn, Malachi",1630201,0.003,0.13,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,9,"Green, Josh",1630182,0.077,3.07,0.47,0.53,0.93,0.571,0.33,0.6,0.556,0.2,0.33,0.6
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,5,"Ball, LaMelo",1630163,0.035,1.4,0.07,0.13,0.4,0.333,0.0,0.07,0.0,0.13,0.33,0.4
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,10,"Jeffries, DaQuan",1629610,0.052,2.07,0.07,0.2,0.93,0.214,0.2,0.6,0.333,0.0,0.33,0.0
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,3,"Okogie, Josh",1629006,0.018,0.73,0.13,0.13,0.4,0.333,0.07,0.27,0.25,0.07,0.13,0.5
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,10,"Bridges, Miles",1628970,0.186,7.4,0.87,1.2,2.87,0.419,0.87,2.2,0.394,0.33,0.67,0.5
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,7,"Nurkić, Jusuf",203994,0.055,2.2,0.2,0.4,0.87,0.462,0.33,0.67,0.5,0.07,0.2,0.333
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,2,"Payton, Elfrid",203901,0.015,0.6,0.0,0.0,0.07,0.0,0.0,0.07,0.0,0.0,0.0,
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,9,"Curry, Seth",203552,0.055,2.2,0.2,0.33,0.8,0.417,0.13,0.33,0.4,0.2,0.47,0.429
+1641878,"Baugh, Damion",Charlotte Hornets,1610612766,CHA,made,5,"Gibson, Taj",201959,0.018,0.73,0.13,0.13,0.2,0.667,0.13,0.2,0.667,0.0,0.0,

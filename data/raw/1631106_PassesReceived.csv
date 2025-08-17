@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631106,"Eason, Tari",Houston Rockets,1610612745,HOU,received,1,"Dante, N'Faly",1642368,0.002,0.04,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631106,"Eason, Tari",Houston Rockets,1610612745,HOU,received,23,"Sheppard, Reed",1642263,0.056,1.04,0.21,0.21,0.44,0.48,0.11,0.26,0.4,0.11,0.18,0.6
+1631106,"Eason, Tari",Houston Rockets,1610612745,HOU,received,8,"Whitmore, Cam",1641715,0.014,0.26,0.09,0.09,0.14,0.625,0.05,0.09,0.6,0.04,0.05,0.667
+1631106,"Eason, Tari",Houston Rockets,1610612745,HOU,received,48,"Thompson, Amen",1641708,0.175,3.26,0.53,0.63,1.47,0.429,0.39,0.79,0.489,0.25,0.68,0.359
+1631106,"Eason, Tari",Houston Rockets,1610612745,HOU,received,1,"Williams, Nate",1631466,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631106,"Eason, Tari",Houston Rockets,1610612745,HOU,received,28,"Smith Jr., Jabari",1631095,0.051,0.95,0.12,0.16,0.39,0.409,0.11,0.25,0.429,0.05,0.14,0.375
+1631106,"Eason, Tari",Houston Rockets,1610612745,HOU,received,44,"Sengun, Alperen",1630578,0.144,2.68,0.68,0.77,1.54,0.5,0.6,0.91,0.654,0.18,0.63,0.278
+1631106,"Eason, Tari",Houston Rockets,1610612745,HOU,received,8,"Tate, Jae'Sean",1630256,0.015,0.28,0.07,0.09,0.12,0.714,0.07,0.09,0.8,0.02,0.04,0.5
+1631106,"Eason, Tari",Houston Rockets,1610612745,HOU,received,52,"Green, Jalen",1630224,0.165,3.07,0.33,0.4,1.28,0.315,0.25,0.65,0.378,0.16,0.63,0.25
+1631106,"Eason, Tari",Houston Rockets,1610612745,HOU,received,15,"Landale, Jock",1629111,0.032,0.6,0.05,0.12,0.25,0.5,0.11,0.21,0.5,0.02,0.04,0.5
+1631106,"Eason, Tari",Houston Rockets,1610612745,HOU,received,19,"Holiday, Aaron",1628988,0.038,0.7,0.05,0.05,0.25,0.214,0.05,0.16,0.333,0.0,0.09,0.0
+1631106,"Eason, Tari",Houston Rockets,1610612745,HOU,received,37,"Brooks, Dillon",1628415,0.083,1.54,0.33,0.35,0.72,0.488,0.26,0.51,0.517,0.09,0.21,0.417
+1631106,"Eason, Tari",Houston Rockets,1610612745,HOU,received,41,"VanVleet, Fred",1627832,0.168,3.12,0.47,0.54,1.19,0.456,0.35,0.77,0.455,0.19,0.42,0.458
+1631106,"Eason, Tari",Houston Rockets,1610612745,HOU,received,25,"Adams, Steven",203500,0.048,0.89,0.07,0.12,0.39,0.318,0.11,0.3,0.353,0.02,0.09,0.2
+1631106,"Eason, Tari",Houston Rockets,1610612745,HOU,received,5,"Green, Jeff",201145,0.008,0.14,0.02,0.02,0.05,0.333,0.02,0.04,0.5,0.0,0.02,0.0

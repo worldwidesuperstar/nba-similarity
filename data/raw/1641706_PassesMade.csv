@@ -1,0 +1,18 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641706,"Miller, Brandon",Charlotte Hornets,1610612766,CHA,made,9,"Simpson, KJ",1642354,0.048,2.26,0.04,0.04,0.56,0.067,0.04,0.26,0.143,0.0,0.3,0.0
+1641706,"Miller, Brandon",Charlotte Hornets,1610612766,CHA,made,19,"Salaün, Tidjane",1642275,0.048,2.26,0.11,0.11,0.74,0.15,0.04,0.22,0.167,0.07,0.52,0.143
+1641706,"Miller, Brandon",Charlotte Hornets,1610612766,CHA,made,12,"Smith Jr., Nick",1641733,0.022,1.04,0.11,0.19,0.33,0.556,0.15,0.22,0.667,0.04,0.11,0.333
+1641706,"Miller, Brandon",Charlotte Hornets,1610612766,CHA,made,17,"Diabaté, Moussa",1631217,0.033,1.56,0.15,0.19,0.26,0.714,0.19,0.26,0.714,0.0,0.0,
+1641706,"Miller, Brandon",Charlotte Hornets,1610612766,CHA,made,4,"Wong, Isaiah",1631209,0.015,0.7,0.0,0.0,0.19,0.0,0.0,0.19,0.0,0.0,0.0,
+1641706,"Miller, Brandon",Charlotte Hornets,1610612766,CHA,made,10,"Williams, Mark",1631109,0.033,1.56,0.37,0.37,0.52,0.714,0.37,0.52,0.714,0.0,0.0,
+1641706,"Miller, Brandon",Charlotte Hornets,1610612766,CHA,made,8,"Mann, Tre",1630544,0.044,2.07,0.04,0.15,0.52,0.286,0.11,0.41,0.273,0.04,0.11,0.333
+1641706,"Miller, Brandon",Charlotte Hornets,1610612766,CHA,made,10,"Richards, Nick",1630208,0.024,1.15,0.15,0.15,0.3,0.5,0.15,0.3,0.5,0.0,0.0,
+1641706,"Miller, Brandon",Charlotte Hornets,1610612766,CHA,made,24,"Green, Josh",1630182,0.073,3.44,0.41,0.44,1.0,0.444,0.19,0.52,0.357,0.26,0.48,0.538
+1641706,"Miller, Brandon",Charlotte Hornets,1610612766,CHA,made,20,"Ball, LaMelo",1630163,0.31,14.59,0.78,1.89,4.33,0.436,1.11,2.19,0.508,0.78,2.15,0.362
+1641706,"Miller, Brandon",Charlotte Hornets,1610612766,CHA,made,11,"Williams, Grant",1629684,0.039,1.81,0.15,0.15,0.3,0.5,0.11,0.15,0.75,0.04,0.15,0.25
+1641706,"Miller, Brandon",Charlotte Hornets,1610612766,CHA,made,2,"Jeffries, DaQuan",1629610,0.004,0.19,0.04,0.04,0.07,0.5,0.04,0.04,1.0,0.0,0.04,0.0
+1641706,"Miller, Brandon",Charlotte Hornets,1610612766,CHA,made,24,"Martin, Cody",1628998,0.069,3.22,0.59,0.67,1.19,0.563,0.37,0.52,0.714,0.3,0.67,0.444
+1641706,"Miller, Brandon",Charlotte Hornets,1610612766,CHA,made,14,"Bridges, Miles",1628970,0.088,4.15,0.44,0.56,1.52,0.366,0.26,0.78,0.333,0.3,0.74,0.4
+1641706,"Miller, Brandon",Charlotte Hornets,1610612766,CHA,made,18,"Micic, Vasilije",203995,0.131,6.19,0.15,0.37,1.0,0.37,0.19,0.59,0.313,0.19,0.41,0.455
+1641706,"Miller, Brandon",Charlotte Hornets,1610612766,CHA,made,5,"Curry, Seth",203552,0.005,0.22,0.04,0.07,0.15,0.5,0.07,0.07,1.0,0.0,0.07,0.0
+1641706,"Miller, Brandon",Charlotte Hornets,1610612766,CHA,made,10,"Gibson, Taj",201959,0.013,0.63,0.07,0.07,0.11,0.667,0.07,0.11,0.667,0.0,0.0,

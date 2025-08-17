@@ -1,0 +1,8 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641772,"Tomlin, Nae'Qwan",Cleveland Cavaliers,1610612739,CLE,received,3,"Tyson, Jaylon",1642281,0.203,2.4,0.4,0.6,1.2,0.5,0.6,1.0,0.6,0.0,0.2,0.0
+1641772,"Tomlin, Nae'Qwan",Cleveland Cavaliers,1610612739,CLE,received,5,"Porter Jr., Craig",1641854,0.271,3.2,0.6,0.6,2.0,0.3,0.4,1.2,0.333,0.2,0.8,0.25
+1641772,"Tomlin, Nae'Qwan",Cleveland Cavaliers,1610612739,CLE,received,1,"Bates, Emoni",1641734,0.136,1.6,0.2,0.2,0.8,0.25,0.2,0.6,0.333,0.0,0.2,0.0
+1641772,"Tomlin, Nae'Qwan",Cleveland Cavaliers,1610612739,CLE,received,2,"Travers, Luke",1631247,0.102,1.2,0.0,0.0,0.6,0.0,0.0,0.4,0.0,0.0,0.2,0.0
+1641772,"Tomlin, Nae'Qwan",Cleveland Cavaliers,1610612739,CLE,received,1,"Green, Javonte",1629750,0.051,0.6,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1641772,"Tomlin, Nae'Qwan",Cleveland Cavaliers,1610612739,CLE,received,1,"Okeke, Chuma",1629643,0.102,1.2,0.2,0.2,0.2,1.0,0.0,0.0,,0.2,0.2,1.0
+1641772,"Tomlin, Nae'Qwan",Cleveland Cavaliers,1610612739,CLE,received,3,"Thompson, Tristan",202684,0.136,1.6,0.0,0.2,1.0,0.2,0.2,0.6,0.333,0.0,0.4,0.0

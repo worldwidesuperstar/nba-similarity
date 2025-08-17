@@ -1,0 +1,21 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,18,"Simpson, KJ",1642354,0.069,1.66,0.11,0.25,0.45,0.55,0.16,0.3,0.538,0.09,0.16,0.571
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,11,"Salaün, Tidjane",1642275,0.013,0.32,0.02,0.02,0.16,0.143,0.0,0.02,0.0,0.02,0.14,0.167
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,7,"Baugh, Damion",1641878,0.022,0.52,0.02,0.02,0.09,0.25,0.02,0.09,0.25,0.0,0.0,
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,32,"Smith Jr., Nick",1641733,0.141,3.39,0.34,0.45,1.11,0.408,0.23,0.64,0.357,0.23,0.48,0.476
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,10,"Miller, Brandon",1641706,0.043,1.02,0.2,0.27,0.55,0.5,0.09,0.2,0.444,0.18,0.34,0.533
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,3,"Sims, Jaylen",1631301,0.004,0.09,0.0,0.02,0.02,1.0,0.02,0.02,1.0,0.0,0.0,
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,5,"Diabaté, Moussa",1631217,0.005,0.11,0.0,0.02,0.07,0.333,0.02,0.07,0.333,0.0,0.0,
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,5,"Wong, Isaiah",1631209,0.006,0.14,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,5,"Moore Jr., Wendell",1631111,0.009,0.23,0.02,0.05,0.05,1.0,0.05,0.05,1.0,0.0,0.0,
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,2,"Garrett, Marcus",1630585,0.003,0.07,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,2,"Flynn, Malachi",1630201,0.004,0.09,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,32,"Green, Josh",1630182,0.079,1.89,0.34,0.34,0.77,0.441,0.14,0.36,0.375,0.2,0.41,0.5
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,24,"Ball, LaMelo",1630163,0.199,4.77,0.36,0.66,1.8,0.367,0.36,1.02,0.356,0.3,0.77,0.382
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,16,"Jeffries, DaQuan",1629610,0.051,1.23,0.23,0.23,0.57,0.4,0.18,0.43,0.421,0.05,0.14,0.333
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,6,"Okogie, Josh",1629006,0.016,0.39,0.05,0.05,0.16,0.286,0.0,0.09,0.0,0.05,0.07,0.667
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,10,"Martin, Cody",1628998,0.013,0.32,0.02,0.02,0.09,0.25,0.0,0.07,0.0,0.02,0.02,1.0
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,38,"Bridges, Miles",1628970,0.168,4.02,0.5,0.64,1.52,0.418,0.39,0.75,0.515,0.25,0.77,0.324
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,20,"Micic, Vasilije",203995,0.082,1.95,0.11,0.18,0.59,0.308,0.09,0.3,0.308,0.09,0.3,0.308
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,2,"Payton, Elfrid",203901,0.004,0.09,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1631109,"Williams, Mark",Charlotte Hornets,1610612766,CHA,made,26,"Curry, Seth",203552,0.069,1.66,0.14,0.27,0.57,0.48,0.14,0.27,0.5,0.14,0.3,0.462

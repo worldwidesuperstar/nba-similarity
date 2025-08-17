@@ -1,0 +1,7 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1642449,"Smith, Tolu",Detroit Pistons,1610612765,DET,made,1,"Jenkins, Daniss",1642450,0.15,3.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642449,"Smith, Tolu",Detroit Pistons,1610612765,DET,made,1,"Holland II, Ronald",1641842,0.1,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642449,"Smith, Tolu",Detroit Pistons,1610612765,DET,made,1,"Klintman, Bobi",1641752,0.1,2.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642449,"Smith, Tolu",Detroit Pistons,1610612765,DET,made,1,"Fontecchio, Simone",1631323,0.05,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,
+1642449,"Smith, Tolu",Detroit Pistons,1610612765,DET,made,1,"Sasser, Marcus",1631204,0.55,11.0,0.0,0.0,3.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0
+1642449,"Smith, Tolu",Detroit Pistons,1610612765,DET,made,1,"Waters III, Lindy",1630322,0.05,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,

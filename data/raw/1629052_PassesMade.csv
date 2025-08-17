@@ -1,0 +1,10 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629052,"Brissett, Oshae",Philadelphia 76ers,1610612755,PHI,made,5,"Edwards, Justin",1642348,0.089,2.5,0.0,0.33,0.83,0.4,0.33,0.83,0.4,0.0,0.0,
+1629052,"Brissett, Oshae",Philadelphia 76ers,1610612755,PHI,made,4,"Reese, Alex",1642024,0.03,0.83,0.17,0.17,0.17,1.0,0.0,0.0,,0.17,0.17,1.0
+1629052,"Brissett, Oshae",Philadelphia 76ers,1610612755,PHI,made,5,"Council IV, Ricky",1641741,0.107,3.0,0.0,0.17,0.67,0.25,0.17,0.5,0.333,0.0,0.17,0.0
+1629052,"Brissett, Oshae",Philadelphia 76ers,1610612755,PHI,made,4,"Hood-Schifino, Jalen",1641720,0.154,4.33,0.0,0.17,1.33,0.125,0.0,0.33,0.0,0.17,1.0,0.167
+1629052,"Brissett, Oshae",Philadelphia 76ers,1610612755,PHI,made,3,"Dowtin Jr., Jeff",1630288,0.089,2.5,0.17,0.5,0.67,0.75,0.33,0.5,0.667,0.17,0.17,1.0
+1629052,"Brissett, Oshae",Philadelphia 76ers,1610612755,PHI,made,6,"Butler, Jared",1630215,0.361,10.17,0.17,1.0,2.17,0.462,0.67,1.67,0.4,0.33,0.5,0.667
+1629052,"Brissett, Oshae",Philadelphia 76ers,1610612755,PHI,made,5,"Grimes, Quentin",1629656,0.124,3.5,0.17,0.5,1.17,0.429,0.5,0.83,0.6,0.0,0.33,0.0
+1629052,"Brissett, Oshae",Philadelphia 76ers,1610612755,PHI,made,2,"Okeke, Chuma",1629643,0.012,0.33,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629052,"Brissett, Oshae",Philadelphia 76ers,1610612755,PHI,made,2,"Yabusele, Guerschon",1627824,0.036,1.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,

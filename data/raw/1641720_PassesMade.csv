@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641720,"Hood-Schifino, Jalen",Philadelphia 76ers,1610612755,PHI,made,8,"Edwards, Justin",1642348,0.085,2.53,0.13,0.2,0.93,0.214,0.2,0.4,0.5,0.0,0.53,0.0
+1641720,"Hood-Schifino, Jalen",Philadelphia 76ers,1610612755,PHI,made,6,"Reese, Alex",1642024,0.053,1.6,0.2,0.2,0.53,0.375,0.07,0.13,0.5,0.13,0.4,0.333
+1641720,"Hood-Schifino, Jalen",Philadelphia 76ers,1610612755,PHI,made,11,"Council IV, Ricky",1641741,0.127,3.8,0.4,0.53,1.33,0.4,0.4,0.8,0.5,0.13,0.53,0.25
+1641720,"Hood-Schifino, Jalen",Philadelphia 76ers,1610612755,PHI,made,5,"Bona, Adem",1641737,0.045,1.33,0.27,0.27,0.4,0.667,0.27,0.4,0.667,0.0,0.0,
+1641720,"Hood-Schifino, Jalen",Philadelphia 76ers,1610612755,PHI,made,2,"Wheeler, Phillip",1630762,0.011,0.33,0.0,0.0,0.13,0.0,0.0,0.13,0.0,0.0,0.0,
+1641720,"Hood-Schifino, Jalen",Philadelphia 76ers,1610612755,PHI,made,4,"Castleton, Colin",1630658,0.027,0.8,0.07,0.07,0.33,0.2,0.07,0.27,0.25,0.0,0.07,0.0
+1641720,"Hood-Schifino, Jalen",Philadelphia 76ers,1610612755,PHI,made,1,"Mobley, Isaiah",1630600,0.013,0.4,0.0,0.0,0.07,0.0,0.0,0.07,0.0,0.0,0.0,
+1641720,"Hood-Schifino, Jalen",Philadelphia 76ers,1610612755,PHI,made,6,"Bagley, Marcus",1630542,0.033,1.0,0.27,0.4,0.53,0.75,0.27,0.33,0.8,0.13,0.2,0.667
+1641720,"Hood-Schifino, Jalen",Philadelphia 76ers,1610612755,PHI,made,5,"Dowtin Jr., Jeff",1630288,0.085,2.53,0.13,0.4,0.67,0.6,0.27,0.4,0.667,0.13,0.27,0.5
+1641720,"Hood-Schifino, Jalen",Philadelphia 76ers,1610612755,PHI,made,8,"Butler, Jared",1630215,0.076,2.27,0.0,0.07,0.33,0.2,0.07,0.2,0.333,0.0,0.13,0.0
+1641720,"Hood-Schifino, Jalen",Philadelphia 76ers,1610612755,PHI,made,9,"Grimes, Quentin",1629656,0.149,4.47,0.0,0.27,1.27,0.211,0.2,0.53,0.375,0.07,0.73,0.091
+1641720,"Hood-Schifino, Jalen",Philadelphia 76ers,1610612755,PHI,made,5,"Okeke, Chuma",1629643,0.033,1.0,0.13,0.13,0.13,1.0,0.0,0.0,,0.13,0.13,1.0
+1641720,"Hood-Schifino, Jalen",Philadelphia 76ers,1610612755,PHI,made,4,"Brissett, Oshae",1629052,0.04,1.2,0.13,0.27,0.4,0.667,0.13,0.13,1.0,0.13,0.27,0.5
+1641720,"Hood-Schifino, Jalen",Philadelphia 76ers,1610612755,PHI,made,8,"Walker IV, Lonnie",1629022,0.134,4.0,0.4,0.47,1.47,0.318,0.2,0.4,0.5,0.27,1.07,0.25
+1641720,"Hood-Schifino, Jalen",Philadelphia 76ers,1610612755,PHI,made,8,"Yabusele, Guerschon",1627824,0.076,2.27,0.27,0.27,0.33,0.8,0.2,0.2,1.0,0.07,0.13,0.5
+1641720,"Hood-Schifino, Jalen",Philadelphia 76ers,1610612755,PHI,made,1,"Lowry, Kyle",200768,0.013,0.4,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,

@@ -1,0 +1,21 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,22,"Edwards, Justin",1642348,0.047,2.88,0.4,0.4,0.81,0.5,0.1,0.25,0.385,0.31,0.56,0.552
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,14,"McCain, Jared",1642272,0.038,2.35,0.12,0.25,0.79,0.317,0.15,0.37,0.421,0.1,0.42,0.227
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,36,"Council IV, Ricky",1641741,0.048,2.9,0.31,0.42,1.1,0.386,0.23,0.6,0.387,0.19,0.5,0.385
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,18,"Bona, Adem",1641737,0.015,0.9,0.12,0.13,0.25,0.538,0.13,0.25,0.538,0.0,0.0,
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,3,"Nance, Pete",1631250,0.004,0.25,0.04,0.04,0.06,0.667,0.0,0.0,,0.04,0.06,0.667
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,2,"Roddy, David",1631223,0.002,0.1,0.0,0.0,0.04,0.0,0.0,0.0,,0.0,0.04,0.0
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,6,"Dowtin Jr., Jeff",1630288,0.008,0.5,0.0,0.06,0.06,1.0,0.06,0.06,1.0,0.0,0.0,
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,19,"Martin, KJ",1630231,0.038,2.29,0.27,0.29,0.6,0.484,0.27,0.5,0.538,0.02,0.1,0.2
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,3,"Butler, Jared",1630215,0.002,0.13,0.0,0.0,0.06,0.0,0.0,0.02,0.0,0.0,0.04,0.0
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,9,"Grimes, Quentin",1629656,0.03,1.83,0.19,0.27,0.54,0.5,0.13,0.19,0.7,0.13,0.35,0.389
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,4,"Walker IV, Lonnie",1629022,0.002,0.13,0.0,0.0,0.06,0.0,0.0,0.02,0.0,0.0,0.04,0.0
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,25,"Martin, Caleb",1628997,0.068,4.15,0.31,0.42,1.04,0.407,0.23,0.58,0.4,0.19,0.46,0.417
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,46,"Yabusele, Guerschon",1627824,0.126,7.65,0.88,0.92,1.92,0.48,0.4,0.81,0.5,0.52,1.12,0.466
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,48,"Oubre Jr., Kelly",1626162,0.167,10.17,1.23,1.42,3.56,0.4,0.96,2.12,0.455,0.46,1.44,0.32
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,16,"Embiid, Joel",203954,0.106,6.46,0.79,1.12,2.46,0.453,0.98,1.94,0.505,0.13,0.52,0.259
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,27,"Drummond, Andre",203083,0.034,2.06,0.1,0.1,0.35,0.278,0.08,0.29,0.267,0.02,0.06,0.333
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,16,"Jackson, Reggie",202704,0.016,0.96,0.08,0.1,0.23,0.417,0.08,0.15,0.5,0.02,0.08,0.25
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,34,"George, Paul",202331,0.155,9.44,0.6,1.27,2.88,0.44,0.73,1.58,0.463,0.54,1.31,0.412
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,30,"Gordon, Eric",201569,0.055,3.35,0.5,0.5,1.1,0.456,0.08,0.29,0.267,0.42,0.81,0.524
+1630178,"Maxey, Tyrese",Philadelphia 76ers,1610612755,PHI,made,26,"Lowry, Kyle",200768,0.04,2.44,0.17,0.19,0.44,0.435,0.04,0.12,0.333,0.15,0.33,0.471

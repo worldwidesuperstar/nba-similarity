@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631095,"Smith Jr., Jabari",Houston Rockets,1610612745,HOU,received,12,"Sheppard, Reed",1642263,0.035,0.65,0.07,0.07,0.3,0.235,0.04,0.19,0.182,0.04,0.11,0.333
+1631095,"Smith Jr., Jabari",Houston Rockets,1610612745,HOU,received,6,"Whitmore, Cam",1641715,0.01,0.18,0.0,0.0,0.04,0.0,0.0,0.02,0.0,0.0,0.02,0.0
+1631095,"Smith Jr., Jabari",Houston Rockets,1610612745,HOU,received,35,"Thompson, Amen",1641708,0.097,1.79,0.33,0.4,0.95,0.426,0.25,0.47,0.519,0.16,0.47,0.333
+1631095,"Smith Jr., Jabari",Houston Rockets,1610612745,HOU,received,1,"Williams, Nate",1631466,0.001,0.02,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1631095,"Smith Jr., Jabari",Houston Rockets,1610612745,HOU,received,29,"Eason, Tari",1631106,0.046,0.84,0.18,0.19,0.4,0.478,0.14,0.23,0.615,0.05,0.18,0.3
+1631095,"Smith Jr., Jabari",Houston Rockets,1610612745,HOU,received,52,"Sengun, Alperen",1630578,0.207,3.81,0.67,0.72,2.05,0.35,0.35,0.91,0.385,0.37,1.14,0.323
+1631095,"Smith Jr., Jabari",Houston Rockets,1610612745,HOU,received,7,"Tate, Jae'Sean",1630256,0.012,0.23,0.04,0.04,0.07,0.5,0.02,0.04,0.5,0.02,0.04,0.5
+1631095,"Smith Jr., Jabari",Houston Rockets,1610612745,HOU,received,51,"Green, Jalen",1630224,0.182,3.35,0.46,0.56,1.3,0.432,0.33,0.63,0.528,0.23,0.67,0.342
+1631095,"Smith Jr., Jabari",Houston Rockets,1610612745,HOU,received,7,"Landale, Jock",1629111,0.009,0.16,0.02,0.04,0.11,0.333,0.02,0.05,0.333,0.02,0.05,0.333
+1631095,"Smith Jr., Jabari",Houston Rockets,1610612745,HOU,received,26,"Holiday, Aaron",1628988,0.052,0.96,0.18,0.23,0.51,0.448,0.11,0.26,0.4,0.12,0.25,0.5
+1631095,"Smith Jr., Jabari",Houston Rockets,1610612745,HOU,received,37,"Brooks, Dillon",1628415,0.071,1.32,0.26,0.3,0.67,0.447,0.12,0.25,0.5,0.18,0.42,0.417
+1631095,"Smith Jr., Jabari",Houston Rockets,1610612745,HOU,received,44,"VanVleet, Fred",1627832,0.226,4.16,0.81,0.93,2.3,0.405,0.44,1.0,0.439,0.49,1.3,0.378
+1631095,"Smith Jr., Jabari",Houston Rockets,1610612745,HOU,received,21,"Adams, Steven",203500,0.041,0.75,0.14,0.18,0.33,0.526,0.14,0.26,0.533,0.04,0.07,0.5
+1631095,"Smith Jr., Jabari",Houston Rockets,1610612745,HOU,received,7,"Green, Jeff",201145,0.01,0.19,0.0,0.0,0.12,0.0,0.0,0.05,0.0,0.0,0.07,0.0

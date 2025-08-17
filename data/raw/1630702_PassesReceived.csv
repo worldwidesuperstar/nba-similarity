@@ -1,0 +1,24 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,4,"Gortman, Jazian",1641789,0.004,0.09,0.02,0.02,0.05,0.333,0.0,0.04,0.0,0.02,0.02,1.0
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,21,"Prosper, Olivier-Maxence",1641765,0.035,0.7,0.09,0.09,0.19,0.455,0.04,0.07,0.5,0.05,0.12,0.429
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,20,"Lively II, Dereck",1641726,0.06,1.21,0.05,0.12,0.28,0.438,0.11,0.19,0.545,0.02,0.09,0.2
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,14,"Christie, Max",1631108,0.033,0.67,0.0,0.07,0.25,0.286,0.07,0.19,0.364,0.0,0.05,0.0
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,13,"Edwards, Kessler",1630556,0.028,0.56,0.04,0.11,0.28,0.375,0.11,0.18,0.6,0.0,0.11,0.0
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,7,"Jones, Kai",1630539,0.03,0.6,0.04,0.11,0.21,0.5,0.09,0.16,0.556,0.02,0.05,0.333
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,20,"Williams, Brandon",1630314,0.048,0.96,0.11,0.12,0.35,0.35,0.04,0.14,0.25,0.09,0.21,0.417
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,4,"Kelley, Kylor",1630283,0.01,0.19,0.02,0.07,0.11,0.667,0.05,0.07,0.75,0.02,0.04,0.5
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,37,"Marshall, Naji",1630230,0.117,2.35,0.12,0.26,0.86,0.306,0.16,0.46,0.346,0.11,0.4,0.261
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,23,"Grimes, Quentin",1629656,0.062,1.25,0.21,0.26,0.56,0.469,0.07,0.21,0.333,0.19,0.35,0.55
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,28,"Gafford, Daniel",1629655,0.057,1.14,0.09,0.19,0.51,0.379,0.14,0.37,0.381,0.05,0.14,0.375
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,1,"Brown, Moses",1629650,0.003,0.07,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,10,"Dončić, Luka",1629029,0.044,0.89,0.11,0.16,0.42,0.375,0.09,0.18,0.5,0.07,0.25,0.286
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,30,"Washington, P.J.",1629023,0.112,2.26,0.12,0.18,0.47,0.37,0.02,0.18,0.1,0.16,0.3,0.529
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,6,"Martin, Caleb",1628997,0.012,0.25,0.04,0.05,0.12,0.429,0.0,0.0,,0.05,0.12,0.429
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,18,"Kleber, Maxi",1628467,0.038,0.77,0.02,0.16,0.32,0.5,0.09,0.14,0.625,0.07,0.18,0.4
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,7,"Exum, Danté",203957,0.013,0.26,0.04,0.04,0.11,0.333,0.0,0.04,0.0,0.04,0.07,0.5
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,27,"Powell, Dwight",203939,0.058,1.18,0.11,0.19,0.44,0.44,0.19,0.39,0.5,0.0,0.05,0.0
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,43,"Dinwiddie, Spencer",203915,0.124,2.51,0.32,0.47,1.09,0.435,0.25,0.56,0.438,0.23,0.53,0.433
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,5,"Davis, Anthony",203076,0.023,0.47,0.04,0.07,0.11,0.667,0.04,0.05,0.667,0.04,0.05,0.667
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,3,"Morris, Markieff",202693,0.006,0.12,0.04,0.05,0.05,1.0,0.02,0.02,1.0,0.04,0.04,1.0
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,17,"Thompson, Klay",202691,0.026,0.53,0.09,0.11,0.21,0.5,0.05,0.09,0.6,0.05,0.12,0.429
+1630702,"Hardy, Jaden",Dallas Mavericks,1610612742,DAL,received,20,"Irving, Kyrie",202681,0.057,1.14,0.07,0.12,0.37,0.333,0.09,0.23,0.385,0.04,0.14,0.25

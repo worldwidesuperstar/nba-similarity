@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,made,10,"Salaün, Tidjane",1642275,0.06,2.08,0.31,0.31,0.92,0.333,0.0,0.31,0.0,0.31,0.62,0.5
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,made,2,"Smith Jr., Nick",1641733,0.011,0.38,0.0,0.0,0.15,0.0,0.0,0.0,,0.0,0.15,0.0
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,made,8,"Miller, Brandon",1641706,0.102,3.54,0.23,0.54,1.23,0.438,0.31,0.54,0.571,0.23,0.69,0.333
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,made,9,"Diabaté, Moussa",1631217,0.047,1.62,0.08,0.08,0.23,0.333,0.08,0.23,0.333,0.0,0.0,
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,made,1,"Rhoden, Jared",1631197,0.002,0.08,0.0,0.0,0.08,0.0,0.0,0.08,0.0,0.0,0.0,
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,made,5,"Richards, Nick",1630208,0.029,1.0,0.0,0.0,0.23,0.0,0.0,0.23,0.0,0.0,0.0,
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,made,8,"Green, Josh",1630182,0.033,1.15,0.15,0.15,0.31,0.5,0.0,0.08,0.0,0.15,0.23,0.667
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,made,12,"Ball, LaMelo",1630163,0.194,6.69,0.46,1.0,2.23,0.448,0.62,1.23,0.5,0.38,1.0,0.385
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,made,13,"Williams, Grant",1629684,0.163,5.62,0.38,0.38,1.46,0.263,0.15,0.54,0.286,0.23,0.92,0.25
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,made,12,"Martin, Cody",1628998,0.163,5.62,0.77,1.08,2.15,0.5,0.62,1.15,0.533,0.46,1.0,0.462
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,made,10,"Bridges, Miles",1628970,0.109,3.77,0.46,0.46,2.0,0.231,0.31,1.23,0.25,0.15,0.77,0.2
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,made,3,"Micic, Vasilije",203995,0.038,1.31,0.0,0.08,0.15,0.5,0.08,0.15,0.5,0.0,0.0,
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,made,8,"Curry, Seth",203552,0.04,1.38,0.0,0.08,0.54,0.143,0.0,0.31,0.0,0.08,0.23,0.333
+1630544,"Mann, Tre",Charlotte Hornets,1610612766,CHA,made,2,"Gibson, Taj",201959,0.009,0.31,0.08,0.08,0.15,0.5,0.08,0.15,0.5,0.0,0.0,

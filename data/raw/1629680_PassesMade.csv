@@ -1,0 +1,14 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629680,"Thybulle, Matisse",Portland Trail Blazers,1610612757,POR,made,6,"Clingan, Donovan",1642270,0.054,1.2,0.0,0.0,0.07,0.0,0.0,0.07,0.0,0.0,0.0,
+1629680,"Thybulle, Matisse",Portland Trail Blazers,1610612757,POR,made,10,"Reath, Duop",1641871,0.057,1.27,0.27,0.27,0.53,0.5,0.13,0.33,0.4,0.13,0.2,0.667
+1629680,"Thybulle, Matisse",Portland Trail Blazers,1610612757,POR,made,6,"Camara, Toumani",1641739,0.084,1.87,0.13,0.27,0.53,0.5,0.13,0.27,0.5,0.13,0.27,0.5
+1629680,"Thybulle, Matisse",Portland Trail Blazers,1610612757,POR,made,2,"Rupert, Rayan",1641712,0.018,0.4,0.13,0.13,0.33,0.4,0.13,0.13,1.0,0.0,0.2,0.0
+1629680,"Thybulle, Matisse",Portland Trail Blazers,1610612757,POR,made,2,"Cissoko, Sidy",1631321,0.039,0.87,0.0,0.0,0.07,0.0,0.0,0.07,0.0,0.0,0.0,
+1629680,"Thybulle, Matisse",Portland Trail Blazers,1610612757,POR,made,2,"Minaya, Justin",1631303,0.006,0.13,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629680,"Thybulle, Matisse",Portland Trail Blazers,1610612757,POR,made,9,"Murray, Kris",1631200,0.051,1.13,0.13,0.13,0.4,0.333,0.13,0.27,0.5,0.0,0.13,0.0
+1629680,"Thybulle, Matisse",Portland Trail Blazers,1610612757,POR,made,4,"Walker, Jabari",1631133,0.021,0.47,0.2,0.2,0.27,0.75,0.2,0.27,0.75,0.0,0.0,
+1629680,"Thybulle, Matisse",Portland Trail Blazers,1610612757,POR,made,9,"Sharpe, Shaedon",1631101,0.147,3.27,0.2,0.47,1.13,0.412,0.33,0.53,0.625,0.13,0.6,0.222
+1629680,"Thybulle, Matisse",Portland Trail Blazers,1610612757,POR,made,7,"Henderson, Scoot",1630703,0.117,2.6,0.13,0.27,0.67,0.4,0.13,0.33,0.4,0.13,0.33,0.4
+1629680,"Thybulle, Matisse",Portland Trail Blazers,1610612757,POR,made,13,"Banton, Dalano",1630625,0.24,5.33,0.27,0.6,1.0,0.6,0.4,0.6,0.667,0.2,0.4,0.5
+1629680,"Thybulle, Matisse",Portland Trail Blazers,1610612757,POR,made,9,"Avdija, Deni",1630166,0.078,1.73,0.13,0.4,0.93,0.429,0.33,0.67,0.5,0.07,0.27,0.25
+1629680,"Thybulle, Matisse",Portland Trail Blazers,1610612757,POR,made,6,"Simons, Anfernee",1629014,0.087,1.93,0.27,0.47,0.6,0.778,0.27,0.4,0.667,0.2,0.2,1.0

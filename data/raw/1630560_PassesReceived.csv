@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630560,"Thomas, Cam",Brooklyn Nets,1610612751,BKN,received,1,"Beekman, Reece",1641736,0.002,0.08,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630560,"Thomas, Cam",Brooklyn Nets,1610612751,BKN,received,14,"Clowney, Noah",1641730,0.032,1.6,0.16,0.2,0.4,0.5,0.08,0.24,0.333,0.12,0.16,0.75
+1630560,"Thomas, Cam",Brooklyn Nets,1610612751,BKN,received,9,"Martin, Tyrese",1631213,0.027,1.36,0.0,0.16,0.52,0.308,0.08,0.24,0.333,0.08,0.28,0.286
+1630560,"Thomas, Cam",Brooklyn Nets,1610612751,BKN,received,15,"Wilson, Jalen",1630592,0.036,1.84,0.08,0.2,0.88,0.227,0.08,0.36,0.222,0.12,0.52,0.231
+1630560,"Thomas, Cam",Brooklyn Nets,1610612751,BKN,received,9,"Watford, Trendon",1630570,0.048,2.44,0.12,0.44,0.96,0.458,0.36,0.6,0.6,0.08,0.36,0.222
+1630560,"Thomas, Cam",Brooklyn Nets,1610612751,BKN,received,13,"Johnson, Keon",1630553,0.042,2.12,0.12,0.2,0.64,0.313,0.16,0.48,0.333,0.04,0.16,0.25
+1630560,"Thomas, Cam",Brooklyn Nets,1610612751,BKN,received,7,"Sharpe, Day'Ron",1630549,0.028,1.44,0.16,0.24,0.56,0.429,0.16,0.32,0.5,0.08,0.24,0.333
+1630560,"Thomas, Cam",Brooklyn Nets,1610612751,BKN,received,17,"Williams, Ziaire",1630533,0.053,2.68,0.16,0.2,0.6,0.333,0.16,0.4,0.4,0.04,0.2,0.2
+1630560,"Thomas, Cam",Brooklyn Nets,1610612751,BKN,received,1,"Hayes, Killian",1630165,0.006,0.28,0.04,0.04,0.08,0.5,0.04,0.08,0.5,0.0,0.0,
+1630560,"Thomas, Cam",Brooklyn Nets,1610612751,BKN,received,23,"Johnson, Cameron",1629661,0.084,4.24,0.36,0.52,1.6,0.325,0.28,0.8,0.35,0.24,0.8,0.3
+1630560,"Thomas, Cam",Brooklyn Nets,1610612751,BKN,received,21,"Claxton, Nic",1629651,0.163,8.24,0.84,1.6,3.76,0.426,1.28,2.48,0.516,0.32,1.28,0.25
+1630560,"Thomas, Cam",Brooklyn Nets,1610612751,BKN,received,8,"Milton, Shake",1629003,0.032,1.64,0.08,0.28,0.56,0.5,0.2,0.48,0.417,0.08,0.08,1.0
+1630560,"Thomas, Cam",Brooklyn Nets,1610612751,BKN,received,13,"Finney-Smith, Dorian",1627827,0.062,3.12,0.4,0.68,1.36,0.5,0.44,0.8,0.55,0.24,0.56,0.429
+1630560,"Thomas, Cam",Brooklyn Nets,1610612751,BKN,received,13,"Simmons, Ben",1627732,0.147,7.44,0.72,1.12,2.88,0.389,0.64,1.76,0.364,0.48,1.12,0.429
+1630560,"Thomas, Cam",Brooklyn Nets,1610612751,BKN,received,5,"Russell, D'Angelo",1626156,0.049,2.48,0.16,0.24,0.8,0.3,0.12,0.44,0.273,0.12,0.36,0.333
+1630560,"Thomas, Cam",Brooklyn Nets,1610612751,BKN,received,16,"Schröder, Dennis",203471,0.189,9.56,0.56,1.48,3.36,0.44,0.84,1.96,0.429,0.64,1.4,0.457

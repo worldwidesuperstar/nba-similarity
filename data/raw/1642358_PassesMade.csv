@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1642358,"Johnson, AJ",Washington Wizards,1610612764,WAS,made,7,"George, Kyshawn",1642273,0.03,0.83,0.07,0.07,0.24,0.286,0.03,0.1,0.333,0.03,0.14,0.25
+1642358,"Johnson, AJ",Washington Wizards,1610612764,WAS,made,21,"Carrington, Bub",1642267,0.21,5.72,0.07,0.31,1.1,0.281,0.17,0.62,0.278,0.14,0.48,0.286
+1642358,"Johnson, AJ",Washington Wizards,1610612764,WAS,made,17,"Sarr, Alex",1642259,0.109,2.97,0.31,0.38,1.21,0.314,0.28,0.52,0.533,0.1,0.69,0.15
+1642358,"Johnson, AJ",Washington Wizards,1610612764,WAS,made,12,"Martin, Jaylen",1641798,0.094,2.55,0.21,0.21,0.62,0.333,0.14,0.41,0.333,0.07,0.21,0.333
+1642358,"Johnson, AJ",Washington Wizards,1610612764,WAS,made,16,"Vukcevic, Tristan",1641774,0.155,4.21,0.66,0.69,1.72,0.4,0.41,0.93,0.444,0.28,0.79,0.348
+1642358,"Johnson, AJ",Washington Wizards,1610612764,WAS,made,14,"Jones, Colby",1641732,0.128,3.48,0.17,0.24,0.76,0.318,0.17,0.34,0.5,0.07,0.41,0.167
+1642358,"Johnson, AJ",Washington Wizards,1610612764,WAS,made,2,"Coulibaly, Bilal",1641731,0.005,0.14,0.03,0.03,0.14,0.25,0.03,0.07,0.5,0.0,0.07,0.0
+1642358,"Johnson, AJ",Washington Wizards,1610612764,WAS,made,4,"Kispert, Corey",1630557,0.013,0.34,0.14,0.14,0.21,0.667,0.07,0.07,1.0,0.07,0.14,0.5
+1642358,"Johnson, AJ",Washington Wizards,1610612764,WAS,made,16,"Champagnie, Justin",1630551,0.079,2.14,0.28,0.31,0.83,0.375,0.21,0.41,0.5,0.1,0.41,0.25
+1642358,"Johnson, AJ",Washington Wizards,1610612764,WAS,made,8,"Thor, JT",1630550,0.018,0.48,0.0,0.03,0.14,0.25,0.03,0.07,0.5,0.0,0.07,0.0
+1642358,"Johnson, AJ",Washington Wizards,1610612764,WAS,made,8,"Gill, Anthony",1630264,0.044,1.21,0.17,0.21,0.41,0.5,0.14,0.24,0.571,0.07,0.17,0.4
+1642358,"Johnson, AJ",Washington Wizards,1610612764,WAS,made,11,"Poole, Jordan",1629673,0.062,1.69,0.17,0.28,0.41,0.667,0.07,0.1,0.667,0.21,0.31,0.667
+1642358,"Johnson, AJ",Washington Wizards,1610612764,WAS,made,2,"Brogdon, Malcolm",1627763,0.01,0.28,0.0,0.03,0.1,0.333,0.03,0.1,0.333,0.0,0.0,
+1642358,"Johnson, AJ",Washington Wizards,1610612764,WAS,made,5,"Holmes, Richaun",1626158,0.011,0.31,0.0,0.0,0.07,0.0,0.0,0.07,0.0,0.0,0.0,
+1642358,"Johnson, AJ",Washington Wizards,1610612764,WAS,made,4,"Smart, Marcus",203935,0.029,0.79,0.1,0.1,0.24,0.429,0.0,0.14,0.0,0.1,0.1,1.0
+1642358,"Johnson, AJ",Washington Wizards,1610612764,WAS,made,1,"Middleton, Khris",203114,0.003,0.07,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0

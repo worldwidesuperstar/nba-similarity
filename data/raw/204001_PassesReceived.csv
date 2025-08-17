@@ -1,0 +1,12 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+204001,"Porziņģis, Kristaps",Boston Celtics,1610612738,BOS,received,1,"Peterson, Drew",1641809,0.002,0.05,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+204001,"Porziņģis, Kristaps",Boston Celtics,1610612738,BOS,received,3,"Scheierman, Baylor",1631248,0.003,0.1,0.05,0.05,0.07,0.667,0.02,0.02,1.0,0.02,0.05,0.5
+204001,"Porziņģis, Kristaps",Boston Celtics,1610612738,BOS,received,15,"Hauser, Sam",1630573,0.023,0.64,0.05,0.05,0.26,0.182,0.02,0.14,0.167,0.02,0.12,0.2
+204001,"Porziņģis, Kristaps",Boston Celtics,1610612738,BOS,received,1,"Springer, Jaden",1630531,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+204001,"Porziņģis, Kristaps",Boston Celtics,1610612738,BOS,received,32,"Pritchard, Payton",1630202,0.091,2.6,0.55,0.57,1.29,0.444,0.26,0.69,0.379,0.31,0.6,0.52
+204001,"Porziņģis, Kristaps",Boston Celtics,1610612738,BOS,received,10,"Kornet, Luke",1628436,0.013,0.36,0.07,0.1,0.21,0.444,0.05,0.14,0.333,0.05,0.07,0.667
+204001,"Porziņģis, Kristaps",Boston Celtics,1610612738,BOS,received,38,"White, Derrick",1628401,0.291,8.29,1.48,1.64,3.81,0.431,1.19,2.6,0.459,0.45,1.21,0.373
+204001,"Porziņģis, Kristaps",Boston Celtics,1610612738,BOS,received,36,"Tatum, Jayson",1628369,0.238,6.79,1.43,1.6,3.45,0.462,0.79,1.71,0.458,0.81,1.74,0.466
+204001,"Porziņģis, Kristaps",Boston Celtics,1610612738,BOS,received,32,"Brown, Jaylen",1627759,0.152,4.33,0.88,1.0,2.36,0.424,0.5,1.24,0.404,0.5,1.12,0.447
+204001,"Porziņģis, Kristaps",Boston Celtics,1610612738,BOS,received,36,"Holiday, Jrue",201950,0.141,4.02,0.79,0.86,1.88,0.456,0.62,1.1,0.565,0.24,0.79,0.303
+204001,"Porziņģis, Kristaps",Boston Celtics,1610612738,BOS,received,20,"Horford, Al",201143,0.046,1.31,0.21,0.21,0.67,0.321,0.19,0.55,0.348,0.02,0.12,0.2

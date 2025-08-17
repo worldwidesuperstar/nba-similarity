@@ -1,0 +1,18 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203994,"Nurkić, Jusuf",Charlotte Hornets,1610612766,CHA,made,11,"Simpson, KJ",1642354,0.095,1.12,0.06,0.12,0.2,0.6,0.08,0.14,0.571,0.04,0.06,0.667
+203994,"Nurkić, Jusuf",Charlotte Hornets,1610612766,CHA,made,10,"Salaün, Tidjane",1642275,0.037,0.43,0.06,0.1,0.24,0.417,0.06,0.12,0.5,0.04,0.12,0.333
+203994,"Nurkić, Jusuf",Charlotte Hornets,1610612766,CHA,made,7,"Baugh, Damion",1641878,0.032,0.37,0.04,0.04,0.14,0.286,0.02,0.06,0.333,0.02,0.08,0.25
+203994,"Nurkić, Jusuf",Charlotte Hornets,1610612766,CHA,made,20,"Smith Jr., Nick",1641733,0.16,1.88,0.2,0.24,0.63,0.375,0.08,0.29,0.267,0.16,0.33,0.471
+203994,"Nurkić, Jusuf",Charlotte Hornets,1610612766,CHA,made,5,"Sims, Jaylen",1631301,0.015,0.18,0.02,0.02,0.02,1.0,0.0,0.0,,0.02,0.02,1.0
+203994,"Nurkić, Jusuf",Charlotte Hornets,1610612766,CHA,made,3,"Diabaté, Moussa",1631217,0.007,0.08,0.02,0.02,0.06,0.333,0.02,0.06,0.333,0.0,0.0,
+203994,"Nurkić, Jusuf",Charlotte Hornets,1610612766,CHA,made,12,"Moore Jr., Wendell",1631111,0.045,0.53,0.06,0.08,0.12,0.667,0.06,0.08,0.75,0.02,0.04,0.5
+203994,"Nurkić, Jusuf",Charlotte Hornets,1610612766,CHA,made,1,"Williams, Mark",1631109,0.002,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+203994,"Nurkić, Jusuf",Charlotte Hornets,1610612766,CHA,made,4,"Garrett, Marcus",1630585,0.015,0.18,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+203994,"Nurkić, Jusuf",Charlotte Hornets,1610612766,CHA,made,1,"Flynn, Malachi",1630201,0.002,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+203994,"Nurkić, Jusuf",Charlotte Hornets,1610612766,CHA,made,12,"Green, Josh",1630182,0.057,0.67,0.06,0.08,0.25,0.308,0.06,0.18,0.333,0.02,0.08,0.25
+203994,"Nurkić, Jusuf",Charlotte Hornets,1610612766,CHA,made,12,"Ball, LaMelo",1630163,0.15,1.76,0.1,0.16,0.51,0.308,0.04,0.18,0.222,0.12,0.33,0.353
+203994,"Nurkić, Jusuf",Charlotte Hornets,1610612766,CHA,made,17,"Jeffries, DaQuan",1629610,0.06,0.71,0.1,0.1,0.24,0.417,0.04,0.1,0.4,0.06,0.14,0.429
+203994,"Nurkić, Jusuf",Charlotte Hornets,1610612766,CHA,made,5,"Okogie, Josh",1629006,0.017,0.2,0.06,0.06,0.1,0.6,0.02,0.04,0.5,0.04,0.06,0.667
+203994,"Nurkić, Jusuf",Charlotte Hornets,1610612766,CHA,made,21,"Bridges, Miles",1628970,0.154,1.8,0.33,0.41,1.0,0.412,0.29,0.61,0.484,0.12,0.39,0.3
+203994,"Nurkić, Jusuf",Charlotte Hornets,1610612766,CHA,made,5,"Payton, Elfrid",203901,0.045,0.53,0.0,0.0,0.04,0.0,0.0,0.04,0.0,0.0,0.0,
+203994,"Nurkić, Jusuf",Charlotte Hornets,1610612766,CHA,made,18,"Curry, Seth",203552,0.109,1.27,0.24,0.27,0.53,0.519,0.12,0.24,0.5,0.16,0.29,0.533

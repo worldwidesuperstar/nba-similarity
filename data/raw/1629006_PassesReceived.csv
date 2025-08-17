@@ -1,0 +1,18 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,received,11,"Simpson, KJ",1642354,0.184,1.23,0.05,0.08,0.38,0.2,0.05,0.18,0.286,0.03,0.2,0.125
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,received,5,"Salaün, Tidjane",1642275,0.026,0.18,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,received,3,"Baugh, Damion",1641878,0.041,0.28,0.05,0.05,0.15,0.333,0.03,0.1,0.25,0.03,0.05,0.5
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,received,9,"Smith Jr., Nick",1641733,0.097,0.65,0.08,0.08,0.33,0.231,0.03,0.2,0.125,0.05,0.13,0.4
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,received,7,"Diabaté, Moussa",1631217,0.052,0.35,0.03,0.03,0.13,0.2,0.03,0.1,0.25,0.0,0.03,0.0
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,received,3,"Wong, Isaiah",1631209,0.026,0.18,0.03,0.03,0.05,0.5,0.0,0.03,0.0,0.03,0.03,1.0
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,received,1,"Moore Jr., Wendell",1631111,0.004,0.03,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,received,6,"Williams, Mark",1631109,0.064,0.43,0.05,0.05,0.18,0.286,0.0,0.1,0.0,0.05,0.08,0.667
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,received,4,"Green, Josh",1630182,0.041,0.28,0.08,0.08,0.15,0.5,0.03,0.05,0.5,0.05,0.1,0.5
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,received,3,"Ball, LaMelo",1630163,0.056,0.38,0.03,0.03,0.15,0.167,0.0,0.03,0.0,0.03,0.13,0.2
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,received,8,"Jeffries, DaQuan",1629610,0.064,0.43,0.08,0.08,0.18,0.429,0.05,0.08,0.667,0.03,0.1,0.25
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,received,2,"Martin, Cody",1628998,0.015,0.1,0.03,0.03,0.05,0.5,0.03,0.05,0.5,0.0,0.0,
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,received,9,"Bridges, Miles",1628970,0.086,0.58,0.0,0.05,0.23,0.222,0.05,0.15,0.333,0.0,0.08,0.0
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,received,6,"Micic, Vasilije",203995,0.097,0.65,0.08,0.08,0.2,0.375,0.03,0.1,0.25,0.05,0.1,0.5
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,received,5,"Nurkić, Jusuf",203994,0.037,0.25,0.08,0.08,0.13,0.6,0.03,0.05,0.5,0.05,0.08,0.667
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,received,9,"Curry, Seth",203552,0.09,0.6,0.03,0.05,0.2,0.25,0.05,0.08,0.667,0.0,0.13,0.0
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,received,4,"Gibson, Taj",201959,0.019,0.13,0.05,0.05,0.08,0.667,0.03,0.05,0.5,0.03,0.03,1.0

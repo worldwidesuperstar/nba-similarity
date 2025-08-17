@@ -1,0 +1,24 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,2,"Simpson, KJ",1642354,0.002,0.11,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,31,"Salaün, Tidjane",1642275,0.041,2.26,0.17,0.21,0.66,0.323,0.06,0.17,0.375,0.15,0.49,0.304
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,4,"Baugh, Damion",1641878,0.007,0.38,0.02,0.02,0.04,0.5,0.02,0.02,1.0,0.0,0.02,0.0
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,26,"Smith Jr., Nick",1641733,0.081,4.45,0.47,0.62,1.38,0.446,0.26,0.43,0.6,0.36,0.96,0.378
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,20,"Miller, Brandon",1641706,0.127,7.0,0.94,1.06,2.57,0.413,0.49,1.09,0.451,0.57,1.49,0.386
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,30,"Diabaté, Moussa",1631217,0.046,2.51,0.4,0.43,0.66,0.645,0.43,0.66,0.645,0.0,0.0,
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,3,"Wong, Isaiah",1631209,0.003,0.17,0.02,0.04,0.09,0.5,0.02,0.04,0.5,0.02,0.04,0.5
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,6,"Moore Jr., Wendell",1631111,0.008,0.43,0.02,0.02,0.04,0.5,0.02,0.04,0.5,0.0,0.0,
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,24,"Williams, Mark",1631109,0.094,5.15,0.94,0.94,1.74,0.537,0.94,1.74,0.537,0.0,0.0,
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,1,"Garrett, Marcus",1630585,0.0,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,12,"Mann, Tre",1630544,0.023,1.28,0.09,0.19,0.34,0.563,0.13,0.21,0.6,0.06,0.13,0.5
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,11,"Richards, Nick",1630208,0.017,0.94,0.13,0.15,0.43,0.35,0.15,0.4,0.368,0.0,0.02,0.0
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,1,"Flynn, Malachi",1630201,0.002,0.09,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,40,"Green, Josh",1630182,0.087,4.79,0.55,0.6,1.38,0.431,0.21,0.47,0.455,0.38,0.91,0.419
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,16,"Williams, Grant",1629684,0.051,2.83,0.45,0.45,1.13,0.396,0.15,0.49,0.304,0.3,0.64,0.467
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,15,"Jeffries, DaQuan",1629610,0.036,1.96,0.26,0.3,0.66,0.452,0.09,0.13,0.667,0.21,0.53,0.4
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,3,"Okogie, Josh",1629006,0.006,0.32,0.02,0.02,0.13,0.167,0.0,0.02,0.0,0.02,0.11,0.2
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,29,"Martin, Cody",1628998,0.08,4.4,0.34,0.47,1.26,0.373,0.34,0.66,0.516,0.13,0.6,0.214
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,40,"Bridges, Miles",1628970,0.201,11.06,1.87,2.28,4.7,0.484,1.57,2.96,0.532,0.7,1.74,0.402
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,11,"Micic, Vasilije",203995,0.009,0.47,0.04,0.04,0.09,0.5,0.02,0.02,1.0,0.02,0.06,0.333
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,11,"Nurkić, Jusuf",203994,0.019,1.02,0.11,0.11,0.21,0.5,0.11,0.15,0.714,0.0,0.06,0.0
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,27,"Curry, Seth",203552,0.046,2.53,0.34,0.34,0.81,0.421,0.04,0.26,0.167,0.3,0.55,0.538
+1630163,"Ball, LaMelo",Charlotte Hornets,1610612766,CHA,made,13,"Gibson, Taj",201959,0.017,0.91,0.15,0.15,0.28,0.538,0.15,0.28,0.538,0.0,0.0,

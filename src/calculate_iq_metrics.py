@@ -2,20 +2,20 @@ import pandas as pd
 import numpy as np
 import os
 from pathlib import Path
+from nba_api.stats.endpoints import commonplayerinfo
 
 def calculate_league_averages():
     """Calculate league averages for all IQ metrics to use as fallbacks."""
-    data_path = Path('../data/raw/')
-    top200 = pd.read_csv(data_path / 'top200_per.csv')
+    top300 = pd.read_csv('data/top300_per.csv')
     
-    # Calculate basic metric averages from top200 players
-    league_avg_ast_tov = (top200['AST'] / top200['TOV'].replace(0, np.nan)).mean()
-    league_avg_efg = ((top200['FGM'] + 0.5 * top200['FG3M']) / top200['FGA'].replace(0, np.nan)).mean()
+    # Calculate basic metric averages from top300 players
+    league_avg_ast_tov = (top300['AST'] / top300['TOV'].replace(0, np.nan)).mean()
+    league_avg_efg = ((top300['FGM'] + 0.5 * top300['FG3M']) / top300['FGA'].replace(0, np.nan)).mean()
     
     # Load league files for other averages
     try:
-        hustle_stats = pd.read_csv(data_path / 'league_hustle_stats.csv')
-        clutch_stats = pd.read_csv(data_path / 'league_clutch_stats.csv')
+        hustle_stats = pd.read_csv('data/raw/league_hustle_stats.csv')
+        clutch_stats = pd.read_csv('data/raw/league_clutch_stats.csv')
         
         league_averages = {
             'ast_tov_ratio': league_avg_ast_tov,
@@ -52,35 +52,50 @@ def calculate_league_averages():
     
     return league_averages
 
+def get_player_position(player_id):
+    """Get player position from NBA API."""
+    try:
+        import time
+        time.sleep(2)
+        player_info = commonplayerinfo.CommonPlayerInfo(player_id=player_id)
+        player_data = player_info.get_data_frames()[0].iloc[0]
+        return player_data['POSITION']
+    except Exception as e:
+        print(f"Could not get position for player {player_id}: {e}")
+        return 'Unknown'
+
 def load_player_data(player_id):
     """Load all necessary data files for a player."""
-    data_path = Path('../data/raw/')
     
     try:
-        # Load basic stats from top200
-        top200 = pd.read_csv(data_path / 'top200_per.csv')
-        basic_stats = top200[top200['PLAYER_ID'] == int(player_id)]
+        # Load basic stats from top300
+        top300 = pd.read_csv('data/top300_per.csv')
+        basic_stats = top300[top300['PLAYER_ID'] == int(player_id)]
         if basic_stats.empty:
-            print(f"Player {player_id} not found in top200_per.csv")
+            print(f"Player {player_id} not found in top300_per.csv")
             return None
             
         basic_stats = basic_stats.iloc[0]
-        player_name = basic_stats['PLAYER']
+        player_name = basic_stats['PLAYER_NAME']
+        
+        # Get player position
+        position = get_player_position(player_id)
         
         # Load additional data files
         files_to_load = {
             'general_splits': f'{player_id}_general_splits.csv',
             'closest_defender': f'{player_id}_ClosestDefenderShooting.csv',
             'dribble_shooting': f'{player_id}_DribbleShooting.csv',  # Contains shot clock data
-            'touch_time': f'{player_id}_TouchTimeShooting.csv'
+            'touch_time': f'{player_id}_TouchTimeShooting.csv',
+            'overall_shooting': f'{player_id}_Overall.csv'  # Player's own shooting data
         }
         
-        loaded_data = {'basic_stats': basic_stats}
+        loaded_data = {'basic_stats': basic_stats, 'position': position}
         missing_files = []
         
         for key, filename in files_to_load.items():
-            file_path = data_path / filename
-            if file_path.exists():
+            file_path = 'data/raw/' + filename
+            if file_path:
                 try:
                     loaded_data[key] = pd.read_csv(file_path)
                 except Exception as e:
@@ -98,8 +113,8 @@ def load_player_data(player_id):
         }
         
         for key, filename in league_files.items():
-            file_path = data_path / filename
-            if file_path.exists():
+            file_path = 'data/raw/' + filename
+            if file_path:
                 try:
                     df = pd.read_csv(file_path)
                     player_data = df[df['PLAYER_ID'] == int(player_id)]
@@ -250,17 +265,17 @@ def calculate_metric_9_shooting_foul_percentage(data):
         # Use overall stats row (total season stats)
         overall_stats = general_splits.iloc[0]
         games_played = overall_stats['GP']
-        player_name = basic_stats['PLAYER']
+        player_name = basic_stats['PLAYER_NAME']
         
         # Calculate total shots defended
         shots_defended_per_game = closest_defender['FGA'].sum()
         total_shots_defended = shots_defended_per_game * games_played
-        
+
         if total_shots_defended == 0:
             return np.nan
             
         # Get actual shooting fouls from Basketball Reference data
-        shooting_fouls = get_actual_shooting_fouls(player_name)
+        shooting_fouls = get_shooting_fouls(player_name)
         
         # Calculate shooting foul percentage
         shooting_foul_percentage = (shooting_fouls / total_shots_defended) * 100
@@ -268,31 +283,27 @@ def calculate_metric_9_shooting_foul_percentage(data):
     except:
         return np.nan
 
-def get_actual_shooting_fouls(player_name):
+def get_shooting_fouls(player_name):
     """Get actual shooting fouls committed by player from Basketball Reference data."""
     try:
         # Load Basketball Reference shooting fouls data
-        shooting_fouls_df = pd.read_csv('../data/processed/shooting_fouls_bbref_2024.csv')
+        shooting_fouls_df = pd.read_csv('data/processed/shooting_fouls_bbref_2024.csv')
         
-        # Try exact name match first
-        exact_match = shooting_fouls_df[shooting_fouls_df['Player'] == player_name]
-        if not exact_match.empty:
-            return exact_match.iloc[0]['Fouls Committed_Shoot']
+        # Find exact name match
+        player_entries = shooting_fouls_df[shooting_fouls_df['Player'] == player_name]
         
-        # Try partial name matching (last name)
-        player_last_name = player_name.split()[-1]
-        for _, row in shooting_fouls_df.iterrows():
-            bbref_name = row['Player']
-            if player_last_name in bbref_name or bbref_name.split()[-1] in player_name:
-                return row['Fouls Committed_Shoot']
+        if not player_entries.empty:
+            # If multiple entries exist (multi-team player), prefer the one with highest games played
+            if len(player_entries) > 1:
+                player_entries = player_entries.sort_values('G', ascending=False)
+            return player_entries.iloc[0]['Shoot']
         
-        # If not found, estimate using league average rate
-        # League average is about 36.9 shooting fouls per player
-        return 37  # Fallback to league average
+        # If not found, use league average
+        return 65  # Fallback to league average
         
     except Exception as e:
         print(f"Warning: Could not load shooting fouls for {player_name}: {e}")
-        return 37  # Fallback to league average
+        return 65  # Fallback to league average
 
 def calculate_metric_10_successful_boxouts_per_36(data):
     """10. Successful Box Outs per 36"""
@@ -317,14 +328,14 @@ def calculate_metric_11_charges_drawn_per_36(data):
 def calculate_metric_12_shot_selection_value(data):
     """12. Personalized Shot Selection Intelligence"""
     try:
-        closest_defender = data['closest_defender']
-        if closest_defender.empty:
+        overall_shooting = data['overall_shooting']
+        if overall_shooting.empty:
             return np.nan
             
-        # Extract key shot types
-        close_shots = closest_defender[closest_defender['SHOT_TYPE'] == 'Less than 10 ft']
-        catch_shoot = closest_defender[closest_defender['SHOT_TYPE'] == 'Catch and Shoot']
-        pull_ups = closest_defender[closest_defender['SHOT_TYPE'] == 'Pull Ups']
+        # Extract key shot types from player's own shooting data
+        close_shots = overall_shooting[overall_shooting['SHOT_TYPE'] == 'Less than 10 ft']
+        catch_shoot = overall_shooting[overall_shooting['SHOT_TYPE'] == 'Catch and Shoot']
+        pull_ups = overall_shooting[overall_shooting['SHOT_TYPE'] == 'Pull Ups']
         
         if close_shots.empty or catch_shoot.empty or pull_ups.empty:
             return np.nan
@@ -346,7 +357,7 @@ def calculate_all_metrics_for_player(player_id, league_averages=None):
         return None
     
     basic = data['basic_stats']
-    player_name = basic['PLAYER']
+    player_name = basic['PLAYER_NAME']
     
     # Get league averages if not provided
     if league_averages is None:
@@ -372,7 +383,7 @@ def calculate_all_metrics_for_player(player_id, league_averages=None):
     metrics = {
         'PLAYER_ID': int(player_id),
         'PLAYER_NAME': player_name,
-        'TEAM': basic['TEAM'],
+        'TEAM_ID': basic['TEAM_ID'],
         'GP': basic['GP'],
         'MIN': basic['MIN'],
         
@@ -397,15 +408,12 @@ def calculate_all_metrics_for_player(player_id, league_averages=None):
     return metrics
 
 def process_all_players():
-    """Process all 200 players and calculate their IQ metrics."""
+    """Process all 300 players and calculate their IQ metrics."""
     # Load the list of all players
-    top200 = pd.read_csv('../data/raw/top200_per.csv')
+    top300 = pd.read_csv('data/top300_per.csv')
+
     
-    # Minimum games played filter
-    min_games = 55
-    eligible_players = top200[top200['GP'] >= min_games]
-    
-    print(f"Processing {len(eligible_players)} players (minimum {min_games} games played)")
+    print(f"Processing {len(top300)} players")
     
     # Calculate league averages once for efficiency
     print("Calculating league averages...")
@@ -415,9 +423,9 @@ def process_all_players():
     all_metrics = []
     failed_players = []
     
-    for _, player in eligible_players.iterrows():
+    for _, player in top300.iterrows():
         player_id = str(player['PLAYER_ID'])
-        player_name = player['PLAYER']
+        player_name = player['PLAYER_NAME']
         
         print(f"Processing {player_name} (ID: {player_id})...")
         
@@ -438,16 +446,16 @@ def process_all_players():
     
     # Report failed players
     if failed_players:
-        print(f"\n=== FAILED PLAYERS ({len(failed_players)}/{len(eligible_players)}) ===")
+        print(f"\n=== FAILED PLAYERS ({len(failed_players)}/{len(top300)}) ===")
         for name, player_id, reason in failed_players:
             print(f"  {name} (ID: {player_id}) - {reason}")
     else:
-        print(f"\nAll {len(eligible_players)} players processed successfully!")
+        print(f"\nAll {len(top300)} players processed successfully!")
     
     # Create processed data directory if it doesn't exist
-    os.makedirs('../data/processed', exist_ok=True)
+    os.makedirs('data/processed', exist_ok=True)
     
-    output_file = '../data/processed/all_player_iq_metrics.csv'
+    output_file = 'data/processed/all_player_iq_metrics.csv'
     
     df.to_csv(output_file, index=False, float_format='%.3f')
     
@@ -457,7 +465,7 @@ def process_all_players():
     # Print summary statistics
     print("\n=== DATA AVAILABILITY SUMMARY ===")
     for col in df.columns:
-        if col not in ['PLAYER_ID', 'PLAYER_NAME', 'TEAM', 'GP', 'MIN']:
+        if col not in ['PLAYER_ID', 'PLAYER_NAME', 'TEAM_ID', 'GP', 'MIN']:
             non_null_count = df[col].notna().sum()
             print(f"{col}: {non_null_count}/{len(df)} players ({non_null_count/len(df)*100:.1f}%)")
     

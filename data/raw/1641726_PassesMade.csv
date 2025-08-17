@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641726,"Lively II, Dereck",Dallas Mavericks,1610612742,DAL,made,1,"Gortman, Jazian",1641789,0.002,0.06,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1641726,"Lively II, Dereck",Dallas Mavericks,1610612742,DAL,made,2,"Prosper, Olivier-Maxence",1641765,0.002,0.06,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1641726,"Lively II, Dereck",Dallas Mavericks,1610612742,DAL,made,1,"Christie, Max",1631108,0.002,0.06,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,
+1641726,"Lively II, Dereck",Dallas Mavericks,1610612742,DAL,made,20,"Hardy, Jaden",1630702,0.07,1.92,0.08,0.19,0.44,0.438,0.17,0.31,0.545,0.03,0.14,0.2
+1641726,"Lively II, Dereck",Dallas Mavericks,1610612742,DAL,made,2,"Williams, Brandon",1630314,0.005,0.14,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0
+1641726,"Lively II, Dereck",Dallas Mavericks,1610612742,DAL,made,25,"Marshall, Naji",1630230,0.083,2.28,0.25,0.28,0.58,0.476,0.22,0.42,0.533,0.06,0.17,0.333
+1641726,"Lively II, Dereck",Dallas Mavericks,1610612742,DAL,made,21,"Grimes, Quentin",1629656,0.068,1.86,0.25,0.31,0.61,0.5,0.17,0.36,0.462,0.14,0.25,0.556
+1641726,"Lively II, Dereck",Dallas Mavericks,1610612742,DAL,made,17,"Dončić, Luka",1629029,0.18,4.92,0.44,0.81,1.83,0.439,0.36,0.83,0.433,0.44,1.0,0.444
+1641726,"Lively II, Dereck",Dallas Mavericks,1610612742,DAL,made,27,"Washington, P.J.",1629023,0.074,2.03,0.17,0.22,0.64,0.348,0.17,0.42,0.4,0.06,0.22,0.25
+1641726,"Lively II, Dereck",Dallas Mavericks,1610612742,DAL,made,3,"Martin, Caleb",1628997,0.005,0.14,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1641726,"Lively II, Dereck",Dallas Mavericks,1610612742,DAL,made,8,"Kleber, Maxi",1628467,0.009,0.25,0.0,0.0,0.08,0.0,0.0,0.0,,0.0,0.08,0.0
+1641726,"Lively II, Dereck",Dallas Mavericks,1610612742,DAL,made,1,"Exum, Danté",203957,0.004,0.11,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1641726,"Lively II, Dereck",Dallas Mavericks,1610612742,DAL,made,28,"Dinwiddie, Spencer",203915,0.153,4.19,0.03,0.33,1.03,0.324,0.25,0.61,0.409,0.08,0.42,0.2
+1641726,"Lively II, Dereck",Dallas Mavericks,1610612742,DAL,made,3,"Davis, Anthony",203076,0.007,0.19,0.03,0.03,0.08,0.333,0.03,0.08,0.333,0.0,0.0,
+1641726,"Lively II, Dereck",Dallas Mavericks,1610612742,DAL,made,31,"Thompson, Klay",202691,0.144,3.94,0.67,0.83,1.94,0.429,0.39,0.89,0.438,0.44,1.06,0.421
+1641726,"Lively II, Dereck",Dallas Mavericks,1610612742,DAL,made,25,"Irving, Kyrie",202681,0.192,5.25,0.42,0.75,1.58,0.474,0.47,1.11,0.425,0.28,0.47,0.588

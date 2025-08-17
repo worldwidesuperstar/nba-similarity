@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,received,2,"Johnson, AJ",1642358,0.008,0.33,0.0,0.04,0.13,0.333,0.04,0.13,0.333,0.0,0.0,
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,received,19,"George, Kyshawn",1642273,0.121,4.96,0.17,0.38,0.92,0.409,0.25,0.67,0.375,0.13,0.25,0.5
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,received,24,"Carrington, Bub",1642267,0.159,6.5,0.17,0.38,1.58,0.237,0.25,1.08,0.231,0.13,0.5,0.25
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,received,16,"Sarr, Alex",1642259,0.132,5.42,0.25,0.46,1.58,0.289,0.38,1.21,0.31,0.08,0.38,0.222
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,received,3,"Vukcevic, Tristan",1641774,0.016,0.67,0.04,0.13,0.21,0.6,0.13,0.17,0.75,0.0,0.04,0.0
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,received,16,"Coulibaly, Bilal",1641731,0.082,3.38,0.25,0.38,0.88,0.429,0.33,0.67,0.5,0.04,0.21,0.2
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,received,21,"Kispert, Corey",1630557,0.106,4.33,0.13,0.54,1.13,0.481,0.5,0.92,0.545,0.04,0.21,0.2
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,received,12,"Champagnie, Justin",1630551,0.053,2.17,0.08,0.13,0.42,0.3,0.08,0.21,0.4,0.04,0.21,0.2
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,received,2,"Gill, Anthony",1630264,0.003,0.13,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,received,2,"Butler, Jared",1630215,0.007,0.29,0.04,0.04,0.08,0.5,0.0,0.0,,0.04,0.08,0.5
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,received,15,"Poole, Jordan",1629673,0.083,3.42,0.29,0.5,0.92,0.545,0.42,0.67,0.625,0.08,0.25,0.333
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,received,3,"Bagley III, Marvin",1628963,0.007,0.29,0.0,0.0,0.04,0.0,0.0,0.04,0.0,0.0,0.0,
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,received,11,"Kuzma, Kyle",1628398,0.038,1.54,0.04,0.17,0.46,0.364,0.13,0.33,0.375,0.04,0.13,0.333
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,received,4,"Holmes, Richaun",1626158,0.028,1.17,0.04,0.08,0.33,0.25,0.08,0.33,0.25,0.0,0.0,
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,received,20,"Valančiūnas, Jonas",202685,0.156,6.38,0.46,0.83,1.88,0.444,0.79,1.71,0.463,0.04,0.17,0.25

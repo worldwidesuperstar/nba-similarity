@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630529,"Jones, Herbert",New Orleans Pelicans,1610612740,NOP,received,17,"Missi, Yves",1642274,0.134,3.55,0.15,0.35,0.65,0.538,0.35,0.5,0.7,0.0,0.15,0.0
+1630529,"Jones, Herbert",New Orleans Pelicans,1610612740,NOP,received,1,"Jemison III, Trey",1641998,0.002,0.05,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630529,"Jones, Herbert",New Orleans Pelicans,1610612740,NOP,received,8,"Hawkins, Jordan",1641722,0.026,0.7,0.1,0.1,0.2,0.5,0.05,0.1,0.5,0.05,0.1,0.5
+1630529,"Jones, Herbert",New Orleans Pelicans,1610612740,NOP,received,1,"Cain, Jamal",1631288,0.004,0.1,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630529,"Jones, Herbert",New Orleans Pelicans,1610612740,NOP,received,5,"Alvarado, Jose",1630631,0.026,0.7,0.0,0.0,0.05,0.0,0.0,0.0,,0.0,0.05,0.0
+1630529,"Jones, Herbert",New Orleans Pelicans,1610612740,NOP,received,14,"Murphy III, Trey",1630530,0.09,2.4,0.15,0.15,0.9,0.167,0.05,0.45,0.111,0.1,0.45,0.222
+1630529,"Jones, Herbert",New Orleans Pelicans,1610612740,NOP,received,13,"Boston, Brandon",1630527,0.072,1.9,0.1,0.1,0.35,0.286,0.05,0.25,0.2,0.05,0.1,0.5
+1630529,"Jones, Herbert",New Orleans Pelicans,1610612740,NOP,received,7,"Robinson-Earl, Jeremiah",1630526,0.026,0.7,0.05,0.1,0.4,0.25,0.1,0.25,0.4,0.0,0.15,0.0
+1630529,"Jones, Herbert",New Orleans Pelicans,1610612740,NOP,received,3,"Green, Javonte",1629750,0.006,0.15,0.0,0.0,0.05,0.0,0.0,0.0,,0.0,0.05,0.0
+1630529,"Jones, Herbert",New Orleans Pelicans,1610612740,NOP,received,3,"Williamson, Zion",1629627,0.032,0.85,0.1,0.1,0.2,0.5,0.1,0.1,1.0,0.0,0.1,0.0
+1630529,"Jones, Herbert",New Orleans Pelicans,1610612740,NOP,received,10,"Theis, Daniel",1628464,0.047,1.25,0.05,0.15,0.15,1.0,0.15,0.15,1.0,0.0,0.0,
+1630529,"Jones, Herbert",New Orleans Pelicans,1610612740,NOP,received,17,"Murray, Dejounte",1627749,0.303,8.05,1.45,1.5,3.2,0.469,1.05,2.0,0.525,0.45,1.2,0.375
+1630529,"Jones, Herbert",New Orleans Pelicans,1610612740,NOP,received,6,"Ingram, Brandon",1627742,0.053,1.4,0.15,0.15,0.5,0.3,0.05,0.2,0.25,0.1,0.3,0.333
+1630529,"Jones, Herbert",New Orleans Pelicans,1610612740,NOP,received,19,"McCollum, CJ",203468,0.179,4.75,0.65,0.8,1.8,0.444,0.45,0.9,0.5,0.35,0.9,0.389

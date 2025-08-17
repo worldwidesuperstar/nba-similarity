@@ -1,0 +1,18 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1627749,"Murray, Dejounte",New Orleans Pelicans,1610612740,NOP,received,29,"Missi, Yves",1642274,0.139,8.77,0.39,0.61,1.9,0.322,0.35,1.35,0.262,0.26,0.55,0.471
+1627749,"Murray, Dejounte",New Orleans Pelicans,1610612740,NOP,received,4,"Jemison III, Trey",1641998,0.005,0.29,0.0,0.03,0.06,0.5,0.03,0.06,0.5,0.0,0.0,
+1627749,"Murray, Dejounte",New Orleans Pelicans,1610612740,NOP,received,1,"Reeves, Antonio",1641810,0.001,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1627749,"Murray, Dejounte",New Orleans Pelicans,1610612740,NOP,received,20,"Hawkins, Jordan",1641722,0.041,2.58,0.13,0.23,0.9,0.25,0.23,0.58,0.389,0.0,0.32,0.0
+1627749,"Murray, Dejounte",New Orleans Pelicans,1610612740,NOP,received,2,"Cain, Jamal",1631288,0.003,0.19,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1627749,"Murray, Dejounte",New Orleans Pelicans,1610612740,NOP,received,2,"Matković, Karlo",1631255,0.002,0.13,0.0,0.0,0.06,0.0,0.0,0.03,0.0,0.0,0.03,0.0
+1627749,"Murray, Dejounte",New Orleans Pelicans,1610612740,NOP,received,7,"Alvarado, Jose",1630631,0.009,0.55,0.0,0.03,0.1,0.333,0.03,0.1,0.333,0.0,0.0,
+1627749,"Murray, Dejounte",New Orleans Pelicans,1610612740,NOP,received,26,"Murphy III, Trey",1630530,0.18,11.32,0.48,0.97,2.84,0.341,0.55,1.65,0.333,0.42,1.19,0.351
+1627749,"Murray, Dejounte",New Orleans Pelicans,1610612740,NOP,received,17,"Jones, Herbert",1630529,0.107,6.74,0.29,0.74,1.55,0.479,0.58,1.06,0.545,0.16,0.48,0.333
+1627749,"Murray, Dejounte",New Orleans Pelicans,1610612740,NOP,received,25,"Boston, Brandon",1630527,0.064,4.0,0.03,0.23,0.9,0.25,0.23,0.55,0.412,0.0,0.35,0.0
+1627749,"Murray, Dejounte",New Orleans Pelicans,1610612740,NOP,received,18,"Robinson-Earl, Jeremiah",1630526,0.041,2.58,0.06,0.29,0.65,0.45,0.29,0.52,0.563,0.0,0.13,0.0
+1627749,"Murray, Dejounte",New Orleans Pelicans,1610612740,NOP,received,25,"Green, Javonte",1629750,0.113,7.13,0.03,0.55,1.48,0.37,0.45,0.94,0.483,0.1,0.55,0.176
+1627749,"Murray, Dejounte",New Orleans Pelicans,1610612740,NOP,received,6,"Williamson, Zion",1629627,0.034,2.16,0.23,0.29,0.81,0.36,0.06,0.32,0.2,0.23,0.48,0.467
+1627749,"Murray, Dejounte",New Orleans Pelicans,1610612740,NOP,received,23,"Theis, Daniel",1628464,0.056,3.52,0.16,0.35,1.13,0.314,0.23,0.74,0.304,0.13,0.39,0.333
+1627749,"Murray, Dejounte",New Orleans Pelicans,1610612740,NOP,received,3,"Ingram, Brandon",1627742,0.009,0.55,0.03,0.06,0.13,0.5,0.03,0.06,0.5,0.03,0.06,0.5
+1627749,"Murray, Dejounte",New Orleans Pelicans,1610612740,NOP,received,2,"Payton, Elfrid",203901,0.003,0.19,0.03,0.03,0.16,0.2,0.0,0.03,0.0,0.03,0.13,0.25
+1627749,"Murray, Dejounte",New Orleans Pelicans,1610612740,NOP,received,31,"McCollum, CJ",203468,0.193,12.16,0.39,0.87,2.77,0.314,0.68,1.94,0.35,0.19,0.84,0.231

@@ -1,0 +1,25 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,42,"Missi, Yves",1642274,0.08,3.48,0.11,0.23,0.57,0.406,0.14,0.32,0.444,0.09,0.25,0.357
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,1,"Jemison III, Trey",1641998,0.003,0.13,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,22,"Reeves, Antonio",1641810,0.028,1.2,0.07,0.11,0.3,0.353,0.07,0.18,0.4,0.04,0.13,0.286
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,42,"Hawkins, Jordan",1641722,0.097,4.2,0.11,0.27,0.7,0.385,0.16,0.32,0.5,0.11,0.38,0.286
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,3,"Quinones, Lester",1631311,0.006,0.27,0.02,0.02,0.09,0.2,0.02,0.05,0.333,0.0,0.04,0.0
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,15,"Cain, Jamal",1631288,0.019,0.84,0.05,0.13,0.18,0.7,0.05,0.07,0.75,0.07,0.11,0.667
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,28,"Matković, Karlo",1631255,0.04,1.75,0.11,0.16,0.43,0.375,0.11,0.27,0.4,0.05,0.16,0.333
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,10,"Brooks Jr., Keion",1631232,0.035,1.52,0.05,0.14,0.3,0.471,0.05,0.13,0.429,0.09,0.18,0.5
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,29,"Murphy III, Trey",1630530,0.094,4.05,0.25,0.34,0.8,0.422,0.07,0.27,0.267,0.27,0.54,0.5
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,5,"Jones, Herbert",1630529,0.008,0.36,0.0,0.04,0.09,0.4,0.04,0.05,0.667,0.0,0.04,0.0
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,17,"Boston, Brandon",1630527,0.052,2.25,0.02,0.07,0.39,0.182,0.02,0.18,0.1,0.05,0.21,0.25
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,36,"Robinson-Earl, Jeremiah",1630526,0.087,3.79,0.09,0.25,0.7,0.359,0.14,0.36,0.4,0.11,0.34,0.316
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,2,"Kelley, Kylor",1630283,0.002,0.07,0.0,0.02,0.04,0.5,0.02,0.02,1.0,0.0,0.02,0.0
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,25,"Green, Javonte",1629750,0.068,2.93,0.07,0.23,0.61,0.382,0.09,0.3,0.294,0.14,0.3,0.471
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,1,"Nowell, Jaylen",1629669,0.002,0.07,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,29,"Williamson, Zion",1629627,0.09,3.89,0.41,0.48,1.16,0.415,0.21,0.39,0.545,0.27,0.77,0.349
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,20,"Brown, Bruce",1628971,0.054,2.36,0.0,0.11,0.54,0.2,0.09,0.29,0.313,0.02,0.25,0.071
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,4,"Bamba, Mo",1628964,0.01,0.43,0.0,0.0,0.04,0.0,0.0,0.02,0.0,0.0,0.02,0.0
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,22,"Theis, Daniel",1628464,0.035,1.54,0.07,0.07,0.21,0.333,0.04,0.14,0.25,0.04,0.07,0.5
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,7,"Murray, Dejounte",1627749,0.008,0.34,0.04,0.04,0.11,0.333,0.0,0.0,,0.04,0.11,0.333
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,11,"Ingram, Brandon",1627742,0.041,1.77,0.16,0.2,0.46,0.423,0.04,0.11,0.333,0.16,0.36,0.45
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,6,"Payton, Elfrid",203901,0.01,0.45,0.02,0.04,0.18,0.2,0.0,0.05,0.0,0.04,0.13,0.286
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,19,"Olynyk, Kelly",203482,0.077,3.36,0.14,0.23,0.66,0.351,0.07,0.18,0.4,0.16,0.48,0.333
+1630631,"Alvarado, Jose",New Orleans Pelicans,1610612740,NOP,received,29,"McCollum, CJ",203468,0.054,2.32,0.23,0.29,0.61,0.471,0.11,0.18,0.6,0.18,0.43,0.417

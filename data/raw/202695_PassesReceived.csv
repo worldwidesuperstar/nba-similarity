@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+202695,"Leonard, Kawhi",LA Clippers,1610612746,LAC,received,1,"Christie, Cam",1642353,0.001,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+202695,"Leonard, Kawhi",LA Clippers,1610612746,LAC,received,1,"Miller, Jordan",1641757,0.001,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+202695,"Leonard, Kawhi",LA Clippers,1610612746,LAC,received,10,"Porter Jr., Kevin",1629645,0.034,1.24,0.08,0.24,0.62,0.391,0.22,0.46,0.471,0.03,0.16,0.167
+202695,"Leonard, Kawhi",LA Clippers,1610612746,LAC,received,5,"Mann, Terance",1629611,0.012,0.43,0.03,0.08,0.16,0.5,0.08,0.16,0.5,0.0,0.0,
+202695,"Leonard, Kawhi",LA Clippers,1610612746,LAC,received,17,"Coffey, Amir",1629599,0.028,1.03,0.11,0.22,0.41,0.533,0.16,0.27,0.6,0.05,0.14,0.4
+202695,"Leonard, Kawhi",LA Clippers,1610612746,LAC,received,4,"Eubanks, Drew",1629234,0.005,0.19,0.03,0.05,0.14,0.4,0.03,0.11,0.25,0.03,0.03,1.0
+202695,"Leonard, Kawhi",LA Clippers,1610612746,LAC,received,2,"Bamba, Mo",1628964,0.005,0.19,0.0,0.08,0.11,0.75,0.05,0.08,0.667,0.03,0.03,1.0
+202695,"Leonard, Kawhi",LA Clippers,1610612746,LAC,received,26,"Jones Jr., Derrick",1627884,0.058,2.11,0.14,0.24,0.73,0.333,0.22,0.59,0.364,0.03,0.14,0.2
+202695,"Leonard, Kawhi",LA Clippers,1610612746,LAC,received,37,"Zubac, Ivica",1627826,0.129,4.68,0.7,1.05,2.16,0.488,0.76,1.49,0.509,0.3,0.68,0.44
+202695,"Leonard, Kawhi",LA Clippers,1610612746,LAC,received,30,"Dunn, Kris",1627739,0.156,5.65,0.49,0.89,2.16,0.413,0.7,1.43,0.491,0.19,0.73,0.259
+202695,"Leonard, Kawhi",LA Clippers,1610612746,LAC,received,13,"Simmons, Ben",1627732,0.037,1.35,0.11,0.38,0.62,0.609,0.24,0.46,0.529,0.14,0.16,0.833
+202695,"Leonard, Kawhi",LA Clippers,1610612746,LAC,received,26,"Powell, Norman",1626181,0.064,2.32,0.24,0.51,1.08,0.475,0.38,0.7,0.538,0.14,0.38,0.357
+202695,"Leonard, Kawhi",LA Clippers,1610612746,LAC,received,23,"Bogdanović, Bogdan",203992,0.086,3.11,0.32,0.62,1.49,0.418,0.43,1.0,0.432,0.19,0.49,0.389
+202695,"Leonard, Kawhi",LA Clippers,1610612746,LAC,received,37,"Harden, James",201935,0.331,12.03,1.76,2.68,5.51,0.485,1.97,3.95,0.5,0.7,1.57,0.448
+202695,"Leonard, Kawhi",LA Clippers,1610612746,LAC,received,22,"Batum, Nicolas",201587,0.054,1.95,0.14,0.35,0.81,0.433,0.27,0.51,0.526,0.08,0.3,0.273

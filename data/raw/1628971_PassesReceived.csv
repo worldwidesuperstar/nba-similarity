@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1628971,"Brown, Bruce",New Orleans Pelicans,1610612740,NOP,received,14,"Missi, Yves",1642274,0.096,1.59,0.1,0.2,0.41,0.471,0.15,0.34,0.429,0.05,0.07,0.667
+1628971,"Brown, Bruce",New Orleans Pelicans,1610612740,NOP,received,11,"Reeves, Antonio",1641810,0.034,0.56,0.0,0.0,0.15,0.0,0.0,0.07,0.0,0.0,0.07,0.0
+1628971,"Brown, Bruce",New Orleans Pelicans,1610612740,NOP,received,14,"Hawkins, Jordan",1641722,0.083,1.37,0.1,0.12,0.34,0.357,0.05,0.2,0.25,0.07,0.15,0.5
+1628971,"Brown, Bruce",New Orleans Pelicans,1610612740,NOP,received,1,"Quinones, Lester",1631311,0.012,0.2,0.02,0.05,0.07,0.667,0.05,0.07,0.667,0.0,0.0,
+1628971,"Brown, Bruce",New Orleans Pelicans,1610612740,NOP,received,2,"Cain, Jamal",1631288,0.009,0.15,0.0,0.02,0.02,1.0,0.02,0.02,1.0,0.0,0.0,
+1628971,"Brown, Bruce",New Orleans Pelicans,1610612740,NOP,received,16,"Matković, Karlo",1631255,0.082,1.34,0.02,0.05,0.22,0.222,0.02,0.17,0.143,0.02,0.05,0.5
+1628971,"Brown, Bruce",New Orleans Pelicans,1610612740,NOP,received,5,"Brooks Jr., Keion",1631232,0.024,0.39,0.0,0.02,0.1,0.25,0.02,0.1,0.25,0.0,0.0,
+1628971,"Brown, Bruce",New Orleans Pelicans,1610612740,NOP,received,18,"Alvarado, Jose",1630631,0.136,2.24,0.22,0.22,0.61,0.36,0.17,0.44,0.389,0.05,0.17,0.286
+1628971,"Brown, Bruce",New Orleans Pelicans,1610612740,NOP,received,13,"Murphy III, Trey",1630530,0.114,1.88,0.12,0.17,0.51,0.333,0.1,0.37,0.267,0.07,0.15,0.5
+1628971,"Brown, Bruce",New Orleans Pelicans,1610612740,NOP,received,7,"Robinson-Earl, Jeremiah",1630526,0.033,0.54,0.02,0.02,0.07,0.333,0.02,0.07,0.333,0.0,0.0,
+1628971,"Brown, Bruce",New Orleans Pelicans,1610612740,NOP,received,1,"Green, Javonte",1629750,0.001,0.02,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1628971,"Brown, Bruce",New Orleans Pelicans,1610612740,NOP,received,10,"Williamson, Zion",1629627,0.046,0.76,0.1,0.1,0.32,0.308,0.05,0.17,0.286,0.05,0.15,0.333
+1628971,"Brown, Bruce",New Orleans Pelicans,1610612740,NOP,received,2,"Bamba, Mo",1628964,0.004,0.07,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1628971,"Brown, Bruce",New Orleans Pelicans,1610612740,NOP,received,4,"Payton, Elfrid",203901,0.033,0.54,0.1,0.1,0.22,0.444,0.1,0.17,0.571,0.0,0.05,0.0
+1628971,"Brown, Bruce",New Orleans Pelicans,1610612740,NOP,received,16,"Olynyk, Kelly",203482,0.178,2.93,0.27,0.32,0.71,0.448,0.29,0.68,0.429,0.02,0.02,1.0
+1628971,"Brown, Bruce",New Orleans Pelicans,1610612740,NOP,received,15,"McCollum, CJ",203468,0.114,1.88,0.17,0.2,0.51,0.381,0.15,0.29,0.5,0.05,0.22,0.222

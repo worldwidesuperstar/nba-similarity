@@ -1,0 +1,26 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,1,"McCain, Jared",1642272,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,5,"Reese, Alex",1642024,0.01,0.25,0.02,0.02,0.07,0.333,0.0,0.0,,0.02,0.07,0.333
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,23,"Council IV, Ricky",1641741,0.065,1.61,0.07,0.11,0.57,0.2,0.09,0.34,0.267,0.02,0.23,0.1
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,17,"Bona, Adem",1641737,0.029,0.73,0.05,0.05,0.09,0.5,0.05,0.09,0.5,0.0,0.0,
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,8,"Hood-Schifino, Jalen",1641720,0.032,0.8,0.02,0.09,0.18,0.5,0.09,0.11,0.8,0.0,0.07,0.0
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,2,"Quinones, Lester",1631311,0.002,0.05,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,3,"Nance, Pete",1631250,0.005,0.11,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,3,"Wheeler, Phillip",1630762,0.004,0.09,0.02,0.02,0.07,0.333,0.02,0.02,1.0,0.0,0.05,0.0
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,2,"Bagley, Marcus",1630542,0.002,0.05,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,20,"Dowtin Jr., Jeff",1630288,0.073,1.82,0.02,0.16,0.45,0.35,0.16,0.39,0.412,0.0,0.07,0.0
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,17,"Butler, Jared",1630215,0.125,3.11,0.18,0.25,0.66,0.379,0.14,0.3,0.462,0.11,0.36,0.313
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,22,"Maxey, Tyrese",1630178,0.16,3.98,0.25,0.57,1.18,0.481,0.41,0.68,0.6,0.16,0.5,0.318
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,19,"Grimes, Quentin",1629656,0.143,3.55,0.23,0.34,0.91,0.375,0.2,0.45,0.45,0.14,0.45,0.3
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,6,"Okeke, Chuma",1629643,0.018,0.45,0.05,0.05,0.09,0.5,0.02,0.02,1.0,0.02,0.07,0.333
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,4,"Brissett, Oshae",1629052,0.008,0.2,0.05,0.05,0.07,0.667,0.05,0.05,1.0,0.0,0.02,0.0
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,9,"Walker IV, Lonnie",1629022,0.038,0.93,0.07,0.09,0.14,0.667,0.05,0.05,1.0,0.05,0.09,0.5
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,2,"Martin, Caleb",1628997,0.002,0.05,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,27,"Yabusele, Guerschon",1627824,0.106,2.64,0.27,0.32,0.55,0.583,0.25,0.32,0.786,0.07,0.23,0.3
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,22,"Oubre Jr., Kelly",1626162,0.066,1.64,0.16,0.25,0.48,0.524,0.14,0.34,0.4,0.11,0.14,0.833
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,5,"Embiid, Joel",203954,0.014,0.34,0.0,0.02,0.05,0.5,0.02,0.05,0.5,0.0,0.0,
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,5,"Drummond, Andre",203083,0.014,0.34,0.02,0.02,0.11,0.2,0.02,0.07,0.333,0.0,0.05,0.0
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,10,"Jackson, Reggie",202704,0.017,0.43,0.0,0.02,0.09,0.25,0.02,0.07,0.333,0.0,0.02,0.0
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,11,"George, Paul",202331,0.033,0.82,0.02,0.07,0.18,0.375,0.05,0.07,0.667,0.02,0.11,0.2
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,11,"Gordon, Eric",201569,0.019,0.48,0.05,0.05,0.2,0.222,0.02,0.09,0.25,0.02,0.11,0.2
+1642348,"Edwards, Justin",Philadelphia 76ers,1610612755,PHI,made,8,"Lowry, Kyle",200768,0.015,0.36,0.02,0.02,0.05,0.5,0.0,0.02,0.0,0.02,0.02,1.0

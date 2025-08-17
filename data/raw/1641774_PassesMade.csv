@@ -1,0 +1,21 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,17,"Johnson, AJ",1642358,0.187,2.89,0.06,0.17,0.77,0.222,0.14,0.51,0.278,0.03,0.26,0.111
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,10,"George, Kyshawn",1642273,0.044,0.69,0.03,0.06,0.2,0.286,0.06,0.17,0.333,0.0,0.03,0.0
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,25,"Carrington, Bub",1642267,0.211,3.26,0.09,0.11,0.51,0.222,0.06,0.26,0.222,0.06,0.26,0.222
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,3,"Sarr, Alex",1642259,0.017,0.26,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,9,"Martin, Jaylen",1641798,0.05,0.77,0.09,0.09,0.14,0.6,0.06,0.09,0.667,0.03,0.06,0.5
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,11,"Jones, Colby",1641732,0.076,1.17,0.11,0.14,0.4,0.357,0.11,0.26,0.444,0.03,0.14,0.2
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,6,"Coulibaly, Bilal",1641731,0.041,0.63,0.09,0.11,0.14,0.8,0.06,0.09,0.667,0.06,0.06,1.0
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,2,"Baldwin Jr., Patrick",1631116,0.007,0.11,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,6,"Davis, Johnny",1631098,0.019,0.29,0.0,0.0,0.06,0.0,0.0,0.06,0.0,0.0,0.0,
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,10,"Kispert, Corey",1630557,0.054,0.83,0.06,0.09,0.26,0.333,0.06,0.14,0.4,0.03,0.11,0.25
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,19,"Champagnie, Justin",1630551,0.107,1.66,0.31,0.34,0.63,0.545,0.26,0.37,0.692,0.09,0.26,0.333
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,4,"Thor, JT",1630550,0.015,0.23,0.09,0.11,0.17,0.667,0.09,0.11,0.75,0.03,0.06,0.5
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,7,"Gill, Anthony",1630264,0.019,0.29,0.03,0.06,0.17,0.333,0.06,0.14,0.4,0.0,0.03,0.0
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,3,"Butler, Jared",1630215,0.017,0.26,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,10,"Poole, Jordan",1629673,0.056,0.86,0.11,0.29,0.4,0.714,0.23,0.31,0.727,0.06,0.09,0.667
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,1,"McDaniels, Jalen",1629667,0.002,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,3,"Brogdon, Malcolm",1627763,0.03,0.46,0.03,0.09,0.14,0.6,0.09,0.11,0.75,0.0,0.03,0.0
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,1,"Holmes, Richaun",1626158,0.002,0.03,0.03,0.03,0.03,1.0,0.03,0.03,1.0,0.0,0.0,
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,6,"Smart, Marcus",203935,0.046,0.71,0.0,0.03,0.14,0.2,0.0,0.03,0.0,0.03,0.11,0.25
+1641774,"Vukcevic, Tristan",Washington Wizards,1610612764,WAS,made,1,"Middleton, Khris",203114,0.002,0.03,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,

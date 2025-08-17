@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203076,"Davis, Anthony",Dallas Mavericks,1610612742,DAL,received,3,"Lively II, Dereck",1641726,0.019,0.14,0.02,0.02,0.06,0.333,0.02,0.06,0.333,0.0,0.0,
+203076,"Davis, Anthony",Dallas Mavericks,1610612742,DAL,received,8,"Christie, Max",1631108,0.064,0.45,0.04,0.06,0.2,0.3,0.06,0.16,0.375,0.0,0.04,0.0
+203076,"Davis, Anthony",Dallas Mavericks,1610612742,DAL,received,4,"Hardy, Jaden",1630702,0.028,0.2,0.0,0.0,0.08,0.0,0.0,0.04,0.0,0.0,0.04,0.0
+203076,"Davis, Anthony",Dallas Mavericks,1610612742,DAL,received,1,"Jones, Kai",1630539,0.006,0.04,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+203076,"Davis, Anthony",Dallas Mavericks,1610612742,DAL,received,4,"Williams, Brandon",1630314,0.075,0.53,0.06,0.06,0.14,0.429,0.04,0.12,0.333,0.02,0.02,1.0
+203076,"Davis, Anthony",Dallas Mavericks,1610612742,DAL,received,9,"Marshall, Naji",1630230,0.155,1.1,0.14,0.2,0.39,0.5,0.2,0.37,0.526,0.0,0.02,0.0
+203076,"Davis, Anthony",Dallas Mavericks,1610612742,DAL,received,4,"Gafford, Daniel",1629655,0.014,0.1,0.02,0.02,0.04,0.5,0.02,0.02,1.0,0.0,0.02,0.0
+203076,"Davis, Anthony",Dallas Mavericks,1610612742,DAL,received,6,"Washington, P.J.",1629023,0.097,0.69,0.1,0.12,0.27,0.429,0.12,0.2,0.6,0.0,0.08,0.0
+203076,"Davis, Anthony",Dallas Mavericks,1610612742,DAL,received,5,"Martin, Caleb",1628997,0.075,0.53,0.06,0.1,0.22,0.455,0.08,0.16,0.5,0.02,0.06,0.333
+203076,"Davis, Anthony",Dallas Mavericks,1610612742,DAL,received,2,"Exum, Danté",203957,0.055,0.39,0.04,0.08,0.16,0.5,0.08,0.16,0.5,0.0,0.0,
+203076,"Davis, Anthony",Dallas Mavericks,1610612742,DAL,received,1,"Powell, Dwight",203939,0.003,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+203076,"Davis, Anthony",Dallas Mavericks,1610612742,DAL,received,8,"Dinwiddie, Spencer",203915,0.32,2.27,0.29,0.41,1.04,0.396,0.39,0.88,0.444,0.02,0.16,0.125
+203076,"Davis, Anthony",Dallas Mavericks,1610612742,DAL,received,7,"Thompson, Klay",202691,0.061,0.43,0.08,0.08,0.24,0.333,0.04,0.18,0.222,0.04,0.06,0.667
+203076,"Davis, Anthony",Dallas Mavericks,1610612742,DAL,received,1,"Irving, Kyrie",202681,0.03,0.22,0.04,0.08,0.12,0.667,0.04,0.08,0.5,0.04,0.04,1.0

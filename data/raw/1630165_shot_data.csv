@@ -1,0 +1,19 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400791,99,1630165,Killian Hayes,1610612751,Brooklyn Nets,1,5,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,22,1,1,20250220,BKN,CLE
+Shot Chart Detail,0022400791,647,1630165,Killian Hayes,1610612751,Brooklyn Nets,4,6,54,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-20,123,1,1,20250220,BKN,CLE
+Shot Chart Detail,0022400807,45,1630165,Killian Hayes,1610612751,Brooklyn Nets,1,8,5,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-20,71,1,1,20250222,PHI,BKN
+Shot Chart Detail,0022400824,215,1630165,Killian Hayes,1610612751,Brooklyn Nets,2,8,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-10,268,1,1,20250224,WAS,BKN
+Shot Chart Detail,0022400824,233,1630165,Killian Hayes,1610612751,Brooklyn Nets,2,7,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,16,1,1,20250224,WAS,BKN
+Shot Chart Detail,0022400840,49,1630165,Killian Hayes,1610612751,Brooklyn Nets,1,7,53,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,42,121,1,1,20250226,BKN,OKC
+Shot Chart Detail,0022400840,210,1630165,Killian Hayes,1610612751,Brooklyn Nets,2,8,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-6,1,1,20250226,BKN,OKC
+Shot Chart Detail,0022400840,338,1630165,Killian Hayes,1610612751,Brooklyn Nets,2,0,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,159,187,1,1,20250226,BKN,OKC
+Shot Chart Detail,0022400840,376,1630165,Killian Hayes,1610612751,Brooklyn Nets,3,9,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,5,256,1,1,20250226,BKN,OKC
+Shot Chart Detail,0022400840,403,1630165,Killian Hayes,1610612751,Brooklyn Nets,3,7,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-119,17,1,1,20250226,BKN,OKC
+Shot Chart Detail,0022400840,435,1630165,Killian Hayes,1610612751,Brooklyn Nets,3,5,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,97,230,1,1,20250226,BKN,OKC
+Shot Chart Detail,0022400840,673,1630165,Killian Hayes,1610612751,Brooklyn Nets,4,3,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,212,122,1,1,20250226,BKN,OKC
+Shot Chart Detail,0022400853,13,1630165,Killian Hayes,1610612751,Brooklyn Nets,1,10,53,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,11,1,1,20250228,BKN,POR
+Shot Chart Detail,0022400853,390,1630165,Killian Hayes,1610612751,Brooklyn Nets,3,6,45,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20250228,BKN,POR
+Shot Chart Detail,0022400853,607,1630165,Killian Hayes,1610612751,Brooklyn Nets,4,5,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,80,239,1,1,20250228,BKN,POR
+Shot Chart Detail,0022400853,654,1630165,Killian Hayes,1610612751,Brooklyn Nets,4,3,32,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,178,180,1,1,20250228,BKN,POR
+Shot Chart Detail,0022400853,677,1630165,Killian Hayes,1610612751,Brooklyn Nets,4,2,2,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,11,1,1,20250228,BKN,POR
+Shot Chart Detail,0022400861,432,1630165,Killian Hayes,1610612751,Brooklyn Nets,3,8,17,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,10,1,1,20250301,DET,BKN

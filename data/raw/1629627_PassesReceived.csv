@@ -1,0 +1,19 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629627,"Williamson, Zion",New Orleans Pelicans,1610612740,NOP,received,27,"Missi, Yves",1642274,0.076,3.67,0.2,0.47,0.97,0.483,0.47,0.9,0.519,0.0,0.07,0.0
+1629627,"Williamson, Zion",New Orleans Pelicans,1610612740,NOP,received,5,"Reeves, Antonio",1641810,0.012,0.57,0.1,0.1,0.2,0.5,0.1,0.2,0.5,0.0,0.0,
+1629627,"Williamson, Zion",New Orleans Pelicans,1610612740,NOP,received,27,"Hawkins, Jordan",1641722,0.093,4.5,0.23,0.5,1.43,0.349,0.43,1.37,0.317,0.07,0.07,1.0
+1629627,"Williamson, Zion",New Orleans Pelicans,1610612740,NOP,received,2,"Cain, Jamal",1631288,0.003,0.17,0.03,0.03,0.03,1.0,0.03,0.03,1.0,0.0,0.0,
+1629627,"Williamson, Zion",New Orleans Pelicans,1610612740,NOP,received,17,"Matković, Karlo",1631255,0.039,1.9,0.07,0.47,0.73,0.636,0.47,0.73,0.636,0.0,0.0,
+1629627,"Williamson, Zion",New Orleans Pelicans,1610612740,NOP,received,29,"Alvarado, Jose",1630631,0.205,9.9,1.13,1.57,3.63,0.431,1.57,3.6,0.435,0.0,0.03,0.0
+1629627,"Williamson, Zion",New Orleans Pelicans,1610612740,NOP,received,21,"Murphy III, Trey",1630530,0.108,5.23,0.63,1.03,2.17,0.477,1.03,2.17,0.477,0.0,0.0,
+1629627,"Williamson, Zion",New Orleans Pelicans,1610612740,NOP,received,4,"Jones, Herbert",1630529,0.013,0.63,0.07,0.07,0.23,0.286,0.07,0.23,0.286,0.0,0.0,
+1629627,"Williamson, Zion",New Orleans Pelicans,1610612740,NOP,received,6,"Boston, Brandon",1630527,0.032,1.53,0.07,0.23,0.4,0.583,0.2,0.37,0.545,0.03,0.03,1.0
+1629627,"Williamson, Zion",New Orleans Pelicans,1610612740,NOP,received,15,"Robinson-Earl, Jeremiah",1630526,0.038,1.83,0.13,0.33,0.57,0.588,0.33,0.53,0.625,0.0,0.03,0.0
+1629627,"Williamson, Zion",New Orleans Pelicans,1610612740,NOP,received,14,"Green, Javonte",1629750,0.035,1.7,0.07,0.13,0.43,0.308,0.13,0.4,0.333,0.0,0.03,0.0
+1629627,"Williamson, Zion",New Orleans Pelicans,1610612740,NOP,received,7,"Brown, Bruce",1628971,0.032,1.53,0.03,0.23,0.37,0.636,0.23,0.37,0.636,0.0,0.0,
+1629627,"Williamson, Zion",New Orleans Pelicans,1610612740,NOP,received,2,"Bamba, Mo",1628964,0.008,0.4,0.0,0.0,0.07,0.0,0.0,0.07,0.0,0.0,0.0,
+1629627,"Williamson, Zion",New Orleans Pelicans,1610612740,NOP,received,11,"Theis, Daniel",1628464,0.023,1.13,0.1,0.13,0.4,0.333,0.13,0.37,0.364,0.0,0.03,0.0
+1629627,"Williamson, Zion",New Orleans Pelicans,1610612740,NOP,received,6,"Murray, Dejounte",1627749,0.054,2.6,0.2,0.4,0.87,0.462,0.4,0.83,0.48,0.0,0.03,0.0
+1629627,"Williamson, Zion",New Orleans Pelicans,1610612740,NOP,received,6,"Ingram, Brandon",1627742,0.028,1.37,0.2,0.3,0.7,0.429,0.3,0.67,0.45,0.0,0.03,0.0
+1629627,"Williamson, Zion",New Orleans Pelicans,1610612740,NOP,received,9,"Olynyk, Kelly",203482,0.046,2.2,0.33,0.63,0.93,0.679,0.63,0.93,0.679,0.0,0.0,
+1629627,"Williamson, Zion",New Orleans Pelicans,1610612740,NOP,received,26,"McCollum, CJ",203468,0.153,7.4,0.8,1.37,3.03,0.451,1.37,2.97,0.461,0.0,0.07,0.0

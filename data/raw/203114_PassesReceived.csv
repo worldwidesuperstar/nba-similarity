@@ -1,0 +1,14 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203114,"Middleton, Khris",Washington Wizards,1610612764,WAS,received,1,"Johnson, AJ",1642358,0.005,0.05,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0
+203114,"Middleton, Khris",Washington Wizards,1610612764,WAS,received,12,"George, Kyshawn",1642273,0.189,1.95,0.22,0.38,0.95,0.4,0.22,0.49,0.444,0.16,0.46,0.353
+203114,"Middleton, Khris",Washington Wizards,1610612764,WAS,received,9,"Carrington, Bub",1642267,0.203,2.08,0.16,0.35,0.7,0.5,0.3,0.57,0.524,0.05,0.14,0.4
+203114,"Middleton, Khris",Washington Wizards,1610612764,WAS,received,12,"Sarr, Alex",1642259,0.208,2.14,0.08,0.16,0.57,0.286,0.14,0.41,0.333,0.03,0.16,0.167
+203114,"Middleton, Khris",Washington Wizards,1610612764,WAS,received,1,"Martin, Jaylen",1641798,0.005,0.05,0.03,0.03,0.05,0.5,0.0,0.03,0.0,0.03,0.03,1.0
+203114,"Middleton, Khris",Washington Wizards,1610612764,WAS,received,1,"Vukcevic, Tristan",1641774,0.003,0.03,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,
+203114,"Middleton, Khris",Washington Wizards,1610612764,WAS,received,1,"Jones, Colby",1641732,0.005,0.05,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0
+203114,"Middleton, Khris",Washington Wizards,1610612764,WAS,received,7,"Coulibaly, Bilal",1641731,0.082,0.84,0.08,0.08,0.27,0.3,0.05,0.19,0.286,0.03,0.08,0.333
+203114,"Middleton, Khris",Washington Wizards,1610612764,WAS,received,2,"Kispert, Corey",1630557,0.005,0.05,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,
+203114,"Middleton, Khris",Washington Wizards,1610612764,WAS,received,5,"Champagnie, Justin",1630551,0.032,0.32,0.0,0.0,0.05,0.0,0.0,0.03,0.0,0.0,0.03,0.0
+203114,"Middleton, Khris",Washington Wizards,1610612764,WAS,received,11,"Poole, Jordan",1629673,0.232,2.38,0.19,0.24,0.68,0.36,0.19,0.38,0.5,0.05,0.3,0.182
+203114,"Middleton, Khris",Washington Wizards,1610612764,WAS,received,2,"Holmes, Richaun",1626158,0.026,0.27,0.05,0.05,0.08,0.667,0.05,0.08,0.667,0.0,0.0,
+203114,"Middleton, Khris",Washington Wizards,1610612764,WAS,received,1,"Smart, Marcus",203935,0.005,0.05,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,

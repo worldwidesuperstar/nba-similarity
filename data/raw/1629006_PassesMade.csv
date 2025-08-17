@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,made,10,"Simpson, KJ",1642354,0.195,1.4,0.03,0.1,0.23,0.444,0.05,0.1,0.5,0.05,0.13,0.4
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,made,6,"Salaün, Tidjane",1642275,0.052,0.38,0.0,0.03,0.13,0.2,0.0,0.08,0.0,0.03,0.05,0.5
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,made,3,"Baugh, Damion",1641878,0.021,0.15,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,made,8,"Smith Jr., Nick",1641733,0.122,0.88,0.03,0.05,0.13,0.4,0.03,0.05,0.5,0.03,0.08,0.333
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,made,1,"Sims, Jaylen",1631301,0.003,0.03,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,made,6,"Diabaté, Moussa",1631217,0.042,0.3,0.03,0.03,0.1,0.25,0.03,0.1,0.25,0.0,0.0,
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,made,3,"Wong, Isaiah",1631209,0.024,0.18,0.0,0.03,0.05,0.5,0.03,0.05,0.5,0.0,0.0,
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,made,7,"Williams, Mark",1631109,0.056,0.4,0.05,0.05,0.15,0.333,0.05,0.15,0.333,0.0,0.0,
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,made,4,"Green, Josh",1630182,0.017,0.13,0.03,0.03,0.08,0.333,0.0,0.03,0.0,0.03,0.05,0.5
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,made,4,"Ball, LaMelo",1630163,0.066,0.48,0.03,0.05,0.15,0.333,0.03,0.1,0.25,0.03,0.05,0.5
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,made,5,"Jeffries, DaQuan",1629610,0.038,0.28,0.08,0.08,0.15,0.5,0.0,0.03,0.0,0.08,0.13,0.6
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,made,2,"Martin, Cody",1628998,0.01,0.08,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,made,11,"Bridges, Miles",1628970,0.105,0.75,0.05,0.13,0.33,0.385,0.1,0.25,0.4,0.03,0.08,0.333
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,made,6,"Micic, Vasilije",203995,0.136,0.98,0.08,0.1,0.2,0.5,0.05,0.13,0.4,0.05,0.08,0.667
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,made,7,"Nurkić, Jusuf",203994,0.045,0.33,0.08,0.08,0.15,0.5,0.08,0.13,0.6,0.0,0.03,0.0
+1629006,"Okogie, Josh",Charlotte Hornets,1610612766,CHA,made,9,"Curry, Seth",203552,0.066,0.48,0.03,0.03,0.1,0.25,0.03,0.08,0.333,0.0,0.03,0.0

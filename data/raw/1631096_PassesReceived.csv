@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631096,"Holmgren, Chet",Oklahoma City Thunder,1610612760,OKC,received,1,"Carlson, Branden",1642382,0.003,0.06,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631096,"Holmgren, Chet",Oklahoma City Thunder,1610612760,OKC,received,8,"Mitchell, Ajay",1642349,0.024,0.56,0.16,0.16,0.16,1.0,0.13,0.13,1.0,0.03,0.03,1.0
+1631096,"Holmgren, Chet",Oklahoma City Thunder,1610612760,OKC,received,1,"Jones, Dillon",1641794,0.005,0.13,0.06,0.06,0.06,1.0,0.06,0.06,1.0,0.0,0.0,
+1631096,"Holmgren, Chet",Oklahoma City Thunder,1610612760,OKC,received,1,"Flagler, Adam",1641745,0.001,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631096,"Holmgren, Chet",Oklahoma City Thunder,1610612760,OKC,received,22,"Wallace, Cason",1641717,0.079,1.88,0.13,0.19,0.66,0.286,0.16,0.41,0.385,0.03,0.25,0.125
+1631096,"Holmgren, Chet",Oklahoma City Thunder,1610612760,OKC,received,5,"Williams, Jaylin",1631119,0.015,0.34,0.03,0.03,0.19,0.167,0.03,0.16,0.2,0.0,0.03,0.0
+1631096,"Holmgren, Chet",Oklahoma City Thunder,1610612760,OKC,received,27,"Williams, Jalen",1631114,0.238,5.63,0.91,1.13,2.84,0.396,0.84,1.81,0.466,0.28,1.03,0.273
+1631096,"Holmgren, Chet",Oklahoma City Thunder,1610612760,OKC,received,19,"Wiggins, Aaron",1630598,0.066,1.56,0.31,0.34,0.59,0.579,0.22,0.44,0.5,0.13,0.16,0.8
+1631096,"Holmgren, Chet",Oklahoma City Thunder,1610612760,OKC,received,20,"Joe, Isaiah",1630198,0.066,1.56,0.19,0.19,0.59,0.316,0.09,0.41,0.231,0.09,0.19,0.5
+1631096,"Holmgren, Chet",Oklahoma City Thunder,1610612760,OKC,received,20,"Dort, Luguentz",1629652,0.073,1.72,0.25,0.25,0.69,0.364,0.09,0.34,0.273,0.16,0.34,0.455
+1631096,"Holmgren, Chet",Oklahoma City Thunder,1610612760,OKC,received,10,"Williams, Kenrich",1629026,0.016,0.38,0.13,0.13,0.22,0.571,0.09,0.13,0.75,0.03,0.09,0.333
+1631096,"Holmgren, Chet",Oklahoma City Thunder,1610612760,OKC,received,30,"Gilgeous-Alexander, Shai",1628983,0.283,6.69,1.13,1.22,2.78,0.438,0.69,1.69,0.407,0.53,1.09,0.486
+1631096,"Holmgren, Chet",Oklahoma City Thunder,1610612760,OKC,received,19,"Hartenstein, Isaiah",1628392,0.072,1.69,0.38,0.44,1.09,0.4,0.34,0.69,0.5,0.09,0.41,0.231
+1631096,"Holmgren, Chet",Oklahoma City Thunder,1610612760,OKC,received,16,"Caruso, Alex",1627936,0.058,1.38,0.19,0.25,0.59,0.421,0.25,0.56,0.444,0.0,0.03,0.0

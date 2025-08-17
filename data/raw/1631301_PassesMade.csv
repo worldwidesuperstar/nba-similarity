@@ -1,0 +1,13 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631301,"Sims, Jaylen",Charlotte Hornets,1610612766,CHA,made,5,"Simpson, KJ",1642354,0.248,5.5,0.17,0.17,0.67,0.25,0.0,0.17,0.0,0.17,0.5,0.333
+1631301,"Sims, Jaylen",Charlotte Hornets,1610612766,CHA,made,4,"Salaün, Tidjane",1642275,0.068,1.5,0.5,0.5,0.83,0.6,0.17,0.17,1.0,0.33,0.67,0.5
+1631301,"Sims, Jaylen",Charlotte Hornets,1610612766,CHA,made,3,"Baugh, Damion",1641878,0.158,3.5,0.0,0.0,0.5,0.0,0.0,0.17,0.0,0.0,0.33,0.0
+1631301,"Sims, Jaylen",Charlotte Hornets,1610612766,CHA,made,2,"Smith Jr., Nick",1641733,0.09,2.0,0.0,0.0,0.17,0.0,0.0,0.0,,0.0,0.17,0.0
+1631301,"Sims, Jaylen",Charlotte Hornets,1610612766,CHA,made,2,"Diabaté, Moussa",1631217,0.083,1.83,0.5,0.67,0.83,0.8,0.67,0.83,0.8,0.0,0.0,
+1631301,"Sims, Jaylen",Charlotte Hornets,1610612766,CHA,made,1,"Moore Jr., Wendell",1631111,0.023,0.5,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631301,"Sims, Jaylen",Charlotte Hornets,1610612766,CHA,made,2,"Williams, Mark",1631109,0.038,0.83,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631301,"Sims, Jaylen",Charlotte Hornets,1610612766,CHA,made,4,"Jeffries, DaQuan",1629610,0.045,1.0,0.17,0.17,0.5,0.333,0.0,0.0,,0.17,0.5,0.333
+1631301,"Sims, Jaylen",Charlotte Hornets,1610612766,CHA,made,2,"Bridges, Miles",1628970,0.075,1.67,0.17,0.5,0.67,0.75,0.33,0.33,1.0,0.17,0.33,0.5
+1631301,"Sims, Jaylen",Charlotte Hornets,1610612766,CHA,made,5,"Nurkić, Jusuf",203994,0.105,2.33,0.33,0.33,0.67,0.5,0.17,0.33,0.5,0.17,0.33,0.5
+1631301,"Sims, Jaylen",Charlotte Hornets,1610612766,CHA,made,1,"Curry, Seth",203552,0.023,0.5,0.0,0.0,0.17,0.0,0.0,0.0,,0.0,0.17,0.0
+1631301,"Sims, Jaylen",Charlotte Hornets,1610612766,CHA,made,5,"Gibson, Taj",201959,0.045,1.0,0.17,0.17,0.33,0.5,0.17,0.33,0.5,0.0,0.0,

@@ -1,0 +1,11 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629028,"Ayton, Deandre",Portland Trail Blazers,1610612757,POR,received,37,"Camara, Toumani",1641739,0.101,2.93,0.55,0.58,1.33,0.434,0.55,1.2,0.458,0.03,0.13,0.2
+1629028,"Ayton, Deandre",Portland Trail Blazers,1610612757,POR,received,4,"Rupert, Rayan",1641712,0.005,0.15,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629028,"Ayton, Deandre",Portland Trail Blazers,1610612757,POR,received,10,"Murray, Kris",1631200,0.01,0.3,0.08,0.08,0.13,0.6,0.08,0.1,0.75,0.0,0.03,0.0
+1629028,"Ayton, Deandre",Portland Trail Blazers,1610612757,POR,received,4,"Walker, Jabari",1631133,0.003,0.1,0.03,0.03,0.03,1.0,0.03,0.03,1.0,0.0,0.0,
+1629028,"Ayton, Deandre",Portland Trail Blazers,1610612757,POR,received,27,"Sharpe, Shaedon",1631101,0.081,2.33,0.35,0.4,0.7,0.571,0.4,0.68,0.593,0.0,0.03,0.0
+1629028,"Ayton, Deandre",Portland Trail Blazers,1610612757,POR,received,36,"Henderson, Scoot",1630703,0.234,6.75,1.23,1.25,2.13,0.588,1.23,2.03,0.605,0.03,0.1,0.25
+1629028,"Ayton, Deandre",Portland Trail Blazers,1610612757,POR,received,12,"Banton, Dalano",1630625,0.033,0.95,0.13,0.13,0.3,0.417,0.13,0.3,0.417,0.0,0.0,
+1629028,"Ayton, Deandre",Portland Trail Blazers,1610612757,POR,received,35,"Avdija, Deni",1630166,0.181,5.23,0.78,0.85,1.93,0.442,0.83,1.8,0.458,0.03,0.13,0.2
+1629028,"Ayton, Deandre",Portland Trail Blazers,1610612757,POR,received,38,"Simons, Anfernee",1629014,0.265,7.65,1.23,1.3,2.55,0.51,1.25,2.3,0.543,0.05,0.25,0.2
+1629028,"Ayton, Deandre",Portland Trail Blazers,1610612757,POR,received,27,"Grant, Jerami",203924,0.085,2.45,0.6,0.68,1.18,0.574,0.65,1.03,0.634,0.03,0.15,0.167

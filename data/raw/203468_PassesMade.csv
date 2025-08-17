@@ -1,0 +1,22 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,48,"Missi, Yves",1642274,0.1,3.82,0.41,0.45,1.11,0.403,0.45,1.11,0.403,0.0,0.0,
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,2,"Jemison III, Trey",1641998,0.001,0.04,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,7,"Reeves, Antonio",1641810,0.005,0.18,0.0,0.0,0.05,0.0,0.0,0.0,,0.0,0.05,0.0
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,36,"Hawkins, Jordan",1641722,0.051,1.95,0.29,0.29,0.75,0.381,0.05,0.18,0.3,0.23,0.57,0.406
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,3,"Cain, Jamal",1631288,0.001,0.05,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,18,"Matković, Karlo",1631255,0.026,0.98,0.07,0.09,0.21,0.417,0.07,0.14,0.5,0.02,0.07,0.25
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,2,"Brooks Jr., Keion",1631232,0.001,0.04,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,29,"Alvarado, Jose",1630631,0.061,2.32,0.23,0.29,0.61,0.471,0.11,0.18,0.6,0.18,0.43,0.417
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,44,"Murphy III, Trey",1630530,0.192,7.34,1.16,1.38,2.89,0.475,0.79,1.32,0.595,0.59,1.57,0.375
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,19,"Jones, Herbert",1630529,0.044,1.7,0.23,0.29,0.64,0.444,0.16,0.32,0.5,0.13,0.32,0.389
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,21,"Boston, Brandon",1630527,0.03,1.14,0.18,0.21,0.5,0.429,0.14,0.3,0.471,0.07,0.2,0.364
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,26,"Robinson-Earl, Jeremiah",1630526,0.025,0.96,0.11,0.11,0.32,0.333,0.11,0.14,0.75,0.0,0.18,0.0
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,28,"Green, Javonte",1629750,0.031,1.2,0.13,0.14,0.41,0.348,0.05,0.14,0.375,0.09,0.27,0.333
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,26,"Williamson, Zion",1629627,0.104,3.96,0.43,0.73,1.63,0.451,0.73,1.59,0.461,0.0,0.04,0.0
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,15,"Brown, Bruce",1628971,0.036,1.38,0.13,0.14,0.38,0.381,0.11,0.21,0.5,0.04,0.16,0.222
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,1,"Bamba, Mo",1628964,0.002,0.07,0.02,0.02,0.02,1.0,0.02,0.02,1.0,0.0,0.0,
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,22,"Theis, Daniel",1628464,0.03,1.14,0.13,0.14,0.29,0.5,0.13,0.23,0.538,0.02,0.05,0.333
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,31,"Murray, Dejounte",1627749,0.176,6.73,0.21,0.48,1.54,0.314,0.38,1.07,0.35,0.11,0.46,0.231
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,6,"Ingram, Brandon",1627742,0.035,1.36,0.14,0.21,0.52,0.414,0.16,0.32,0.5,0.05,0.2,0.273
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,5,"Payton, Elfrid",203901,0.019,0.73,0.02,0.09,0.18,0.5,0.09,0.18,0.5,0.0,0.0,
+203468,"McCollum, CJ",New Orleans Pelicans,1610612740,NOP,made,12,"Olynyk, Kelly",203482,0.03,1.14,0.16,0.16,0.21,0.75,0.11,0.16,0.667,0.05,0.05,1.0

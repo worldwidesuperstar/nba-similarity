@@ -1,0 +1,22 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,47,"Missi, Yves",1642274,0.076,2.81,0.42,0.43,0.87,0.5,0.43,0.87,0.5,0.0,0.0,
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,4,"Jemison III, Trey",1641998,0.004,0.13,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,10,"Reeves, Antonio",1641810,0.008,0.28,0.04,0.04,0.13,0.286,0.02,0.08,0.25,0.02,0.06,0.333
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,33,"Hawkins, Jordan",1641722,0.05,1.85,0.3,0.34,0.91,0.375,0.17,0.36,0.474,0.17,0.55,0.31
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,7,"Cain, Jamal",1631288,0.006,0.21,0.0,0.0,0.08,0.0,0.0,0.0,,0.0,0.08,0.0
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,17,"Matković, Karlo",1631255,0.029,1.08,0.25,0.25,0.42,0.591,0.21,0.25,0.846,0.04,0.17,0.222
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,29,"Alvarado, Jose",1630631,0.115,4.28,0.26,0.36,0.85,0.422,0.08,0.28,0.267,0.28,0.57,0.5
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,14,"Jones, Herbert",1630529,0.024,0.91,0.06,0.06,0.34,0.167,0.02,0.17,0.111,0.04,0.17,0.222
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,24,"Boston, Brandon",1630527,0.052,1.92,0.15,0.21,0.55,0.379,0.17,0.32,0.529,0.04,0.23,0.167
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,23,"Robinson-Earl, Jeremiah",1630526,0.021,0.77,0.13,0.13,0.28,0.467,0.06,0.09,0.6,0.08,0.19,0.4
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,30,"Green, Javonte",1629750,0.036,1.32,0.21,0.23,0.62,0.364,0.11,0.25,0.462,0.11,0.38,0.3
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,4,"Nowell, Jaylen",1629669,0.013,0.47,0.04,0.06,0.11,0.5,0.04,0.09,0.4,0.02,0.02,1.0
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,21,"Williamson, Zion",1629627,0.08,2.96,0.36,0.58,1.23,0.477,0.58,1.23,0.477,0.0,0.0,
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,13,"Brown, Bruce",1628971,0.039,1.45,0.09,0.13,0.4,0.333,0.08,0.28,0.267,0.06,0.11,0.5
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,2,"Bamba, Mo",1628964,0.002,0.08,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,20,"Theis, Daniel",1628464,0.023,0.87,0.02,0.02,0.13,0.143,0.02,0.08,0.25,0.0,0.06,0.0
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,26,"Murray, Dejounte",1627749,0.178,6.62,0.28,0.57,1.66,0.341,0.32,0.96,0.333,0.25,0.7,0.351
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,7,"Ingram, Brandon",1627742,0.014,0.51,0.02,0.11,0.17,0.667,0.09,0.13,0.714,0.02,0.04,0.5
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,4,"Payton, Elfrid",203901,0.02,0.75,0.02,0.02,0.08,0.25,0.02,0.08,0.25,0.0,0.0,
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,10,"Olynyk, Kelly",203482,0.024,0.91,0.08,0.11,0.3,0.375,0.11,0.25,0.462,0.0,0.06,0.0
+1630530,"Murphy III, Trey",New Orleans Pelicans,1610612740,NOP,made,44,"McCollum, CJ",203468,0.188,7.0,0.83,1.38,2.87,0.48,0.89,1.75,0.505,0.49,1.11,0.441

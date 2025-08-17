@@ -1,0 +1,14 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,received,1,"Jones, Spencer",1642461,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,received,6,"Tyson, Hunter",1641816,0.006,0.18,0.02,0.02,0.08,0.25,0.0,0.04,0.0,0.02,0.04,0.5
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,received,22,"Watson, Peyton",1631212,0.049,1.45,0.1,0.14,0.37,0.368,0.06,0.2,0.3,0.08,0.18,0.444
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,received,41,"Braun, Christian",1631128,0.115,3.43,0.41,0.53,0.9,0.587,0.27,0.43,0.636,0.25,0.47,0.542
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,received,19,"Strawther, Julian",1631124,0.029,0.86,0.06,0.06,0.25,0.231,0.04,0.18,0.222,0.02,0.08,0.25
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,received,1,"Nnaji, Zeke",1630192,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,received,11,"Pickett, Jalen",1629618,0.03,0.88,0.1,0.12,0.22,0.545,0.08,0.14,0.571,0.04,0.08,0.5
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,received,41,"Porter Jr., Michael",1629008,0.099,2.94,0.25,0.39,0.84,0.465,0.29,0.59,0.5,0.1,0.25,0.385
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,received,2,"Čančar, Vlatko",1628427,0.004,0.12,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,received,39,"Murray, Jamal",1627750,0.182,5.41,0.53,0.73,1.55,0.468,0.47,1.0,0.471,0.25,0.55,0.464
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,received,47,"Jokić, Nikola",203999,0.336,10.0,1.45,1.73,3.67,0.471,1.22,2.49,0.488,0.51,1.18,0.433
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,received,13,"Jordan, DeAndre",201599,0.019,0.57,0.02,0.1,0.24,0.417,0.08,0.2,0.4,0.02,0.04,0.5
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,received,42,"Westbrook, Russell",201566,0.129,3.84,0.43,0.65,1.47,0.44,0.57,1.14,0.5,0.08,0.33,0.235

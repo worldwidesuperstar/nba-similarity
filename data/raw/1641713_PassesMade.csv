@@ -1,0 +1,20 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,3,"Kawamura, Yuki",1642530,0.013,0.21,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,1,"Pullin, Zyon",1642389,0.002,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,10,"Wells, Jaylen",1642377,0.034,0.52,0.07,0.14,0.34,0.4,0.14,0.24,0.571,0.0,0.1,0.0
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,8,"Spencer, Cam",1642285,0.04,0.62,0.03,0.03,0.1,0.333,0.0,0.03,0.0,0.03,0.07,0.5
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,11,"Edey, Zach",1641744,0.04,0.62,0.03,0.03,0.24,0.143,0.0,0.14,0.0,0.03,0.1,0.333
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,6,"Williams Jr., Vince",1631246,0.038,0.59,0.1,0.1,0.21,0.5,0.07,0.14,0.5,0.03,0.07,0.5
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,4,"LaRavia, Jake",1631222,0.018,0.28,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,6,"Huff, Jay",1630643,0.025,0.38,0.03,0.07,0.14,0.5,0.07,0.14,0.5,0.0,0.0,
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,21,"Pippen Jr., Scotty",1630590,0.151,2.31,0.03,0.17,0.31,0.556,0.14,0.21,0.667,0.03,0.1,0.333
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,13,"Aldama, Santi",1630583,0.09,1.38,0.21,0.24,0.34,0.7,0.03,0.07,0.5,0.21,0.28,0.75
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,18,"Bane, Desmond",1630217,0.209,3.21,0.14,0.34,0.59,0.588,0.24,0.31,0.778,0.1,0.28,0.375
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,5,"Stevens, Lamar",1630205,0.013,0.21,0.07,0.07,0.1,0.667,0.03,0.03,1.0,0.03,0.07,0.5
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,5,"Konchar, John",1629723,0.013,0.21,0.03,0.03,0.03,1.0,0.0,0.0,,0.03,0.03,1.0
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,12,"Clarke, Brandon",1629634,0.049,0.76,0.14,0.14,0.31,0.444,0.14,0.31,0.444,0.0,0.0,
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,16,"Morant, Ja",1629630,0.128,1.97,0.07,0.17,0.41,0.417,0.14,0.28,0.5,0.03,0.14,0.25
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,13,"Jackson Jr., Jaren",1628991,0.054,0.83,0.0,0.17,0.38,0.455,0.17,0.34,0.5,0.0,0.03,0.0
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,2,"Bagley III, Marvin",1628963,0.009,0.14,0.03,0.03,0.07,0.5,0.03,0.03,1.0,0.0,0.03,0.0
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,15,"Kennard, Luke",1628379,0.07,1.07,0.0,0.03,0.1,0.333,0.03,0.07,0.5,0.0,0.03,0.0
+1641713,"Jackson, GG",Memphis Grizzlies,1610612763,MEM,made,1,"Smart, Marcus",203935,0.002,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,

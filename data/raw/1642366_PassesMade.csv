@@ -1,0 +1,19 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,made,2,"Rowe, Jackson",1642050,0.005,0.12,0.02,0.02,0.05,0.5,0.02,0.05,0.5,0.0,0.0,
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,made,2,"Collins, Yuri",1641879,0.008,0.17,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,made,29,"Podziemski, Brandin",1641764,0.152,3.33,0.26,0.33,0.64,0.519,0.12,0.24,0.5,0.21,0.4,0.529
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,made,1,"Jackson-Davis, Trayce",1631218,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,made,18,"Santos, Gui",1630611,0.036,0.79,0.1,0.12,0.24,0.5,0.05,0.07,0.667,0.07,0.17,0.429
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,made,31,"Moody, Moses",1630541,0.066,1.45,0.12,0.14,0.38,0.375,0.05,0.14,0.333,0.1,0.24,0.4
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,made,4,"Waters III, Lindy",1630322,0.01,0.21,0.05,0.05,0.19,0.25,0.0,0.05,0.0,0.05,0.14,0.333
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,made,13,"Spencer, Pat",1630311,0.041,0.9,0.05,0.07,0.14,0.5,0.05,0.07,0.667,0.02,0.07,0.333
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,made,9,"Kuminga, Jonathan",1630228,0.026,0.57,0.0,0.02,0.21,0.111,0.02,0.19,0.125,0.0,0.02,0.0
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,made,3,"Knox II, Kevin",1628995,0.004,0.1,0.05,0.05,0.05,1.0,0.05,0.05,1.0,0.0,0.0,
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,made,17,"Payton II, Gary",1627780,0.036,0.79,0.07,0.07,0.26,0.273,0.07,0.17,0.429,0.0,0.1,0.0
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,made,30,"Hield, Buddy",1627741,0.077,1.69,0.17,0.19,0.38,0.5,0.05,0.12,0.4,0.14,0.26,0.545
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,made,7,"Wiggins, Andrew",203952,0.026,0.57,0.05,0.07,0.14,0.5,0.05,0.1,0.5,0.02,0.05,0.5
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,made,1,"Anderson, Kyle",203937,0.003,0.07,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,made,7,"Schröder, Dennis",203471,0.052,1.14,0.02,0.02,0.12,0.2,0.0,0.02,0.0,0.02,0.1,0.25
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,made,31,"Green, Draymond",203110,0.19,4.17,0.1,0.1,0.33,0.286,0.05,0.21,0.222,0.05,0.12,0.4
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,made,26,"Butler III, Jimmy",202710,0.116,2.55,0.07,0.12,0.45,0.263,0.1,0.38,0.25,0.02,0.07,0.333
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,made,28,"Curry, Stephen",201939,0.15,3.29,0.21,0.43,0.74,0.581,0.19,0.26,0.727,0.24,0.48,0.5

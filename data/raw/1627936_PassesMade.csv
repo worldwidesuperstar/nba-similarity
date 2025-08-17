@@ -1,0 +1,17 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1627936,"Caruso, Alex",Oklahoma City Thunder,1610612760,OKC,made,5,"Carlson, Branden",1642382,0.007,0.19,0.02,0.02,0.07,0.25,0.0,0.02,0.0,0.02,0.06,0.333
+1627936,"Caruso, Alex",Oklahoma City Thunder,1610612760,OKC,made,13,"Mitchell, Ajay",1642349,0.038,0.98,0.07,0.09,0.19,0.5,0.06,0.15,0.375,0.04,0.04,1.0
+1627936,"Caruso, Alex",Oklahoma City Thunder,1610612760,OKC,made,13,"Jones, Dillon",1641794,0.017,0.44,0.07,0.07,0.15,0.5,0.07,0.07,1.0,0.0,0.07,0.0
+1627936,"Caruso, Alex",Oklahoma City Thunder,1610612760,OKC,made,2,"Flagler, Adam",1641745,0.002,0.06,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1627936,"Caruso, Alex",Oklahoma City Thunder,1610612760,OKC,made,36,"Wallace, Cason",1641717,0.084,2.19,0.26,0.33,0.59,0.563,0.24,0.31,0.765,0.09,0.28,0.333
+1627936,"Caruso, Alex",Oklahoma City Thunder,1610612760,OKC,made,9,"Dieng, Ousmane",1631172,0.021,0.56,0.04,0.06,0.15,0.375,0.02,0.04,0.5,0.04,0.11,0.333
+1627936,"Caruso, Alex",Oklahoma City Thunder,1610612760,OKC,made,20,"Williams, Jaylin",1631119,0.043,1.13,0.07,0.07,0.19,0.4,0.02,0.06,0.333,0.06,0.13,0.429
+1627936,"Caruso, Alex",Oklahoma City Thunder,1610612760,OKC,made,43,"Williams, Jalen",1631114,0.205,5.37,0.52,0.8,1.94,0.41,0.56,1.37,0.405,0.24,0.57,0.419
+1627936,"Caruso, Alex",Oklahoma City Thunder,1610612760,OKC,made,16,"Holmgren, Chet",1631096,0.031,0.81,0.11,0.15,0.35,0.421,0.15,0.33,0.444,0.0,0.02,0.0
+1627936,"Caruso, Alex",Oklahoma City Thunder,1610612760,OKC,made,37,"Wiggins, Aaron",1630598,0.084,2.2,0.35,0.46,0.98,0.472,0.28,0.54,0.517,0.19,0.44,0.417
+1627936,"Caruso, Alex",Oklahoma City Thunder,1610612760,OKC,made,35,"Joe, Isaiah",1630198,0.073,1.91,0.31,0.31,0.65,0.486,0.06,0.09,0.6,0.26,0.56,0.467
+1627936,"Caruso, Alex",Oklahoma City Thunder,1610612760,OKC,made,33,"Dort, Luguentz",1629652,0.038,1.0,0.2,0.24,0.48,0.5,0.11,0.24,0.462,0.13,0.24,0.538
+1627936,"Caruso, Alex",Oklahoma City Thunder,1610612760,OKC,made,19,"Williams, Kenrich",1629026,0.027,0.7,0.09,0.11,0.2,0.545,0.04,0.06,0.667,0.07,0.15,0.5
+1627936,"Caruso, Alex",Oklahoma City Thunder,1610612760,OKC,made,48,"Gilgeous-Alexander, Shai",1628983,0.239,6.24,0.26,0.81,2.24,0.364,0.63,1.74,0.362,0.19,0.5,0.37
+1627936,"Caruso, Alex",Oklahoma City Thunder,1610612760,OKC,made,30,"Hartenstein, Isaiah",1628392,0.09,2.35,0.13,0.15,0.33,0.444,0.15,0.33,0.444,0.0,0.0,
+1627936,"Caruso, Alex",Oklahoma City Thunder,1610612760,OKC,made,1,"Caruso, Alex",1627936,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,

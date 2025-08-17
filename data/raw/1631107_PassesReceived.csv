@@ -1,0 +1,19 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631107,"Jović, Nikola",Miami Heat,1610612748,MIA,received,24,"Ware, Kel'el",1642276,0.059,1.7,0.13,0.22,0.46,0.476,0.15,0.28,0.538,0.07,0.17,0.375
+1631107,"Jović, Nikola",Miami Heat,1610612748,MIA,received,14,"Larsson, Pelle",1641796,0.023,0.65,0.07,0.11,0.24,0.455,0.04,0.13,0.333,0.07,0.11,0.6
+1631107,"Jović, Nikola",Miami Heat,1610612748,MIA,received,30,"Jaquez Jr., Jaime",1631170,0.105,3.02,0.28,0.37,0.87,0.425,0.2,0.33,0.6,0.17,0.54,0.32
+1631107,"Jović, Nikola",Miami Heat,1610612748,MIA,received,1,"Jović, Nikola",1631107,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631107,"Jović, Nikola",Miami Heat,1610612748,MIA,received,6,"Smith, Dru",1630696,0.013,0.37,0.02,0.02,0.07,0.333,0.02,0.07,0.333,0.0,0.0,
+1631107,"Jović, Nikola",Miami Heat,1610612748,MIA,received,5,"Mitchell, Davion",1630558,0.021,0.61,0.04,0.04,0.11,0.4,0.04,0.04,1.0,0.0,0.07,0.0
+1631107,"Jović, Nikola",Miami Heat,1610612748,MIA,received,2,"Christopher, Josh",1630528,0.002,0.04,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631107,"Jović, Nikola",Miami Heat,1610612748,MIA,received,42,"Herro, Tyler",1629639,0.193,5.57,0.87,0.98,1.98,0.495,0.39,0.72,0.545,0.59,1.26,0.466
+1631107,"Jović, Nikola",Miami Heat,1610612748,MIA,received,20,"Highsmith, Haywood",1629312,0.035,1.02,0.11,0.15,0.3,0.5,0.07,0.13,0.5,0.09,0.17,0.5
+1631107,"Jović, Nikola",Miami Heat,1610612748,MIA,received,32,"Robinson, Duncan",1629130,0.093,2.7,0.33,0.35,0.91,0.381,0.2,0.41,0.474,0.15,0.5,0.304
+1631107,"Jović, Nikola",Miami Heat,1610612748,MIA,received,41,"Adebayo, Bam",1628389,0.129,3.72,0.39,0.46,1.24,0.368,0.26,0.59,0.444,0.2,0.65,0.3
+1631107,"Jović, Nikola",Miami Heat,1610612748,MIA,received,5,"Richardson, Josh",1626196,0.014,0.41,0.02,0.04,0.04,1.0,0.04,0.04,1.0,0.0,0.0,
+1631107,"Jović, Nikola",Miami Heat,1610612748,MIA,received,39,"Rozier, Terry",1626179,0.176,5.09,0.22,0.26,1.09,0.24,0.2,0.7,0.281,0.07,0.39,0.167
+1631107,"Jović, Nikola",Miami Heat,1610612748,MIA,received,3,"Wiggins, Andrew",203952,0.011,0.3,0.02,0.02,0.11,0.2,0.0,0.02,0.0,0.02,0.09,0.25
+1631107,"Jović, Nikola",Miami Heat,1610612748,MIA,received,3,"Anderson, Kyle",203937,0.007,0.2,0.0,0.0,0.07,0.0,0.0,0.04,0.0,0.0,0.02,0.0
+1631107,"Jović, Nikola",Miami Heat,1610612748,MIA,received,15,"Butler III, Jimmy",202710,0.05,1.46,0.3,0.33,0.52,0.625,0.09,0.17,0.5,0.24,0.35,0.688
+1631107,"Jović, Nikola",Miami Heat,1610612748,MIA,received,22,"Burks, Alec",202692,0.062,1.78,0.13,0.17,0.43,0.4,0.13,0.26,0.5,0.04,0.17,0.25
+1631107,"Jović, Nikola",Miami Heat,1610612748,MIA,received,5,"Love, Kevin",201567,0.007,0.2,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0

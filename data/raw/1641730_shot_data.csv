@@ -1,0 +1,134 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022400014,464,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,0,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-232,78,1,1,20241115,NYK,BKN
+Shot Chart Detail,0022400022,143,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,0,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,2,1,1,20241119,BKN,CHA
+Shot Chart Detail,0022400022,163,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,11,24,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,8,1,1,20241119,BKN,CHA
+Shot Chart Detail,0022400027,131,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,1,59,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,8,1,1,20241122,PHI,BKN
+Shot Chart Detail,0022400064,137,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,2,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,188,172,1,1,20241023,ATL,BKN
+Shot Chart Detail,0022400064,410,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,6,12,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241023,ATL,BKN
+Shot Chart Detail,0022400077,488,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,2,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,7,268,1,1,20241025,ORL,BKN
+Shot Chart Detail,0022400077,683,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,1,21,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,9,1,1,20241025,ORL,BKN
+Shot Chart Detail,0022400077,698,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,0,5,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,19,1,1,20241025,ORL,BKN
+Shot Chart Detail,0022400098,135,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,2,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-88,236,1,1,20241027,BKN,MIL
+Shot Chart Detail,0022400098,398,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,5,22,Made Shot,Step Back Bank Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-67,248,1,1,20241027,BKN,MIL
+Shot Chart Detail,0022400098,433,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,2,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,1,1,1,20241027,BKN,MIL
+Shot Chart Detail,0022400098,490,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,10,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,28,1,1,20241027,BKN,MIL
+Shot Chart Detail,0022400124,160,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,1,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,32,268,1,1,20241030,MEM,BKN
+Shot Chart Detail,0022400124,173,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,1,9,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,23,1,1,20241030,MEM,BKN
+Shot Chart Detail,0022400136,153,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,0,1,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20241101,BKN,CHI
+Shot Chart Detail,0022400136,179,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,9,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20241101,BKN,CHI
+Shot Chart Detail,0022400151,113,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,3,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-123,249,1,1,20241103,BKN,DET
+Shot Chart Detail,0022400199,420,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,3,36,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,2,1,1,20241109,CLE,BKN
+Shot Chart Detail,0022400214,90,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,4,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,5,1,1,20241111,NOP,BKN
+Shot Chart Detail,0022400214,105,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,3,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,65,245,1,1,20241111,NOP,BKN
+Shot Chart Detail,0022400214,459,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,0,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-196,172,1,1,20241111,NOP,BKN
+Shot Chart Detail,0022400214,490,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,10,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,41,1,1,20241111,NOP,BKN
+Shot Chart Detail,0022400214,568,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,203,157,1,1,20241111,NOP,BKN
+Shot Chart Detail,0022400218,498,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,10,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,224,55,1,1,20241113,BKN,BOS
+Shot Chart Detail,0022400218,520,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,7,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-50,236,1,1,20241113,BKN,BOS
+Shot Chart Detail,0022400218,626,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,0,25,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,5,1,1,20241113,BKN,BOS
+Shot Chart Detail,0022400240,122,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,2,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,137,220,1,1,20241117,NYK,BKN
+Shot Chart Detail,0022400240,138,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,2,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-12,242,1,1,20241117,NYK,BKN
+Shot Chart Detail,0022400240,211,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,8,56,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20241117,NYK,BKN
+Shot Chart Detail,0022400240,452,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,1,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,10,1,1,20241117,NYK,BKN
+Shot Chart Detail,0022400240,476,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,0,35,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,10,1,1,20241117,NYK,BKN
+Shot Chart Detail,0022400276,139,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,0,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,21,1,1,20241124,SAC,BKN
+Shot Chart Detail,0022400276,159,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,11,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,60,256,1,1,20241124,SAC,BKN
+Shot Chart Detail,0022400276,196,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,8,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,202,1,1,20241124,SAC,BKN
+Shot Chart Detail,0022400276,223,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,7,19,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,25,1,1,20241124,SAC,BKN
+Shot Chart Detail,0022400276,525,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,138,209,1,1,20241124,SAC,BKN
+Shot Chart Detail,0022400364,231,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,7,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,6,1,1,20241219,TOR,BKN
+Shot Chart Detail,0022400364,565,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,9,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,205,142,1,1,20241219,TOR,BKN
+Shot Chart Detail,0022400364,580,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,7,50,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,42,60,1,1,20241219,TOR,BKN
+Shot Chart Detail,0022400379,356,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,9,39,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,15,1,1,20241221,BKN,UTA
+Shot Chart Detail,0022400379,368,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,8,47,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,18,1,1,20241221,BKN,UTA
+Shot Chart Detail,0022400379,590,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,3,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-11,1,1,20241221,BKN,UTA
+Shot Chart Detail,0022400379,600,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,3,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-29,258,1,1,20241221,BKN,UTA
+Shot Chart Detail,0022400396,16,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,10,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,10,1,1,20241223,MIA,BKN
+Shot Chart Detail,0022400396,58,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,5,55,Made Shot,Turnaround Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,26,1,1,20241223,MIA,BKN
+Shot Chart Detail,0022400396,324,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,2,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-43,270,1,1,20241223,MIA,BKN
+Shot Chart Detail,0022400396,339,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,0,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,158,214,1,1,20241223,MIA,BKN
+Shot Chart Detail,0022400396,419,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,6,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-219,124,1,1,20241223,MIA,BKN
+Shot Chart Detail,0022400396,574,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,6,5,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,16,1,1,20241223,MIA,BKN
+Shot Chart Detail,0022400415,7,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,11,49,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,235,117,1,1,20241226,MIL,BKN
+Shot Chart Detail,0022400415,57,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,7,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-88,252,1,1,20241226,MIL,BKN
+Shot Chart Detail,0022400415,79,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,5,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,218,128,1,1,20241226,MIL,BKN
+Shot Chart Detail,0022400415,245,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,5,39,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,5,1,1,20241226,MIL,BKN
+Shot Chart Detail,0022400415,361,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,9,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,10,1,1,20241226,MIL,BKN
+Shot Chart Detail,0022400415,372,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,8,21,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,1,1,1,20241226,MIL,BKN
+Shot Chart Detail,0022400415,596,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,2,33,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,66,279,1,1,20241226,MIL,BKN
+Shot Chart Detail,0022400421,421,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,5,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,17,1,1,20241227,BKN,SAS
+Shot Chart Detail,0022400421,460,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,2,26,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,28,1,1,20241227,BKN,SAS
+Shot Chart Detail,0022400436,193,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,7,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,5,258,1,1,20241229,ORL,BKN
+Shot Chart Detail,0022400436,286,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,2,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,188,179,1,1,20241229,ORL,BKN
+Shot Chart Detail,0022400436,308,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,0,4,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,38,1,1,20241229,ORL,BKN
+Shot Chart Detail,0022400436,327,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,10,47,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20241229,ORL,BKN
+Shot Chart Detail,0022400459,245,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,6,4,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20250101,TOR,BKN
+Shot Chart Detail,0022400459,350,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,11,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-205,167,1,1,20250101,TOR,BKN
+Shot Chart Detail,0022400478,408,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,5,0,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,225,106,1,1,20250104,BKN,PHI
+Shot Chart Detail,0022400495,255,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,3,35,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-132,220,1,1,20250106,BKN,IND
+Shot Chart Detail,0022400495,337,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,9,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,8,1,1,20250106,BKN,IND
+Shot Chart Detail,0022400495,352,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,8,30,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,7,1,1,20250106,BKN,IND
+Shot Chart Detail,0022400495,398,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,5,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,8,1,1,20250106,BKN,IND
+Shot Chart Detail,0022400513,68,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,6,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-147,215,1,1,20250108,BKN,DET
+Shot Chart Detail,0022400513,128,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,2,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,15,1,1,20250108,BKN,DET
+Shot Chart Detail,0022400513,132,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,2,19,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,69,1,1,20250108,BKN,DET
+Shot Chart Detail,0022400513,218,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,8,41,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20250108,BKN,DET
+Shot Chart Detail,0022400513,236,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,7,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,13,1,1,20250108,BKN,DET
+Shot Chart Detail,0022400513,409,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,5,37,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,14,1,1,20250108,BKN,DET
+Shot Chart Detail,0022400513,503,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,11,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-49,252,1,1,20250108,BKN,DET
+Shot Chart Detail,0022400513,527,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,8,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,3,1,1,20250108,BKN,DET
+Shot Chart Detail,0022400513,601,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,4,0,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,44,73,1,1,20250108,BKN,DET
+Shot Chart Detail,0022400531,7,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,11,37,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,45,75,1,1,20250110,DEN,BKN
+Shot Chart Detail,0022400531,66,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,6,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,93,248,1,1,20250110,DEN,BKN
+Shot Chart Detail,0022400531,352,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,2,35,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,1,20250110,DEN,BKN
+Shot Chart Detail,0022400560,9,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,11,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,96,263,1,1,20250114,POR,BKN
+Shot Chart Detail,0022400560,20,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,10,12,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-9,267,1,1,20250114,POR,BKN
+Shot Chart Detail,0022400560,301,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,2,15,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-1,1,1,20250114,POR,BKN
+Shot Chart Detail,0022400560,363,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,9,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-118,269,1,1,20250114,POR,BKN
+Shot Chart Detail,0022400560,373,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,8,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-165,210,1,1,20250114,POR,BKN
+Shot Chart Detail,0022400560,386,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,7,32,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,42,133,1,1,20250114,POR,BKN
+Shot Chart Detail,0022400560,649,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,1,15,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,1,20250114,POR,BKN
+Shot Chart Detail,0022400571,294,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,2,42,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250115,LAC,BKN
+Shot Chart Detail,0022400585,34,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,8,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-156,210,1,1,20250117,LAL,BKN
+Shot Chart Detail,0022400585,543,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,6,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-76,243,1,1,20250117,LAL,BKN
+Shot Chart Detail,0022400585,606,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,0,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,243,61,1,1,20250117,LAL,BKN
+Shot Chart Detail,0022400595,70,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,6,50,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,102,247,1,1,20250119,OKC,BKN
+Shot Chart Detail,0022400595,592,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,4,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,134,222,1,1,20250119,OKC,BKN
+Shot Chart Detail,0022400606,108,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,2,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,0,1,1,20250121,BKN,NYK
+Shot Chart Detail,0022400606,233,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,6,48,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,8,1,1,20250121,BKN,NYK
+Shot Chart Detail,0022400606,302,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,2,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,207,141,1,1,20250121,BKN,NYK
+Shot Chart Detail,0022400606,353,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,10,23,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250121,BKN,NYK
+Shot Chart Detail,0022400613,82,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,4,44,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-173,182,1,1,20250122,BKN,PHX
+Shot Chart Detail,0022400613,377,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,6,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,217,130,1,1,20250122,BKN,PHX
+Shot Chart Detail,0022400636,231,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,6,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,194,152,1,1,20250125,BKN,MIA
+Shot Chart Detail,0022400636,250,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,5,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-26,269,1,1,20250125,BKN,MIA
+Shot Chart Detail,0022400636,321,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,0,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,53,1,1,20250125,BKN,MIA
+Shot Chart Detail,0022400636,638,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,1,58,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,64,66,1,1,20250125,BKN,MIA
+Shot Chart Detail,0022400651,25,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,9,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-9,272,1,1,20250127,BKN,SAC
+Shot Chart Detail,0022400651,262,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,5,9,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,221,7,1,1,20250127,BKN,SAC
+Shot Chart Detail,0022400930,191,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,10,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-163,196,1,1,20250310,BKN,LAL
+Shot Chart Detail,0022400930,222,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,8,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,15,1,1,20250310,BKN,LAL
+Shot Chart Detail,0022400930,473,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,78,251,1,1,20250310,BKN,LAL
+Shot Chart Detail,0022400930,584,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,7,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-56,243,1,1,20250310,BKN,LAL
+Shot Chart Detail,0022400930,687,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,0,9,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,22,1,1,20250310,BKN,LAL
+Shot Chart Detail,0022400940,147,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,11,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-60,245,1,1,20250311,CLE,BKN
+Shot Chart Detail,0022400940,168,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,9,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,239,100,1,1,20250311,CLE,BKN
+Shot Chart Detail,0022400940,488,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,10,18,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,234,89,1,1,20250311,CLE,BKN
+Shot Chart Detail,0022400940,501,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,8,49,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-110,54,1,1,20250311,CLE,BKN
+Shot Chart Detail,0022401011,138,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,1,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-188,184,1,1,20250320,IND,BKN
+Shot Chart Detail,0022401011,284,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,4,46,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20250320,IND,BKN
+Shot Chart Detail,0022401011,460,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,4,7,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-54,133,1,1,20250320,IND,BKN
+Shot Chart Detail,0022401024,183,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,10,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,9,264,1,1,20250322,IND,BKN
+Shot Chart Detail,0022401024,240,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,5,47,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,1,20250322,IND,BKN
+Shot Chart Detail,0022401040,334,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,11,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-103,234,1,1,20250324,BKN,DAL
+Shot Chart Detail,0022401040,399,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,5,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-9,29,1,1,20250324,BKN,DAL
+Shot Chart Detail,0022401054,188,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,11,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,143,205,1,1,20250326,BKN,TOR
+Shot Chart Detail,0022401075,291,1641730,Noah Clowney,1610612751,Brooklyn Nets,2,3,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-50,264,1,1,20250329,WAS,BKN
+Shot Chart Detail,0022401075,537,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,6,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-136,239,1,1,20250329,WAS,BKN
+Shot Chart Detail,0022401075,541,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,5,56,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,20,1,1,20250329,WAS,BKN
+Shot Chart Detail,0022401075,554,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,4,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-113,241,1,1,20250329,WAS,BKN
+Shot Chart Detail,0022401211,144,1641730,Noah Clowney,1610612751,Brooklyn Nets,1,2,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-112,233,1,1,20241213,MEM,BKN
+Shot Chart Detail,0022401211,550,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,1,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,216,1,1,20241213,MEM,BKN
+Shot Chart Detail,0022401211,593,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,10,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-127,227,1,1,20241213,MEM,BKN
+Shot Chart Detail,0022401211,746,1641730,Noah Clowney,1610612751,Brooklyn Nets,4,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,196,172,1,1,20241213,MEM,BKN
+Shot Chart Detail,0022401224,471,1641730,Noah Clowney,1610612751,Brooklyn Nets,3,3,40,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,23,1,1,20241216,BKN,CLE

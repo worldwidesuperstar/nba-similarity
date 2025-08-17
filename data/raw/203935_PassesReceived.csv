@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203935,"Smart, Marcus",Washington Wizards,1610612764,WAS,received,4,"Johnson, AJ",1642358,0.06,0.68,0.09,0.09,0.21,0.429,0.0,0.12,0.0,0.09,0.09,1.0
+203935,"Smart, Marcus",Washington Wizards,1610612764,WAS,received,10,"George, Kyshawn",1642273,0.114,1.29,0.06,0.09,0.26,0.333,0.03,0.06,0.5,0.06,0.21,0.286
+203935,"Smart, Marcus",Washington Wizards,1610612764,WAS,received,12,"Carrington, Bub",1642267,0.171,1.94,0.12,0.18,0.56,0.316,0.06,0.29,0.2,0.12,0.26,0.444
+203935,"Smart, Marcus",Washington Wizards,1610612764,WAS,received,6,"Sarr, Alex",1642259,0.036,0.41,0.03,0.03,0.03,1.0,0.03,0.03,1.0,0.0,0.0,
+203935,"Smart, Marcus",Washington Wizards,1610612764,WAS,received,3,"Martin, Jaylen",1641798,0.031,0.35,0.03,0.03,0.09,0.333,0.03,0.06,0.5,0.0,0.03,0.0
+203935,"Smart, Marcus",Washington Wizards,1610612764,WAS,received,6,"Vukcevic, Tristan",1641774,0.065,0.74,0.0,0.03,0.15,0.2,0.0,0.03,0.0,0.03,0.12,0.25
+203935,"Smart, Marcus",Washington Wizards,1610612764,WAS,received,5,"Jones, Colby",1641732,0.044,0.5,0.0,0.03,0.18,0.167,0.03,0.09,0.333,0.0,0.09,0.0
+203935,"Smart, Marcus",Washington Wizards,1610612764,WAS,received,6,"Coulibaly, Bilal",1641731,0.031,0.35,0.03,0.03,0.09,0.333,0.0,0.03,0.0,0.03,0.06,0.5
+203935,"Smart, Marcus",Washington Wizards,1610612764,WAS,received,9,"Kispert, Corey",1630557,0.143,1.62,0.18,0.26,0.62,0.429,0.18,0.35,0.5,0.09,0.26,0.333
+203935,"Smart, Marcus",Washington Wizards,1610612764,WAS,received,11,"Champagnie, Justin",1630551,0.109,1.24,0.06,0.18,0.29,0.6,0.15,0.26,0.556,0.03,0.03,1.0
+203935,"Smart, Marcus",Washington Wizards,1610612764,WAS,received,3,"Thor, JT",1630550,0.018,0.21,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+203935,"Smart, Marcus",Washington Wizards,1610612764,WAS,received,2,"Gill, Anthony",1630264,0.016,0.18,0.0,0.0,0.09,0.0,0.0,0.03,0.0,0.0,0.06,0.0
+203935,"Smart, Marcus",Washington Wizards,1610612764,WAS,received,3,"Poole, Jordan",1629673,0.013,0.15,0.06,0.06,0.09,0.667,0.0,0.0,,0.06,0.09,0.667
+203935,"Smart, Marcus",Washington Wizards,1610612764,WAS,received,10,"Holmes, Richaun",1626158,0.132,1.5,0.12,0.32,0.56,0.579,0.29,0.44,0.667,0.03,0.12,0.25
+203935,"Smart, Marcus",Washington Wizards,1610612764,WAS,received,5,"Middleton, Khris",203114,0.016,0.18,0.03,0.03,0.03,1.0,0.0,0.0,,0.03,0.03,1.0

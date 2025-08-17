@@ -1,0 +1,14 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630174,"Nesmith, Aaron",Indiana Pacers,1610612754,IND,received,1,"Furphy, Johnny",1642277,0.002,0.04,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1630174,"Nesmith, Aaron",Indiana Pacers,1610612754,IND,received,18,"Sheppard, Ben",1641767,0.031,0.76,0.09,0.11,0.2,0.556,0.09,0.16,0.571,0.02,0.04,0.5
+1630174,"Nesmith, Aaron",Indiana Pacers,1610612754,IND,received,12,"Walker, Jarace",1641716,0.018,0.44,0.07,0.07,0.16,0.429,0.04,0.07,0.667,0.02,0.09,0.25
+1630174,"Nesmith, Aaron",Indiana Pacers,1610612754,IND,received,2,"Jackson, Quenton",1631245,0.006,0.16,0.02,0.02,0.07,0.333,0.0,0.02,0.0,0.02,0.04,0.5
+1630174,"Nesmith, Aaron",Indiana Pacers,1610612754,IND,received,9,"Mathurin, Bennedict",1631097,0.02,0.49,0.07,0.09,0.22,0.4,0.07,0.11,0.6,0.02,0.11,0.2
+1630174,"Nesmith, Aaron",Indiana Pacers,1610612754,IND,received,3,"Jackson, Isaiah",1630543,0.004,0.09,0.02,0.02,0.02,1.0,0.0,0.0,,0.02,0.02,1.0
+1630174,"Nesmith, Aaron",Indiana Pacers,1610612754,IND,received,38,"Haliburton, Tyrese",1630169,0.348,8.53,1.53,1.56,3.02,0.515,0.78,1.31,0.593,0.78,1.71,0.455
+1630174,"Nesmith, Aaron",Indiana Pacers,1610612754,IND,received,28,"Toppin, Obi",1630167,0.058,1.42,0.27,0.29,0.53,0.542,0.2,0.29,0.692,0.09,0.24,0.364
+1630174,"Nesmith, Aaron",Indiana Pacers,1610612754,IND,received,41,"Nembhard, Andrew",1629614,0.164,4.02,0.53,0.6,1.49,0.403,0.31,0.6,0.519,0.29,0.89,0.325
+1630174,"Nesmith, Aaron",Indiana Pacers,1610612754,IND,received,13,"Bryant, Thomas",1628418,0.02,0.49,0.02,0.02,0.2,0.111,0.02,0.13,0.167,0.0,0.07,0.0
+1630174,"Nesmith, Aaron",Indiana Pacers,1610612754,IND,received,40,"Siakam, Pascal",1627783,0.133,3.27,0.53,0.56,1.04,0.532,0.29,0.62,0.464,0.27,0.42,0.632
+1630174,"Nesmith, Aaron",Indiana Pacers,1610612754,IND,received,33,"Turner, Myles",1626167,0.075,1.84,0.16,0.2,0.53,0.375,0.09,0.22,0.4,0.11,0.31,0.357
+1630174,"Nesmith, Aaron",Indiana Pacers,1610612754,IND,received,35,"McConnell, T.J.",204456,0.121,2.96,0.33,0.4,0.82,0.486,0.2,0.44,0.45,0.2,0.38,0.529

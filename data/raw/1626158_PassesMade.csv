@@ -1,0 +1,18 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,made,4,"Johnson, AJ",1642358,0.019,0.32,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,made,14,"George, Kyshawn",1642273,0.087,1.52,0.26,0.32,0.52,0.625,0.13,0.26,0.5,0.19,0.26,0.75
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,made,26,"Carrington, Bub",1642267,0.21,3.65,0.19,0.42,0.87,0.481,0.19,0.42,0.462,0.23,0.45,0.5
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,made,1,"Vukcevic, Tristan",1641774,0.002,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,made,2,"Jones, Colby",1641732,0.007,0.13,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,made,16,"Coulibaly, Bilal",1641731,0.108,1.87,0.1,0.23,0.55,0.412,0.13,0.42,0.308,0.1,0.13,0.75
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,made,3,"Baldwin Jr., Patrick",1631116,0.006,0.1,0.0,0.03,0.03,1.0,0.03,0.03,1.0,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,made,3,"Davis, Johnny",1631098,0.007,0.13,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,made,15,"Kispert, Corey",1630557,0.113,1.97,0.39,0.42,0.61,0.684,0.26,0.32,0.8,0.16,0.29,0.556
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,made,12,"Champagnie, Justin",1630551,0.039,0.68,0.03,0.03,0.1,0.333,0.03,0.06,0.5,0.0,0.03,0.0
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,made,3,"Gill, Anthony",1630264,0.006,0.1,0.0,0.0,0.03,0.0,0.0,0.0,,0.0,0.03,0.0
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,made,8,"Butler, Jared",1630215,0.056,0.97,0.03,0.1,0.16,0.6,0.1,0.16,0.6,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,made,18,"Poole, Jordan",1629673,0.164,2.84,0.06,0.39,0.81,0.48,0.19,0.39,0.5,0.19,0.42,0.462
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,made,3,"Kuzma, Kyle",1628398,0.011,0.19,0.06,0.06,0.13,0.5,0.03,0.1,0.333,0.03,0.03,1.0
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,made,4,"Brogdon, Malcolm",1627763,0.052,0.9,0.03,0.06,0.26,0.25,0.06,0.26,0.25,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,made,10,"Smart, Marcus",203935,0.095,1.65,0.13,0.35,0.61,0.579,0.32,0.48,0.667,0.03,0.13,0.25
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,made,2,"Middleton, Khris",203114,0.019,0.32,0.06,0.06,0.1,0.667,0.06,0.1,0.667,0.0,0.0,

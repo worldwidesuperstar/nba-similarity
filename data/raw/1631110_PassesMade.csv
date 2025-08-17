@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631110,"Sochan, Jeremy",San Antonio Spurs,1610612759,SAS,made,45,"Castle, Stephon",1642264,0.162,4.48,0.26,0.41,1.11,0.367,0.35,0.8,0.442,0.06,0.31,0.176
+1631110,"Sochan, Jeremy",San Antonio Spurs,1610612759,SAS,made,27,"Wembanyama, Victor",1641705,0.087,2.39,0.28,0.31,0.98,0.321,0.2,0.46,0.44,0.11,0.52,0.214
+1631110,"Sochan, Jeremy",San Antonio Spurs,1610612759,SAS,made,15,"Wesley, Blake",1631104,0.027,0.74,0.04,0.06,0.13,0.429,0.04,0.11,0.333,0.02,0.02,1.0
+1631110,"Sochan, Jeremy",San Antonio Spurs,1610612759,SAS,made,5,"Branham, Malaki",1631103,0.009,0.26,0.0,0.02,0.09,0.2,0.02,0.07,0.25,0.0,0.02,0.0
+1631110,"Sochan, Jeremy",San Antonio Spurs,1610612759,SAS,made,43,"Champagnie, Julian",1630577,0.073,2.02,0.19,0.2,0.65,0.314,0.07,0.26,0.286,0.13,0.39,0.333
+1631110,"Sochan, Jeremy",San Antonio Spurs,1610612759,SAS,made,5,"Mamukelashvili, Sandro",1630572,0.006,0.17,0.06,0.06,0.06,1.0,0.0,0.0,,0.06,0.06,1.0
+1631110,"Sochan, Jeremy",San Antonio Spurs,1610612759,SAS,made,9,"Jones, Tre",1630200,0.027,0.76,0.0,0.02,0.06,0.333,0.02,0.06,0.333,0.0,0.0,
+1631110,"Sochan, Jeremy",San Antonio Spurs,1610612759,SAS,made,40,"Vassell, Devin",1630170,0.121,3.35,0.37,0.43,1.17,0.365,0.33,0.76,0.439,0.09,0.41,0.227
+1631110,"Sochan, Jeremy",San Antonio Spurs,1610612759,SAS,made,6,"Bassey, Charles",1629646,0.005,0.13,0.02,0.02,0.04,0.5,0.02,0.04,0.5,0.0,0.0,
+1631110,"Sochan, Jeremy",San Antonio Spurs,1610612759,SAS,made,45,"Johnson, Keldon",1629640,0.099,2.74,0.52,0.59,1.31,0.451,0.43,0.83,0.511,0.17,0.48,0.346
+1631110,"Sochan, Jeremy",San Antonio Spurs,1610612759,SAS,made,13,"Collins, Zach",1628380,0.015,0.41,0.11,0.11,0.19,0.6,0.06,0.07,0.75,0.06,0.11,0.5
+1631110,"Sochan, Jeremy",San Antonio Spurs,1610612759,SAS,made,16,"Fox, De'Aaron",1628368,0.062,1.7,0.09,0.26,0.56,0.467,0.2,0.33,0.611,0.06,0.22,0.25
+1631110,"Sochan, Jeremy",San Antonio Spurs,1610612759,SAS,made,38,"Barnes, Harrison",203084,0.054,1.48,0.13,0.15,0.46,0.32,0.06,0.17,0.333,0.09,0.3,0.313
+1631110,"Sochan, Jeremy",San Antonio Spurs,1610612759,SAS,made,2,"Biyombo, Bismack",202687,0.002,0.06,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+1631110,"Sochan, Jeremy",San Antonio Spurs,1610612759,SAS,made,51,"Paul, Chris",101108,0.251,6.93,0.31,0.5,1.11,0.45,0.15,0.39,0.381,0.35,0.72,0.487

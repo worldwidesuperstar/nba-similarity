@@ -1,0 +1,22 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,23,"Prosper, Olivier-Maxence",1641765,0.03,1.6,0.08,0.24,0.62,0.387,0.2,0.44,0.455,0.04,0.18,0.222
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,25,"Lively II, Dereck",1641726,0.07,3.78,0.3,0.54,1.14,0.474,0.34,0.8,0.425,0.2,0.34,0.588
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,10,"Christie, Max",1631108,0.036,1.92,0.14,0.34,0.74,0.459,0.2,0.48,0.417,0.14,0.26,0.538
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,20,"Hardy, Jaden",1630702,0.019,1.02,0.12,0.22,0.4,0.55,0.18,0.32,0.563,0.04,0.08,0.5
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,15,"Edwards, Kessler",1630556,0.032,1.7,0.1,0.28,0.66,0.424,0.26,0.4,0.65,0.02,0.26,0.077
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,1,"Jones, Kai",1630539,0.001,0.04,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,2,"Williams, Brandon",1630314,0.001,0.04,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,2,"Kelley, Kylor",1630283,0.001,0.06,0.0,0.02,0.02,1.0,0.02,0.02,1.0,0.0,0.0,
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,40,"Marshall, Naji",1630230,0.115,6.2,0.46,1.12,2.36,0.475,0.7,1.36,0.515,0.42,1.0,0.42
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,33,"Grimes, Quentin",1629656,0.066,3.56,0.16,0.46,1.14,0.404,0.26,0.66,0.394,0.2,0.48,0.417
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,42,"Gafford, Daniel",1629655,0.111,5.98,0.42,0.94,2.0,0.47,0.82,1.6,0.513,0.12,0.4,0.3
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,2,"Brown, Moses",1629650,0.004,0.24,0.0,0.04,0.06,0.667,0.04,0.04,1.0,0.0,0.02,0.0
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,20,"Dončić, Luka",1629029,0.084,4.54,0.44,0.86,1.74,0.494,0.56,1.16,0.483,0.3,0.58,0.517
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,38,"Washington, P.J.",1629023,0.151,8.12,0.3,0.92,2.14,0.43,0.6,1.32,0.455,0.32,0.82,0.39
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,24,"Kleber, Maxi",1628467,0.046,2.48,0.22,0.32,0.78,0.41,0.2,0.44,0.455,0.12,0.34,0.353
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,10,"Exum, Danté",203957,0.031,1.66,0.1,0.24,0.74,0.324,0.16,0.5,0.32,0.08,0.24,0.333
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,15,"Powell, Dwight",203939,0.02,1.06,0.08,0.16,0.5,0.32,0.1,0.24,0.417,0.06,0.26,0.231
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,45,"Dinwiddie, Spencer",203915,0.116,6.24,0.56,1.1,2.86,0.385,0.6,1.46,0.411,0.5,1.4,0.357
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,1,"Davis, Anthony",203076,0.006,0.3,0.0,0.02,0.08,0.25,0.02,0.06,0.333,0.0,0.02,0.0
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,2,"Morris, Markieff",202693,0.001,0.08,0.0,0.0,0.02,0.0,0.0,0.02,0.0,0.0,0.0,
+202681,"Irving, Kyrie",Dallas Mavericks,1610612742,DAL,received,44,"Thompson, Klay",202691,0.059,3.18,0.28,0.56,1.06,0.528,0.3,0.66,0.455,0.26,0.4,0.65

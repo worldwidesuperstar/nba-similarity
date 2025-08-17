@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,made,2,"Johnson, AJ",1642358,0.005,0.17,0.0,0.0,0.08,0.0,0.0,0.0,,0.0,0.08,0.0
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,made,17,"George, Kyshawn",1642273,0.079,2.88,0.17,0.17,0.63,0.267,0.13,0.17,0.75,0.04,0.46,0.091
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,made,23,"Carrington, Bub",1642267,0.131,4.75,0.38,0.63,1.42,0.441,0.33,0.75,0.444,0.29,0.67,0.438
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,made,17,"Sarr, Alex",1642259,0.126,4.58,0.54,0.63,1.46,0.429,0.25,0.58,0.429,0.38,0.88,0.429
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,made,4,"Vukcevic, Tristan",1641774,0.014,0.5,0.04,0.08,0.17,0.5,0.04,0.08,0.5,0.04,0.08,0.5
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,made,17,"Coulibaly, Bilal",1641731,0.11,4.0,0.21,0.29,1.13,0.259,0.17,0.63,0.267,0.13,0.5,0.25
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,made,23,"Kispert, Corey",1630557,0.141,5.13,1.13,1.17,2.25,0.519,0.71,0.96,0.739,0.46,1.29,0.355
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,made,12,"Champagnie, Justin",1630551,0.038,1.38,0.38,0.38,0.75,0.5,0.08,0.33,0.25,0.29,0.42,0.7
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,made,2,"Gill, Anthony",1630264,0.002,0.08,0.0,0.0,0.04,0.0,0.0,0.0,,0.0,0.04,0.0
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,made,2,"Butler, Jared",1630215,0.007,0.25,0.04,0.04,0.08,0.5,0.04,0.08,0.5,0.0,0.0,
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,made,19,"Poole, Jordan",1629673,0.111,4.04,0.17,0.5,1.5,0.333,0.25,0.63,0.4,0.25,0.88,0.286
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,made,4,"Bagley III, Marvin",1628963,0.008,0.29,0.04,0.04,0.08,0.5,0.04,0.08,0.5,0.0,0.0,
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,made,12,"Kuzma, Kyle",1628398,0.068,2.46,0.25,0.42,1.25,0.333,0.25,0.71,0.353,0.17,0.54,0.308
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,made,5,"Holmes, Richaun",1626158,0.016,0.58,0.0,0.0,0.04,0.0,0.0,0.04,0.0,0.0,0.0,
+1627763,"Brogdon, Malcolm",Washington Wizards,1610612764,WAS,made,20,"Valančiūnas, Jonas",202685,0.144,5.21,0.75,0.88,1.71,0.512,0.83,1.63,0.513,0.04,0.08,0.5

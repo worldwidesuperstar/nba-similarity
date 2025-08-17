@@ -4,13 +4,26 @@ aim: quantify the always-vague "basketball IQ" term using NBA statistical data a
 
 ## Scope
 
-All data is retrieved from the top 200 players by PPG according to the nba-api LeagueLeaders endpoint.
+All data is retrieved from the top 300 players by PPG according to the nba-api LeagueLeaders endpoint.
 
-Limitations/Assumptions:
+## Limitations/Assumptions:
 
-2024-25 regular season data
-55 games played minimum
-If given the choice, data always standardized to per 36 minutes
+-   2024-25 regular season data
+-   55 games played minimum
+-   If given the choice, data always standardized to per 36 minutes
+
+## Endpoints
+
+nba-api was used for all data collection/exploration. Endpoints used include:
+
+-   leagueleaders
+-   playerdashboardbygeneralsplits
+-   shotchartdetail
+-   playerdashptshots,
+-   leaguehustlestatsplayer
+-   leaguedashplayerclutch
+-   playerdashptpass
+-   assisttracker
 
 ## Statpoint Reasoning
 
@@ -30,6 +43,8 @@ For my study, I wanted to quantify basketball IQ according to "soft skills" that
 
 6. **Screen Assists per 36** - Indicates ability to run plays and strong teammate awareness.
 
+Percentiles based on position.
+
 7. **Quick Decision Efficiency** - Evaluates efficiency on shots taken very briefly after reciving the ball, indicating quick decision-making.
 
 8. **Loose Balls Recovered per 36** - Shows anticipation, positioning awareness, and effort on 50/50 plays.
@@ -38,22 +53,13 @@ For my study, I wanted to quantify basketball IQ according to "soft skills" that
 
 10. **Box Out Success Rate** - Shows smart positioning and situational awareness.
 
-11. **Charges Drawn per 36** - Shows ability to read plays and have good positioning.
+Percentiles based on position.
+
+~~11. **Charges Drawn per 36** - Shows ability to read plays and have good positioning.~~
+
+Deprecated due to poor data distribution.
 
 12. **Smart Shot Selection** - Shows a player's understanding of what shots they are best/most efficient at.
-
-## Endpoints
-
-nba-api was used for all data collection/exploration. Endpoints used include:
-
--   leagueleaders
--   playerdashboardbygeneralsplits
--   shotchartdetail
--   playerdashptshots,
--   leaguehustlestatsplayer
--   leaguedashplayerclutch
--   playerdashptpass
--   assisttracker
 
 ## Overall IQ Metric
 

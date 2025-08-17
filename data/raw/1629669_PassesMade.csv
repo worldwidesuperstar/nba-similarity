@@ -1,0 +1,13 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,made,4,"Missi, Yves",1642274,0.032,0.88,0.13,0.13,0.25,0.5,0.13,0.25,0.5,0.0,0.0,
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,made,8,"Jemison III, Trey",1641998,0.149,4.13,0.25,0.25,0.75,0.333,0.25,0.75,0.333,0.0,0.0,
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,made,3,"Reeves, Antonio",1641810,0.059,1.63,0.25,0.38,0.63,0.6,0.13,0.25,0.5,0.25,0.38,0.667
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,made,4,"Cain, Jamal",1631288,0.054,1.5,0.25,0.25,0.5,0.5,0.13,0.25,0.5,0.13,0.25,0.5
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,made,1,"Matković, Karlo",1631255,0.009,0.25,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,made,1,"Alvarado, Jose",1630631,0.018,0.5,0.0,0.0,0.13,0.0,0.0,0.13,0.0,0.0,0.0,
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,made,3,"Murphy III, Trey",1630530,0.099,2.75,0.25,0.38,1.0,0.375,0.25,0.5,0.5,0.13,0.5,0.25
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,made,7,"Boston, Brandon",1630527,0.189,5.25,0.13,0.25,0.88,0.286,0.13,0.5,0.25,0.13,0.38,0.333
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,made,6,"Robinson-Earl, Jeremiah",1630526,0.113,3.13,0.38,0.5,1.38,0.364,0.5,0.88,0.571,0.0,0.5,0.0
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,made,7,"Green, Javonte",1629750,0.059,1.63,0.13,0.13,0.38,0.333,0.0,0.25,0.0,0.13,0.13,1.0
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,made,3,"Theis, Daniel",1628464,0.041,1.13,0.25,0.25,0.25,1.0,0.25,0.25,1.0,0.0,0.0,
+1629669,"Nowell, Jaylen",New Orleans Pelicans,1610612740,NOP,made,7,"Ingram, Brandon",1627742,0.18,5.0,0.25,0.63,1.88,0.333,0.63,1.5,0.417,0.0,0.38,0.0

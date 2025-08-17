@@ -1,0 +1,14 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631342,"Plowden, Daeqwon",Atlanta Hawks,1610612737,ATL,made,1,"Gueye, Mouhamed",1631243,0.015,0.17,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631342,"Plowden, Daeqwon",Atlanta Hawks,1610612737,ATL,made,1,"Barlow, Dominick",1631230,0.046,0.5,0.17,0.33,0.5,0.667,0.33,0.5,0.667,0.0,0.0,
+1631342,"Plowden, Daeqwon",Atlanta Hawks,1610612737,ATL,made,1,"Roddy, David",1631223,0.046,0.5,0.0,0.0,0.17,0.0,0.0,0.17,0.0,0.0,0.0,
+1631342,"Plowden, Daeqwon",Atlanta Hawks,1610612737,ATL,made,1,"Toppin, Jacob",1631210,0.031,0.33,0.17,0.17,0.33,0.5,0.0,0.0,,0.17,0.33,0.5
+1631342,"Plowden, Daeqwon",Atlanta Hawks,1610612737,ATL,made,4,"Wallace, Keaton",1630811,0.4,4.33,0.0,0.17,1.5,0.111,0.17,1.17,0.143,0.0,0.33,0.0
+1631342,"Plowden, Daeqwon",Atlanta Hawks,1610612737,ATL,made,1,"Daniels, Dyson",1630700,0.031,0.33,0.0,0.0,0.17,0.0,0.0,0.17,0.0,0.0,0.0,
+1631342,"Plowden, Daeqwon",Atlanta Hawks,1610612737,ATL,made,2,"Krejčí, Vít",1630249,0.154,1.67,0.0,0.17,0.17,1.0,0.17,0.17,1.0,0.0,0.0,
+1631342,"Plowden, Daeqwon",Atlanta Hawks,1610612737,ATL,made,1,"Okongwu, Onyeka",1630168,0.046,0.5,0.0,0.0,0.17,0.0,0.0,0.17,0.0,0.0,0.0,
+1631342,"Plowden, Daeqwon",Atlanta Hawks,1610612737,ATL,made,2,"Mathews, Garrison",1629726,0.092,1.0,0.0,0.0,0.17,0.0,0.0,0.0,,0.0,0.17,0.0
+1631342,"Plowden, Daeqwon",Atlanta Hawks,1610612737,ATL,made,1,"Mann, Terance",1629611,0.015,0.17,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631342,"Plowden, Daeqwon",Atlanta Hawks,1610612737,ATL,made,1,"Young, Trae",1629027,0.077,0.83,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631342,"Plowden, Daeqwon",Atlanta Hawks,1610612737,ATL,made,1,"Bogdanović, Bogdan",203992,0.031,0.33,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631342,"Plowden, Daeqwon",Atlanta Hawks,1610612737,ATL,made,1,"Capela, Clint",203991,0.015,0.17,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,

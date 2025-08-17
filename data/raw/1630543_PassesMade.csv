@@ -1,0 +1,10 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630543,"Jackson, Isaiah",Indiana Pacers,1610612754,IND,made,3,"Sheppard, Ben",1641767,0.095,1.6,0.0,0.2,0.2,1.0,0.2,0.2,1.0,0.0,0.0,
+1630543,"Jackson, Isaiah",Indiana Pacers,1610612754,IND,made,1,"Walker, Jarace",1641716,0.024,0.4,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1630543,"Jackson, Isaiah",Indiana Pacers,1610612754,IND,made,4,"Mathurin, Bennedict",1631097,0.143,2.4,0.0,0.2,0.8,0.25,0.2,0.4,0.5,0.0,0.4,0.0
+1630543,"Jackson, Isaiah",Indiana Pacers,1610612754,IND,made,3,"Nesmith, Aaron",1630174,0.048,0.8,0.2,0.2,0.2,1.0,0.0,0.0,,0.2,0.2,1.0
+1630543,"Jackson, Isaiah",Indiana Pacers,1610612754,IND,made,3,"Haliburton, Tyrese",1630169,0.214,3.6,0.0,0.0,0.6,0.0,0.0,0.2,0.0,0.0,0.4,0.0
+1630543,"Jackson, Isaiah",Indiana Pacers,1610612754,IND,made,2,"Toppin, Obi",1630167,0.107,1.8,0.6,0.6,1.0,0.6,0.4,0.8,0.5,0.2,0.2,1.0
+1630543,"Jackson, Isaiah",Indiana Pacers,1610612754,IND,made,2,"Nembhard, Andrew",1629614,0.083,1.4,0.2,0.2,0.4,0.5,0.2,0.4,0.5,0.0,0.0,
+1630543,"Jackson, Isaiah",Indiana Pacers,1610612754,IND,made,2,"Siakam, Pascal",1627783,0.024,0.4,0.0,0.0,0.2,0.0,0.0,0.2,0.0,0.0,0.0,
+1630543,"Jackson, Isaiah",Indiana Pacers,1610612754,IND,made,5,"McConnell, T.J.",204456,0.262,4.4,0.0,0.2,0.6,0.333,0.2,0.6,0.333,0.0,0.0,

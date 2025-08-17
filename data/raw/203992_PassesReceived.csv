@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,received,4,"Miller, Jordan",1641757,0.011,0.19,0.0,0.04,0.07,0.5,0.04,0.07,0.5,0.0,0.0,
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,received,6,"Brown, Kobe",1641738,0.02,0.35,0.0,0.0,0.06,0.0,0.0,0.04,0.0,0.0,0.02,0.0
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,received,1,"Beauchamp, MarJon",1630699,0.001,0.02,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,received,18,"Coffey, Amir",1629599,0.063,1.09,0.09,0.09,0.28,0.333,0.04,0.11,0.333,0.06,0.17,0.333
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,received,10,"Eubanks, Drew",1629234,0.026,0.44,0.07,0.13,0.13,1.0,0.06,0.06,1.0,0.07,0.07,1.0
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,received,22,"Jones Jr., Derrick",1627884,0.077,1.33,0.02,0.06,0.2,0.273,0.02,0.04,0.5,0.04,0.17,0.222
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,received,27,"Zubac, Ivica",1627826,0.113,1.94,0.15,0.26,0.52,0.5,0.13,0.24,0.538,0.13,0.28,0.467
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,received,17,"Dunn, Kris",1627739,0.081,1.39,0.11,0.15,0.41,0.364,0.04,0.11,0.333,0.11,0.3,0.375
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,received,18,"Simmons, Ben",1627732,0.18,3.09,0.2,0.39,1.04,0.375,0.24,0.63,0.382,0.15,0.41,0.364
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,received,8,"Powell, Norman",1626181,0.022,0.37,0.04,0.07,0.09,0.8,0.06,0.07,0.75,0.02,0.02,1.0
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,received,21,"Leonard, Kawhi",202695,0.083,1.43,0.13,0.2,0.33,0.611,0.09,0.17,0.556,0.11,0.17,0.667
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,received,2,"Mills, Patty",201988,0.006,0.11,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,received,30,"Harden, James",201935,0.226,3.89,0.41,0.59,1.28,0.464,0.3,0.54,0.552,0.3,0.74,0.4
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,received,25,"Batum, Nicolas",201587,0.091,1.57,0.15,0.2,0.43,0.478,0.09,0.2,0.455,0.11,0.22,0.5

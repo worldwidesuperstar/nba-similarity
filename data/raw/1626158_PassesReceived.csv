@@ -1,0 +1,18 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,received,5,"Johnson, AJ",1642358,0.02,0.29,0.0,0.0,0.06,0.0,0.0,0.06,0.0,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,received,15,"George, Kyshawn",1642273,0.096,1.42,0.29,0.32,0.45,0.714,0.32,0.45,0.714,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,received,26,"Carrington, Bub",1642267,0.243,3.58,0.42,0.45,0.77,0.583,0.45,0.77,0.583,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,received,1,"Vukcevic, Tristan",1641774,0.002,0.03,0.03,0.03,0.03,1.0,0.03,0.03,1.0,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,received,1,"Jones, Colby",1641732,0.004,0.06,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,received,17,"Coulibaly, Bilal",1641731,0.096,1.42,0.16,0.19,0.32,0.6,0.19,0.32,0.6,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,received,2,"Baldwin Jr., Patrick",1631116,0.007,0.1,0.0,0.0,0.06,0.0,0.0,0.03,0.0,0.0,0.03,0.0
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,received,3,"Davis, Johnny",1631098,0.013,0.19,0.0,0.0,0.06,0.0,0.0,0.06,0.0,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,received,16,"Kispert, Corey",1630557,0.103,1.52,0.16,0.16,0.42,0.385,0.16,0.42,0.385,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,received,15,"Champagnie, Justin",1630551,0.055,0.81,0.1,0.1,0.16,0.6,0.1,0.16,0.6,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,received,1,"Gill, Anthony",1630264,0.002,0.03,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,received,6,"Butler, Jared",1630215,0.061,0.9,0.16,0.19,0.29,0.667,0.19,0.29,0.667,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,received,18,"Poole, Jordan",1629673,0.169,2.48,0.29,0.35,0.65,0.55,0.35,0.61,0.579,0.0,0.03,0.0
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,received,2,"Kuzma, Kyle",1628398,0.004,0.06,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,received,5,"Brogdon, Malcolm",1627763,0.031,0.45,0.0,0.0,0.03,0.0,0.0,0.03,0.0,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,received,8,"Smart, Marcus",203935,0.072,1.06,0.13,0.16,0.23,0.714,0.16,0.23,0.714,0.0,0.0,
+1626158,"Holmes, Richaun",Washington Wizards,1610612764,WAS,received,2,"Middleton, Khris",203114,0.02,0.29,0.1,0.1,0.16,0.6,0.1,0.16,0.6,0.0,0.0,

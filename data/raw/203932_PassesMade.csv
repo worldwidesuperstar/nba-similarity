@@ -1,0 +1,14 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,made,1,"Jones, Spencer",1642461,0.001,0.04,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,made,3,"Tyson, Hunter",1641816,0.004,0.12,0.06,0.06,0.1,0.6,0.02,0.04,0.5,0.04,0.06,0.667
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,made,19,"Watson, Peyton",1631212,0.031,0.88,0.14,0.16,0.35,0.444,0.14,0.29,0.467,0.02,0.06,0.333
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,made,40,"Braun, Christian",1631128,0.102,2.86,0.51,0.51,1.02,0.5,0.37,0.67,0.559,0.14,0.35,0.389
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,made,22,"Strawther, Julian",1631124,0.042,1.18,0.22,0.24,0.57,0.414,0.1,0.24,0.417,0.14,0.33,0.412
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,made,3,"Nnaji, Zeke",1630192,0.003,0.1,0.04,0.04,0.08,0.5,0.04,0.06,0.667,0.0,0.02,0.0
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,made,11,"Pickett, Jalen",1629618,0.02,0.55,0.04,0.06,0.16,0.375,0.02,0.04,0.5,0.04,0.12,0.333
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,made,44,"Porter Jr., Michael",1629008,0.147,4.14,0.71,0.73,1.67,0.435,0.47,0.82,0.571,0.25,0.84,0.302
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,made,2,"Čančar, Vlatko",1628427,0.001,0.04,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,made,39,"Murray, Jamal",1627750,0.191,5.35,0.41,0.67,1.49,0.447,0.51,0.94,0.542,0.16,0.55,0.286
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,made,47,"Jokić, Nikola",203999,0.319,8.96,0.78,1.04,1.94,0.535,0.73,1.25,0.578,0.31,0.69,0.457
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,made,11,"Jordan, DeAndre",201599,0.024,0.67,0.14,0.16,0.24,0.667,0.16,0.24,0.667,0.0,0.0,
+203932,"Gordon, Aaron",Denver Nuggets,1610612743,DEN,made,39,"Westbrook, Russell",201566,0.113,3.18,0.18,0.27,0.76,0.359,0.22,0.45,0.478,0.06,0.31,0.188

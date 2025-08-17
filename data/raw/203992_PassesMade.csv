@@ -1,0 +1,15 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,made,2,"Miller, Jordan",1641757,0.005,0.09,0.0,0.04,0.04,1.0,0.04,0.04,1.0,0.0,0.0,
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,made,8,"Brown, Kobe",1641738,0.022,0.37,0.02,0.02,0.11,0.167,0.0,0.0,,0.02,0.11,0.167
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,made,1,"Beauchamp, MarJon",1630699,0.001,0.02,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,made,18,"Coffey, Amir",1629599,0.057,0.96,0.09,0.17,0.44,0.375,0.09,0.13,0.714,0.07,0.31,0.235
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,made,10,"Eubanks, Drew",1629234,0.026,0.44,0.09,0.11,0.2,0.545,0.11,0.2,0.545,0.0,0.0,
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,made,22,"Jones Jr., Derrick",1627884,0.075,1.28,0.2,0.2,0.5,0.407,0.09,0.22,0.417,0.11,0.28,0.4
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,made,27,"Zubac, Ivica",1627826,0.118,2.0,0.41,0.54,0.76,0.707,0.54,0.76,0.707,0.0,0.0,
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,made,17,"Dunn, Kris",1627739,0.077,1.31,0.15,0.15,0.26,0.571,0.07,0.09,0.8,0.07,0.17,0.444
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,made,18,"Simmons, Ben",1627732,0.127,2.17,0.17,0.17,0.37,0.45,0.17,0.37,0.45,0.0,0.0,
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,made,13,"Powell, Norman",1626181,0.045,0.76,0.09,0.19,0.37,0.5,0.13,0.26,0.5,0.06,0.11,0.5
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,made,23,"Leonard, Kawhi",202695,0.125,2.13,0.22,0.43,1.02,0.418,0.3,0.69,0.432,0.13,0.33,0.389
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,made,2,"Mills, Patty",201988,0.007,0.11,0.06,0.06,0.07,0.75,0.0,0.0,,0.06,0.07,0.75
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,made,30,"Harden, James",201935,0.251,4.28,0.11,0.41,1.11,0.367,0.2,0.57,0.355,0.2,0.54,0.379
+203992,"Bogdanović, Bogdan",LA Clippers,1610612746,LAC,made,20,"Batum, Nicolas",201587,0.064,1.09,0.19,0.19,0.31,0.588,0.0,0.0,,0.19,0.31,0.588

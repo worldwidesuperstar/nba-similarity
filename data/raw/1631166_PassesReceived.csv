@@ -1,0 +1,13 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631166,"Timme, Drew",Brooklyn Nets,1610612751,BKN,received,7,"Evbuomwan, Tosan",1641787,0.089,3.22,0.33,0.44,1.11,0.4,0.33,0.78,0.429,0.11,0.33,0.333
+1631166,"Timme, Drew",Brooklyn Nets,1610612751,BKN,received,5,"Beekman, Reece",1641736,0.12,4.33,0.11,0.22,1.11,0.2,0.22,0.56,0.4,0.0,0.56,0.0
+1631166,"Timme, Drew",Brooklyn Nets,1610612751,BKN,received,8,"Whitehead, Dariq",1641727,0.055,2.0,0.11,0.22,0.33,0.667,0.22,0.33,0.667,0.0,0.0,
+1631166,"Timme, Drew",Brooklyn Nets,1610612751,BKN,received,5,"Lewis, Maxwell",1641721,0.046,1.67,0.11,0.11,0.33,0.333,0.11,0.22,0.5,0.0,0.11,0.0
+1631166,"Timme, Drew",Brooklyn Nets,1610612751,BKN,received,6,"Martin, Tyrese",1631213,0.107,3.89,0.44,0.44,1.11,0.4,0.22,0.44,0.5,0.22,0.67,0.333
+1631166,"Timme, Drew",Brooklyn Nets,1610612751,BKN,received,7,"Etienne, Tyson",1630623,0.153,5.56,0.33,0.33,1.22,0.273,0.11,0.56,0.2,0.22,0.67,0.333
+1631166,"Timme, Drew",Brooklyn Nets,1610612751,BKN,received,5,"Wilson, Jalen",1630592,0.11,4.0,0.67,0.78,1.22,0.636,0.67,0.89,0.75,0.11,0.33,0.333
+1631166,"Timme, Drew",Brooklyn Nets,1610612751,BKN,received,9,"Watford, Trendon",1630570,0.141,5.11,0.56,0.67,1.56,0.429,0.44,1.0,0.444,0.22,0.56,0.4
+1631166,"Timme, Drew",Brooklyn Nets,1610612751,BKN,received,5,"Johnson, Keon",1630553,0.113,4.11,0.78,0.78,1.78,0.438,0.78,1.33,0.583,0.0,0.44,0.0
+1631166,"Timme, Drew",Brooklyn Nets,1610612751,BKN,received,3,"Williams, Ziaire",1630533,0.015,0.56,0.0,0.11,0.22,0.5,0.11,0.22,0.5,0.0,0.0,
+1631166,"Timme, Drew",Brooklyn Nets,1610612751,BKN,received,1,"Johnson, Cameron",1629661,0.009,0.33,0.0,0.0,0.11,0.0,0.0,0.11,0.0,0.0,0.0,
+1631166,"Timme, Drew",Brooklyn Nets,1610612751,BKN,received,2,"Russell, D'Angelo",1626156,0.04,1.44,0.33,0.33,0.67,0.5,0.22,0.44,0.5,0.11,0.22,0.5

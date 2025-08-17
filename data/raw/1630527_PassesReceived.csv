@@ -1,0 +1,19 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1630527,"Boston, Brandon",New Orleans Pelicans,1610612740,NOP,received,25,"Missi, Yves",1642274,0.062,1.98,0.02,0.07,0.38,0.188,0.05,0.19,0.25,0.02,0.19,0.125
+1630527,"Boston, Brandon",New Orleans Pelicans,1610612740,NOP,received,11,"Jemison III, Trey",1641998,0.031,0.98,0.0,0.02,0.19,0.125,0.02,0.14,0.167,0.0,0.05,0.0
+1630527,"Boston, Brandon",New Orleans Pelicans,1610612740,NOP,received,9,"Reeves, Antonio",1641810,0.025,0.81,0.05,0.12,0.24,0.5,0.12,0.19,0.625,0.0,0.05,0.0
+1630527,"Boston, Brandon",New Orleans Pelicans,1610612740,NOP,received,20,"Hawkins, Jordan",1641722,0.049,1.55,0.07,0.21,0.43,0.5,0.14,0.26,0.545,0.07,0.17,0.429
+1630527,"Boston, Brandon",New Orleans Pelicans,1610612740,NOP,received,11,"Cain, Jamal",1631288,0.028,0.88,0.02,0.07,0.17,0.429,0.07,0.17,0.429,0.0,0.0,
+1630527,"Boston, Brandon",New Orleans Pelicans,1610612740,NOP,received,4,"Matković, Karlo",1631255,0.009,0.29,0.0,0.02,0.07,0.333,0.02,0.05,0.5,0.0,0.02,0.0
+1630527,"Boston, Brandon",New Orleans Pelicans,1610612740,NOP,received,18,"Alvarado, Jose",1630631,0.071,2.26,0.24,0.38,0.83,0.457,0.31,0.64,0.481,0.07,0.19,0.375
+1630527,"Boston, Brandon",New Orleans Pelicans,1610612740,NOP,received,24,"Murphy III, Trey",1630530,0.076,2.43,0.19,0.26,0.69,0.379,0.21,0.4,0.529,0.05,0.29,0.167
+1630527,"Boston, Brandon",New Orleans Pelicans,1610612740,NOP,received,12,"Jones, Herbert",1630529,0.036,1.14,0.1,0.14,0.33,0.429,0.12,0.24,0.5,0.02,0.1,0.25
+1630527,"Boston, Brandon",New Orleans Pelicans,1610612740,NOP,received,25,"Robinson-Earl, Jeremiah",1630526,0.121,3.86,0.19,0.36,0.83,0.429,0.19,0.52,0.364,0.17,0.31,0.538
+1630527,"Boston, Brandon",New Orleans Pelicans,1610612740,NOP,received,30,"Green, Javonte",1629750,0.137,4.36,0.1,0.24,0.81,0.294,0.21,0.6,0.36,0.02,0.21,0.111
+1630527,"Boston, Brandon",New Orleans Pelicans,1610612740,NOP,received,7,"Nowell, Jaylen",1629669,0.031,1.0,0.02,0.05,0.17,0.286,0.02,0.1,0.25,0.02,0.07,0.333
+1630527,"Boston, Brandon",New Orleans Pelicans,1610612740,NOP,received,7,"Williamson, Zion",1629627,0.025,0.81,0.14,0.14,0.33,0.429,0.0,0.12,0.0,0.14,0.21,0.667
+1630527,"Boston, Brandon",New Orleans Pelicans,1610612740,NOP,received,22,"Theis, Daniel",1628464,0.058,1.83,0.12,0.24,0.57,0.417,0.19,0.48,0.4,0.05,0.1,0.5
+1630527,"Boston, Brandon",New Orleans Pelicans,1610612740,NOP,received,23,"Murray, Dejounte",1627749,0.075,2.38,0.38,0.43,1.02,0.419,0.29,0.64,0.444,0.14,0.38,0.375
+1630527,"Boston, Brandon",New Orleans Pelicans,1610612740,NOP,received,14,"Ingram, Brandon",1627742,0.093,2.95,0.43,0.48,1.0,0.476,0.26,0.52,0.5,0.21,0.48,0.45
+1630527,"Boston, Brandon",New Orleans Pelicans,1610612740,NOP,received,7,"Payton, Elfrid",203901,0.027,0.86,0.1,0.1,0.33,0.286,0.02,0.12,0.2,0.07,0.21,0.333
+1630527,"Boston, Brandon",New Orleans Pelicans,1610612740,NOP,received,21,"McCollum, CJ",203468,0.048,1.52,0.24,0.29,0.67,0.429,0.19,0.4,0.471,0.1,0.26,0.364

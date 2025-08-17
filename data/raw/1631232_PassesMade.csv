@@ -1,0 +1,14 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631232,"Brooks Jr., Keion",New Orleans Pelicans,1610612740,NOP,made,5,"Missi, Yves",1642274,0.04,0.86,0.07,0.07,0.07,1.0,0.07,0.07,1.0,0.0,0.0,
+1631232,"Brooks Jr., Keion",New Orleans Pelicans,1610612740,NOP,made,8,"Reeves, Antonio",1641810,0.077,1.64,0.29,0.29,0.71,0.4,0.29,0.57,0.5,0.0,0.14,0.0
+1631232,"Brooks Jr., Keion",New Orleans Pelicans,1610612740,NOP,made,3,"Hawkins, Jordan",1641722,0.023,0.5,0.0,0.07,0.14,0.5,0.0,0.0,,0.07,0.14,0.5
+1631232,"Brooks Jr., Keion",New Orleans Pelicans,1610612740,NOP,made,5,"Quinones, Lester",1631311,0.083,1.79,0.07,0.14,0.29,0.5,0.07,0.21,0.333,0.07,0.07,1.0
+1631232,"Brooks Jr., Keion",New Orleans Pelicans,1610612740,NOP,made,6,"Cain, Jamal",1631288,0.027,0.57,0.0,0.0,0.14,0.0,0.0,0.07,0.0,0.0,0.07,0.0
+1631232,"Brooks Jr., Keion",New Orleans Pelicans,1610612740,NOP,made,7,"Matković, Karlo",1631255,0.05,1.07,0.07,0.07,0.21,0.333,0.07,0.14,0.5,0.0,0.07,0.0
+1631232,"Brooks Jr., Keion",New Orleans Pelicans,1610612740,NOP,made,10,"Alvarado, Jose",1630631,0.283,6.07,0.21,0.57,1.21,0.471,0.21,0.5,0.429,0.36,0.71,0.5
+1631232,"Brooks Jr., Keion",New Orleans Pelicans,1610612740,NOP,made,10,"Robinson-Earl, Jeremiah",1630526,0.063,1.36,0.21,0.21,0.71,0.3,0.07,0.43,0.167,0.14,0.29,0.5
+1631232,"Brooks Jr., Keion",New Orleans Pelicans,1610612740,NOP,made,3,"Kelley, Kylor",1630283,0.013,0.29,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1631232,"Brooks Jr., Keion",New Orleans Pelicans,1610612740,NOP,made,5,"Brown, Bruce",1628971,0.053,1.14,0.0,0.07,0.29,0.25,0.07,0.29,0.25,0.0,0.0,
+1631232,"Brooks Jr., Keion",New Orleans Pelicans,1610612740,NOP,made,11,"Payton, Elfrid",203901,0.257,5.5,0.0,0.0,0.5,0.0,0.0,0.5,0.0,0.0,0.0,
+1631232,"Brooks Jr., Keion",New Orleans Pelicans,1610612740,NOP,made,5,"Olynyk, Kelly",203482,0.02,0.43,0.0,0.0,0.21,0.0,0.0,0.14,0.0,0.0,0.07,0.0
+1631232,"Brooks Jr., Keion",New Orleans Pelicans,1610612740,NOP,made,2,"McCollum, CJ",203468,0.01,0.21,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,

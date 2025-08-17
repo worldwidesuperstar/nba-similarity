@@ -1,0 +1,13 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1629684,"Williams, Grant",Charlotte Hornets,1610612766,CHA,received,6,"Salaün, Tidjane",1642275,0.026,0.63,0.06,0.19,0.25,0.75,0.19,0.25,0.75,0.0,0.0,
+1629684,"Williams, Grant",Charlotte Hornets,1610612766,CHA,received,11,"Miller, Brandon",1641706,0.128,3.06,0.25,0.25,0.5,0.5,0.19,0.25,0.75,0.06,0.25,0.25
+1629684,"Williams, Grant",Charlotte Hornets,1610612766,CHA,received,10,"Diabaté, Moussa",1631217,0.055,1.31,0.0,0.0,0.38,0.0,0.0,0.0,,0.0,0.38,0.0
+1629684,"Williams, Grant",Charlotte Hornets,1610612766,CHA,received,13,"Mann, Tre",1630544,0.19,4.56,0.31,0.31,1.19,0.263,0.13,0.44,0.286,0.19,0.75,0.25
+1629684,"Williams, Grant",Charlotte Hornets,1610612766,CHA,received,1,"Richards, Nick",1630208,0.003,0.06,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1629684,"Williams, Grant",Charlotte Hornets,1610612766,CHA,received,8,"Green, Josh",1630182,0.036,0.88,0.19,0.19,0.31,0.6,0.13,0.13,1.0,0.06,0.19,0.333
+1629684,"Williams, Grant",Charlotte Hornets,1610612766,CHA,received,16,"Ball, LaMelo",1630163,0.346,8.31,1.31,1.31,3.31,0.396,0.44,1.44,0.304,0.88,1.88,0.467
+1629684,"Williams, Grant",Charlotte Hornets,1610612766,CHA,received,13,"Martin, Cody",1628998,0.078,1.88,0.44,0.44,0.88,0.5,0.25,0.56,0.444,0.19,0.31,0.6
+1629684,"Williams, Grant",Charlotte Hornets,1610612766,CHA,received,9,"Bridges, Miles",1628970,0.063,1.5,0.31,0.31,0.88,0.357,0.13,0.25,0.5,0.19,0.63,0.3
+1629684,"Williams, Grant",Charlotte Hornets,1610612766,CHA,received,5,"Micic, Vasilije",203995,0.036,0.88,0.06,0.06,0.31,0.2,0.06,0.25,0.25,0.0,0.06,0.0
+1629684,"Williams, Grant",Charlotte Hornets,1610612766,CHA,received,8,"Curry, Seth",203552,0.034,0.81,0.13,0.13,0.19,0.667,0.0,0.0,,0.13,0.19,0.667
+1629684,"Williams, Grant",Charlotte Hornets,1610612766,CHA,received,1,"Gibson, Taj",201959,0.005,0.13,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,

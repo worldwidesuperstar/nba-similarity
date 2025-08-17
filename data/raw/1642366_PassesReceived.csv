@@ -1,0 +1,19 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,received,1,"Rowe, Jackson",1642050,0.002,0.05,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,received,2,"Collins, Yuri",1641879,0.011,0.21,0.02,0.02,0.12,0.2,0.02,0.05,0.5,0.0,0.07,0.0
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,received,30,"Podziemski, Brandin",1641764,0.151,3.02,0.33,0.33,0.74,0.452,0.14,0.31,0.462,0.19,0.43,0.444
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,received,2,"Jackson-Davis, Trayce",1631218,0.005,0.1,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,received,15,"Santos, Gui",1630611,0.031,0.62,0.12,0.12,0.17,0.714,0.05,0.1,0.5,0.07,0.07,1.0
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,received,31,"Moody, Moses",1630541,0.092,1.83,0.19,0.19,0.55,0.348,0.02,0.1,0.25,0.17,0.45,0.368
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,received,4,"Waters III, Lindy",1630322,0.008,0.17,0.0,0.0,0.05,0.0,0.0,0.02,0.0,0.0,0.02,0.0
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,received,14,"Spencer, Pat",1630311,0.055,1.1,0.17,0.17,0.33,0.5,0.12,0.12,1.0,0.05,0.21,0.222
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,received,8,"Kuminga, Jonathan",1630228,0.023,0.45,0.07,0.07,0.12,0.6,0.02,0.02,1.0,0.05,0.1,0.5
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,received,4,"Knox II, Kevin",1628995,0.01,0.19,0.02,0.02,0.05,0.5,0.0,0.0,,0.02,0.05,0.5
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,received,16,"Payton II, Gary",1627780,0.039,0.79,0.02,0.02,0.17,0.143,0.0,0.07,0.0,0.02,0.1,0.25
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,received,27,"Hield, Buddy",1627741,0.09,1.81,0.19,0.19,0.38,0.5,0.07,0.12,0.6,0.12,0.26,0.455
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,received,7,"Wiggins, Andrew",203952,0.023,0.45,0.02,0.02,0.05,0.5,0.0,0.02,0.0,0.02,0.02,1.0
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,received,1,"Anderson, Kyle",203937,0.005,0.1,0.0,0.0,0.02,0.0,0.0,0.0,,0.0,0.02,0.0
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,received,7,"Schröder, Dennis",203471,0.039,0.79,0.12,0.12,0.24,0.5,0.02,0.07,0.333,0.1,0.17,0.571
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,received,31,"Green, Draymond",203110,0.126,2.52,0.38,0.4,0.98,0.415,0.14,0.26,0.545,0.26,0.71,0.367
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,received,26,"Butler III, Jimmy",202710,0.145,2.9,0.62,0.64,1.33,0.482,0.21,0.38,0.563,0.43,0.95,0.45
+1642366,"Post, Quinten",Golden State Warriors,1610612744,GSW,received,29,"Curry, Stephen",201939,0.146,2.93,0.43,0.43,1.0,0.429,0.19,0.38,0.5,0.24,0.62,0.385

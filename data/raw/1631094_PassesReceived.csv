@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1631094,"Banchero, Paolo",Orlando Magic,1610612753,ORL,received,22,"da Silva, Tristan",1641783,0.036,2.02,0.15,0.35,0.8,0.432,0.24,0.59,0.407,0.11,0.22,0.5
+1631094,"Banchero, Paolo",Orlando Magic,1610612753,ORL,received,9,"Howard, Jett",1641724,0.007,0.41,0.02,0.04,0.15,0.286,0.02,0.11,0.2,0.02,0.04,0.5
+1631094,"Banchero, Paolo",Orlando Magic,1610612753,ORL,received,46,"Black, Anthony",1641710,0.144,8.13,0.46,0.98,2.98,0.328,0.72,2.09,0.344,0.26,0.89,0.293
+1631094,"Banchero, Paolo",Orlando Magic,1610612753,ORL,received,18,"Houstan, Caleb",1631216,0.021,1.17,0.09,0.17,0.37,0.471,0.15,0.26,0.583,0.02,0.11,0.2
+1631094,"Banchero, Paolo",Orlando Magic,1610612753,ORL,received,6,"Suggs, Jalen",1630591,0.042,2.35,0.2,0.3,0.83,0.368,0.26,0.65,0.4,0.04,0.17,0.25
+1631094,"Banchero, Paolo",Orlando Magic,1610612753,ORL,received,40,"Wagner, Franz",1630532,0.16,9.0,0.76,1.54,3.48,0.444,1.35,2.67,0.504,0.2,0.8,0.243
+1631094,"Banchero, Paolo",Orlando Magic,1610612753,ORL,received,7,"Queen, Trevelin",1630243,0.011,0.61,0.07,0.11,0.24,0.455,0.11,0.17,0.625,0.0,0.07,0.0
+1631094,"Banchero, Paolo",Orlando Magic,1610612753,ORL,received,33,"Anthony, Cole",1630175,0.145,8.17,0.59,1.02,2.7,0.379,0.78,2.02,0.387,0.24,0.67,0.355
+1631094,"Banchero, Paolo",Orlando Magic,1610612753,ORL,received,28,"Bitadze, Goga",1629048,0.051,2.89,0.13,0.28,0.93,0.302,0.24,0.7,0.344,0.04,0.24,0.182
+1631094,"Banchero, Paolo",Orlando Magic,1610612753,ORL,received,3,"Wagner, Moritz",1629021,0.002,0.11,0.0,0.02,0.04,0.5,0.02,0.04,0.5,0.0,0.0,
+1631094,"Banchero, Paolo",Orlando Magic,1610612753,ORL,received,46,"Carter Jr., Wendell",1628976,0.109,6.15,0.43,1.02,2.48,0.412,0.67,1.57,0.431,0.35,0.91,0.381
+1631094,"Banchero, Paolo",Orlando Magic,1610612753,ORL,received,23,"Isaac, Jonathan",1628371,0.027,1.52,0.04,0.17,0.54,0.32,0.13,0.43,0.3,0.04,0.11,0.4
+1631094,"Banchero, Paolo",Orlando Magic,1610612753,ORL,received,21,"Harris, Gary",203914,0.022,1.26,0.17,0.39,0.52,0.75,0.24,0.33,0.733,0.15,0.2,0.778
+1631094,"Banchero, Paolo",Orlando Magic,1610612753,ORL,received,43,"Caldwell-Pope, Kentavious",203484,0.118,6.65,0.3,0.85,2.41,0.351,0.72,1.83,0.393,0.13,0.59,0.222
+1631094,"Banchero, Paolo",Orlando Magic,1610612753,ORL,received,21,"Joseph, Cory",202709,0.104,5.83,0.2,0.61,1.83,0.333,0.52,1.35,0.387,0.09,0.48,0.182

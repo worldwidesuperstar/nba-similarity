@@ -1,0 +1,19 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_TO,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+203957,"Exum, Danté",Dallas Mavericks,1610612742,DAL,made,10,"Prosper, Olivier-Maxence",1641765,0.035,1.0,0.05,0.05,0.4,0.125,0.05,0.3,0.167,0.0,0.1,0.0
+203957,"Exum, Danté",Dallas Mavericks,1610612742,DAL,made,1,"Lively II, Dereck",1641726,0.007,0.2,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+203957,"Exum, Danté",Dallas Mavericks,1610612742,DAL,made,15,"Christie, Max",1631108,0.122,3.5,0.3,0.5,0.9,0.556,0.3,0.5,0.6,0.2,0.4,0.5
+203957,"Exum, Danté",Dallas Mavericks,1610612742,DAL,made,7,"Hardy, Jaden",1630702,0.026,0.75,0.1,0.1,0.3,0.333,0.0,0.1,0.0,0.1,0.2,0.5
+203957,"Exum, Danté",Dallas Mavericks,1610612742,DAL,made,14,"Edwards, Kessler",1630556,0.097,2.8,0.35,0.35,0.6,0.583,0.25,0.5,0.5,0.1,0.1,1.0
+203957,"Exum, Danté",Dallas Mavericks,1610612742,DAL,made,2,"Jones, Kai",1630539,0.009,0.25,0.1,0.1,0.1,1.0,0.1,0.1,1.0,0.0,0.0,
+203957,"Exum, Danté",Dallas Mavericks,1610612742,DAL,made,5,"Williams, Brandon",1630314,0.014,0.4,0.0,0.0,0.2,0.0,0.0,0.1,0.0,0.0,0.1,0.0
+203957,"Exum, Danté",Dallas Mavericks,1610612742,DAL,made,2,"Kelley, Kylor",1630283,0.017,0.5,0.1,0.1,0.1,1.0,0.1,0.1,1.0,0.0,0.0,
+203957,"Exum, Danté",Dallas Mavericks,1610612742,DAL,made,17,"Marshall, Naji",1630230,0.116,3.35,0.2,0.3,0.85,0.353,0.25,0.5,0.5,0.05,0.35,0.143
+203957,"Exum, Danté",Dallas Mavericks,1610612742,DAL,made,7,"Gafford, Daniel",1629655,0.036,1.05,0.15,0.15,0.25,0.6,0.15,0.25,0.6,0.0,0.0,
+203957,"Exum, Danté",Dallas Mavericks,1610612742,DAL,made,2,"Brown, Moses",1629650,0.007,0.2,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,
+203957,"Exum, Danté",Dallas Mavericks,1610612742,DAL,made,4,"Washington, P.J.",1629023,0.045,1.3,0.15,0.15,0.4,0.375,0.15,0.35,0.429,0.0,0.05,0.0
+203957,"Exum, Danté",Dallas Mavericks,1610612742,DAL,made,5,"Martin, Caleb",1628997,0.019,0.55,0.05,0.1,0.2,0.5,0.1,0.2,0.5,0.0,0.0,
+203957,"Exum, Danté",Dallas Mavericks,1610612742,DAL,made,8,"Powell, Dwight",203939,0.063,1.8,0.05,0.1,0.15,0.667,0.1,0.1,1.0,0.0,0.05,0.0
+203957,"Exum, Danté",Dallas Mavericks,1610612742,DAL,made,13,"Dinwiddie, Spencer",203915,0.087,2.5,0.25,0.5,0.95,0.526,0.25,0.55,0.455,0.25,0.4,0.625
+203957,"Exum, Danté",Dallas Mavericks,1610612742,DAL,made,2,"Davis, Anthony",203076,0.035,1.0,0.1,0.2,0.4,0.5,0.2,0.4,0.5,0.0,0.0,
+203957,"Exum, Danté",Dallas Mavericks,1610612742,DAL,made,15,"Thompson, Klay",202691,0.122,3.5,0.6,0.65,1.65,0.394,0.35,0.85,0.412,0.3,0.8,0.375
+203957,"Exum, Danté",Dallas Mavericks,1610612742,DAL,made,10,"Irving, Kyrie",202681,0.144,4.15,0.25,0.6,1.85,0.324,0.4,1.25,0.32,0.2,0.6,0.333

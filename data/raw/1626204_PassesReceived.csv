@@ -1,0 +1,16 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,TEAM_NAME,TEAM_ID,TEAM_ABBREVIATION,PASS_TYPE,G,PASS_FROM,PASS_TEAMMATE_PLAYER_ID,FREQUENCY,PASS,AST,FGM,FGA,FG_PCT,FG2M,FG2A,FG2_PCT,FG3M,FG3A,FG3_PCT
+1626204,"Nance Jr., Larry",Atlanta Hawks,1610612737,ATL,received,8,"Risacher, Zaccharie",1642258,0.037,0.67,0.17,0.17,0.21,0.8,0.08,0.08,1.0,0.08,0.13,0.667
+1626204,"Nance Jr., Larry",Atlanta Hawks,1610612737,ATL,received,2,"Gueye, Mouhamed",1631243,0.005,0.08,0.0,0.0,0.08,0.0,0.0,0.08,0.0,0.0,0.0,
+1626204,"Nance Jr., Larry",Atlanta Hawks,1610612737,ATL,received,4,"Roddy, David",1631223,0.021,0.38,0.13,0.13,0.21,0.6,0.08,0.13,0.667,0.04,0.08,0.5
+1626204,"Nance Jr., Larry",Atlanta Hawks,1610612737,ATL,received,13,"Wallace, Keaton",1630811,0.079,1.42,0.17,0.17,0.42,0.4,0.04,0.17,0.25,0.13,0.25,0.5
+1626204,"Nance Jr., Larry",Atlanta Hawks,1610612737,ATL,received,18,"Daniels, Dyson",1630700,0.187,3.33,0.71,0.75,1.46,0.514,0.29,0.67,0.438,0.46,0.79,0.579
+1626204,"Nance Jr., Larry",Atlanta Hawks,1610612737,ATL,received,9,"Johnson, Jalen",1630552,0.089,1.58,0.25,0.29,0.54,0.538,0.08,0.25,0.333,0.21,0.29,0.714
+1626204,"Nance Jr., Larry",Atlanta Hawks,1610612737,ATL,received,15,"Krejčí, Vít",1630249,0.121,2.17,0.21,0.21,0.58,0.357,0.17,0.33,0.5,0.04,0.25,0.167
+1626204,"Nance Jr., Larry",Atlanta Hawks,1610612737,ATL,received,6,"Okongwu, Onyeka",1630168,0.035,0.63,0.04,0.04,0.13,0.333,0.0,0.04,0.0,0.04,0.08,0.5
+1626204,"Nance Jr., Larry",Atlanta Hawks,1610612737,ATL,received,12,"Mathews, Garrison",1629726,0.056,1.0,0.13,0.13,0.38,0.333,0.08,0.13,0.667,0.04,0.25,0.167
+1626204,"Nance Jr., Larry",Atlanta Hawks,1610612737,ATL,received,9,"Hunter, De'Andre",1629631,0.051,0.92,0.13,0.13,0.13,1.0,0.0,0.0,,0.13,0.13,1.0
+1626204,"Nance Jr., Larry",Atlanta Hawks,1610612737,ATL,received,2,"Mann, Terance",1629611,0.014,0.25,0.04,0.08,0.17,0.5,0.08,0.08,1.0,0.0,0.08,0.0
+1626204,"Nance Jr., Larry",Atlanta Hawks,1610612737,ATL,received,22,"Young, Trae",1629027,0.271,4.83,0.96,0.96,1.75,0.548,0.71,1.08,0.654,0.25,0.67,0.375
+1626204,"Nance Jr., Larry",Atlanta Hawks,1610612737,ATL,received,1,"LeVert, Caris",1627747,0.005,0.08,0.04,0.04,0.04,1.0,0.04,0.04,1.0,0.0,0.0,
+1626204,"Nance Jr., Larry",Atlanta Hawks,1610612737,ATL,received,3,"Bogdanović, Bogdan",203992,0.019,0.33,0.0,0.0,0.08,0.0,0.0,0.0,,0.0,0.08,0.0
+1626204,"Nance Jr., Larry",Atlanta Hawks,1610612737,ATL,received,3,"Capela, Clint",203991,0.009,0.17,0.0,0.0,0.08,0.0,0.0,0.04,0.0,0.0,0.04,0.0
