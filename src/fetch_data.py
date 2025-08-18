@@ -1,6 +1,6 @@
 from nba_api.stats.endpoints import (
     leaguedashplayerstats, playerdashboardbygeneralsplits, shotchartdetail, playerdashptshots,
-    leaguehustlestatsplayer, leaguedashplayerclutch, playerdashptpass, assisttracker
+    leaguehustlestatsplayer, leaguedashplayerclutch, playerdashptpass
 )
 
 import pandas as pd
@@ -171,6 +171,7 @@ def retry_fetch_clutch_stats(season, max_retries=3, pause=5):
     for attempt in range(max_retries):
         try:
             clutch = leaguedashplayerclutch.LeagueDashPlayerClutch(
+                league_id_nullable='00',
                 ahead_behind='Ahead or Behind',
                 clutch_time='Last 5 Minutes',
                 measure_type_detailed_defense='Base',
@@ -206,23 +207,6 @@ def retry_fetch_passing_data(player_id, team_id, season, max_retries=3, pause=5)
     print(f"failed to fetch passing data for {player_id} after {max_retries} attempts.")
     return None
 
-def retry_fetch_assist_tracker(season, max_retries=3, pause=5):
-    for attempt in range(max_retries):
-        try:
-            assist = assisttracker.AssistTracker(
-                per_mode_simple_nullable='PerGame',
-                season_nullable=season,
-                season_type_all_star_nullable='Regular Season'
-            )
-            df = assist.get_data_frames()[0]
-            return df
-        except Exception as e:
-            wait = pause * (attempt + 1)
-            print(f"timeout/error for assist tracker on attempt {attempt+1}. retrying in {wait} seconds...")
-            time.sleep(wait)
-    print(f"failed to fetch assist tracker after {max_retries} attempts.")
-    return None
-
 def fetch_save_basketball_iq_data(season='2024-25'):
     # fetch league hustle stats
     hustle_path = 'data/raw/league_hustle_stats.csv'
@@ -243,16 +227,6 @@ def fetch_save_basketball_iq_data(season='2024-25'):
             print("saved league clutch stats.")
     else:
         print("league clutch stats already exists, skipping.")
-    
-    # fetch league assist tracker
-    assist_path = 'data/raw/league_assist_tracker.csv'
-    if not os.path.exists(assist_path):
-        assist_data = retry_fetch_assist_tracker(season)
-        if assist_data is not None:
-            assist_data.to_csv(assist_path, index=False)
-            print("saved league assist tracker.")
-    else:
-        print("league assist tracker already exists, skipping.")
 
 def fetch_save_passing_data(df, season='2024-25', delay=8):
     for idx, row in df.iterrows():
@@ -287,13 +261,11 @@ def fetch_save_passing_data(df, season='2024-25', delay=8):
             print(f"passing data for {player_name} already exists, skipping.")
 
 if __name__ == "__main__":
+    
     top300 = fetch_top_300_ppg()
     
     fetch_save_advanced_data(top300)
-    
     fetch_save_shot_tracking_data(top300)
-    
-    # 8/14 added new endpoints
     fetch_save_basketball_iq_data()
     fetch_save_passing_data(top300)
     

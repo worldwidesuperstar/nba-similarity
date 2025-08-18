@@ -37,29 +37,21 @@ For my study, I wanted to quantify basketball IQ according to "soft skills" that
 
 3. **Clutch AST/TOV Ratio** - Indicates decision-making in high-pressure, game-deciding moments.
 
-4. **Effective Field Goal %** - Demonstrates ability to recognize and consistently capitalize on scoring opportunities.
+4. **Effective Field Goal %** - Indicator of good shot selection and offensive decision-making.
 
-5. **Deflections per 36** - Shows anticipation and ability to read plays before they happen.
+5. **Deflections per 36** - Shows anticipation and pattern recognition through reading plays.
 
-6. **Screen Assists per 36** - Indicates ability to run plays and strong teammate awareness. Percentiles based on position.
+6. **Screen Assists per 36** - Indicates ability to run plays and strong teammate awareness. Percentiles relative to position.
 
-Percentiles based on position.
+7. **Loose Balls Recovered per 36** - Shows anticipation, positioning awareness, and effort on 50/50 plays.
 
-7. **Quick Decision Efficiency** - Evaluates efficiency on shots taken very briefly after reciving the ball, indicating quick decision-making.
+8. **Shooting Foul Rate** - Shows risk-averse ability to contest shots without fouling. Percentiles based on position.
 
-8. **Loose Balls Recovered per 36** - Shows anticipation, positioning awareness, and effort on 50/50 plays.
+9. **Smart Shot Selection** - Shows a player's understanding of what shots they are best/most efficient at.
 
-9. **Shooting Foul Rate** - Shows ability to contest shots without fouling.
+10. **Age** - Shows a player's league experience. Factored in very slightly.
 
-~~10. **Box Out Success Rate** - Shows smart positioning and situational awareness. Percentiles based on position.~~
-
-Percentiles based on position.
-
-~~11. **Charges Drawn per 36** - Shows ability to read plays and have good positioning.~~
-
-Deprecated due to poor data distribution.
-
-12. **Smart Shot Selection** - Shows a player's understanding of what shots they are best/most efficient at.
+11. **Assist Percentage** - Shows a player's teammate awareness and decision-making skills through good passing.
 
 ## Overall IQ Metric
 

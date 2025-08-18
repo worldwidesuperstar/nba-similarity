@@ -4,71 +4,28 @@ import os
 from pathlib import Path
 from nba_api.stats.endpoints import commonplayerinfo
 
-def calculate_league_averages():
-    """Calculate league averages for all IQ metrics to use as fallbacks."""
-    top300 = pd.read_csv('data/top300_per.csv')
-    
-    # Calculate basic metric averages from top300 players
-    league_avg_ast_tov = (top300['AST'] / top300['TOV'].replace(0, np.nan)).mean()
-    league_avg_efg = ((top300['FGM'] + 0.5 * top300['FG3M']) / top300['FGA'].replace(0, np.nan)).mean()
-    
-    # Load league files for other averages
+def get_player_position(player_name):
+    """ retrieve player position from bbref data """
     try:
-        hustle_stats = pd.read_csv('data/raw/league_hustle_stats.csv')
-        clutch_stats = pd.read_csv('data/raw/league_clutch_stats.csv')
-        
-        league_averages = {
-            'ast_tov_ratio': league_avg_ast_tov,
-            'late_clock_efficiency': 0.35,  # Typical late clock efficiency
-            'clutch_ast_tov': (clutch_stats['AST'] / clutch_stats['TOV'].replace(0, np.nan)).mean(),
-            'efg_pct': league_avg_efg,
-            'deflections_per_36': hustle_stats['DEFLECTIONS'].mean(),
-            'screen_assists_per_36': hustle_stats['SCREEN_ASSISTS'].mean(),
-            'quick_decision_efficiency': 0.45,  # Typical quick decision efficiency
-            'loose_balls_per_36': hustle_stats['LOOSE_BALLS_RECOVERED'].mean(),
-            'shooting_foul_pct': 3.0,  # Typical shooting foul percentage
-            'successful_boxouts_per_36': hustle_stats['BOX_OUT_PLAYER_REBS'].mean(),
-            'charges_drawn_per_36': hustle_stats['CHARGES_DRAWN'].mean(),
-            'shot_selection_value': 0.50  # Typical shot selection value
-        }
-        
-    except Exception as e:
-        print(f"Warning: Could not load league files for averages: {e}")
-        # Fallback averages if league files are missing
-        league_averages = {
-            'ast_tov_ratio': 1.8,
-            'late_clock_efficiency': 0.35,
-            'clutch_ast_tov': 1.5,
-            'efg_pct': 0.54,
-            'deflections_per_36': 2.8,
-            'screen_assists_per_36': 2.5,
-            'quick_decision_efficiency': 0.45,
-            'loose_balls_per_36': 1.2,
-            'shooting_foul_pct': 3.0,
-            'successful_boxouts_per_36': 3.5,
-            'charges_drawn_per_36': 0.3,
-            'shot_selection_value': 0.50
-        }
-    
-    return league_averages
 
-def get_player_position(player_id):
-    """Get player position from NBA API."""
-    try:
-        import time
-        time.sleep(2)
-        player_info = commonplayerinfo.CommonPlayerInfo(player_id=player_id)
-        player_data = player_info.get_data_frames()[0].iloc[0]
-        return player_data['POSITION']
+        basic_stats_df = pd.read_csv('data/processed/basic_stats_36_bbref.csv')
+        player_row = basic_stats_df[basic_stats_df['Player'] == player_name]
+        
+        if player_row.empty:
+            print("unknown pos")
+            return 'Unknown'
+        
+        position = player_row.iloc[0]['Pos']
+        return position
+        
     except Exception as e:
-        print(f"Could not get position for player {player_id}: {e}")
+        print(f"Could not get position for player {player_name}: {e}")
         return 'Unknown'
 
 def load_player_data(player_id):
-    """Load all necessary data files for a player."""
+    """ load basic stats and all relevant CSV files for one player """
     
     try:
-        # Load basic stats from top300
         top300 = pd.read_csv('data/top300_per.csv')
         basic_stats = top300[top300['PLAYER_ID'] == int(player_id)]
         if basic_stats.empty:
@@ -78,16 +35,14 @@ def load_player_data(player_id):
         basic_stats = basic_stats.iloc[0]
         player_name = basic_stats['PLAYER_NAME']
         
-        # Get player position
-        position = get_player_position(player_id)
+        position = get_player_position(player_name)
         
-        # Load additional data files
         files_to_load = {
             'general_splits': f'{player_id}_general_splits.csv',
             'closest_defender': f'{player_id}_ClosestDefenderShooting.csv',
-            'dribble_shooting': f'{player_id}_DribbleShooting.csv',  # Contains shot clock data
+            'dribble_shooting': f'{player_id}_DribbleShooting.csv',
             'touch_time': f'{player_id}_TouchTimeShooting.csv',
-            'overall_shooting': f'{player_id}_Overall.csv'  # Player's own shooting data
+            'overall_shooting': f'{player_id}_Overall.csv'
         }
         
         loaded_data = {'basic_stats': basic_stats, 'position': position}
@@ -106,7 +61,6 @@ def load_player_data(player_id):
                 loaded_data[key] = pd.DataFrame()
                 missing_files.append(filename)
         
-        # Load league-wide data
         league_files = {
             'hustle_stats': 'league_hustle_stats.csv',
             'clutch_stats': 'league_clutch_stats.csv'
@@ -139,8 +93,8 @@ def load_player_data(player_id):
         print(f"Critical error loading data for player {player_id}: {e}")
         return None
 
-def calculate_metric_1_ast_tov_ratio(data):
-    """1. Assist-to-Turnover Ratio"""
+def calculate_ast_tov_ratio(data):
+    """Assist-to-Turnover Ratio"""
     try:
         basic = data['basic_stats']
         ast = basic['AST']
@@ -149,8 +103,8 @@ def calculate_metric_1_ast_tov_ratio(data):
     except:
         return np.nan
 
-def calculate_metric_2_late_clock_efficiency(data):
-    """2. Late Clock Efficiency"""
+def calculate_late_clock_efficiency(data):
+    """Late Clock Efficiency"""
     try:
         dribble_shooting = data['dribble_shooting']
         if dribble_shooting.empty:
@@ -175,8 +129,8 @@ def calculate_metric_2_late_clock_efficiency(data):
     except:
         return np.nan
 
-def calculate_metric_3_clutch_ast_tov(data):
-    """3. Clutch AST/TOV Ratio"""
+def calculate_clutch_ast_tov(data):
+    """Clutch AST/TOV Ratio"""
     try:
         clutch = data['clutch_stats']
         if clutch.empty:
@@ -188,16 +142,16 @@ def calculate_metric_3_clutch_ast_tov(data):
         if tov > 0:
             return ast / tov
         else:
-            # If 0 clutch turnovers, use regular AST/TOV ratio but make it 10% worse
-            # since clutch situations are more pressure-filled
+            # 0 clutch turnovers indicates limited clutch playtime, just use
+            # regular ratio * 0.9 if so
             basic = data['basic_stats']
             regular_ast_tov = basic['AST'] / basic['TOV'] if basic['TOV'] > 0 else 3.0
             return regular_ast_tov * 0.9
     except:
         return np.nan
 
-def calculate_metric_4_efg_pct(data):
-    """4. Effective Field Goal %"""
+def calculate_efg_pct(data):
+    """Effective Field Goal %"""
     try:
         basic = data['basic_stats']
         fgm = basic['FGM']
@@ -207,8 +161,8 @@ def calculate_metric_4_efg_pct(data):
     except:
         return np.nan
 
-def calculate_metric_5_deflections_per_36(data):
-    """5. Deflections per 36"""
+def calculate_deflections_per_36(data):
+    """Deflections per 36"""
     try:
         hustle = data['hustle_stats']
         if hustle.empty:
@@ -217,8 +171,8 @@ def calculate_metric_5_deflections_per_36(data):
     except:
         return np.nan
 
-def calculate_metric_6_screen_assists_per_36(data):
-    """6. Screen Assists per 36"""
+def calculate_screen_assists_per_36(data):
+    """Screen Assists per 36"""
     try:
         hustle = data['hustle_stats']
         if hustle.empty:
@@ -227,33 +181,8 @@ def calculate_metric_6_screen_assists_per_36(data):
     except:
         return np.nan
 
-def calculate_metric_7_quick_decision_efficiency(data):
-    """7. Quick Decision Efficiency"""
-    try:
-        touch_time = data['touch_time']
-        if touch_time.empty:
-            return np.nan
-            
-        quick_decision = touch_time[touch_time['TOUCH_TIME_RANGE'] == 'Touch < 2 Seconds']
-        if quick_decision.empty:
-            return np.nan
-            
-        return quick_decision['FG_PCT'].iloc[0]
-    except:
-        return np.nan
-
-def calculate_metric_8_loose_balls_per_36(data):
-    """8. Loose Balls Recovered per 36"""
-    try:
-        hustle = data['hustle_stats']
-        if hustle.empty:
-            return np.nan
-        return hustle['LOOSE_BALLS_RECOVERED']
-    except:
-        return np.nan
-
-def calculate_metric_9_shooting_foul_percentage(data):
-    """9. Shooting Foul Percentage (lower is better) - Now using real Basketball Reference shooting fouls"""
+def calculate_shooting_foul_percentage(data):
+    """Shooting Foul Rate"""
     try:
         general_splits = data['general_splits']
         closest_defender = data['closest_defender']
@@ -262,163 +191,141 @@ def calculate_metric_9_shooting_foul_percentage(data):
         if general_splits.empty or closest_defender.empty:
             return np.nan
             
-        # Use overall stats row (total season stats)
         overall_stats = general_splits.iloc[0]
         games_played = overall_stats['GP']
         player_name = basic_stats['PLAYER_NAME']
         
-        # Calculate total shots defended
         shots_defended_per_game = closest_defender['FGA'].sum()
         total_shots_defended = shots_defended_per_game * games_played
 
         if total_shots_defended == 0:
             return np.nan
             
-        # Get actual shooting fouls from Basketball Reference data
         shooting_fouls = get_shooting_fouls(player_name)
         
-        # Calculate shooting foul percentage
+        # divide shooting fouls by number of "contests" 
+        # (opponent FGA with player as closest defender)
         shooting_foul_percentage = (shooting_fouls / total_shots_defended) * 100
         return shooting_foul_percentage
     except:
         return np.nan
 
 def get_shooting_fouls(player_name):
-    """Get actual shooting fouls committed by player from Basketball Reference data."""
+    """get data from bbref csv"""
     try:
-        # Load Basketball Reference shooting fouls data
         shooting_fouls_df = pd.read_csv('data/processed/shooting_fouls_bbref_2024.csv')
-        
-        # Find exact name match
         player_entries = shooting_fouls_df[shooting_fouls_df['Player'] == player_name]
         
         if not player_entries.empty:
-            # If multiple entries exist (multi-team player), prefer the one with highest games played
             if len(player_entries) > 1:
                 player_entries = player_entries.sort_values('G', ascending=False)
             return player_entries.iloc[0]['Shoot']
         
-        # If not found, use league average
-        return 65  # Fallback to league average
+        return np.nan
         
     except Exception as e:
-        print(f"Warning: Could not load shooting fouls for {player_name}: {e}")
-        return 65  # Fallback to league average
-
-def calculate_metric_10_successful_boxouts_per_36(data):
-    """10. Successful Box Outs per 36"""
-    try:
-        hustle = data['hustle_stats']
-        if hustle.empty:
-            return np.nan
-        return hustle['BOX_OUT_PLAYER_REBS']
-    except:
+        print(f"Could not load shooting fouls for {player_name}: {e}")
         return np.nan
 
-def calculate_metric_11_charges_drawn_per_36(data):
-    """11. Charges Drawn per 36"""
-    try:
-        hustle = data['hustle_stats']
-        if hustle.empty:
-            return np.nan
-        return hustle['CHARGES_DRAWN']
-    except:
-        return np.nan
 
-def calculate_metric_12_shot_selection_value(data):
-    """12. Personalized Shot Selection Intelligence"""
+def calculate_personal_foul_rate(data):
+    """Personal Foul Rate per 36"""
     try:
-        overall_shooting = data['overall_shooting']
-        if overall_shooting.empty:
+        basic = data['basic_stats']
+        player_name = basic['PLAYER_NAME']
+        
+        # using bbref data
+        basic_stats_df = pd.read_csv('data/processed/basic_stats_36_bbref.csv')
+        player_row = basic_stats_df[basic_stats_df['Player'] == player_name]
+        
+        if player_row.empty:
             return np.nan
             
-        # Extract key shot types from player's own shooting data
-        close_shots = overall_shooting[overall_shooting['SHOT_TYPE'] == 'Less than 10 ft']
-        catch_shoot = overall_shooting[overall_shooting['SHOT_TYPE'] == 'Catch and Shoot']
-        pull_ups = overall_shooting[overall_shooting['SHOT_TYPE'] == 'Pull Ups']
+        pf_per_36 = player_row.iloc[0]['PF']
+        return pf_per_36
         
-        if close_shots.empty or catch_shoot.empty or pull_ups.empty:
-            return np.nan
-            
-        # Calculate shot selection value (frequency weighted by efficiency)
-        close_range_value = close_shots.iloc[0]['FGA_FREQUENCY'] * (close_shots.iloc[0]['FG_PCT'] * 2)  # 2 points
-        catch_shoot_value = catch_shoot.iloc[0]['FGA_FREQUENCY'] * catch_shoot.iloc[0]['EFG_PCT']
-        pull_up_value = pull_ups.iloc[0]['FGA_FREQUENCY'] * pull_ups.iloc[0]['EFG_PCT']
-        
-        total_shot_value = close_range_value + catch_shoot_value + pull_up_value
-        return total_shot_value
     except:
         return np.nan
 
-def calculate_all_metrics_for_player(player_id, league_averages=None):
-    """Calculate all 12 IQ metrics for a single player."""
+def calculate_age(data):
+    """Age"""
+    try:
+        basic = data['basic_stats']
+        player_name = basic['PLAYER_NAME']
+        
+        # data contained in bbref csv
+        basic_stats_df = pd.read_csv('data/processed/basic_stats_36_bbref.csv')
+        player_row = basic_stats_df[basic_stats_df['Player'] == player_name]
+
+        if player_row.empty:
+            return np.nan
+        
+        age = player_row.iloc[0]['Age']
+        return age
+
+    except:
+        return np.nan
+
+def calculate_assist_percentage(data):
+    """Assist Percentage"""
+    try:
+        basic = data['basic_stats']
+        player_name = basic['PLAYER_NAME']
+        
+        # data contained in bbref csv
+        advanced_stats_df = pd.read_csv('data/processed/advanced_stats_bbref_2024.csv')
+        player_row = advanced_stats_df[advanced_stats_df['Player'] == player_name]
+        
+        if player_row.empty:
+            return np.nan
+
+        ast_pct = player_row.iloc[0]['AST%']
+        return ast_pct
+        
+    except:
+        return np.nan
+
+def calculate_all_metrics_for_player(player_id):
+    """calculate all 10 IQ metrics for a single player"""
     data = load_player_data(player_id)
     if data is None:
         return None
     
     basic = data['basic_stats']
     player_name = basic['PLAYER_NAME']
-    
-    # Get league averages if not provided
-    if league_averages is None:
-        league_averages = calculate_league_averages()
-    
-    # Track which metrics use league averages
-    using_league_averages = []
-    
-    def safe_calculate(metric_func, metric_name, data):
-        try:
-            result = metric_func(data)
-            if pd.isna(result):
-                # Use league average as fallback
-                result = league_averages.get(metric_name, np.nan)
-                using_league_averages.append(metric_name)
-            return result
-        except Exception as e:
-            # Use league average as fallback
-            result = league_averages.get(metric_name, np.nan)
-            using_league_averages.append(f"{metric_name} (Error)")
-            return result
+    position = get_player_position(player_name)
     
     metrics = {
         'PLAYER_ID': int(player_id),
         'PLAYER_NAME': player_name,
         'TEAM_ID': basic['TEAM_ID'],
+        'POSITION': position,
         'GP': basic['GP'],
         'MIN': basic['MIN'],
-        
-        # IQ Metrics
-        'ast_tov_ratio': safe_calculate(calculate_metric_1_ast_tov_ratio, 'ast_tov_ratio', data),
-        'late_clock_efficiency': safe_calculate(calculate_metric_2_late_clock_efficiency, 'late_clock_efficiency', data),
-        'clutch_ast_tov': safe_calculate(calculate_metric_3_clutch_ast_tov, 'clutch_ast_tov', data),
-        'efg_pct': safe_calculate(calculate_metric_4_efg_pct, 'efg_pct', data),
-        'deflections_per_36': safe_calculate(calculate_metric_5_deflections_per_36, 'deflections_per_36', data),
-        'screen_assists_per_36': safe_calculate(calculate_metric_6_screen_assists_per_36, 'screen_assists_per_36', data),
-        'quick_decision_efficiency': safe_calculate(calculate_metric_7_quick_decision_efficiency, 'quick_decision_efficiency', data),
-        'loose_balls_per_36': safe_calculate(calculate_metric_8_loose_balls_per_36, 'loose_balls_per_36', data),
-        'shooting_foul_pct': safe_calculate(calculate_metric_9_shooting_foul_percentage, 'shooting_foul_pct', data),
-        'successful_boxouts_per_36': safe_calculate(calculate_metric_10_successful_boxouts_per_36, 'successful_boxouts_per_36', data),
-        'charges_drawn_per_36': safe_calculate(calculate_metric_11_charges_drawn_per_36, 'charges_drawn_per_36', data),
-        'shot_selection_value': safe_calculate(calculate_metric_12_shot_selection_value, 'shot_selection_value', data)
+
+        'ast_tov_ratio': calculate_ast_tov_ratio(data),
+        'late_clock_efficiency': calculate_late_clock_efficiency(data),
+        'clutch_ast_tov': calculate_clutch_ast_tov(data),
+        'efg_pct': calculate_efg_pct(data),
+        'deflections_per_36': calculate_deflections_per_36(data),
+        'screen_assists_per_36': calculate_screen_assists_per_36(data),
+        'shooting_foul_pct': calculate_shooting_foul_percentage(data),
+        'personal_foul_rate': calculate_personal_foul_rate(data),
+        'age': calculate_age(data),
+        'ast_pct': calculate_assist_percentage(data)
     }
-    
-    if using_league_averages:
-        print(f"  Using league averages for {player_name} (ID: {player_id}): {', '.join(using_league_averages)}")
     
     return metrics
 
 def process_all_players():
     """Process all 300 players and calculate their IQ metrics."""
-    # Load the list of all players
+
+    # list of all players
     top300 = pd.read_csv('data/top300_per.csv')
 
     
-    print(f"Processing {len(top300)} players")
-    
-    # Calculate league averages once for efficiency
-    print("Calculating league averages...")
-    league_averages = calculate_league_averages()
-    print("League averages calculated.")
+    print(f"\nprocessing {len(top300)} players")
+    print("note: missing data will return NaN and be replaced with 50th percentile in composite IQ calculation\n")
     
     all_metrics = []
     failed_players = []
@@ -427,43 +334,40 @@ def process_all_players():
         player_id = str(player['PLAYER_ID'])
         player_name = player['PLAYER_NAME']
         
-        print(f"Processing {player_name} (ID: {player_id})...")
+        print(f"processing {player_name} (ID: {player_id})...")
         
         try:
-            metrics = calculate_all_metrics_for_player(player_id, league_averages)
+            metrics = calculate_all_metrics_for_player(player_id)
             if metrics:
                 all_metrics.append(metrics)
-                print(f"  Successfully processed {player_name}")
+                print(f"  successfully processed {player_name}")
             else:
-                failed_players.append((player_name, player_id, "Data loading failed"))
-                print(f"  Failed to process {player_name} - Data loading failed")
+                failed_players.append((player_name, player_id, "data loading failed"))
+                print(f"  failed to process {player_name} - data loading failed")
         except Exception as e:
-            failed_players.append((player_name, player_id, f"Exception: {str(e)}"))
-            print(f"  Failed to process {player_name} - Exception: {str(e)}")
+            failed_players.append((player_name, player_id, f"exception: {str(e)}"))
+            print(f"  failed to process {player_name} - exception: {str(e)}")
     
-    # Convert to DataFrame
+    # conver tto dataframe
     df = pd.DataFrame(all_metrics)
     
-    # Report failed players
+    # output failed players
     if failed_players:
-        print(f"\n=== FAILED PLAYERS ({len(failed_players)}/{len(top300)}) ===")
+        print(f"\n=== failed players: ({len(failed_players)}/{len(top300)}) ===")
         for name, player_id, reason in failed_players:
             print(f"  {name} (ID: {player_id}) - {reason}")
     else:
-        print(f"\nAll {len(top300)} players processed successfully!")
-    
-    # Create processed data directory if it doesn't exist
-    os.makedirs('data/processed', exist_ok=True)
+        print(f"\nall {len(top300)} players processed successfully!")
     
     output_file = 'data/processed/all_player_iq_metrics.csv'
     
     df.to_csv(output_file, index=False, float_format='%.3f')
     
-    print(f"\nProcessed {len(df)} players")
-    print(f"Results saved to {output_file}")
+    print(f"\nprocessed {len(df)} players")
+    print(f"results saved to {output_file}")
     
-    # Print summary statistics
-    print("\n=== DATA AVAILABILITY SUMMARY ===")
+    # data availability for debugging
+    print("\n=== data availability ===")
     for col in df.columns:
         if col not in ['PLAYER_ID', 'PLAYER_NAME', 'TEAM_ID', 'GP', 'MIN']:
             non_null_count = df[col].notna().sum()
