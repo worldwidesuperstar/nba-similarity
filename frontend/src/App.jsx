@@ -1,0 +1,93 @@
+import { useState, useEffect } from "react";
+import PlayerTable from "./components/PlayerTable.jsx";
+import playersData from "./data/players.json";
+
+function App() {
+    const [players, setPlayers] = useState([]);
+    const [selectedPlayer, setSelectedPlayer] = useState(null);
+    const [minutesFilter, setMinutesFilter] = useState(0);
+
+    useEffect(() => {
+        setPlayers(playersData);
+    }, []);
+
+    const filteredPlayers = players.filter(
+        (player) => player.minutes >= minutesFilter
+    );
+
+    return (
+        <div
+            className="container-fluid py-4"
+            style={{ transform: "scale(1)", transformOrigin: "top center" }}
+        >
+            <header className="text-center mb-4">
+                <h1 className="display-1 fw-bold">nba-iq</h1>
+                <p className="lead text-muted">
+                    composite metric quantifying "basketball IQ" with NBA
+                    statistics
+                </p>
+            </header>
+
+            <main>
+                <div
+                    className="d-flex justify-content-center"
+                    style={{ gap: "10px" }}
+                >
+                    <div>
+                        <PlayerTable
+                            players={filteredPlayers}
+                            selectedPlayer={selectedPlayer}
+                            onPlayerSelect={setSelectedPlayer}
+                        />
+                        <div className="text-center text-muted mt-1">
+                            <small>
+                                all stats from 2024-25 Regular Season, collected
+                                from nba-api and Basketball Reference
+                            </small>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div className="card m-0">
+                            <div className="card-body">
+                                <div className="mb-3">
+                                    <label className="form-label fw-semibold">
+                                        minimum MPG:
+                                    </label>
+                                    <input
+                                        type="number"
+                                        className="form-control"
+                                        min="0"
+                                        placeholder="0"
+                                        value={
+                                            minutesFilter === 0
+                                                ? ""
+                                                : minutesFilter
+                                        }
+                                        onChange={(e) => {
+                                            const value = e.target.value;
+                                            if (value === "") {
+                                                setMinutesFilter(0);
+                                            } else {
+                                                setMinutesFilter(
+                                                    Number(value) || 0
+                                                );
+                                            }
+                                        }}
+                                    />
+                                </div>
+                            </div>
+                        </div>
+                        <div className="text text-muted ms-1 mt-1">
+                            <small>
+                                showing {filteredPlayers.length} players
+                            </small>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+    );
+}
+
+export default App;

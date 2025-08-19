@@ -1,0 +1,8 @@
+:root {
+    --bs-font-sans-serif: "JetBrains Mono", "SF Mono", "Monaco", "Menlo",
+        "Consolas", "Courier New", monospace;
+}
+
+body {
+    font-family: var(--bs-font-sans-serif);
+}

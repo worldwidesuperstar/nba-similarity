@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-import os
 
 def calculate_weighted_iq_rankings():
     iq_metrics = pd.read_csv('data/processed/all_player_iq_metrics.csv')
