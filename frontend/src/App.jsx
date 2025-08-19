@@ -6,19 +6,30 @@ function App() {
     const [players, setPlayers] = useState([]);
     const [selectedPlayer, setSelectedPlayer] = useState(null);
     const [minutesFilter, setMinutesFilter] = useState(0);
+    const [sortOrder, setSortOrder] = useState('asc'); // 'asc' or 'desc'
 
     useEffect(() => {
         setPlayers(playersData);
     }, []);
 
-    const filteredPlayers = players.filter(
-        (player) => player.minutes >= minutesFilter
-    );
+    const filteredPlayers = players
+        .filter((player) => player.minutes >= minutesFilter)
+        .sort((a, b) => {
+            if (sortOrder === 'asc') {
+                return a.rank - b.rank;
+            } else {
+                return b.rank - a.rank;
+            }
+        });
+
+    const handleSortToggle = () => {
+        setSortOrder(sortOrder === 'asc' ? 'desc' : 'asc');
+    };
 
     return (
         <div
             className="container-fluid py-4"
-            style={{ transform: "scale(1)", transformOrigin: "top center" }}
+            style={{ transform: "scale(1.1)", transformOrigin: "top center" }}
         >
             <header className="text-center mb-4">
                 <h1 className="display-1 fw-bold">nba-iq</h1>
@@ -38,6 +49,8 @@ function App() {
                             players={filteredPlayers}
                             selectedPlayer={selectedPlayer}
                             onPlayerSelect={setSelectedPlayer}
+                            sortOrder={sortOrder}
+                            onSortToggle={handleSortToggle}
                         />
                         <div className="text-center text-muted mt-1">
                             <small>

@@ -1,6 +1,12 @@
 import PlayerRow from "./PlayerRow";
 
-function PlayerTable({ players, selectedPlayer, onPlayerSelect }) {
+function PlayerTable({
+    players,
+    selectedPlayer,
+    onPlayerSelect,
+    sortOrder,
+    onSortToggle,
+}) {
     return (
         <div className="card m-0" style={{ maxWidth: "800px" }}>
             <div
@@ -18,19 +24,21 @@ function PlayerTable({ players, selectedPlayer, onPlayerSelect }) {
                 >
                     <thead className="table-dark sticky-top">
                         <tr>
-                            <th scope="col">rank</th>
+                            <th
+                                scope="col"
+                                onClick={onSortToggle}
+                                style={{
+                                    cursor: "pointer",
+                                    userSelect: "none",
+                                }}
+                            >
+                                rank {sortOrder === "asc" ? "▲" : "▼"}
+                            </th>
                             <th scope="col">player</th>
                             <th scope="col">pos</th>
                             <th scope="col">mpg</th>
                             <th scope="col">gp</th>
-                            <th
-                                scope="col"
-                                className="user-select-none"
-                                style={{ cursor: "pointer" }}
-                                onClick={() => onSort("iq")}
-                            >
-                                iq
-                            </th>
+                            <th scope="col">iq</th>
                         </tr>
                     </thead>
                     <tbody>
