@@ -8,7 +8,7 @@ function PlayerTable({
     onSortToggle,
 }) {
     return (
-        <div className="card m-0" style={{ maxWidth: "800px" }}>
+        <div className="card m-0 overflow-hidden" style={{ maxWidth: "800px" }}>
             <div
                 className="table-responsive"
                 style={{

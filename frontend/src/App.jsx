@@ -6,7 +6,7 @@ function App() {
     const [players, setPlayers] = useState([]);
     const [selectedPlayer, setSelectedPlayer] = useState(null);
     const [minutesFilter, setMinutesFilter] = useState(0);
-    const [sortOrder, setSortOrder] = useState('asc'); // 'asc' or 'desc'
+    const [sortOrder, setSortOrder] = useState("asc");
 
     useEffect(() => {
         setPlayers(playersData);
@@ -15,7 +15,7 @@ function App() {
     const filteredPlayers = players
         .filter((player) => player.minutes >= minutesFilter)
         .sort((a, b) => {
-            if (sortOrder === 'asc') {
+            if (sortOrder === "asc") {
                 return a.rank - b.rank;
             } else {
                 return b.rank - a.rank;
@@ -23,14 +23,11 @@ function App() {
         });
 
     const handleSortToggle = () => {
-        setSortOrder(sortOrder === 'asc' ? 'desc' : 'asc');
+        setSortOrder(sortOrder === "asc" ? "desc" : "asc");
     };
 
     return (
-        <div
-            className="container-fluid py-4"
-            style={{ transform: "scale(1.1)", transformOrigin: "top center" }}
-        >
+        <div className="container-fluid py-4">
             <header className="text-center mb-4">
                 <h1 className="display-1 fw-bold">nba-iq</h1>
                 <p className="lead text-muted">
@@ -41,8 +38,8 @@ function App() {
 
             <main>
                 <div
-                    className="d-flex justify-content-center"
-                    style={{ gap: "10px" }}
+                    className="d-flex flex-wrap justify-content-center"
+                    style={{ gap: "10px", minWidth: "100vw" }}
                 >
                     <div>
                         <PlayerTable
