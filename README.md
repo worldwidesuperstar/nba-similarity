@@ -4,7 +4,7 @@ aim: quantify the always-vague "basketball IQ" term using NBA statistical data.
 
 ## Scope
 
-all data is retrieved from the top 300 players by PPG according to the nba-api LeagueLeaders endpoint.
+all data is retrieved from the top 300 players by PPG according to the nba-api leaguedashplayerstats endpoint.
 
 ## Limitations/Assumptions:
 
@@ -16,7 +16,7 @@ all data is retrieved from the top 300 players by PPG according to the nba-api L
 
 nba-api
 
--   leagueleaders
+-   leaguedashplayerstats
 -   playerdashboardbygeneralsplits
 -   shotchartdetail
 -   playerdashptshots,
