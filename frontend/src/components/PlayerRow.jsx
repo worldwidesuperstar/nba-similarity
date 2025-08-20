@@ -1,7 +1,7 @@
 function PlayerRow({ player, isSelected, onClick }) {
     return (
         <tr
-            className={`${isSelected ? "table-primary" : ""}`}
+            className={isSelected ? "table-primary" : ""}
             onClick={onClick}
             style={{ cursor: "pointer" }}
         >

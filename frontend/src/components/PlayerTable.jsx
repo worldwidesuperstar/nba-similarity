@@ -12,8 +12,8 @@ function PlayerTable({
             <div
                 className="table-responsive"
                 style={{
-                    height: "60vh",
-                    minHeight: "60vh",
+                    height: "70vh",
+                    minHeight: "70vh",
                     overflowY: "auto",
                     overflowX: "hidden",
                 }}

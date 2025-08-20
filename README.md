@@ -19,7 +19,7 @@ nba-api
 -   leagueleaders
 -   playerdashboardbygeneralsplits
 -   shotchartdetail
--   playerdashptshots,
+-   playerdashptshots
 -   leaguehustlestatsplayer
 -   leaguedashplayerclutch
 -   playerdashptpass

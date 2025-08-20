@@ -347,10 +347,10 @@ def process_all_players():
             failed_players.append((player_name, player_id, f"exception: {str(e)}"))
             print(f"  failed to process {player_name} - exception: {str(e)}")
     
-    # conver tto dataframe
+    # convert to dataframe
     df = pd.DataFrame(all_metrics)
     
-    # output failed players
+    # output failed players if any
     if failed_players:
         print(f"\n=== failed players: ({len(failed_players)}/{len(top300)}) ===")
         for name, player_id, reason in failed_players:

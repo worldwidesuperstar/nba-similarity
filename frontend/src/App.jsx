@@ -1,19 +1,23 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import PlayerTable from "./components/PlayerTable.jsx";
-import playersData from "./data/players.json";
+import PlayerDetails from "./components/PlayerDetails.jsx";
+import playersPercentilesData from "./data/players_percentiles.json";
 
 function App() {
     const [players, setPlayers] = useState([]);
     const [selectedPlayer, setSelectedPlayer] = useState(null);
     const [minutesFilter, setMinutesFilter] = useState(0);
+    const [gpFilter, setGpFilter] = useState(0);
     const [sortOrder, setSortOrder] = useState("asc");
+    const playerDetailsRef = useRef(null);
 
     useEffect(() => {
-        setPlayers(playersData);
+        setPlayers(playersPercentilesData);
     }, []);
 
     const filteredPlayers = players
         .filter((player) => player.minutes >= minutesFilter)
+        .filter((player) => player.games >= gpFilter)
         .sort((a, b) => {
             if (sortOrder === "asc") {
                 return a.rank - b.rank;
@@ -24,6 +28,18 @@ function App() {
 
     const handleSortToggle = () => {
         setSortOrder(sortOrder === "asc" ? "desc" : "asc");
+    };
+
+    const handlePlayerSelect = (player) => {
+        setSelectedPlayer(player);
+        if (player) {
+            setTimeout(() => {
+                playerDetailsRef.current.scrollIntoView({
+                    behavior: "smooth",
+                    block: "start",
+                });
+            }, 100);
+        }
     };
 
     return (
@@ -45,7 +61,7 @@ function App() {
                         <PlayerTable
                             players={filteredPlayers}
                             selectedPlayer={selectedPlayer}
-                            onPlayerSelect={setSelectedPlayer}
+                            onPlayerSelect={handlePlayerSelect}
                             sortOrder={sortOrder}
                             onSortToggle={handleSortToggle}
                         />
@@ -68,6 +84,7 @@ function App() {
                                         type="number"
                                         className="form-control"
                                         min="0"
+                                        max="48"
                                         placeholder="0"
                                         value={
                                             minutesFilter === 0
@@ -86,6 +103,27 @@ function App() {
                                         }}
                                     />
                                 </div>
+                                <div className="mb-3">
+                                    <label className="form-label fw-semibold">
+                                        minimum GP:
+                                    </label>
+                                    <input
+                                        type="number"
+                                        className="form-control"
+                                        min="0"
+                                        max="82"
+                                        placeholder="0"
+                                        value={gpFilter === 0 ? "" : gpFilter}
+                                        onChange={(e) => {
+                                            const value = e.target.value;
+                                            if (value === "") {
+                                                setGpFilter(0);
+                                            } else {
+                                                setGpFilter(Number(value) || 0);
+                                            }
+                                        }}
+                                    />
+                                </div>
                             </div>
                         </div>
                         <div className="text text-muted ms-1 mt-1">
@@ -95,6 +133,12 @@ function App() {
                         </div>
                     </div>
                 </div>
+
+                {selectedPlayer && (
+                    <div className="mt-5 px-5" ref={playerDetailsRef}>
+                        <PlayerDetails player={selectedPlayer} />
+                    </div>
+                )}
             </main>
         </div>
     );
