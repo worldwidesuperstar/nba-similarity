@@ -7,7 +7,7 @@ function PlayerDetails({ player }) {
     const [viewMode, setViewMode] = useState("percentiles"); // "percentiles" or "histograms"
 
     return (
-        <div className="card">
+        <div className="card mb-4">
             <div className="card-body">
                 <div className="d-flex justify-content-between align-items-start mb-4">
                     <div>

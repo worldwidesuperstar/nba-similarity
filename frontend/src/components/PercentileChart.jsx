@@ -1,55 +1,32 @@
 function PercentileChart({ player }) {
+    const getMetricData = (metricKey, name) => {
+        const metric = player.metrics?.[metricKey];
+        return {
+            name: name,
+            value: metric ? parseFloat(metric.percentile || 0) : 0,
+            rawValue: metric ? metric.raw_value : 0,
+            unit: metric ? metric.display_unit : "",
+            key: metricKey,
+        };
+    };
+
     const metrics = [
-        {
-            name: "AST/TOV Ratio",
-            value: parseFloat(player.ast_tov_ratio_percentile || 0),
-            key: "ast_tov_ratio_percentile",
-        },
-        {
-            name: "Clutch AST/TOV Ratio",
-            value: parseFloat(player.clutch_ast_tov_percentile || 0),
-            key: "clutch_ast_tov_percentile",
-        },
-        {
-            name: "Assist Percentage",
-            value: parseFloat(player.ast_pct_percentile || 0),
-            key: "ast_pct_percentile",
-        },
-        {
-            name: "Late Clock Efficiency",
-            value: parseFloat(player.late_clock_efficiency_percentile || 0),
-            key: "late_clock_efficiency_percentile",
-        },
-        {
-            name: "Effective FG Percentage",
-            value: parseFloat(player.efg_pct_percentile || 0),
-            key: "efg_pct_percentile",
-        },
-        {
-            name: "Deflections per 36",
-            value: parseFloat(player.deflections_per_36_percentile || 0),
-            key: "deflections_per_36_percentile",
-        },
-        {
-            name: "Screen Assists per 36 (position-relative)",
-            value: parseFloat(player.screen_assists_per_36_percentile || 0),
-            key: "screen_assists_per_36_percentile",
-        },
-        {
-            name: "Shooting Foul Rate (position-relative)",
-            value: parseFloat(player.shooting_foul_pct_percentile || 0),
-            key: "shooting_foul_pct_percentile",
-        },
-        {
-            name: "Personal Foul Rate",
-            value: parseFloat(player.personal_foul_rate_percentile || 0),
-            key: "personal_foul_rate_percentile",
-        },
-        {
-            name: "Age",
-            value: parseFloat(player.age_percentile || 0),
-            key: "age_percentile",
-        },
+        getMetricData("ast_tov_ratio", "AST/TOV Ratio"),
+        getMetricData("clutch_ast_tov", "Clutch AST/TOV Ratio"),
+        getMetricData("ast_pct", "Assist Percentage"),
+        getMetricData("late_clock_efficiency", "Late Clock Efficiency"),
+        getMetricData("efg_pct", "Effective FG Percentage"),
+        getMetricData("deflections_per_36", "Deflections per 36"),
+        getMetricData(
+            "screen_assists_per_36",
+            "Screen Assists per 36 (position-relative)"
+        ),
+        getMetricData(
+            "shooting_foul_pct",
+            "Shooting Foul on Contest Rate (position-relative)"
+        ),
+        getMetricData("personal_foul_rate", "Personal Fouls per 36"),
+        getMetricData("age", "Age"),
     ];
 
     const getBarColor = (value) => {
@@ -70,16 +47,17 @@ function PercentileChart({ player }) {
 
     return (
         <div className="percentile-charts">
-            {metrics.map((metric, index) => (
+            {metrics.map((metric) => (
                 <div key={metric.key} className="mb-3">
                     <div className="d-flex justify-content-between align-items-center mb-1">
                         <small className="text-muted fw-semibold">
                             {metric.name}
                         </small>
                         <small className="text-muted">
-                            {metric.value.toFixed(0)}
+                            {metric.rawValue}
+                            {metric.unit} ({metric.value.toFixed(0)}
                             {getOrdinalSuffix(metric.value.toFixed(0))}{" "}
-                            percentile
+                            percentile)
                         </small>
                     </div>
                     <div className="progress" style={{ height: "8px" }}>
