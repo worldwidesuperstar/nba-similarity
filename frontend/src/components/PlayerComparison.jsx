@@ -20,7 +20,7 @@ function PlayerComparison() {
         if (player1 && player2) {
             generateComparison();
         }
-    }, [player1, player2]);
+    }, []);
 
     const getOrdinalSuffix = (num) => {
         const j = num % 10,
