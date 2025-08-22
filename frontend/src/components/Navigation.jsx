@@ -1,19 +1,15 @@
-import { Link, useLocation } from "react-router-dom";
-
-function Navigation() {
-    const location = useLocation();
-
-    const getLinkClass = (path) => {
+function Navigation({ currentPage, setCurrentPage }) {
+    const getLinkClass = (page) => {
         const baseClass = "me-3 text-decoration-none";
-        const isActive = location.pathname === path;
+        const isActive = currentPage === page;
         return isActive 
             ? `${baseClass} text-primary fw-bold`
             : `${baseClass} text-secondary`;
     };
 
-    const getLastLinkClass = (path) => {
+    const getLastLinkClass = (page) => {
         const baseClass = "text-decoration-none";
-        const isActive = location.pathname === path;
+        const isActive = currentPage === page;
         return isActive 
             ? `${baseClass} text-primary fw-bold`
             : `${baseClass} text-secondary`;
@@ -21,15 +17,27 @@ function Navigation() {
 
     return (
         <div className="text-center mb-3">
-            <Link to="/" className={getLinkClass("/")}>
+            <button 
+                className={getLinkClass("data")}
+                style={{ background: 'none', border: 'none', cursor: 'pointer' }}
+                onClick={() => setCurrentPage("data")}
+            >
                 data
-            </Link>
-            <Link to="/comparison" className={getLinkClass("/comparison")}>
+            </button>
+            <button 
+                className={getLinkClass("comparison")}
+                style={{ background: 'none', border: 'none', cursor: 'pointer' }}
+                onClick={() => setCurrentPage("comparison")}
+            >
                 player IQ comparison
-            </Link>
-            <Link to="/about" className={getLastLinkClass("/about")}>
+            </button>
+            <button 
+                className={getLastLinkClass("about")}
+                style={{ background: 'none', border: 'none', cursor: 'pointer' }}
+                onClick={() => setCurrentPage("about")}
+            >
                 about
-            </Link>
+            </button>
         </div>
     );
 }
