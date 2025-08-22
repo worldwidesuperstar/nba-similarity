@@ -210,12 +210,12 @@ I have always believed that basketball IQ is a trait that contributes to winning
 ## Tech
 
     Backend
-        - **python**
-        - **pandas**
-        - **numpy**
+        -   python
+        -   pandas
+        -   numpy
     Frontend
-        - **react**
-        - **vite**
-        - **bootstrap**
-        - **plotly**
-        - **react-markdown**
+        -   vite
+        -   react
+        -   bootstrap
+        -   plotly
+        -   react-markdown
