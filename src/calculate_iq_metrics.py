@@ -317,7 +317,7 @@ def calculate_all_metrics_for_player(player_id):
     return metrics
 
 def process_all_players():
-    """Process all 300 players and calculate their IQ metrics."""
+    """process iq metrics for all 300 players"""
 
     # list of all players
     top300 = pd.read_csv('data/top300_per.csv')

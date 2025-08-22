@@ -14,8 +14,8 @@ def calculate_weighted_iq_rankings():
     df = iq_metrics[base_columns].copy()
     
     for metric in metric_columns:
-        if metric in ['screen_assists_per_36', 'shooting_foul_pct']:
-            # screen assists and shooting fouls would differ a lot by position
+        if metric in ['screen_assists_per_36', 'shooting_foul_pct', 'efg_pct', 'late_clock_efficiency']:
+            # screen assists, shooting fouls, and efg% can differ due to position
             percentiles = []
             for idx, row in iq_metrics.iterrows():
                 value = row[metric]
@@ -25,7 +25,7 @@ def calculate_weighted_iq_rankings():
                 finite_position_values = same_position_values[np.isfinite(same_position_values)]
                 
                 if np.isfinite(value) and len(finite_position_values) > 1:
-                    if metric in ['shooting_foul_pct', 'personal_foul_rate']:
+                    if metric in ['shooting_foul_pct']:
                         percentile = (finite_position_values > value).mean() * 100
                     else:
                         percentile = (finite_position_values < value).mean() * 100
@@ -72,7 +72,7 @@ def calculate_weighted_iq_rankings():
         # smart and efficient shot-taking
         'efg_pct_percentile': 0.15,
 
-        # experience in the league
+        # league experience
         'age_percentile': 0.01
     }
     

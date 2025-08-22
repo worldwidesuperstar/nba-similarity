@@ -5,7 +5,6 @@ import playersWithRawData from "../data/players_with_raw_data.json";
 function PlayerComparison() {
     const [player1, setPlayer1] = useState("LeBron James");
     const [player2, setPlayer2] = useState("Nikola Joki\u0107");
-    const [loading, setLoading] = useState(false);
     const [error, setError] = useState("");
     const plotRef = useRef(null);
 
@@ -37,17 +36,31 @@ function PlayerComparison() {
         return num + "th";
     };
 
+    const wrapPlayerName = (name) => {
+        // If name is longer than 15 characters, try to break it at a space
+        if (name.length > 15) {
+            const words = name.split(" ");
+            if (words.length > 1) {
+                const midpoint = Math.ceil(words.length / 2);
+                const firstLine = words.slice(0, midpoint).join(" ");
+                const secondLine = words.slice(midpoint).join(" ");
+                return `${firstLine}<br>${secondLine}`;
+            }
+        }
+        return name;
+    };
+
     const createBarChart = (player1Data, player2Data) => {
         const metrics = [
             { key: "ast_tov_ratio", name: "AST/TOV Ratio" },
             { key: "clutch_ast_tov", name: "Clutch AST/TOV" },
             { key: "ast_pct", name: "Assist %" },
-            { key: "screen_assists_per_36", name: "Screen Assists" },
+            { key: "screen_assists_per_36", name: "Screen Assists per 36" },
             { key: "efg_pct", name: "Effective FG%" },
             { key: "late_clock_efficiency", name: "Late Clock Efficiency" },
-            { key: "deflections_per_36", name: "Deflections" },
+            { key: "deflections_per_36", name: "Deflections per 36" },
             { key: "shooting_foul_pct", name: "Shooting Foul Rate" },
-            { key: "personal_foul_rate", name: "Personal Fouls" },
+            { key: "personal_foul_rate", name: "Personal Fouls per 36" },
             { key: "age", name: "Age" },
         ];
 
@@ -76,10 +89,10 @@ function PlayerComparison() {
 
                 const p1Text = `${p1Metric.raw_value}${
                     p1Metric.display_unit
-                } (${getOrdinalSuffix(Math.round(p1Metric.percentile))})`;
+                } (${getOrdinalSuffix(Math.round(p1Metric.percentile))} %)`;
                 const p2Text = `${p2Metric.raw_value}${
                     p2Metric.display_unit
-                } (${getOrdinalSuffix(Math.round(p2Metric.percentile))})`;
+                } (${getOrdinalSuffix(Math.round(p2Metric.percentile))} %)`;
 
                 player1TextLabels.push(p1Text);
                 player2TextLabels.push(p2Text);
@@ -89,6 +102,21 @@ function PlayerComparison() {
         // left side negative
         const player1NegativeValues = player1Percentiles.map((val) => -val);
 
+        // Calculate dynamic text positioning and colors
+        const player1TextPositions = player1Percentiles.map((val) =>
+            val < 30 ? "outside" : "inside"
+        );
+        const player2TextPositions = player2Percentiles.map((val) =>
+            val < 30 ? "outside" : "inside"
+        );
+
+        const player1TextColors = player1Percentiles.map((val) =>
+            val < 30 ? "black" : "white"
+        );
+        const player2TextColors = player2Percentiles.map((val) =>
+            val < 30 ? "black" : "white"
+        );
+
         const data = [
             {
                 type: "bar",
@@ -97,9 +125,9 @@ function PlayerComparison() {
                 name: player1Data.name,
                 marker: { color: player1Colors },
                 text: player1TextLabels,
-                textposition: "middle center",
+                textposition: player1TextPositions,
                 textfont: {
-                    color: "white",
+                    color: player1TextColors,
                     size: 12,
                 },
                 cliponaxis: false,
@@ -113,9 +141,9 @@ function PlayerComparison() {
                 name: player2Data.name,
                 marker: { color: player2Colors },
                 text: player2TextLabels,
-                textposition: "inside",
+                textposition: player2TextPositions,
                 textfont: {
-                    color: "white",
+                    color: player2TextColors,
                     size: 12,
                 },
                 cliponaxis: false,
@@ -125,39 +153,43 @@ function PlayerComparison() {
         ];
 
         const layout = {
-            title: `Basketball IQ Comparison<br>${player1Data.name} vs ${player2Data.name}`,
+            title: `nba-iq<br>${player1Data.name} vs ${player2Data.name}`,
             font: { family: "JetBrains Mono, monospace" },
             annotations: [
                 {
-                    x: -50,
-                    y: 1.11,
+                    x: -10,
+                    y: 1.04,
                     xref: "x",
                     yref: "paper",
-                    text: player1Data.name,
+                    text: wrapPlayerName(player1Data.name),
                     showarrow: false,
                     font: {
                         size: 20,
                         color: "#333",
                         family: "JetBrains Mono, monospace",
                     },
-                    xanchor: "center",
+                    xanchor: "right",
+                    yanchor: "bottom",
+                    align: "right",
                 },
                 {
-                    x: 50,
-                    y: 1.11,
+                    x: 10,
+                    y: 1.04,
                     xref: "x",
                     yref: "paper",
-                    text: player2Data.name,
+                    text: wrapPlayerName(player2Data.name),
                     showarrow: false,
                     font: {
                         size: 20,
                         color: "#333",
                         family: "JetBrains Mono, monospace",
                     },
-                    xanchor: "center",
+                    xanchor: "left",
+                    yanchor: "bottom",
+                    align: "left",
                 },
                 {
-                    x: -50,
+                    x: -10,
                     y: 1.05,
                     xref: "x",
                     yref: "paper",
@@ -168,10 +200,10 @@ function PlayerComparison() {
                         color: "#6c757d",
                         family: "JetBrains Mono, monospace",
                     },
-                    xanchor: "center",
+                    xanchor: "right",
                 },
                 {
-                    x: 50,
+                    x: 10,
                     y: 1.05,
                     xref: "x",
                     yref: "paper",
@@ -182,7 +214,7 @@ function PlayerComparison() {
                         color: "#6c757d",
                         family: "JetBrains Mono, monospace",
                     },
-                    xanchor: "center",
+                    xanchor: "left",
                 },
                 {
                     x: 0,
@@ -226,12 +258,23 @@ function PlayerComparison() {
             },
             barmode: "overlay",
             showlegend: false,
-            margin: { t: 80, b: 80, l: 0, r: 100 },
+            margin: { t: 80, b: 60, l: 30, r: 30 },
         };
 
         const config = { displayModeBar: false, responsive: true };
 
         Plotly.newPlot(plotRef.current, data, layout, config);
+    };
+
+    const downloadChart = () => {
+        if (plotRef.current) {
+            Plotly.downloadImage(plotRef.current, {
+                format: "png",
+                width: 1200,
+                height: 800,
+                filename: `nba-iq ${player1} vs ${player2}`,
+            });
+        }
     };
 
     const generateComparison = () => {
@@ -240,7 +283,6 @@ function PlayerComparison() {
             return;
         }
 
-        setLoading(true);
         setError("");
 
         try {
@@ -258,15 +300,13 @@ function PlayerComparison() {
             createBarChart(player1Data, player2Data);
         } catch (err) {
             setError(err.message);
-        } finally {
-            setLoading(false);
         }
     };
 
     return (
         <div
             className="d-flex align-items-start flex-wrap"
-            style={{ minHeight: "700px" }}
+            style={{ minHeight: "700px", gap: "5vw" }}
         >
             {/* control sidebar */}
             <div
@@ -277,7 +317,7 @@ function PlayerComparison() {
                 }}
             >
                 <div className="mb-4">
-                    <label className="form-label fw-semibold">Player 1:</label>
+                    <label className="form-label fw-semibold">player 1:</label>
                     <select
                         className="form-select"
                         value={player1}
@@ -293,7 +333,7 @@ function PlayerComparison() {
                 </div>
 
                 <div className="mb-4">
-                    <label className="form-label fw-semibold">Player 2:</label>
+                    <label className="form-label fw-semibold">player 2:</label>
                     <select
                         className="form-select"
                         value={player2}
@@ -310,11 +350,18 @@ function PlayerComparison() {
 
                 <div className="mb-4">
                     <button
-                        className="btn btn-primary btn-lg w-100"
+                        className="btn btn-primary btn-lg w-100 mb-2"
                         onClick={generateComparison}
-                        disabled={loading || !player1 || !player2}
+                        disabled={!player1 || !player2}
                     >
-                        {loading ? "Generating..." : "Generate Chart"}
+                        generate chart
+                    </button>
+                    <button
+                        className="btn btn-outline-secondary w-100"
+                        onClick={downloadChart}
+                        disabled={!plotRef.current || !player1 || !player2}
+                    >
+                        export as PNG
                     </button>
                 </div>
 
@@ -326,7 +373,16 @@ function PlayerComparison() {
             </div>
 
             {/* graph */}
-            <div className="flex-grow-1">
+            <div
+                className="flex-grow-1"
+                style={{
+                    outline: "2px solid #eeeeee",
+                    padding: "8px",
+                    marginTop: "8px",
+                    marginBottom: 0,
+                    borderRadius: "8px",
+                }}
+            >
                 <div
                     ref={plotRef}
                     style={{
