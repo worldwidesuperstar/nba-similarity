@@ -10,7 +10,7 @@ function Header() {
                 href="https://github.com/worldwidesuperstar/nba-iq"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="position-absolute top-0 start-0 mt-0 ms-3 text-dark"
+                className="position-absolute top-0 start-0 mt-0 ms-3 text-muted"
                 style={{ fontSize: "3rem" }}
             >
                 <FaGithub />

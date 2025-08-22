@@ -19,7 +19,7 @@ function PlayerComparison() {
         if (player1 && player2) {
             generateComparison();
         }
-    }, []);
+    }, [player1, player2]);
 
     const getOrdinalSuffix = (num) => {
         const j = num % 10,
@@ -358,7 +358,7 @@ function PlayerComparison() {
                         <button
                             className="btn btn-outline-secondary w-100"
                             onClick={downloadChart}
-                            disabled={!plotRef.current || !player1 || !player2}
+                            disabled={!player1 || !player2}
                         >
                             export as PNG
                         </button>
@@ -387,7 +387,7 @@ function PlayerComparison() {
                     ref={plotRef}
                     style={{
                         width: "100%",
-                        height: "70vh",
+                        height: "65vh",
                     }}
                 ></div>
             </div>
