@@ -93,7 +93,7 @@ In my opinion, I feel like a player's assist to turnover ratio is a very good in
         -   Tyus Jones
         -   Jeff Dowtin Jr.
 
-I always thought of Tyrese Haliburton as a very good facilitator but was pleasantly surprised to see that he had the best assist-turnover ratio in the entire league. Also-- Tyus Jones (fourth here) scored extremely high in a lot of the chosen metrics and ended up with the 6th highest composite IQ in the entire league, and he plays surprisingly smart for a player that gets so much negative press these days.
+I always thought of Tyrese Haliburton as a very good facilitator but was pleasantly surprised to see that he had the best assist-turnover ratio in the entire league. Also-- Tyus Jones (fourth here) scored extremely high in a lot of the chosen metrics and ended up with the 5th highest composite IQ in the entire league, and he plays surprisingly smart for a player that gets so much negative press these days.
 
 2. EFG% (Position-based)
 
