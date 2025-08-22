@@ -86,7 +86,7 @@ High Weight Categories (15%):
 
 In my opinion, I feel like a player's assist to turnover ratio is a very good indicator of their ability to make good, smart decisions on offense. Creating looks for teammates clearly shows smart decision making and court awareness, and mitigating turnovers requires good risk management and composure.
 
-    Top 5
+    Top 5:
         -   Tyrese Haliburton
         -   Tre Jones
         -   Miles McBride
@@ -151,7 +151,7 @@ I'd like to shout out Matisse Thybulle, who would have been in the top 5 had he 
 
 I think screen assists are a very overlooked statistic that I believe indicates a strong level of basketball IQ. Consistently getting screen assists requires a good ability to run plays and a good overall awareness of the floor. I wanted to include at least one statistic related to off-ball movement as I think off-ball play in general is where smarter players really get rewarded.
 
-    Top 5
+    Top 5:
         -   Josh Hart
         -   Fred VanVleet
         -   Domantas Sabonis
