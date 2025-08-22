@@ -206,3 +206,16 @@ When finalizing the data collection and eventually getting the composite IQ rank
 One thing I appreciate about this self-study is that it showed me many examples of players who exhibit high levels of basketball IQ but do not get very many minutes. Tyus Jones, whose usage is a decently low 16%, has the 5th highest composite IQ score in the entire league. While I am aware that a metric like this cannot possibly tell the full story about a player and their impact, I do wonder if players that exhibit high bbIQ behavior should be given more usage, since the metrics I used are indicative of efficient and smart decisions while on the floor.
 
 I have always believed that basketball IQ is a trait that contributes to winning, but the term's lack of a clear and statistical definition made me curious as to what factors are actually indicative of it. I found this project very fulfilling as it gave me a lot of appreciation for the "little things" in basketball, and because I am a big fan of smart, "ethical" NBA play. I also found this project insightful as a way to teach myself how to use Python and Python libraries within a data analysis context. I find data analysis, especially in the context of the NBA, extremely fascinating, and I think there is a lot of valuable information yet to be learned that hides within the many random statistics the league has to offer. Numbers don't lie, as they say. To those who took the time to read until here, thank you, and I hope this project was interesting!
+
+## Tech
+
+    Backend
+        - **python**
+        - **pandas**
+        - **numpy**
+    Frontend
+        - **react**
+        - **vite**
+        - **bootstrap**
+        - **plotly**
+        - **react-markdown**
