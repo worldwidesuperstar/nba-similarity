@@ -1,4 +1,4 @@
-# nba-iq
+## [nba-iq](https://github.com/worldwidesuperstar/nba-iq)
 
 aim: quantify the always-vague "basketball IQ" term using NBA statistical data.
 
@@ -164,7 +164,7 @@ Josh Hart being at the top of this list is no surprise. As a Knicks fan, I've al
 
 Being efficient in the late clock shows a player's ability to improvise and take efficient shots under the pressure of time. I think composure is a big part of basketball IQ and being able to make quick and smart decisions is an important ability to have. I calculated this statistic as a player's EFG% on shots taken with 8 seconds or less on the shot clock. Like raw EFG%, this metric's percentiles were calculated relative to position.
 
-    Top 5:
+    Top 5
         -   Brandon Williams
         -   Kevin Durant
         -   Dereck Lively II
@@ -201,8 +201,21 @@ To anyone reading this, feel free to try using your own weights by editing the c
 
 ## Overall Opinion on Findings
 
-When finalizing the data collection and eventually getting the composite IQ rankings according to my formula, I was actually very satisfied with the result I got. Many of the players that made the top 25 in IQ are players that I (and also the general NBA fanbase) consider very smart. I was surprised to see Haliburton all the way at number 1, even though I knew his style of play was extremely geared towards creation and careful passing. Some players who I consider very smart on the defensive end, like Kawhi Leonard, didn't get as high a placing as I predicted. Kawhi was brought down quite a bit by his moderately high turnover rate on the other end, something I overlooked as a flaw in his game. It was generally fun looking at the top rankers for each metric too. For example, seeing that Kevin Durant was one of the most efficient players with less than 8 seconds on the shot clock made so, so much sense to me.
+When finalizing the data collection and eventually getting the composite IQ rankings according to my formula, I was actually very satisfied with the result I got. Many of the players that made the top 25 in IQ are players that I (and also the general NBA fanbase) consider very smart. I was surprised to see Haliburton all the way at number 1, even though I knew his style of play was extremely geared towards creation and careful passing. Some players who I consider very smart on the defensive end, like Kawhi Leonard, didn't get as high a placing as I predicted. Kawhi was brought down quite a bit by his moderately high turnover rate on the other end, something I overlooked as a flaw in his game. It was generally fun looking at the top rankers for each metric too. For example, seeing that Kevin Durant was one of the most efficient players with less than 8 seconds on the shot clock made so much sense to me.
 
 One thing I appreciate about this self-study is that it showed me many examples of players who exhibit high levels of basketball IQ but do not get very many minutes. Tyus Jones, whose usage is a decently low 16%, has the 5th highest composite IQ score in the entire league. While I am aware that a metric like this cannot possibly tell the full story about a player and their impact, I do wonder if players that exhibit high bbIQ behavior should be given more usage, since the metrics I used are indicative of efficient and smart decisions while on the floor.
 
-I have always believed that basketball IQ is a trait that contributes to winning, but the term's lack of a clear and statistical definition made me curious as to what factors are actually indicative of it. I found this project very fulfilling as it gave me a lot of appreciation for the "little things" in basketball, and because I am a big fan of smart, "ethical" NBA play. I also found this project insightful as a way to teach myself how to use Python and Python libraries within a data analysis context. I find data analysis, especially in the context of the NBA, extremely fascinating, and I think there is a lot of valuable information yet to be learned that hides within the many random statistics the league has to offer. Numbers don't lie, as they say! To anyone reading this, I hope this project was interesting!
+I have always believed that basketball IQ is a trait that contributes to winning, but the term's lack of a clear and statistical definition made me curious as to what factors are actually indicative of it. I found this project very fulfilling as it gave me a lot of appreciation for the "little things" in basketball, and because I am a big fan of smart, "ethical" NBA play. I also found this project insightful as a way to teach myself how to use Python and Python libraries within a data analysis context. I find data analysis, especially in the context of the NBA, extremely fascinating, and I think there is a lot of valuable information yet to be learned that hides within the many random statistics the league has to offer. Numbers don't lie, as they say. To those who took the time to read until here, thank you, and I hope this project was interesting!
+
+## Tech
+
+    Backend
+        -   python
+        -   pandas
+        -   numpy
+    Frontend
+        -   vite
+        -   react
+        -   bootstrap
+        -   plotly
+        -   react-markdown
