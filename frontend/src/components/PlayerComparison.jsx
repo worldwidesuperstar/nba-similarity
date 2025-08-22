@@ -102,7 +102,7 @@ function PlayerComparison() {
         // left side negative
         const player1NegativeValues = player1Percentiles.map((val) => -val);
 
-        // Calculate dynamic text positioning and colors
+        // position outside if bar is too small
         const player1TextPositions = player1Percentiles.map((val) =>
             val < 30 ? "outside" : "inside"
         );
@@ -305,82 +305,82 @@ function PlayerComparison() {
 
     return (
         <div
-            className="d-flex align-items-start flex-wrap"
+            className="d-flex align-items-start flex-wrap justify-content-lg-start justify-content-center"
             style={{ minHeight: "700px", gap: "5vw" }}
         >
             {/* control sidebar */}
-            <div
-                className="align-self-center"
-                style={{
-                    width: "300px",
-                    paddingRight: "2rem",
-                }}
-            >
-                <div className="mb-4">
-                    <label className="form-label fw-semibold">player 1:</label>
-                    <select
-                        className="form-select"
-                        value={player1}
-                        onChange={(e) => setPlayer1(e.target.value)}
-                    >
-                        <option value="">Select a player...</option>
-                        {playerOptions.map((option) => (
-                            <option key={option.value} value={option.value}>
-                                {option.label}
-                            </option>
-                        ))}
-                    </select>
-                </div>
-
-                <div className="mb-4">
-                    <label className="form-label fw-semibold">player 2:</label>
-                    <select
-                        className="form-select"
-                        value={player2}
-                        onChange={(e) => setPlayer2(e.target.value)}
-                    >
-                        <option value="">Select a player...</option>
-                        {playerOptions.map((option) => (
-                            <option key={option.value} value={option.value}>
-                                {option.label}
-                            </option>
-                        ))}
-                    </select>
-                </div>
-
-                <div className="mb-4">
-                    <button
-                        className="btn btn-primary btn-lg w-100 mb-2"
-                        onClick={generateComparison}
-                        disabled={!player1 || !player2}
-                    >
-                        generate chart
-                    </button>
-                    <button
-                        className="btn btn-outline-secondary w-100"
-                        onClick={downloadChart}
-                        disabled={!plotRef.current || !player1 || !player2}
-                    >
-                        export as PNG
-                    </button>
-                </div>
-
-                {error && (
-                    <div className="alert alert-danger" role="alert">
-                        {error}
+            <div className="card m-0 align-self-center">
+                <div className="card-body">
+                    <div className="mb-3">
+                        <label className="form-label fw-semibold">
+                            player 1:
+                        </label>
+                        <select
+                            className="form-control"
+                            value={player1}
+                            onChange={(e) => setPlayer1(e.target.value)}
+                        >
+                            <option value="">Select a player...</option>
+                            {playerOptions.map((option) => (
+                                <option key={option.value} value={option.value}>
+                                    {option.label}
+                                </option>
+                            ))}
+                        </select>
                     </div>
-                )}
+
+                    <div className="mb-3">
+                        <label className="form-label fw-semibold">
+                            player 2:
+                        </label>
+                        <select
+                            className="form-control"
+                            value={player2}
+                            onChange={(e) => setPlayer2(e.target.value)}
+                        >
+                            <option value="">Select a player...</option>
+                            {playerOptions.map((option) => (
+                                <option key={option.value} value={option.value}>
+                                    {option.label}
+                                </option>
+                            ))}
+                        </select>
+                    </div>
+
+                    <div className="mb-3">
+                        <button
+                            className="btn btn-primary btn-lg w-100 mb-2"
+                            onClick={generateComparison}
+                            disabled={!player1 || !player2}
+                        >
+                            generate chart
+                        </button>
+                        <button
+                            className="btn btn-outline-secondary w-100"
+                            onClick={downloadChart}
+                            disabled={!plotRef.current || !player1 || !player2}
+                        >
+                            export as PNG
+                        </button>
+                    </div>
+
+                    {error && (
+                        <div className="alert alert-danger" role="alert">
+                            {error}
+                        </div>
+                    )}
+                </div>
             </div>
 
             {/* graph */}
             <div
-                className="flex-grow-1"
+                className="card flex-grow-1"
                 style={{
-                    outline: "2px solid #eeeeee",
                     padding: "8px",
                     marginTop: "8px",
-                    marginBottom: 0,
+                    marginBottom: "0px",
                     borderRadius: "8px",
+                    maxWidth: "95vw",
                 }}
             >
                 <div
