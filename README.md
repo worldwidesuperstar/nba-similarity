@@ -1,4 +1,4 @@
-# nba-iq
+## [nba-iq](https://github.com/worldwidesuperstar/nba-iq)
 
 aim: quantify the always-vague "basketball IQ" term using NBA statistical data.
 
@@ -86,7 +86,7 @@ High Weight Categories (15%):
 
 In my opinion, I feel like a player's assist to turnover ratio is a very good indicator of their ability to make good, smart decisions on offense. Creating looks for teammates clearly shows smart decision making and court awareness, and mitigating turnovers requires good risk management and composure.
 
-    Top 5
+    Top 5:
         -   Tyrese Haliburton
         -   Tre Jones
         -   Miles McBride
@@ -151,7 +151,7 @@ I'd like to shout out Matisse Thybulle, who would have been in the top 5 had he 
 
 I think screen assists are a very overlooked statistic that I believe indicates a strong level of basketball IQ. Consistently getting screen assists requires a good ability to run plays and a good overall awareness of the floor. I wanted to include at least one statistic related to off-ball movement as I think off-ball play in general is where smarter players really get rewarded.
 
-    Top 5
+    Top 5:
         -   Josh Hart
         -   Fred VanVleet
         -   Domantas Sabonis
@@ -201,8 +201,21 @@ To anyone reading this, feel free to try using your own weights by editing the c
 
 ## Overall Opinion on Findings
 
-When finalizing the data collection and eventually getting the composite IQ rankings according to my formula, I was actually very satisfied with the result I got. Many of the players that made the top 25 in IQ are players that I (and also the general NBA fanbase) consider very smart. I was surprised to see Haliburton all the way at number 1, even though I knew his style of play was extremely geared towards creation and careful passing. Some players who I consider very smart on the defensive end, like Kawhi Leonard, didn't get as high a placing as I predicted. Kawhi was brought down quite a bit by his moderately high turnover rate on the other end, something I overlooked as a flaw in his game. It was generally fun looking at the top rankers for each metric too. For example, seeing that Kevin Durant was one of the most efficient players with less than 8 seconds on the shot clock made so, so much sense to me.
+When finalizing the data collection and eventually getting the composite IQ rankings according to my formula, I was actually very satisfied with the result I got. Many of the players that made the top 25 in IQ are players that I (and also the general NBA fanbase) consider very smart. I was surprised to see Haliburton all the way at number 1, even though I knew his style of play was extremely geared towards creation and careful passing. Some players who I consider very smart on the defensive end, like Kawhi Leonard, didn't get as high a placing as I predicted. Kawhi was brought down quite a bit by his moderately high turnover rate on the other end, something I overlooked as a flaw in his game. It was generally fun looking at the top rankers for each metric too. For example, seeing that Kevin Durant was one of the most efficient players with less than 8 seconds on the shot clock made so much sense to me.
 
 One thing I appreciate about this self-study is that it showed me many examples of players who exhibit high levels of basketball IQ but do not get very many minutes. Tyus Jones, whose usage is a decently low 16%, has the 5th highest composite IQ score in the entire league. While I am aware that a metric like this cannot possibly tell the full story about a player and their impact, I do wonder if players that exhibit high bbIQ behavior should be given more usage, since the metrics I used are indicative of efficient and smart decisions while on the floor.
 
-I have always believed that basketball IQ is a trait that contributes to winning, but the term's lack of a clear and statistical definition made me curious as to what factors are actually indicative of it. I found this project very fulfilling as it gave me a lot of appreciation for the "little things" in basketball, and because I am a big fan of smart, "ethical" NBA play. I also found this project insightful as a way to teach myself how to use Python and Python libraries within a data analysis context. I find data analysis, especially in the context of the NBA, extremely fascinating, and I think there is a lot of valuable information yet to be learned that hides within the many random statistics the league has to offer. Numbers don't lie, as they say! To anyone reading this, I hope this project was interesting!
+I have always believed that basketball IQ is a trait that contributes to winning, but the term's lack of a clear and statistical definition made me curious as to what factors are actually indicative of it. I found this project very fulfilling as it gave me a lot of appreciation for the "little things" in basketball, and because I am a big fan of smart, "ethical" NBA play. I also found this project insightful as a way to teach myself how to use Python and Python libraries within a data analysis context. I find data analysis, especially in the context of the NBA, extremely fascinating, and I think there is a lot of valuable information yet to be learned that hides within the many random statistics the league has to offer. Numbers don't lie, as they say. To those who took the time to read until here, thank you, and I hope this project was interesting!
+
+## Tech
+
+    Backend
+        -   python
+        -   pandas
+        -   numpy
+    Frontend
+        -   vite
+        -   react
+        -   bootstrap
+        -   plotly
+        -   react-markdown
