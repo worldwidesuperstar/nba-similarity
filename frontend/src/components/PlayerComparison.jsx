@@ -7,6 +7,7 @@ function PlayerComparison() {
     const [player2, setPlayer2] = useState("Nikola Joki\u0107");
     const [error, setError] = useState("");
     const plotRef = useRef(null);
+    const originalPlotData = useRef(null);
 
     const playerOptions = playersWithRawData
         .sort((a, b) => a.name.localeCompare(b.name))
@@ -263,16 +264,26 @@ function PlayerComparison() {
 
         const config = { displayModeBar: false, responsive: true };
 
+        originalPlotData.current = { data, layout, config };
         Plotly.newPlot(plotRef.current, data, layout, config);
     };
 
     const downloadChart = () => {
-        if (plotRef.current) {
-            Plotly.downloadImage(plotRef.current, {
+        if (originalPlotData.current) {
+            const { data, layout } = originalPlotData.current;
+            Plotly.toImage({
+                data: data,
+                layout: layout,
+                config: { displayModeBar: false }
+            }, {
                 format: "png",
                 width: 1200,
                 height: 800,
-                filename: `nba-iq ${player1} vs ${player2}`,
+            }).then((dataURL) => {
+                const link = document.createElement('a');
+                link.download = `nba-iq ${player1} vs ${player2}.png`;
+                link.href = dataURL;
+                link.click();
             });
         }
     };
